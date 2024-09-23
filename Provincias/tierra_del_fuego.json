@@ -1,0 +1,126 @@
+{
+    "provincia": "Tierra del Fuego",
+    "departamentos": [
+        {
+            "departamento": "Antártida Argentina",
+            "coordenadas": "75°00′S 49°30′O",
+            "localidades": [
+                {
+                    "localidad": "Orcadas",
+                    "coordenada": "60°44′20″S 44°44′17″O1​"
+                },
+                {
+                    "localidad": "Marambio",
+                    "coordenada": "64°14′S 56°38′O"
+                },
+                {
+                    "localidad": "Esperanza",
+                    "coordenada": "63°23′54″S 56°59′46″O"
+                },
+                {
+                    "localidad": "Carlini",
+                    "coordenada": "62°14′18″S 58°40′00″O"
+                },
+                {
+                    "localidad": "San Martín",
+                    "coordenada": "68°07′48″S 67°06′08″O"
+                },
+                {
+                    "localidad": "Belgrano II",
+                    "coordenada": "77°52′28″S 34°37′37″O"
+                },
+                {
+                    "localidad": "Brown",
+                    "coordenada": "64°53′43″S 62°52′15″O"
+                },
+                {
+                    "localidad": "Decepción",
+                    "coordenada": "62°58′33.42″S 60°41′55.05″O"
+                },
+                {
+                    "localidad": "Matienzo",
+                    "coordenada": "64°58′S 60°08′O"
+                },
+                {
+                    "localidad": "Primavera",
+                    "coordenada": "64°09′00″S 60°57′50″O"
+                },
+                {
+                    "localidad": "Cámara",
+                    "coordenada": "62°36′S 59°54′O"
+                },
+                {
+                    "localidad": "Melchior",
+                    "coordenada": "64°19′S 62°58′O"
+                },
+                {
+                    "localidad": "Petrel",
+                    "coordenada": "63°28′S 56°17′O "
+                }
+            ]
+        },
+        {
+            "departamento": "Islas del Atlántico Sur",
+            "coordenadas": "54°29′50″S 36°34′59″O",
+            "localidades": []
+        },
+        {
+            "departamento": "Río Grande",
+            "coordenadas": "53°47′11″S 67°41′48″O",
+            "localidades": [
+                {
+                    "localidad": "Río Grande",
+                    "coordenada": "53°47′00″S 67°42′00″O"
+                },
+                {
+                    "localidad": "San Sebastián",
+                    "coordenada": "53°17′59″S 68°27′27″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Tolhuin",
+            "coordenadas": "54°24′40″S 67°29′55″O",
+            "localidades": [
+                {
+                    "localidad": "Tolhuin",
+                    "coordenada": "54°32′00″S 67°12′00″O"
+                },
+                {
+                    "localidad": "Sarmiento",
+                    "coordenada": "54°21′00″S 68°11′00″O"
+                },
+                {
+                    "localidad": "Lago Escondido",
+                    "coordenada": "54°38′16″S 67°46′01″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Ushuaia",
+            "coordenadas": "54°48′58″S 68°19′25″O",
+            "localidades": [
+                {
+                    "localidad": "Ushuaia",
+                    "coordenada": "54°48′26″S 68°18′16″O"
+                },
+                {
+                    "localidad": "Puerto Almanza",
+                    "coordenada": "54°52′12″S 67°33′50″O"
+                },
+                {
+                    "localidad": "Punta Parana",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Puerto Parry",
+                    "coordenada": "54°48′42″S 64°22′18″O"
+                },
+                {
+                    "localidad": "Puerto Cook",
+                    "coordenada": "54°46′01″S 64°03′00″O"
+                }
+            ]
+        }
+    ]
+}
