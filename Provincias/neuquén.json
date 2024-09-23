@@ -1,0 +1,329 @@
+{
+    "provincia": "Neuquén",
+    "departamentos":[
+        {
+            "departamento": "Aluminé",
+            "coordenadas": "39°14′18″S 70°54′56″O",
+            "localidades": [
+                {
+                    "localidad": "Aluminé",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Moquehue",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Villa Pehuenia",
+                    "coordenada": ""
+                }
+            ]    
+        },
+        {
+            "departamento": "Añelo",
+            "coordenadas": "38°21′15″S 68°47′16″O",
+            "localidades": [
+                {
+                    "localidad": "San Patricio del Chañar",
+                    "coordenada": "38°37′33″S 68°18′00″O"
+                },
+                {
+                    "localidad": "Añelo",
+                    "coordenada": "38°21′00″S 68°47′00″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Catán Lil",
+            "coordenadas": "39°33′24″S 70°35′38″O",
+            "localidades": [
+                {
+                    "localidad": "Las Coloradas",
+                    "coordenada": "39°33′00″S 70°35′00″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Chos Malal",
+            "coordenadas": "37°22′42″S 70°16′20″O",
+            "localidades": [
+                {
+                    "localidad": "Chos Malal",
+                    "coordenada": "37°23′00″S 70°16′00″O"
+                },
+                {
+                    "localidad": "Tricao Malal",
+                    "coordenada": "37°03′00″S 70°19′00″O"
+                },
+                {
+                    "localidad": "Coyuco-Cochico",
+                    "coordenada": "36°29′13″S 70°14′11″O"
+                },
+                {
+                    "localidad": "Villa Curí Leuvú",
+                    "coordenada": "37°07′48″S 70°23′53″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Collón Curá",
+            "coordenadas": "40°02′54″S 70°04′30″O",
+            "localidades": [
+                {
+                    "localidad": "Piedra del Águila",
+                    "coordenada": "40°03′00″S 70°04′40″O"
+                },
+                {
+                    "localidad": "Santo Tomás",
+                    "coordenada": "39°49′20″S 70°05′57″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Confluencia",
+            "coordenadas": "38°57′05″S 68°03′33″O",
+            "localidades": [
+                {
+                    "localidad": "Neuquén",
+                    "coordenada": "38°57′07″S 68°03′33″O"
+                },
+                {
+                    "localidad": "Centenario",
+                    "coordenada": "38°49′00″S 68°08′00″O"
+                },
+                {
+                    "localidad": "Plottier",
+                    "coordenada": "38°57′00″S 68°14′00″O"
+                },
+                {
+                    "localidad": "Vista Alegre",
+                    "coordenada": "38°45′00″S 68°11′00″O"
+                },
+                {
+                    "localidad": "Senillosa",
+                    "coordenada": "39°01′S 68°26′O"
+                },
+                {
+                    "localidad": "Sauzal Bonito",
+                    "coordenada": "38°36′00″S 69°06′14″O"
+                },
+                {
+                    "localidad": "Cutral-Co",
+                    "coordenada": "38°56′00″S 69°14′00″O"
+                },
+                {
+                    "localidad": "Plaza Huincul",
+                    "coordenada": "38°56′02″S 69°11′55″O"
+                },
+                {
+                    "localidad": "Villa El Chocón",
+                    "coordenada": "39°16′S 68°47′O"
+                },
+                {
+                    "localidad": "Arroyito",
+                    "coordenada": "39°06′07″S 68°35′56″O"
+                },
+                {
+                    "localidad": "Mari Menuco",
+                    "coordenada": "38°32′S 68°33′O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Huiliches",
+            "coordenadas": "39°57′03″S 71°04′15″O",
+            "localidades": [
+                {
+                    "localidad": "Junín de los Andes",
+                    "coordenada": "39°57′02″S 71°04′10″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Lácar",
+            "coordenadas": "40°09′24″S 71°21′09″O",
+            "localidades": [
+                {
+                    "localidad": "San Martín de los Andes",
+                    "coordenada": "40°10′00″S 71°21′00″O"
+                },
+                {
+                    "localidad": "Villa Meliquina",
+                    "coordenada": "40°22′31″S 71°15′30″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Loncopué",
+            "coordenadas": "38°04′00″S 70°36′53″O",
+            "localidades": [
+                {
+                    "localidad": "Loncopué",
+                    "coordenada": "38°04′00″S 70°37′00″O"
+                },
+                {
+                    "localidad": "Chorriaca",
+                    "coordenada": "37°54′00″S 70°08′00″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Los Lagos",
+            "coordenadas": "40°45′43″S 71°38′35″O",
+            "localidades": [
+                {
+                    "localidad": "Villa La Angostura",
+                    "coordenada": "40°45′42″S 71°38′41″O"
+                },
+                {
+                    "localidad": "Villa Traful",
+                    "coordenada": "40°38′05″S 71°25′36″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Minas",
+            "coordenadas": "37°10′47″S 70°40′11″O",
+            "localidades": [
+                {
+                    "localidad": "Andacollo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Huinganco",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Las Ovejas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Miches",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Manzano Amargo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Varvarco",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Villa Nahueve",
+                    "coordenada": ""
+                }
+            ]    
+        },
+        {
+            "departamento": "Ñorquín",
+            "coordenadas": "37°38′41″S 70°34′54″O",
+            "localidades": [
+                {
+                    "localidad": "Caviahue",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Copahue",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Cholar",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Huecú",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Taquimilán",
+                    "coordenada": ""
+                }
+            ]    
+        },
+        {
+            "departamento": "Pehuenches",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "Rincón de los Sauces",
+                    "coordenada": "37°23′25″S 68°55′31″O"
+                },
+                {
+                    "localidad": "Buta Ranquil",
+                    "coordenada": "37°03′05″S 69°52′40″O"
+                },
+                {
+                    "localidad": "Barrancas",
+                    "coordenada": "36°49′15″S 69°54′52″O"
+                },
+                {
+                    "localidad": "Octavio Pico",
+                    "coordenada": "37°35′22″S 68°15′29″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Picún Leufú",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "Picún Leufú",
+                    "coordenada": "39°31′25″S 69°16′47″O"
+                },
+                {
+                    "localidad": "Paso Aguerre",
+                    "coordenada": "39°20′17″S 69°50′35″O"
+                },
+                {
+                    "localidad": "El Sauce",
+                    "coordenada": "39°27′47″S 69°31′51″O"
+                }
+            ]    
+        },
+        {
+            "departamento": "Picunches",
+            "coordenadas": "38°31′24″S 70°21′42″O",
+            "localidades": [
+                {
+                    "localidad": "Bajada del Agrio",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "La Buitrera",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Las Lajas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Quili Malal",
+                    "coordenada": ""
+                }
+            ]    
+        },
+        {
+            "departamento": "Zapala",
+            "coordenadas": "38°54′10″S 70°03′53″O",
+            "localidades": [
+                {
+                    "localidad": "Zapala",
+                    "coordenada": "38°54′10″S 70°03′54″O"
+                },
+                {
+                    "localidad": "Mariano Moreno",
+                    "coordenada": "38°44′00″S 70°01′00″O"
+                },
+                {
+                    "localidad": "Ramón M. Castro",
+                    "coordenada": "38°51′S 69°45′O"
+                },
+                {
+                    "localidad": "Los Catutos",
+                    "coordenada": "38°50′12″S 70°11′53″O"
+                }
+            ]    
+        }
+    ]
+}
