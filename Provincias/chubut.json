@@ -4,12 +4,12 @@
         {
             "departamento": "Atlántico",
             "coordenadas": "",
-            "localidades":[]
+            "localidades": []
         },
         {
             "departamento": "Biedma",
             "coordenadas": "42°46′00″S 65°02′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Puerto Madryn",
                     "coordenada": "42°46′23″S 65°02′12″O"
@@ -63,7 +63,7 @@
         {
             "departamento": "Cushamen",
             "coordenadas": "42°54′00″S 71°19′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Buenos Aires Chico",
                     "coordenada": "42°05′00″S 71°14′00″O"
@@ -113,7 +113,7 @@
         {
             "departamento": "Escalante",
             "coordenadas": "45°52′00″S 67°30′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Comodoro Rivadavia",
                     "coordenada": "45°52′00″S 67°30′00″O"
@@ -211,7 +211,7 @@
         {
             "departamento": "Florentino Ameghino",
             "coordenadas": "44°46′00″S 65°43′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Camarones",
                     "coordenada": "44°48′S 65°42′O"
@@ -225,7 +225,7 @@
         {
             "departamento": "Futaleufú",
             "coordenadas": "42°54′00″S 71°19′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Esquel",
                     "coordenada": "42°54′00″S 71°19′00″O"
@@ -259,7 +259,7 @@
         {
             "departamento": "Gaiman",
             "coordenadas": "43°16′00″S 65°28′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Villa Dique Florentino Ameghino",
                     "coordenada": "43°42′S 66°28′O"
@@ -281,7 +281,7 @@
         {
             "departamento": "Gastre",
             "coordenadas": "42°16′00″S 69°13′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Gastre",
                     "coordenada": "42°16′00″S 69°13′00″O"
@@ -307,7 +307,7 @@
         {
             "departamento": "Languiñeo",
             "coordenadas": "43°28′00″S 70°47′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Tecka",
                     "coordenada": "43°29′33″S 70°48′39″O"
@@ -333,7 +333,7 @@
         {
             "departamento": "Mártires",
             "coordenadas": "43°43′00″S 67°15′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Las Plumas",
                     "coordenada": "43°43′00″S 67°15′00″O"
@@ -347,7 +347,7 @@
         {
             "departamento": "Paso de Indios",
             "coordenadas": "43°51′00″S 69°02′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Los Altares",
                     "coordenada": "43°53′31″S 68°23′31″O"
@@ -381,7 +381,7 @@
         {
             "departamento": "Rawson",
             "coordenadas": "43°17′00″S 65°05′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Playa Unión",
                     "coordenada": "43°19′00″S 65°02′00″O"
@@ -407,7 +407,7 @@
         {
             "departamento": "Río Senguer",
             "coordenadas": "45°01′00″S 70°49′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Río Mayo",
                     "coordenada": "45°41′13″S 70°15′36″O"
@@ -441,7 +441,7 @@
         {
             "departamento": "Sarmiento",
             "coordenadas": "45°35′00″S 69°05′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Buen Pasto",
                     "coordenada": "45°05′00″S 69°28′00″O"
@@ -455,7 +455,7 @@
         {
             "departamento": "Tehuelches",
             "coordenadas": "44°01′00″S 70°28′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Gobernador Costa",
                     "coordenada": "44°04′00″S 70°35′00″O"
@@ -477,7 +477,7 @@
         {
             "departamento": "Telsen",
             "coordenadas": "42°23′00″S 66°57′00″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Gan Gan",
                     "coordenada": "42°30′00″S 68°16′00″O"

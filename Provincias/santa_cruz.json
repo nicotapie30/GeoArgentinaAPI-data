@@ -4,7 +4,7 @@
         {
             "departamento": "Corpen Aike",
             "coordenadas": "50°01′09″S 68°31′23″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Comandante Luis Piedrabuena",
                     "coordenada": "49°58′59″S 68°54′36″O"
@@ -26,7 +26,7 @@
         {
             "departamento": "Deseado",
             "coordenadas": "47°44′52″S 65°53′33″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Caleta Olivia",
                     "coordenada": "46°26′00″S 67°32′00″O"
@@ -72,7 +72,7 @@
         {
             "departamento": "Güer Aike",
             "coordenadas": "51°37′24″S 69°12′59″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "El Turbio",
                     "coordenada": "51°41′00″S 72°05′00″O"
@@ -118,7 +118,7 @@
         {
             "departamento": "Lago Argentino",
             "coordenadas": "50°20′19″S 72°16′26″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "El Calafate",
                     "coordenada": "50°20′16″S 72°15′36″O"
@@ -140,7 +140,7 @@
         {
             "departamento": "Lago Buenos Aires",
             "coordenadas": "46°35′18″S 70°55′49″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Los Antiguos",
                     "coordenada": "46°33′00″S 71°37′00″O"
@@ -154,7 +154,7 @@
         {
             "departamento": "Magallanes",
             "coordenadas": "49°18′16″S 67°43′47″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Puerto San Julián",
                     "coordenada": "49°18′25″S 67°43′47″O"
@@ -172,7 +172,7 @@
         {
             "departamento": "Río Chico",
             "coordenadas": "48°45′03″S 70°14′55″O",
-            "localidades":[
+            "localidades": [
                 {
                     "localidad": "Bajo Caracoles",
                     "coordenada": "47°26′36″S 70°55′35″O"

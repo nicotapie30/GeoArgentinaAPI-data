@@ -1,6 +1,6 @@
 {
     "provincia": "Neuquén",
-    "departamentos":[
+    "departamentos": [
         {
             "departamento": "Aluminé",
             "coordenadas": "39°14′18″S 70°54′56″O",
@@ -17,7 +17,7 @@
                     "localidad": "Villa Pehuenia",
                     "coordenada": ""
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Añelo",
@@ -31,7 +31,7 @@
                     "localidad": "Añelo",
                     "coordenada": "38°21′00″S 68°47′00″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Catán Lil",
@@ -41,7 +41,7 @@
                     "localidad": "Las Coloradas",
                     "coordenada": "39°33′00″S 70°35′00″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Chos Malal",
@@ -63,7 +63,7 @@
                     "localidad": "Villa Curí Leuvú",
                     "coordenada": "37°07′48″S 70°23′53″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Collón Curá",
@@ -77,7 +77,7 @@
                     "localidad": "Santo Tomás",
                     "coordenada": "39°49′20″S 70°05′57″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Confluencia",
@@ -127,7 +127,7 @@
                     "localidad": "Mari Menuco",
                     "coordenada": "38°32′S 68°33′O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Huiliches",
@@ -137,7 +137,7 @@
                     "localidad": "Junín de los Andes",
                     "coordenada": "39°57′02″S 71°04′10″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Lácar",
@@ -151,7 +151,7 @@
                     "localidad": "Villa Meliquina",
                     "coordenada": "40°22′31″S 71°15′30″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Loncopué",
@@ -165,7 +165,7 @@
                     "localidad": "Chorriaca",
                     "coordenada": "37°54′00″S 70°08′00″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Los Lagos",
@@ -179,7 +179,7 @@
                     "localidad": "Villa Traful",
                     "coordenada": "40°38′05″S 71°25′36″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Minas",
@@ -213,7 +213,7 @@
                     "localidad": "Villa Nahueve",
                     "coordenada": ""
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Ñorquín",
@@ -239,7 +239,7 @@
                     "localidad": "Taquimilán",
                     "coordenada": ""
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Pehuenches",
@@ -261,7 +261,7 @@
                     "localidad": "Octavio Pico",
                     "coordenada": "37°35′22″S 68°15′29″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Picún Leufú",
@@ -279,7 +279,7 @@
                     "localidad": "El Sauce",
                     "coordenada": "39°27′47″S 69°31′51″O"
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Picunches",
@@ -301,7 +301,7 @@
                     "localidad": "Quili Malal",
                     "coordenada": ""
                 }
-            ]    
+            ]
         },
         {
             "departamento": "Zapala",
@@ -323,7 +323,7 @@
                     "localidad": "Los Catutos",
                     "coordenada": "38°50′12″S 70°11′53″O"
                 }
-            ]    
+            ]
         }
     ]
 }

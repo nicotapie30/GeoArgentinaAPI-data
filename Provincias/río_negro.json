@@ -1,0 +1,543 @@
+{
+    "provincia": "Río negro",
+    "departamentos": [
+        {
+            "departamento": "Adolfo Alsina",
+            "coordenadas": "40°48′30″S 62°59′41″O",
+            "localidades": [
+                {
+                    "localidad": "Viedma",
+                    "coordenada": "40°48′S 63°00′O"
+                },
+                {
+                    "localidad": "Balneario El Cóndor",
+                    "coordenada": "41°02′33″S 62°49′40″O"
+                },
+                {
+                    "localidad": "Guardia Mitre",
+                    "coordenada": "40°26′00″S 63°41′00″O"
+                },
+                {
+                    "localidad": "San Javier",
+                    "coordenada": "40°45′01″S 63°16′10″O"
+                },
+                {
+                    "localidad": "Loteo Costa de Río",
+                    "coordenada": "40°52′19″S 62°55′05″O"
+                },
+                {
+                    "localidad": "El Juncal",
+                    "coordenada": "40°48′22″S 63°07′30″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Avellaneda",
+            "coordenadas": "39°17′32″S 65°39′45″O",
+            "localidades": [
+                {
+                    "localidad": "Choele Choel",
+                    "coordenada": "39°17′09″S 65°39′15″O"
+                },
+                {
+                    "localidad": "Lamarque",
+                    "coordenada": "39°25′25″S 65°42′00″O"
+                },
+                {
+                    "localidad": "Luis Beltrán",
+                    "coordenada": "39°19′00″S 65°46′00″O"
+                },
+                {
+                    "localidad": "Chimpay",
+                    "coordenada": "39°10′00″S 66°09′00″O"
+                },
+                {
+                    "localidad": "Coronel Belisle",
+                    "coordenada": "39°11′00″S 65°59′00″O"
+                },
+                {
+                    "localidad": "Darwin",
+                    "coordenada": "39°12′00″S 65°46′00″O"
+                },
+                {
+                    "localidad": "Pomona",
+                    "coordenada": "39°29′07″S 65°36′36″O"
+                },
+                {
+                    "localidad": "Barrio Unión",
+                    "coordenada": "39°09′36″S 66°11′28″O"
+                },
+                {
+                    "localidad": "Chelforó",
+                    "coordenada": "39°05′16″S 66°31′24″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Bariloche",
+            "coordenadas": "41°08′00″S 71°17′00″O",
+            "localidades": [
+                {
+                    "localidad": "El Bolsón",
+                    "coordenada": "41°58′00″S 71°32′00″O"
+                },
+                {
+                    "localidad": "El Manso",
+                    "coordenada": "41°34′S 71°46′O"
+                },
+                {
+                    "localidad": "Colonia suiza",
+                    "coordenada": "41°05′42″S 71°30′22″O"
+                },
+                {
+                    "localidad": "San Carlos de Bariloche",
+                    "coordenada": "41°09′S 71°18′O"
+                },
+                {
+                    "localidad": "Villa Mascardi",
+                    "coordenada": "41°21′00″S 71°31′00″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Conesa",
+            "coordenadas": "40°06′08″S 64°26′58″O",
+            "localidades": [
+                {
+                    "localidad": "General Conesa",
+                    "coordenada": "40°06′00″S 64°26′00″O"
+                }
+            ]
+        },
+        {
+            "departamento": "El Cuy",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "Aguada Guzmán",
+                    "coordenada": "39°59′00″S 68°52′00″O"
+                },
+                {
+                    "localidad": "Cerro Policía",
+                    "coordenada": "39°44′00″S 68°31′00″O"
+                },
+                {
+                    "localidad": "El Cuy",
+                    "coordenada": "39°56′00″S 68°20′00″O"
+                },
+                {
+                    "localidad": "Las Perlas",
+                    "coordenada": "38°59′10″S 68°08′20″O"
+                },
+                {
+                    "localidad": "Mencué",
+                    "coordenada": "40°25′00″S 69°38′00″O"
+                },
+                {
+                    "localidad": "Naupa Huen",
+                    "coordenada": "39°49′48″S 69°30′32″O"
+                },
+                {
+                    "localidad": "Valle Azul",
+                    "coordenada": "39°09′20″S 66°47′10″O"
+                }
+            ]
+        },
+        {
+            "departamento": "General Roca",
+            "coordenadas": "39°01′S 67°37′O",
+            "localidades": [
+                {
+                    "localidad": "Allen",
+                    "coordenada": "38°58′38″S 67°49′38″O"
+                },
+                {
+                    "localidad": "Bajo San Cayetano",
+                    "coordenada": "38°44′56″S 68°02′13″O"
+                },
+                {
+                    "localidad": "Barda del Medio",
+                    "coordenada": "38°43′33″S 68°09′09″O"
+                },
+                {
+                    "localidad": "Campo Grande",
+                    "coordenada": "38°41′00″S 68°11′00″O"
+                },
+                {
+                    "localidad": "Catriel",
+                    "coordenada": "37°52′40″S 67°47′30″O"
+                },
+                {
+                    "localidad": "Cervantes",
+                    "coordenada": "39°03′00″S 67°23′00″O"
+                },
+                {
+                    "localidad": "Chichinales",
+                    "coordenada": "39°06′00″S 66°56′00″O"
+                },
+                {
+                    "localidad": "Cinco Saltos",
+                    "coordenada": "38°49′39″S 68°03′58″O"
+                },
+                {
+                    "localidad": "Cipolletti",
+                    "coordenada": "38°56′00″S 68°01′00″O"
+                },
+                {
+                    "localidad": "Colonia Peñas Blancas",
+                    "coordenada": "37°41′35″S 67°52′12″O"
+                },
+                {
+                    "localidad": "Coronel Juan José Gómez",
+                    "coordenada": "39°01′10″S 67°38′11″O"
+                },
+                {
+                    "localidad": "Contralmirante Cordero",
+                    "coordenada": "38°45′14″S 68°06′02″O"
+                },
+                {
+                    "localidad": "Contralmirante Martín Guerrico",
+                    "coordenada": "39°01′26″S 67°44′06″O"
+                },
+                {
+                    "localidad": "Ferri",
+                    "coordenada": "38°53′14″S 68°00′25″O"
+                },
+                {
+                    "localidad": "General Enrique Godoy",
+                    "coordenada": "39°05′00″S 67°09′00″O"
+                },
+                {
+                    "localidad": "General Fernández Oro",
+                    "coordenada": "38°57′00″S 67°55′00″O"
+                },
+                {
+                    "localidad": "General Roca",
+                    "coordenada": "39°02′00″S 67°35′00″O"
+                },
+                {
+                    "localidad": "Ingeniero Luis A. Huergo",
+                    "coordenada": "39°05′00″S 67°14′00″O"
+                },
+                {
+                    "localidad": "Ingeniero Otto Krause",
+                    "coordenada": "39°06′26″S 66°59′55″O"
+                },
+                {
+                    "localidad": "Lago Pellegrini",
+                    "coordenada": "38°40′00″S 68°00′00″O"
+                },
+                {
+                    "localidad": "Mainqué",
+                    "coordenada": "39°04′00″S 67°18′00″O"
+                },
+                {
+                    "localidad": "Padre Stefenelli",
+                    "coordenada": "39°02′57″S 67°32′36″O"
+                },
+                {
+                    "localidad": "Paso Córdoba",
+                    "coordenada": "39°06′40″S 67°37′35″O"
+                },
+                {
+                    "localidad": "Peñas Blancas",
+                    "coordenada": "37°41′35″S 67°52′12″O"
+                },
+                {
+                    "localidad": "Sargento Vidal",
+                    "coordenada": "38°41′10″S 68°09′29″O"
+                },
+                {
+                    "localidad": "Villa Alberdi",
+                    "coordenada": "39°07′42″S 67°02′49″O"
+                },
+                {
+                    "localidad": "Villa del Parque",
+                    "coordenada": "39°07′34″S 66°59′49″O"
+                },
+                {
+                    "localidad": "Villa Manzano",
+                    "coordenada": "38°40′48″S 68°12′58″O"
+                },
+                {
+                    "localidad": "Villa Regina",
+                    "coordenada": "39°06′00″S 67°04′00″O"
+                },
+                {
+                    "localidad": "Villa San Isidro",
+                    "coordenada": "38°42′24″S 68°10′25″O"
+                },
+                {
+                    "localidad": "Península Ruca Co",
+                    "coordenada": "38°42′00″S 68°01′41″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Nueve de Julio",
+            "coordenadas": "40°36′00″S 67°47′00″O",
+            "localidades": [
+                {
+                    "localidad": "Comicó",
+                    "coordenada": "41°04′15″S 67°28′40″O"
+                },
+                {
+                    "localidad": "Cona Niyeu",
+                    "coordenada": "41°51′57″S 66°56′17″O"
+                },
+                {
+                    "localidad": "Ministro Ramos Mexía",
+                    "coordenada": "40°30′00″S 67°17′00″O"
+                },
+                {
+                    "localidad": "Prahuaniyeu",
+                    "coordenada": "41°20′16″S 67°54′19″O"
+                },
+                {
+                    "localidad": "Treneta",
+                    "coordenada": "40°57′09″S 67°03′08″O"
+                },
+                {
+                    "localidad": "Sierra Colorada",
+                    "coordenada": "40°35′15″S 67°45′30″O"
+                },
+                {
+                    "localidad": "Yaminué",
+                    "coordenada": "40°58′35″S 67°11′31″O"
+                },
+                {
+                    "localidad": "Falkner",
+                    "coordenada": "40°30′22″S 67°02′39″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Ñorquincó",
+            "coordenadas": "41°51′03″S 70°54′10″O",
+            "localidades": [
+                {
+                    "localidad": "Las Bayas",
+                    "coordenada": "41°28′00″S 70°40′00″O"
+                },
+                {
+                    "localidad": "Mamuel Choique",
+                    "coordenada": "41°46′16″S 70°08′13″O"
+                },
+                {
+                    "localidad": "Ñorquincó",
+                    "coordenada": "41°51′S 70°54′O"
+                },
+                {
+                    "localidad": "Ojos de Agua",
+                    "coordenada": "41°33′23″S 69°52′10″O"
+                },
+                {
+                    "localidad": "Río Chico",
+                    "coordenada": "41°43′00″S 70°30′00″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Pichi Mahuida",
+            "coordenadas": "39°01′00″S 64°05′00″O",
+            "localidades": [
+                {
+                    "localidad": "Colonia Juliá y Echarren",
+                    "coordenada": "39°02′00″S 64°03′00″O"
+                },
+                {
+                    "localidad": "Río Colorado",
+                    "coordenada": "38°59′27″S 64°05′45″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Pilcaniyeu",
+            "coordenadas": "41°07′21″S 70°43′18″O",
+            "localidades": [
+                {
+                    "localidad": "Dina Huapi",
+                    "coordenada": "41°04′12″S 71°09′54″O"
+                },
+                {
+                    "localidad": "Comallo",
+                    "coordenada": "41°02′00″S 70°16′00″O"
+                },
+                {
+                    "localidad": "Laguna Blanca",
+                    "coordenada": "40°44′00″S 69°51′00″O"
+                },
+                {
+                    "localidad": "Ñirihuau",
+                    "coordenada": "41°05′29″S 71°08′17″O"
+                },
+                {
+                    "localidad": "Paso Flores",
+                    "coordenada": "40°35′00″S 70°38′00″O"
+                },
+                {
+                    "localidad": "Pilcaniyeu",
+                    "coordenada": "41°07′24″S 70°43′12″O"
+                },
+                {
+                    "localidad": "Pilquiniyeu del Limay",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Villa Llanquín",
+                    "coordenada": "40°53′44″S 71°02′12″O"
+                },
+                {
+                    "localidad": "Cañadón Chileno",
+                    "coordenada": "40°53′16″S 70°01′22″O"
+                },
+                {
+                    "localidad": "Anecón Grande",
+                    "coordenada": "41°24′57″S 70°16′11″O"
+                },
+                {
+                    "localidad": "Neneo Ruca",
+                    "coordenada": "41°07′00″S 70°26′00″O"
+                },
+                {
+                    "localidad": "Los Juncos",
+                    "coordenada": "41°03′43″S 71°00′50″O"
+                }
+            ]
+        },
+        {
+            "departamento": "San Antonio",
+            "coordenadas": "40°43′00″S 64°55′00″O",
+            "localidades": [
+                {
+                    "localidad": "Las Grutas",
+                    "coordenada": "40°48′30″S 65°05′12″O"
+                },
+                {
+                    "localidad": "Playas Doradas",
+                    "coordenada": "41°37′52″S 65°01′45″O"
+                },
+                {
+                    "localidad": "Punta Colorada",
+                    "coordenada": "41°41′39″S 65°01′45″O"
+                },
+                {
+                    "localidad": "San Antonio Este",
+                    "coordenada": "40°49′00″S 64°45′00″O"
+                },
+                {
+                    "localidad": "San Antonio Oeste",
+                    "coordenada": "40°44′00″S 64°57′00″O"
+                },
+                {
+                    "localidad": "Sierra Grande",
+                    "coordenada": "41°36′22″S 65°21′21″O"
+                },
+                {
+                    "localidad": "Paraje Cinco Chañares",
+                    "coordenada": "40°43′36″S 65°14′41″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Valcheta",
+            "coordenadas": "40°40′48″S 66°09′56″O",
+            "localidades": [
+                {
+                    "localidad": "Valcheta",
+                    "coordenada": "40°42′S 66°09′O"
+                },
+                {
+                    "localidad": "Aguada Cecilio",
+                    "coordenada": "40°51′S 65°51′O"
+                },
+                {
+                    "localidad": "Arroyo de la Ventana",
+                    "coordenada": "41°40′00″S 66°06′00″O"
+                },
+                {
+                    "localidad": "Arroyo Los Berros",
+                    "coordenada": "41°26′11″S 66°05′51″O"
+                },
+                {
+                    "localidad": "Nahuel Niyeu",
+                    "coordenada": "40°30′S 66°33′O"
+                },
+                {
+                    "localidad": "Sierra Pailemán",
+                    "coordenada": "41°11′28″S 65°58′39″O"
+                },
+                {
+                    "localidad": "Chipauquil",
+                    "coordenada": "40°56′02″S 66°34′23″O"
+                },
+                {
+                    "localidad": "Paja Altas",
+                    "coordenada": "40°45′35″S 66°03′07″O"
+                }
+            ]
+        },
+        {
+            "departamento": "Veinticinco de Mayo",
+            "coordenadas": "41°15′01″S 68°42′15″O",
+            "localidades": [
+                {
+                    "localidad": "Aguada de Guerra",
+                    "coordenada": "41°03′59″S 68°22′59″O"
+                },
+                {
+                    "localidad": "Barril Niyeo",
+                    "coordenada": "41°54′00″S 68°19′00″O"
+                },
+                {
+                    "localidad": "Clemente Onelli",
+                    "coordenada": "41°14′49″S 70°01′57″O"
+                },
+                {
+                    "localidad": "Colán Conhué",
+                    "coordenada": "40°40′00″S 69°06′00″O"
+                },
+                {
+                    "localidad": "El Caín",
+                    "coordenada": "42°06′00″S 68°16′00″O"
+                },
+                {
+                    "localidad": "Ingeniero Jacobacci",
+                    "coordenada": "41°18′00″S 69°35′00″O"
+                },
+                {
+                    "localidad": "Corral Choique",
+                    "coordenada": "41°52′14″S 68°21′05″O"
+                },
+                {
+                    "localidad": "Los Menucos",
+                    "coordenada": "40°50′33″S 68°05′22″O"
+                },
+                {
+                    "localidad": "Llama Niyeo",
+                    "coordenada": "41°54′S 68°33′O"
+                },
+                {
+                    "localidad": "Maquinchao",
+                    "coordenada": "41°15′00″S 68°42′07″O"
+                },
+                {
+                    "localidad": "Mina Santa Teresita",
+                    "coordenada": "40°55′42″S 69°23′54″O"
+                },
+                {
+                    "localidad": "Pilquiniyeu",
+                    "coordenada": "41°55′13″S 68°22′33″O"
+                },
+                {
+                    "localidad": "San Antonio del Cuy",
+                    "coordenada": "40°09′01″S 68°29′39″O"
+                },
+                {
+                    "localidad": "Paraje Yuquiche",
+                    "coordenada": ""
+                }
+            ]
+        }
+    ]
+}
