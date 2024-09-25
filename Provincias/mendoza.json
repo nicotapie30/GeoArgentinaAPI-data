@@ -164,125 +164,554 @@
             ]
         },
         {
-            "departamento": "",
-            "coordenadas": "",
+            "departamento": "Lavalle",
+            "coordenadas": "32°43′00″S 68°35′00″W",
             "localidades": [
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "3 de Mayo",
+                    "coordenada": "S 16.54488 W 68.20981"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Barrio Alto del Olvido",
+                    "coordenada": "S 32.66908 W 68.58118"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Barrio Jocolí II",
+                    "coordenada": "S 32.64718 W 68.66095"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Barrio Lagunas de Bartoluzzi",
+                    "coordenada": "S 32.61306 W 68.56104"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Barrio La Palmera",
+                    "coordenada": "S 32.89084 W 68.82717"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Barrio La Pega",
+                    "coordenada": "S 32.80712 W 68.67501"
+                },
+                {
+                    "localidad": "Barrio Los Jarilleros",
+                    "coordenada": "S 32.71930 W 68.65291"
+                },
+                {
+                    "localidad": "Barrio Los Olivos",
+                    "coordenada": "S 32.99530 W 68.78015"
+                },
+                {
+                    "localidad": "Barrio Virgen del Rosario",
+                    "coordenada": "S 34.96336 W 67.65741"
+                },
+                {
+                    "localidad": "Costa de Araujo",
+                    "coordenada": "S 32.76048 W 68.39488"
+                },
+                {
+                    "localidad": "El Paramillo",
+                    "coordenada": "S 32.77630 W 68.57186"
+                },
+                {
+                    "localidad": "El Vergel",
+                    "coordenada": "S 32.78482 W 68.61202"
+                },
+                {
+                    "localidad": "Ingeniero Gustavo André",
+                    "coordenada": "S 32.68006 W 68.31653"
+                },
+                {
+                    "localidad": "Jocolí",
+                    "coordenada": "S 32.58462 W 68.66753"
+                },
+                {
+                    "localidad": "Jocolí Viejo",
+                    "coordenada": "S 32.70830 W 68.67399"
+                },
+                {
+                    "localidad": "Las Violetas",
+                    "coordenada": "S 32.82248 W 68.60619"
+                },
+                {
+                    "localidad": "Villa Tulumaya",
+                    "coordenada": "S 32.72144 W 68.59589"
                 }
             ]
         },
         {
-            "departamento": "",
-            "coordenadas": "",
+            "departamento": "Luján de Cuyo",
+            "coordenadas": "33°30′00″S 62°58′00″W",
             "localidades": [
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Agrelo",
+                    "coordenada": "S 33.11846 W 68.88593"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Barrio Perdriel IV",
+                    "coordenada": "S 33.07716 W 68.91432"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Cacheuta",
+                    "coordenada": "S 33.01484 W 69.11756"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Costa Flores",
+                    "coordenada": "S 33.07052 W 68.92519"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "El Carrizal",
+                    "coordenada": "S 32.85932 W 68.86278"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "El Salto",
+                    "coordenada": "S 32.95542 W 69.28118"
+                },
+                {
+                    "localidad": "Las Compuertas",
+                    "coordenada": "S 33.03798 W 68.98183"
+                },
+                {
+                    "localidad": "Las Vegas",
+                    "coordenada": "S 33.01146 W 69.27299"
+                },
+                {
+                    "localidad": "Luján de Cuyo",
+                    "coordenada": "S 33.10852 W 69.01300"
+                },
+                {
+                    "localidad": "Perdriel",
+                    "coordenada": "S 33.07349 W 68.88529"
+                },
+                {
+                    "localidad": "Potrerillos",
+                    "coordenada": "S 32.96079 W 69.19745"
+                },
+                {
+                    "localidad": "Ugarteche",
+                    "coordenada": "S 33.20981 W 68.88983"
                 }
             ]
         },
         {
-            "departamento": "",
-            "coordenadas": "",
+            "departamento": "Maipú",
+            "coordenadas": "32°58′00″S 68°46′00″W",
             "localidades": [
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Barrancas",
+                    "coordenada": "S 33.09656 W 68.70929"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Barrio Jesús de Nazaret",
+                    "coordenada": "S 33.00981 W 68.71773"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Cruz de Piedra",
+                    "coordenada": "S 33.02997 W 68.80377"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "El Pedregal",
+                    "coordenada": "S 32.83191 W 68.82599"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Fray Luis Beltrán",
+                    "coordenada": "S 33.00683 W 68.64972"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Maipú",
+                    "coordenada": "S 32.98369 W 68.78795"
+                },
+                {
+                    "localidad": "Rodeo del Medio",
+                    "coordenada": "S 32.99325 W 68.68591"
+                },
+                {
+                    "localidad": "Russell",
+                    "coordenada": "S 33.00542 W 68.79690"
+                },
+                {
+                    "localidad": "San Roque",
+                    "coordenada": "S 33.03211 W 68.58532"
+                },
+                {
+                    "localidad": "Villa Teresa",
+                    "coordenada": "S 33.02075 W 68.61528"
                 }
             ]
         },
         {
-            "departamento": "",
-            "coordenadas": "",
+            "departamento": "Malargüe",
+            "coordenadas": "36°10′00″S 69°20′00″W",
             "localidades": [
                 {
-                    "localidad": "",
+                    "localidad": "Agua Escondida",
+                    "coordenada": "S 36.15566 W 68.30177"
+                },
+                {
+                    "localidad": "Las Leñas",
+                    "coordenada": "S 35.14551 W 70.08206"
+                },
+                {
+                    "localidad": "Malargüe",
+                    "coordenada": "S 35.47521 W 69.58593"
+                }
+            ]
+        },
+        {
+            "departamento": "Rivadavia",
+            "coordenadas": "33°11′00″S 68°28′00″W",
+            "localidades": [
+                {
+                    "localidad": "Andrade",
+                    "coordenada": "S 33.18187 W 68.52520"
+                },
+                {
+                    "localidad": "Barrio Cooperativa Los Campamentos",
+                    "coordenada": "S 33.27300 W 68.41358"
+                },
+                {
+                    "localidad": "Barrio Rivadavia",
+                    "coordenada": "S 33.23165 W 68.47692"
+                },
+                {
+                    "localidad": "El Mirador",
+                    "coordenada": "S 33.31934 W 68.32964"
+                },
+                {
+                    "localidad": "La Central",
+                    "coordenada": "S 33.27486 W 68.31668"
+                },
+                {
+                    "localidad": "La Esperanza",
+                    "coordenada": "S 32.87610 W 68.87353"
+                },
+                {
+                    "localidad": "La Florida",
+                    "coordenada": "S 33.26740 W 68.45483"
+                },
+                {
+                    "localidad": "La Libertad",
+                    "coordenada": "S 33.21543 W 68.50164"
+                },
+                {
+                    "localidad": "Los Árboles",
+                    "coordenada": "S 33.18253 W 68.56482"
+                },
+                {
+                    "localidad": "Los Campamentos",
+                    "coordenada": "S 33.27175 W 68.43254"
+                },
+                {
+                    "localidad": "Medrano",
+                    "coordenada": "S 33.18112 W 68.61430"
+                },
+                {
+                    "localidad": "Mundo Nuevo",
+                    "coordenada": "S 33.17702 W 68.43871"
+                },
+                {
+                    "localidad": "Reducción de Abajo",
+                    "coordenada": "S 33.20336 W 68.59434"
+                },
+                {
+                    "localidad": "Rivadavia",
+                    "coordenada": "S 33.19589 W 68.46628"
+                },
+                {
+                    "localidad": "Santa María de Oro",
+                    "coordenada": "S 33.20738 W 68.42543"
+                }
+            ]
+        },
+        {
+            "departamento": "San Carlos",
+            "coordenadas": "33°46′00″S 69°02′00″W",
+            "localidades": [
+                {
+                    "localidad": "Barrio Carrasco",
+                    "coordenada": "S 32.89084 W 68.82717"
+                },
+                {
+                    "localidad": "Chilecito",
+                    "coordenada": "S 33.89142 W 69.07108"
+                },
+                {
+                    "localidad": "Eugenio Bustos",
+                    "coordenada": "S 33.79741 W 69.08203"
+                },
+                {
+                    "localidad": "La Consulta",
+                    "coordenada": "S 33.72434 W 69.08203"
+                },
+                {
+                    "localidad": "Pareditas",
+                    "coordenada": "S 33.94336 W 69.08203"
+                },
+                {
+                    "localidad": "San Carlos",
+                    "coordenada": "S 33.77112 W 69.04754"
+                }
+            ]
+        },
+        {
+            "departamento": "San Martín",
+            "coordenadas": "33°04′00″S 68°19′00″W",
+            "localidades": [
+                {
+                    "localidad": "Alto Verde",
+                    "coordenada": "S 33.15423 W 68.35591"
+                },
+                {
+                    "localidad": "Barrio Chivilcoy",
+                    "coordenada": "S 33.04176 W 68.35251"
+                },
+                {
+                    "localidad": "Barrio Emanuel",
+                    "coordenada": "S 32.84193 W 68.39222"
+                },
+                {
+                    "localidad": "Barrio la Estación",
+                    "coordenada": "S 32.89735 W 68.83985"
+                },
+                {
+                    "localidad": "Barrio Los Charabones",
+                    "coordenada": "S 32.99543 W 68.27950"
+                },
+                {
+                    "localidad": "Barrio Nuestra Señora de Fátima",
+                    "coordenada": "S 16.48053 W 68.12513"
+                },
+                {
+                    "localidad": "Chapanay",
+                    "coordenada": "S 32.98331 W 68.46653"
+                },
+                {
+                    "localidad": "Chivilcoy",
+                    "coordenada": "S 33.04087 W 68.44982"
+                },
+                {
+                    "localidad": "El Espino",
+                    "coordenada": "S 33.07486 W 68.39607"
+                },
+                {
+                    "localidad": "El Ramblón",
+                    "coordenada": "S 33.16831 W 68.28501"
+                },
+                {
+                    "localidad": "Montecaseros",
+                    "coordenada": "S 33.01470 W 68.38811"
+                },
+                {
+                    "localidad": "Nueva California",
+                    "coordenada": "S 32.74948 W 68.32423"
+                },
+                {
+                    "localidad": "San Martín",
+                    "coordenada": "S 33.08053 W 68.47107"
+                },
+                {
+                    "localidad": "Tres Porteñas",
+                    "coordenada": "S 32.89938 W 68.38855"
+                }
+            ]
+        },
+        {
+            "departamento": "San Rafael",
+            "coordenadas": "34°37′00″S 68°19′00″W",
+            "localidades": [
+                {
+                    "localidad": "25 de Mayo",
+                    "coordenada": "S 32.90450 W 68.85295"
+                },
+                {
+                    "localidad": "Barrio Campos El Toledano",
+                    "coordenada": "S 32.89084 W 68.82717"
+                },
+                {
+                    "localidad": "Barrio El Nevado",
+                    "coordenada": "S 34.78728 W 67.98097"
+                },
+                {
+                    "localidad": "Barrio Empleados de Comercio",
+                    "coordenada": "S 34.55566 W 68.30248"
+                },
+                {
+                    "localidad": "Barrio Intendencia",
+                    "coordenada": "S 34.64069 W 68.32106"
+                },
+                {
+                    "localidad": "Capitán Montoya",
+                    "coordenada": "S 34.58206 W 68.45770"
+                },
+                {
+                    "localidad": "Cuadro Benegas",
+                    "coordenada": "S 34.75805 W 69.34162"
+                },
+                {
+                    "localidad": "El Nihuil",
+                    "coordenada": "S 35.03000 W 68.64258"
+                },
+                {
+                    "localidad": "El Sosneado",
+                    "coordenada": "S 35.07885 W 69.56773"
+                },
+                {
+                    "localidad": "El Tropezón",
+                    "coordenada": "S 34.68368 W 68.27900"
+                },
+                {
+                    "localidad": "Goudge",
+                    "coordenada": "S 34.67651 W 68.13325"
+                },
+                {
+                    "localidad": "Jaime Prats",
+                    "coordenada": "S 34.91039 W 67.82048"
+                },
+                {
+                    "localidad": "La Llave Nueva",
+                    "coordenada": "S 34.64019 W 68.00992"
+                },
+                {
+                    "localidad": "Las Malvinas",
+                    "coordenada": "S 34.81380 W 68.29102"
+                },
+                {
+                    "localidad": "Los Reyunos",
+                    "coordenada": "S 34.59701 W 68.64064"
+                },
+                {
+                    "localidad": "Monte Comán",
+                    "coordenada": "S 34.59452 W 67.87616"
+                },
+                {
+                    "localidad": "Pobre Diablo",
+                    "coordenada": "S 34.66249 W 68.35516"
+                },
+                {
+                    "localidad": "Punta del Agua",
+                    "coordenada": "S 35.52709 W 68.07535"
+                },
+                {
+                    "localidad": "Rama Caída",
+                    "coordenada": "S 34.66936 W 68.37891"
+                },
+                {
+                    "localidad": "Real del Padre",
+                    "coordenada": "S 34.81380 W 67.76367"
+                },
+                {
+                    "localidad": "Salto de las Rosas",
+                    "coordenada": "S 34.72418 W 68.22921"
+                },
+                {
+                    "localidad": "San Rafael",
+                    "coordenada": "S 34.61260 W 68.33051"
+                },
+                {
+                    "localidad": "Villa Atuel",
+                    "coordenada": "S 34.83212 W 67.92064"
+                },
+                {
+                    "localidad": "Villa Atuel Norte",
+                    "coordenada": "S 34.75600 W 68.03131"
+                }
+            ]
+        },
+        {
+            "departamento": "Santa Rosa",
+            "coordenadas": "33°17′00″S 68°02′00″W",
+            "localidades": [
+                {
+                    "localidad": "Barrio 12 de Octubre",
+                    "coordenada": "S 33.01120 W 68.64411"
+                },
+                {
+                    "localidad": "Barrio María Auxiliadora",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Barrio Molina Cabrera",
+                    "coordenada": "S 33.24280 W 68.17402"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "La Dormida",
+                    "coordenada": "S 33.34672 W 67.91722"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Las Catitas",
+                    "coordenada": "S 33.28462 W 68.02734"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Santa Rosa",
+                    "coordenada": "S 33.28462 W 68.11523"
+                }
+            ]
+        },
+        {
+            "departamento": "Tunuyán",
+            "coordenadas": "33°34′08″S 69°01′35″W",
+            "localidades": [
+                {
+                    "localidad": "Barrio San Cayetano",
+                    "coordenada": "S 33.63348 W 69.17962"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Campo Los Andes",
+                    "coordenada": "S 33.70010 W 69.17657"
+                },
+                {
+                    "localidad": "Colonia Las Rosas",
+                    "coordenada": "S 33.60443 W 69.10178"
+                },
+                {
+                    "localidad": "El Manzano",
+                    "coordenada": "S 36.10723 W 69.76100"
+                },
+                {
+                    "localidad": "Los Sauces",
+                    "coordenada": "S 33.59470 W 69.17559"
+                },
+                {
+                    "localidad": "Tunuyán",
+                    "coordenada": "S 33.58130 W 69.01543"
+                },
+                {
+                    "localidad": "Vista Flores",
+                    "coordenada": "S 33.65095 W 69.15555"
+                }
+            ]
+        },
+        {
+            "departamento": "Tupungato",
+            "coordenadas": "33°15′S 69°15′W",
+            "localidades": [
+                {
+                    "localidad": "Barrio Belgrano Norte",
+                    "coordenada": "S 33.32995 W 69.12607"
+                },
+                {
+                    "localidad": "Cordón del Plata",
+                    "coordenada": "S 33.46230 W 69.14169"
+                },
+                {
+                    "localidad": "El Peral",
+                    "coordenada": "S 33.38826 W 69.19506"
+                },
+                {
+                    "localidad": "El Zampal",
+                    "coordenada": "S 33.39906 W 69.10589"
+                },
+                {
+                    "localidad": "La Arboleda",
+                    "coordenada": "S 33.37455 W 69.11310"
+                },
+                {
+                    "localidad": "San José",
+                    "coordenada": "S 32.88940 W 68.82201"
+                },
+                {
+                    "localidad": "Tupungato",
+                    "coordenada": "S 33.37236 W 69.14795"
                 }
             ]
         }
-        
     ]
 }
