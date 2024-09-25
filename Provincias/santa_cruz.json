@@ -3,161 +3,161 @@
     "departamentos": [
         {
             "departamento": "Corpen Aike",
-            "coordenadas": "50°01′09″S 68°31′23″O",
+            "coordenadas": "50°01′09″S 68°31′23″W",
             "localidades": [
                 {
                     "localidad": "Comandante Luis Piedrabuena",
-                    "coordenada": "49°58′59″S 68°54′36″O"
+                    "coordenada": "49°58′59″S 68°54′36″W"
                 },
                 {
                     "localidad": "Puerto Santa Cruz",
-                    "coordenada": "50°01′09″S 68°31′23″O"
+                    "coordenada": "50°01′09″S 68°31′23″W"
                 },
                 {
                     "localidad": "Puerto de Punta Quilla",
-                    "coordenada": "50°07′06″S 68°24′40″O"
+                    "coordenada": "50°07′06″S 68°24′40″W"
                 },
                 {
                     "localidad": "Río Chico",
-                    "coordenada": "49°48′00″S 68°37′00″O"
+                    "coordenada": "49°48′00″S 68°37′00″W"
                 }
             ]
         },
         {
             "departamento": "Deseado",
-            "coordenadas": "47°44′52″S 65°53′33″O",
+            "coordenadas": "47°44′52″S 65°53′33″W",
             "localidades": [
                 {
                     "localidad": "Caleta Olivia",
-                    "coordenada": "46°26′00″S 67°32′00″O"
+                    "coordenada": "46°26′00″S 67°32′00″W"
                 },
                 {
                     "localidad": "Cañadón Seco",
-                    "coordenada": "46°33′47″S 67°36′38″O"
+                    "coordenada": "46°33′47″S 67°36′38″W"
                 },
                 {
                     "localidad": "Fitz Roy",
-                    "coordenada": "47°01′34″S 67°14′58″O"
+                    "coordenada": "47°01′34″S 67°14′58″W"
                 },
                 {
                     "localidad": "Gobernador Moyano",
-                    "coordenada": "47°15′S 68°36′O"
+                    "coordenada": "47°15′S 68°36′W"
                 },
                 {
                     "localidad": "Jaramillo",
-                    "coordenada": "47°11′00″S 67°09′00″O"
+                    "coordenada": "47°11′00″S 67°09′00″W"
                 },
                 {
                     "localidad": "Koluel Kayke",
-                    "coordenada": "46°43′00″S 68°13′24″O"
+                    "coordenada": "46°43′00″S 68°13′24″W"
                 },
                 {
                     "localidad": "Las Heras",
-                    "coordenada": "46°33′S 68°57′O"
+                    "coordenada": "46°33′S 68°57′W"
                 },
                 {
                     "localidad": "Pico Truncado",
-                    "coordenada": "46°48′00″S 67°58′00″O"
+                    "coordenada": "46°48′00″S 67°58′00″W"
                 },
                 {
                     "localidad": "Puerto Deseado",
-                    "coordenada": "47°45′00″S 65°55′00″O"
+                    "coordenada": "47°45′00″S 65°55′00″W"
                 },
                 {
                     "localidad": "Tellier",
-                    "coordenada": "47°38′52″S 66°02′19″O"
+                    "coordenada": "47°38′52″S 66°02′19″W"
                 }
             ]
         },
         {
             "departamento": "Güer Aike",
-            "coordenadas": "51°37′24″S 69°12′59″O",
+            "coordenadas": "51°37′24″S 69°12′59″W",
             "localidades": [
                 {
                     "localidad": "El Turbio",
-                    "coordenada": "51°41′00″S 72°05′00″O"
+                    "coordenada": "51°41′00″S 72°05′00″W"
                 },
                 {
                     "localidad": "Esperanza",
-                    "coordenada": "51°01′43″S 70°46′45″O"
+                    "coordenada": "51°01′43″S 70°46′45″W"
                 },
                 {
                     "localidad": "Julia Dufour",
-                    "coordenada": "51°32′50″S 72°14′17″O"
+                    "coordenada": "51°32′50″S 72°14′17″W"
                 },
                 {
                     "localidad": "Mina 3",
-                    "coordenada": "51°32′24″S 72°16′18″O"
+                    "coordenada": "51°32′24″S 72°16′18″W"
                 },
                 {
                     "localidad": "Río Gallegos",
-                    "coordenada": "51°37′24″S 69°12′58″O"
+                    "coordenada": "51°37′24″S 69°12′58″W"
                 },
                 {
                     "localidad": "Río Turbio",
-                    "coordenada": "51°32′10″S 72°20′10″O"
+                    "coordenada": "51°32′10″S 72°20′10″W"
                 },
                 {
                     "localidad": "Rospentek Aike",
-                    "coordenada": "51°39′55″S 72°08′43″O"
+                    "coordenada": "51°39′55″S 72°08′43″W"
                 },
                 {
                     "localidad": "Veintiocho de Noviembre",
-                    "coordenada": "51°35′02″S 72°12′52″O"
+                    "coordenada": "51°35′02″S 72°12′52″W"
                 },
                 {
                     "localidad": "Güer Aike",
-                    "coordenada": "51°37′50″S 69°36′43″O"
+                    "coordenada": "51°37′50″S 69°36′43″W"
                 },
                 {
                     "localidad": "Puerto Coig",
-                    "coordenada": "50°57′24″S 69°13′36″O"
+                    "coordenada": "50°57′24″S 69°13′36″W"
                 }
             ]
         },
         {
             "departamento": "Lago Argentino",
-            "coordenadas": "50°20′19″S 72°16′26″O",
+            "coordenadas": "50°20′19″S 72°16′26″W",
             "localidades": [
                 {
                     "localidad": "El Calafate",
-                    "coordenada": "50°20′16″S 72°15′36″O"
+                    "coordenada": "50°20′16″S 72°15′36″W"
                 },
                 {
                     "localidad": "El Chaltén",
-                    "coordenada": "49°19′53″S 72°53′10″O"
+                    "coordenada": "49°19′53″S 72°53′10″W"
                 },
                 {
                     "localidad": "Tres Lagos",
-                    "coordenada": "49°35′53″S 71°26′47″O"
+                    "coordenada": "49°35′53″S 71°26′47″W"
                 },
                 {
                     "localidad": "Puerto Bandera",
-                    "coordenada": "50°18′00″S 72°47′00″O"
+                    "coordenada": "50°18′00″S 72°47′00″W"
                 }
             ]
         },
         {
             "departamento": "Lago Buenos Aires",
-            "coordenadas": "46°35′18″S 70°55′49″O",
+            "coordenadas": "46°35′18″S 70°55′49″W",
             "localidades": [
                 {
                     "localidad": "Los Antiguos",
-                    "coordenada": "46°33′00″S 71°37′00″O"
+                    "coordenada": "46°33′00″S 71°37′00″W"
                 },
                 {
                     "localidad": "Perito Moreno",
-                    "coordenada": "46°35′24″S 70°55′47″O"
+                    "coordenada": "46°35′24″S 70°55′47″W"
                 }
             ]
         },
         {
             "departamento": "Magallanes",
-            "coordenadas": "49°18′16″S 67°43′47″O",
+            "coordenadas": "49°18′16″S 67°43′47″W",
             "localidades": [
                 {
                     "localidad": "Puerto San Julián",
-                    "coordenada": "49°18′25″S 67°43′47″O"
+                    "coordenada": "49°18′25″S 67°43′47″W"
                 },
                 {
                     "localidad": "El Salado",
@@ -171,19 +171,19 @@
         },
         {
             "departamento": "Río Chico",
-            "coordenadas": "48°45′03″S 70°14′55″O",
+            "coordenadas": "48°45′03″S 70°14′55″W",
             "localidades": [
                 {
                     "localidad": "Bajo Caracoles",
-                    "coordenada": "47°26′36″S 70°55′35″O"
+                    "coordenada": "47°26′36″S 70°55′35″W"
                 },
                 {
                     "localidad": "Gobernador Gregores",
-                    "coordenada": "48°45′03″S 70°14′55″O"
+                    "coordenada": "48°45′03″S 70°14′55″W"
                 },
                 {
                     "localidad": "Hipólito Yrigoyen",
-                    "coordenada": "47°33′57″S 71°44′24″O"
+                    "coordenada": "47°33′57″S 71°44′24″W"
                 }
             ]
         }

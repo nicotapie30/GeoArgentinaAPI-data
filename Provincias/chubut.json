@@ -8,23 +8,23 @@
         },
         {
             "departamento": "Biedma",
-            "coordenadas": "42°46′00″S 65°02′00″O",
+            "coordenadas": "42°46′00″S 65°02′00″W",
             "localidades": [
                 {
                     "localidad": "Puerto Madryn",
-                    "coordenada": "42°46′23″S 65°02′12″O"
+                    "coordenada": "42°46′23″S 65°02′12″W"
                 },
                 {
                     "localidad": "Puerto Pirámides",
-                    "coordenada": "42°34′00″S 64°17′00″O"
+                    "coordenada": "42°34′00″S 64°17′00″W"
                 },
                 {
                     "localidad": "Quinta El Mirador",
-                    "coordenada": "42°34′20″S 64°16′50″O"
+                    "coordenada": "42°34′20″S 64°16′50″W"
                 },
                 {
                     "localidad": "Punta Delgada",
-                    "coordenada": "42°46′00″S 63°38′15″O"
+                    "coordenada": "42°46′00″S 63°38′15″W"
                 },
                 {
                     "localidad": "Mina Guanacache",
@@ -32,19 +32,19 @@
                 },
                 {
                     "localidad": "Arroyo Verde",
-                    "coordenada": "41°59′47″S 65°17′37″O"
+                    "coordenada": "41°59′47″S 65°17′37″W"
                 },
                 {
                     "localidad": "Puerto Lobos",
-                    "coordenada": "42°00′00″S 65°04′19″O"
+                    "coordenada": "42°00′00″S 65°04′19″W"
                 },
                 {
                     "localidad": "Riacho San José",
-                    "coordenada": "42°25′35″S 64°36′56″O"
+                    "coordenada": "42°25′35″S 64°36′56″W"
                 },
                 {
                     "localidad": "Playa El Doradillo",
-                    "coordenada": "42°40′13″S 64°59′19″O"
+                    "coordenada": "42°40′13″S 64°59′19″W"
                 },
                 {
                     "localidad": "Puerto Galván",
@@ -56,119 +56,119 @@
                 },
                 {
                     "localidad": "Puerto San José",
-                    "coordenada": "42°25′41″S 64°08′27″O"
+                    "coordenada": "42°25′41″S 64°08′27″W"
                 }
             ]
         },
         {
             "departamento": "Cushamen",
-            "coordenadas": "42°54′00″S 71°19′00″O",
+            "coordenadas": "42°54′00″S 71°19′00″W",
             "localidades": [
                 {
                     "localidad": "Buenos Aires Chico",
-                    "coordenada": "42°05′00″S 71°14′00″O"
+                    "coordenada": "42°05′00″S 71°14′00″W"
                 },
                 {
                     "localidad": "Cholila",
-                    "coordenada": "42°30′41″S 71°25′51″O"
+                    "coordenada": "42°30′41″S 71°25′51″W"
                 },
                 {
                     "localidad": "Cushamen",
-                    "coordenada": "42°10′23″S 70°39′39″O"
+                    "coordenada": "42°10′23″S 70°39′39″W"
                 },
                 {
                     "localidad": "El Hoyo",
-                    "coordenada": "42°03′48″S 71°31′13″O"
+                    "coordenada": "42°03′48″S 71°31′13″W"
                 },
                 {
                     "localidad": "El Maitén",
-                    "coordenada": "42°03′00″S 71°10′00″O"
+                    "coordenada": "42°03′00″S 71°10′00″W"
                 },
                 {
                     "localidad": "Epuyén",
-                    "coordenada": "42°14′00″S 71°21′00″O"
+                    "coordenada": "42°14′00″S 71°21′00″W"
                 },
                 {
                     "localidad": "Gualjaina",
-                    "coordenada": "42°43′30″S 70°32′10″O"
+                    "coordenada": "42°43′30″S 70°32′10″W"
                 },
                 {
                     "localidad": "Lago Epuyén",
-                    "coordenada": "42°12′57″S 71°25′44″O"
+                    "coordenada": "42°12′57″S 71°25′44″W"
                 },
                 {
                     "localidad": "Cerro Radal",
-                    "coordenada": "42°01′53″S 71°37′03″O"
+                    "coordenada": "42°01′53″S 71°37′03″W"
                 },
                 {
                     "localidad": "Lago Puelo",
-                    "coordenada": "42°04′00″S 71°37′00″O"
+                    "coordenada": "42°04′00″S 71°37′00″W"
                 },
                 {
                     "localidad": "Leleque",
-                    "coordenada": "42°24′45″S 71°04′18″O"
+                    "coordenada": "42°24′45″S 71°04′18″W"
                 }
             ]
         },
         {
             "departamento": "Escalante",
-            "coordenadas": "45°52′00″S 67°30′00″O",
+            "coordenadas": "45°52′00″S 67°30′00″W",
             "localidades": [
                 {
                     "localidad": "Comodoro Rivadavia",
-                    "coordenada": "45°52′00″S 67°30′00″O"
+                    "coordenada": "45°52′00″S 67°30′00″W"
                 },
                 {
                     "localidad": "Acceso Norte",
-                    "coordenada": "45°46′57″S 67°29′35″O"
+                    "coordenada": "45°46′57″S 67°29′35″W"
                 },
                 {
                     "localidad": "Barrio Militar - Aeropuerto",
-                    "coordenada": "45°47′40″S 67°28′25″O"
+                    "coordenada": "45°47′40″S 67°28′25″W"
                 },
                 {
                     "localidad": "Caleta Córdova",
-                    "coordenada": "45°44′00″S 67°04′00″O"
+                    "coordenada": "45°44′00″S 67°04′00″W"
                 },
                 {
                     "localidad": "Caleta Olivares",
-                    "coordenada": "45°46′00″S 67°22′00″O"
+                    "coordenada": "45°46′00″S 67°22′00″W"
                 },
                 {
                     "localidad": "Castelli",
-                    "coordenada": "45°48′57″S 67°28′16″O"
+                    "coordenada": "45°48′57″S 67°28′16″W"
                 },
                 {
                     "localidad": "Ciudadela",
-                    "coordenada": "45°47′46″S 67°30′11″O"
+                    "coordenada": "45°47′46″S 67°30′11″W"
                 },
                 {
                     "localidad": "Cuarteles",
-                    "coordenada": "45°46′12″S 67°26′13″O"
+                    "coordenada": "45°46′12″S 67°26′13″W"
                 },
                 {
                     "localidad": "Don Bosco",
-                    "coordenada": "45°48′00″S 67°32′00″O"
+                    "coordenada": "45°48′00″S 67°32′00″W"
                 },
                 {
                     "localidad": "General Mosconi",
-                    "coordenada": "45°42′00″S 67°28′00″O"
+                    "coordenada": "45°42′00″S 67°28′00″W"
                 },
                 {
                     "localidad": "Gas del Estado",
-                    "coordenada": "45°47′46″S 67°30′11″O"
+                    "coordenada": "45°47′46″S 67°30′11″W"
                 },
                 {
                     "localidad": "Güemes",
-                    "coordenada": "45°42′00″S 67°28′00″O"
+                    "coordenada": "45°42′00″S 67°28′00″W"
                 },
                 {
                     "localidad": "Laprida",
-                    "coordenada": "45°49′41″S 67°32′33″O"
+                    "coordenada": "45°49′41″S 67°32′33″W"
                 },
                 {
                     "localidad": "Manantial Rosales",
-                    "coordenada": "45°49′24″S 67°31′37″O"
+                    "coordenada": "45°49′24″S 67°31′37″W"
                 },
                 {
                     "localidad": "Próspero Palazzo",
@@ -176,193 +176,193 @@
                 },
                 {
                     "localidad": "Presidente Ortiz",
-                    "coordenada": "45°49′00″S 67°27′00″O"
+                    "coordenada": "45°49′00″S 67°27′00″W"
                 },
                 {
                     "localidad": "Rada Tilly",
-                    "coordenada": "45°55′32″S 67°33′09″O"
+                    "coordenada": "45°55′32″S 67°33′09″W"
                 },
                 {
                     "localidad": "Restinga Alí",
-                    "coordenada": "45°48′00″S 67°25′00″O"
+                    "coordenada": "45°48′00″S 67°25′00″W"
                 },
                 {
                     "localidad": "Rodríguez Peña",
-                    "coordenada": "45°48′41″S 67°28′25″O"
+                    "coordenada": "45°48′41″S 67°28′25″W"
                 },
                 {
                     "localidad": "Saavedra",
-                    "coordenada": "45°50′27″S 67°30′18″O"
+                    "coordenada": "45°50′27″S 67°30′18″W"
                 },
                 {
                     "localidad": "Sarmiento",
-                    "coordenada": "45°49′08″S 67°30′11″O"
+                    "coordenada": "45°49′08″S 67°30′11″W"
                 },
                 {
                     "localidad": "25 de mayo",
-                    "coordenada": "45°47′40″S 67°28′25″O"
+                    "coordenada": "45°47′40″S 67°28′25″W"
                 },
                 {
                     "localidad": "Villa S.U.P.E.",
-                    "coordenada": "45°49′18″S 67°30′06″O"
+                    "coordenada": "45°49′18″S 67°30′06″W"
                 }
             ]
         },
         {
             "departamento": "Florentino Ameghino",
-            "coordenadas": "44°46′00″S 65°43′00″O",
+            "coordenadas": "44°46′00″S 65°43′00″W",
             "localidades": [
                 {
                     "localidad": "Camarones",
-                    "coordenada": "44°48′S 65°42′O"
+                    "coordenada": "44°48′S 65°42′W"
                 },
                 {
                     "localidad": "Garayalde",
-                    "coordenada": "44°40′00″S 66°40′00″O"
+                    "coordenada": "44°40′00″S 66°40′00″W"
                 }
             ]
         },
         {
             "departamento": "Futaleufú",
-            "coordenadas": "42°54′00″S 71°19′00″O",
+            "coordenadas": "42°54′00″S 71°19′00″W",
             "localidades": [
                 {
                     "localidad": "Esquel",
-                    "coordenada": "42°54′00″S 71°19′00″O"
+                    "coordenada": "42°54′00″S 71°19′00″W"
                 },
                 {
                     "localidad": "Trevelin",
-                    "coordenada": "43°05′00″S 71°28′00″O"
+                    "coordenada": "43°05′00″S 71°28′00″W"
                 },
                 {
                     "localidad": "Corcovado",
-                    "coordenada": "43°32′23″S 71°28′05″O"
+                    "coordenada": "43°32′23″S 71°28′05″W"
                 },
                 {
                     "localidad": "Cerro centinela",
-                    "coordenada": "43°28′54″S 71°35′55″O"
+                    "coordenada": "43°28′54″S 71°35′55″W"
                 },
                 {
                     "localidad": "Lago Rosario",
-                    "coordenada": "43°15′01″S 71°20′56″O"
+                    "coordenada": "43°15′01″S 71°20′56″W"
                 },
                 {
                     "localidad": "Los Cipreses",
-                    "coordenada": "43°10′00″S 71°45′00″O"
+                    "coordenada": "43°10′00″S 71°45′00″W"
                 },
                 {
                     "localidad": "Villa Futalaufquen",
-                    "coordenada": "42°53′41″S 71°36′58″O"
+                    "coordenada": "42°53′41″S 71°36′58″W"
                 }
             ]
         },
         {
             "departamento": "Gaiman",
-            "coordenadas": "43°16′00″S 65°28′00″O",
+            "coordenadas": "43°16′00″S 65°28′00″W",
             "localidades": [
                 {
                     "localidad": "Villa Dique Florentino Ameghino",
-                    "coordenada": "43°42′S 66°28′O"
+                    "coordenada": "43°42′S 66°28′W"
                 },
                 {
                     "localidad": "Dolavon",
-                    "coordenada": "43°18′S 65°42′O"
+                    "coordenada": "43°18′S 65°42′W"
                 },
                 {
                     "localidad": "Gaiman",
-                    "coordenada": "43°17′00″S 65°29′00″O"
+                    "coordenada": "43°17′00″S 65°29′00″W"
                 },
                 {
                     "localidad": "Veintiocho de Julio",
-                    "coordenada": "43°23′26″S 65°50′22″O"
+                    "coordenada": "43°23′26″S 65°50′22″W"
                 }
             ]
         },
         {
             "departamento": "Gastre",
-            "coordenadas": "42°16′00″S 69°13′00″O",
+            "coordenadas": "42°16′00″S 69°13′00″W",
             "localidades": [
                 {
                     "localidad": "Gastre",
-                    "coordenada": "42°16′00″S 69°13′00″O"
+                    "coordenada": "42°16′00″S 69°13′00″W"
                 },
                 {
                     "localidad": "Lagunita Salada",
-                    "coordenada": "42°44′35″S 69°08′49″O"
+                    "coordenada": "42°44′35″S 69°08′49″W"
                 },
                 {
                     "localidad": "Blancuntre",
-                    "coordenada": "42°37′14″S 68°54′14″O"
+                    "coordenada": "42°37′14″S 68°54′14″W"
                 },
                 {
                     "localidad": "El Escorial",
-                    "coordenada": "43°05′26″S 68°32′22″O"
+                    "coordenada": "43°05′26″S 68°32′22″W"
                 },
                 {
                     "localidad": "Yala Laubat",
-                    "coordenada": "42°45′35″S 68°51′59″O"
+                    "coordenada": "42°45′35″S 68°51′59″W"
                 }
             ]
         },
         {
             "departamento": "Languiñeo",
-            "coordenadas": "43°28′00″S 70°47′00″O",
+            "coordenadas": "43°28′00″S 70°47′00″W",
             "localidades": [
                 {
                     "localidad": "Tecka",
-                    "coordenada": "43°29′33″S 70°48′39″O"
+                    "coordenada": "43°29′33″S 70°48′39″W"
                 },
                 {
                     "localidad": "Paso del Sapo",
-                    "coordenada": "42°44′00″S 69°36′00″O"
+                    "coordenada": "42°44′00″S 69°36′00″W"
                 },
                 {
                     "localidad": "Carrenleufú",
-                    "coordenada": "43°35′00″S 71°42′00″O"
+                    "coordenada": "43°35′00″S 71°42′00″W"
                 },
                 {
                     "localidad": "Colan Conhué",
-                    "coordenada": "43°14′27″S 69°55′50″O"
+                    "coordenada": "43°14′27″S 69°55′50″W"
                 },
                 {
                     "localidad": "Aldea Epulef",
-                    "coordenada": "43°19′15″S 69°41′40″O"
+                    "coordenada": "43°19′15″S 69°41′40″W"
                 }
             ]
         },
         {
             "departamento": "Mártires",
-            "coordenadas": "43°43′00″S 67°15′00″O",
+            "coordenadas": "43°43′00″S 67°15′00″W",
             "localidades": [
                 {
                     "localidad": "Las Plumas",
-                    "coordenada": "43°43′00″S 67°15′00″O"
+                    "coordenada": "43°43′00″S 67°15′00″W"
                 },
                 {
                     "localidad": "El Mirasol",
-                    "coordenada": "43°17′01″S 67°45′39″O"
+                    "coordenada": "43°17′01″S 67°45′39″W"
                 }
             ]
         },
         {
             "departamento": "Paso de Indios",
-            "coordenadas": "43°51′00″S 69°02′00″O",
+            "coordenadas": "43°51′00″S 69°02′00″W",
             "localidades": [
                 {
                     "localidad": "Los Altares",
-                    "coordenada": "43°53′31″S 68°23′31″O"
+                    "coordenada": "43°53′31″S 68°23′31″W"
                 },
                 {
                     "localidad": "Cerro Cóndor",
-                    "coordenada": "43°25′16″S 69°09′47″O"
+                    "coordenada": "43°25′16″S 69°09′47″W"
                 },
                 {
                     "localidad": "Paso de Indios",
-                    "coordenada": "43°54′00″S 69°04′00″O"
+                    "coordenada": "43°54′00″S 69°04′00″W"
                 },
                 {
                     "localidad": "Cajón de Ginebra Grande",
-                    "coordenada": "43°46′08″S 69°26′17″O"
+                    "coordenada": "43°46′08″S 69°26′17″W"
                 },
                 {
                     "localidad": "Cajón de Ginebra Chico",
@@ -374,117 +374,117 @@
                 },
                 {
                     "localidad": "El Sombrero",
-                    "coordenada": "44°10′00″S 68°16′00″O"
+                    "coordenada": "44°10′00″S 68°16′00″W"
                 }
             ]
         },
         {
             "departamento": "Rawson",
-            "coordenadas": "43°17′00″S 65°05′00″O",
+            "coordenadas": "43°17′00″S 65°05′00″W",
             "localidades": [
                 {
                     "localidad": "Playa Unión",
-                    "coordenada": "43°19′00″S 65°02′00″O"
+                    "coordenada": "43°19′00″S 65°02′00″W"
                 },
                 {
                     "localidad": "Puerto Rawson",
-                    "coordenada": "43°20′00″S 65°03′00″O"
+                    "coordenada": "43°20′00″S 65°03′00″W"
                 },
                 {
                     "localidad": "Rawson",
-                    "coordenada": "43°18′S 65°06′O"
+                    "coordenada": "43°18′S 65°06′W"
                 },
                 {
                     "localidad": "Trelew",
-                    "coordenada": "43°15′12″S 65°18′34″O"
+                    "coordenada": "43°15′12″S 65°18′34″W"
                 },
                 {
                     "localidad": "Playa Magagna",
-                    "coordenada": "43°22′56″S 65°02′42″O"
+                    "coordenada": "43°22′56″S 65°02′42″W"
                 }
             ]
         },
         {
             "departamento": "Río Senguer",
-            "coordenadas": "45°01′00″S 70°49′00″O",
+            "coordenadas": "45°01′00″S 70°49′00″W",
             "localidades": [
                 {
                     "localidad": "Río Mayo",
-                    "coordenada": "45°41′13″S 70°15′36″O"
+                    "coordenada": "45°41′13″S 70°15′36″W"
                 },
                 {
                     "localidad": "Alto Río Senguer",
-                    "coordenada": "45°02′31″S 70°49′24″O"
+                    "coordenada": "45°02′31″S 70°49′24″W"
                 },
                 {
                     "localidad": "Doctor Ricardo Rojas",
-                    "coordenada": "45°34′00″S 71°04′00″O"
+                    "coordenada": "45°34′00″S 71°04′00″W"
                 },
                 {
                     "localidad": "Lago Blanco",
-                    "coordenada": "45°55′00″S 71°15′00″O"
+                    "coordenada": "45°55′00″S 71°15′00″W"
                 },
                 {
                     "localidad": "Aldea Beleiro",
-                    "coordenada": "45°33′10″S 71°31′18″O"
+                    "coordenada": "45°33′10″S 71°31′18″W"
                 },
                 {
                     "localidad": "Facundo",
-                    "coordenada": "45°17′00″S 69°57′00″O"
+                    "coordenada": "45°17′00″S 69°57′00″W"
                 },
                 {
                     "localidad": "Aldea Apeleg",
-                    "coordenada": "44°41′14″S 70°51′12″O"
+                    "coordenada": "44°41′14″S 70°51′12″W"
                 }
             ]
         },
         {
             "departamento": "Sarmiento",
-            "coordenadas": "45°35′00″S 69°05′00″O",
+            "coordenadas": "45°35′00″S 69°05′00″W",
             "localidades": [
                 {
                     "localidad": "Buen Pasto",
-                    "coordenada": "45°05′00″S 69°28′00″O"
+                    "coordenada": "45°05′00″S 69°28′00″W"
                 },
                 {
                     "localidad": "Sarmiento",
-                    "coordenada": "45°36′00″S 69°05′00″O"
+                    "coordenada": "45°36′00″S 69°05′00″W"
                 }
             ]
         },
         {
             "departamento": "Tehuelches",
-            "coordenadas": "44°01′00″S 70°28′00″O",
+            "coordenadas": "44°01′00″S 70°28′00″W",
             "localidades": [
                 {
                     "localidad": "Gobernador Costa",
-                    "coordenada": "44°04′00″S 70°35′00″O"
+                    "coordenada": "44°04′00″S 70°35′00″W"
                 },
                 {
                     "localidad": "José de San Martín",
-                    "coordenada": "44°01′00″S 70°28′00″O"
+                    "coordenada": "44°01′00″S 70°28′00″W"
                 },
                 {
                     "localidad": "Río Pico",
-                    "coordenada": "44°10′47″S 71°22′09″O"
+                    "coordenada": "44°10′47″S 71°22′09″W"
                 },
                 {
                     "localidad": "Doctor Atilio Oscar Viglione",
-                    "coordenada": "44°11′30″S 71°39′52″O"
+                    "coordenada": "44°11′30″S 71°39′52″W"
                 }
             ]
         },
         {
             "departamento": "Telsen",
-            "coordenadas": "42°23′00″S 66°57′00″O",
+            "coordenadas": "42°23′00″S 66°57′00″W",
             "localidades": [
                 {
                     "localidad": "Gan Gan",
-                    "coordenada": "42°30′00″S 68°16′00″O"
+                    "coordenada": "42°30′00″S 68°16′00″W"
                 },
                 {
                     "localidad": "Telsen",
-                    "coordenada": "42°23′00″S 66°57′00″O"
+                    "coordenada": "42°23′00″S 66°57′00″W"
                 }
             ]
         }

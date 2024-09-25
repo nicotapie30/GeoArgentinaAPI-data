@@ -3,7 +3,7 @@
     "departamentos": [
         {
             "departamento": "Aluminé",
-            "coordenadas": "39°14′18″S 70°54′56″O",
+            "coordenadas": "39°14′18″S 70°54′56″W",
             "localidades": [
                 {
                     "localidad": "Aluminé",
@@ -21,169 +21,169 @@
         },
         {
             "departamento": "Añelo",
-            "coordenadas": "38°21′15″S 68°47′16″O",
+            "coordenadas": "38°21′15″S 68°47′16″W",
             "localidades": [
                 {
                     "localidad": "San Patricio del Chañar",
-                    "coordenada": "38°37′33″S 68°18′00″O"
+                    "coordenada": "38°37′33″S 68°18′00″W"
                 },
                 {
                     "localidad": "Añelo",
-                    "coordenada": "38°21′00″S 68°47′00″O"
+                    "coordenada": "38°21′00″S 68°47′00″W"
                 }
             ]
         },
         {
             "departamento": "Catán Lil",
-            "coordenadas": "39°33′24″S 70°35′38″O",
+            "coordenadas": "39°33′24″S 70°35′38″W",
             "localidades": [
                 {
                     "localidad": "Las Coloradas",
-                    "coordenada": "39°33′00″S 70°35′00″O"
+                    "coordenada": "39°33′00″S 70°35′00″W"
                 }
             ]
         },
         {
             "departamento": "Chos Malal",
-            "coordenadas": "37°22′42″S 70°16′20″O",
+            "coordenadas": "37°22′42″S 70°16′20″W",
             "localidades": [
                 {
                     "localidad": "Chos Malal",
-                    "coordenada": "37°23′00″S 70°16′00″O"
+                    "coordenada": "37°23′00″S 70°16′00″W"
                 },
                 {
                     "localidad": "Tricao Malal",
-                    "coordenada": "37°03′00″S 70°19′00″O"
+                    "coordenada": "37°03′00″S 70°19′00″W"
                 },
                 {
                     "localidad": "Coyuco-Cochico",
-                    "coordenada": "36°29′13″S 70°14′11″O"
+                    "coordenada": "36°29′13″S 70°14′11″W"
                 },
                 {
                     "localidad": "Villa Curí Leuvú",
-                    "coordenada": "37°07′48″S 70°23′53″O"
+                    "coordenada": "37°07′48″S 70°23′53″W"
                 }
             ]
         },
         {
             "departamento": "Collón Curá",
-            "coordenadas": "40°02′54″S 70°04′30″O",
+            "coordenadas": "40°02′54″S 70°04′30″W",
             "localidades": [
                 {
                     "localidad": "Piedra del Águila",
-                    "coordenada": "40°03′00″S 70°04′40″O"
+                    "coordenada": "40°03′00″S 70°04′40″W"
                 },
                 {
                     "localidad": "Santo Tomás",
-                    "coordenada": "39°49′20″S 70°05′57″O"
+                    "coordenada": "39°49′20″S 70°05′57″W"
                 }
             ]
         },
         {
             "departamento": "Confluencia",
-            "coordenadas": "38°57′05″S 68°03′33″O",
+            "coordenadas": "38°57′05″S 68°03′33″W",
             "localidades": [
                 {
                     "localidad": "Neuquén",
-                    "coordenada": "38°57′07″S 68°03′33″O"
+                    "coordenada": "38°57′07″S 68°03′33″W"
                 },
                 {
                     "localidad": "Centenario",
-                    "coordenada": "38°49′00″S 68°08′00″O"
+                    "coordenada": "38°49′00″S 68°08′00″W"
                 },
                 {
                     "localidad": "Plottier",
-                    "coordenada": "38°57′00″S 68°14′00″O"
+                    "coordenada": "38°57′00″S 68°14′00″W"
                 },
                 {
                     "localidad": "Vista Alegre",
-                    "coordenada": "38°45′00″S 68°11′00″O"
+                    "coordenada": "38°45′00″S 68°11′00″W"
                 },
                 {
                     "localidad": "Senillosa",
-                    "coordenada": "39°01′S 68°26′O"
+                    "coordenada": "39°01′S 68°26′W"
                 },
                 {
                     "localidad": "Sauzal Bonito",
-                    "coordenada": "38°36′00″S 69°06′14″O"
+                    "coordenada": "38°36′00″S 69°06′14″W"
                 },
                 {
                     "localidad": "Cutral-Co",
-                    "coordenada": "38°56′00″S 69°14′00″O"
+                    "coordenada": "38°56′00″S 69°14′00″W"
                 },
                 {
                     "localidad": "Plaza Huincul",
-                    "coordenada": "38°56′02″S 69°11′55″O"
+                    "coordenada": "38°56′02″S 69°11′55″W"
                 },
                 {
                     "localidad": "Villa El Chocón",
-                    "coordenada": "39°16′S 68°47′O"
+                    "coordenada": "39°16′S 68°47′W"
                 },
                 {
                     "localidad": "Arroyito",
-                    "coordenada": "39°06′07″S 68°35′56″O"
+                    "coordenada": "39°06′07″S 68°35′56″W"
                 },
                 {
                     "localidad": "Mari Menuco",
-                    "coordenada": "38°32′S 68°33′O"
+                    "coordenada": "38°32′S 68°33′W"
                 }
             ]
         },
         {
             "departamento": "Huiliches",
-            "coordenadas": "39°57′03″S 71°04′15″O",
+            "coordenadas": "39°57′03″S 71°04′15″W",
             "localidades": [
                 {
                     "localidad": "Junín de los Andes",
-                    "coordenada": "39°57′02″S 71°04′10″O"
+                    "coordenada": "39°57′02″S 71°04′10″W"
                 }
             ]
         },
         {
             "departamento": "Lácar",
-            "coordenadas": "40°09′24″S 71°21′09″O",
+            "coordenadas": "40°09′24″S 71°21′09″W",
             "localidades": [
                 {
                     "localidad": "San Martín de los Andes",
-                    "coordenada": "40°10′00″S 71°21′00″O"
+                    "coordenada": "40°10′00″S 71°21′00″W"
                 },
                 {
                     "localidad": "Villa Meliquina",
-                    "coordenada": "40°22′31″S 71°15′30″O"
+                    "coordenada": "40°22′31″S 71°15′30″W"
                 }
             ]
         },
         {
             "departamento": "Loncopué",
-            "coordenadas": "38°04′00″S 70°36′53″O",
+            "coordenadas": "38°04′00″S 70°36′53″W",
             "localidades": [
                 {
                     "localidad": "Loncopué",
-                    "coordenada": "38°04′00″S 70°37′00″O"
+                    "coordenada": "38°04′00″S 70°37′00″W"
                 },
                 {
                     "localidad": "Chorriaca",
-                    "coordenada": "37°54′00″S 70°08′00″O"
+                    "coordenada": "37°54′00″S 70°08′00″W"
                 }
             ]
         },
         {
             "departamento": "Los Lagos",
-            "coordenadas": "40°45′43″S 71°38′35″O",
+            "coordenadas": "40°45′43″S 71°38′35″W",
             "localidades": [
                 {
                     "localidad": "Villa La Angostura",
-                    "coordenada": "40°45′42″S 71°38′41″O"
+                    "coordenada": "40°45′42″S 71°38′41″W"
                 },
                 {
                     "localidad": "Villa Traful",
-                    "coordenada": "40°38′05″S 71°25′36″O"
+                    "coordenada": "40°38′05″S 71°25′36″W"
                 }
             ]
         },
         {
             "departamento": "Minas",
-            "coordenadas": "37°10′47″S 70°40′11″O",
+            "coordenadas": "37°10′47″S 70°40′11″W",
             "localidades": [
                 {
                     "localidad": "Andacollo",
@@ -217,7 +217,7 @@
         },
         {
             "departamento": "Ñorquín",
-            "coordenadas": "37°38′41″S 70°34′54″O",
+            "coordenadas": "37°38′41″S 70°34′54″W",
             "localidades": [
                 {
                     "localidad": "Caviahue",
@@ -247,19 +247,19 @@
             "localidades": [
                 {
                     "localidad": "Rincón de los Sauces",
-                    "coordenada": "37°23′25″S 68°55′31″O"
+                    "coordenada": "37°23′25″S 68°55′31″W"
                 },
                 {
                     "localidad": "Buta Ranquil",
-                    "coordenada": "37°03′05″S 69°52′40″O"
+                    "coordenada": "37°03′05″S 69°52′40″W"
                 },
                 {
                     "localidad": "Barrancas",
-                    "coordenada": "36°49′15″S 69°54′52″O"
+                    "coordenada": "36°49′15″S 69°54′52″W"
                 },
                 {
                     "localidad": "Octavio Pico",
-                    "coordenada": "37°35′22″S 68°15′29″O"
+                    "coordenada": "37°35′22″S 68°15′29″W"
                 }
             ]
         },
@@ -269,21 +269,21 @@
             "localidades": [
                 {
                     "localidad": "Picún Leufú",
-                    "coordenada": "39°31′25″S 69°16′47″O"
+                    "coordenada": "39°31′25″S 69°16′47″W"
                 },
                 {
                     "localidad": "Paso Aguerre",
-                    "coordenada": "39°20′17″S 69°50′35″O"
+                    "coordenada": "39°20′17″S 69°50′35″W"
                 },
                 {
                     "localidad": "El Sauce",
-                    "coordenada": "39°27′47″S 69°31′51″O"
+                    "coordenada": "39°27′47″S 69°31′51″W"
                 }
             ]
         },
         {
             "departamento": "Picunches",
-            "coordenadas": "38°31′24″S 70°21′42″O",
+            "coordenadas": "38°31′24″S 70°21′42″W",
             "localidades": [
                 {
                     "localidad": "Bajada del Agrio",
@@ -305,23 +305,23 @@
         },
         {
             "departamento": "Zapala",
-            "coordenadas": "38°54′10″S 70°03′53″O",
+            "coordenadas": "38°54′10″S 70°03′53″W",
             "localidades": [
                 {
                     "localidad": "Zapala",
-                    "coordenada": "38°54′10″S 70°03′54″O"
+                    "coordenada": "38°54′10″S 70°03′54″W"
                 },
                 {
                     "localidad": "Mariano Moreno",
-                    "coordenada": "38°44′00″S 70°01′00″O"
+                    "coordenada": "38°44′00″S 70°01′00″W"
                 },
                 {
                     "localidad": "Ramón M. Castro",
-                    "coordenada": "38°51′S 69°45′O"
+                    "coordenada": "38°51′S 69°45′W"
                 },
                 {
                     "localidad": "Los Catutos",
-                    "coordenada": "38°50′12″S 70°11′53″O"
+                    "coordenada": "38°50′12″S 70°11′53″W"
                 }
             ]
         }

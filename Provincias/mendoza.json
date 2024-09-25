@@ -1,0 +1,288 @@
+{
+    "provincia": "Mendoza",
+    "departamentos": [
+        {
+            "departamento": "Capital",
+            "coordenadas": "32°53′23″S 68°50′40″W",
+            "localidades": [
+                {
+                    "localidad": "Mendoza",
+                    "coordenada": "32°53′23″S 68°50′40″W"
+                }
+            ]
+        },
+        {
+            "departamento": "General Alvear",
+            "coordenadas": "34°58′00″S 67°42′00″W",
+            "localidades": [
+                {
+                    "localidad": "Bowen",
+                    "coordenada": "35°00′00″S 67°31′00″W"
+                },
+                {
+                    "localidad": "Carmensa",
+                    "coordenada": "35°08′59″S 67°39′11″W"
+                },
+                {
+                    "localidad": "General Alvear",
+                    "coordenada": "34°58′00″S 67°42′00″W"
+                },
+                {
+                    "localidad": "Los Compartos",
+                    "coordenada": "34°55′23″S 67°34′53″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Godoy Cruz",
+            "coordenadas": "32°55′00″S 68°49′00″W",
+            "localidades": [
+                {
+                    "localidad": "Godoy Cruz",
+                    "coordenada": "32°55′00″S 68°50′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Guaymallén",
+            "coordenadas": "32°54′00″S 68°47′00″W",
+            "localidades": [
+                {
+                    "localidad": "Colonia Segovia",
+                    "coordenada": "S 32.84873 W 68.71682"
+                },
+                {
+                    "localidad": "Guaymallén (Villa Nueva)",
+                    "coordenada": "S 32.90164 W 68.78858"
+                },
+                {
+                    "localidad": "La Primavera",
+                    "coordenada": "S 32.92385 W 68.66983"
+                },
+                {
+                    "localidad": "Los Corralitos",
+                    "coordenada": "S 32.89982 W 68.69869"
+                },
+                {
+                    "localidad": "Puente de Hierro",
+                    "coordenada": "S 32.86661 W 68.66670"
+                }
+            ]
+        },
+        {
+            "departamento": "Junín",
+            "coordenadas": "33°15′00″S 68°43′00″W",
+            "localidades": [
+                {
+                    "localidad": "Ingeniero Giagnoni",
+                    "coordenada": "S 33.12141 W 68.40982"
+                },
+                {
+                    "localidad": "Junín",
+                    "coordenada": "S 33.14589 W 68.48489"
+                },
+                {
+                    "localidad": "La Colonia",
+                    "coordenada": "S 33.09560 W 68.48215"
+                },
+                {
+                    "localidad": "Los Barriales",
+                    "coordenada": "S 33.09772 W 68.57073"
+                },
+                {
+                    "localidad": "Medrano",
+                    "coordenada": "S 33.18109 W 68.61417"
+                },
+                {
+                    "localidad": "Phillips",
+                    "coordenada": "S 32.89084 W 68.82717"
+                },
+                {
+                    "localidad": "Rodríguez Peña",
+                    "coordenada": "S 33.12131 W 68.59795"
+                }
+            ]
+        },
+        {
+            "departamento": "La Paz",
+            "coordenadas": "33°28′00″S 67°33′00″W",
+            "localidades": [
+                {
+                    "localidad": "Desaguadero",
+                    "coordenada": "S 33.40366 W 67.15684"
+                },
+                {
+                    "localidad": "La Paz",
+                    "coordenada": "S 33.46156 W 67.55226"
+                },
+                {
+                    "localidad": "Villa Antigua",
+                    "coordenada": "S 33.46500 W 67.59391"
+                }
+            ]
+        },
+        {
+            "departamento": "Las Heras",
+            "coordenadas": "32°51′00″S 68°49′00″W",
+            "localidades": [
+                {
+                    "localidad": "Blanco Encalada",
+                    "coordenada": "S 33.04201 W 69.04919"
+                },
+                {
+                    "localidad": "Jocolí",
+                    "coordenada": "S 32.58462 W 68.66753"
+                },
+                {
+                    "localidad": "Las Cuevas",
+                    "coordenada": "S 32.81352 W 70.04855"
+                },
+                {
+                    "localidad": "Las Heras",
+                    "coordenada": "S 32.85033 W 68.84063"
+                },
+                {
+                    "localidad": "Los Penitentes",
+                    "coordenada": "S 32.84112 W 69.84117"
+                },
+                {
+                    "localidad": "Polvaredas",
+                    "coordenada": "S 32.79294 W 69.65194"
+                },
+                {
+                    "localidad": "Puente del Inca",
+                    "coordenada": "S 32.82650 W 69.91120"
+                },
+                {
+                    "localidad": "Punta de Vacas",
+                    "coordenada": "S 32.85140 W 69.75453"
+                },
+                {
+                    "localidad": "Uspallata",
+                    "coordenada": "S 32.59081 W 69.34655"
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        }
+        
+    ]
+}
