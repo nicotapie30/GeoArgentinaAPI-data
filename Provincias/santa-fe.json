@@ -1,0 +1,903 @@
+{
+    "provincia": "Santa Fe",
+    "departamentos": [
+        {
+            "departamento": "Belgrano",
+            "coordenadas": "32°30′S 61°45′W",
+            "localidades": [
+                {
+                    "localidad": "Armstrong",
+                    "coordenada": "32°46′55″S 61°36′07″W"
+                },
+                {
+                    "localidad": "Las Parejas",
+                    "coordenada": "32°41′00″S 61°32′00″W"
+                },
+                {
+                    "localidad": "Iturraspe",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Las Rosas",
+                    "coordenada": "32°29′00″S 61°35′00″W"
+                },
+                {
+                    "localidad": "Bouquet",
+                    "coordenada": "32°25′00″S 61°54′00″W"
+                },
+                {
+                    "localidad": "Montes de Oca",
+                    "coordenada": "32°33′59″S 61°46′07″W"
+                },
+                {
+                    "localidad": "Tortugas",
+                    "coordenada": "32°44′00″S 61°49′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Caseros",
+            "coordenadas": "33°03′00″S 61°10′00″W",
+            "localidades": [
+                {
+                    "localidad": "Casilda",
+                    "coordenada": "33°02′39″S 61°10′05″W"
+                },
+                {
+                    "localidad": "Arequito",
+                    "coordenada": "33°09′00″S 61°28′00″W"
+                },
+                {
+                    "localidad": "Arteaga",
+                    "coordenada": "33°05′00″S 61°48′00″W"
+                },
+                {
+                    "localidad": "Berabevú",
+                    "coordenada": "33°20′38″S 61°51′44″W"
+                },
+                {
+                    "localidad": "Bigand",
+                    "coordenada": "33°23′00″S 61°11′00″W"
+                },
+                {
+                    "localidad": "Chabás",
+                    "coordenada": "33°15′00″S 61°22′00″W"
+                },
+                {
+                    "localidad": "Chañar Ladeado",
+                    "coordenada": "33°18′S 62°03′W"
+                },
+                {
+                    "localidad": "Gödeken",
+                    "coordenada": "33°23′00″S 61°50′00″W"
+                },
+                {
+                    "localidad": "Los Molinos",
+                    "coordenada": "33°07′00″S 61°20′01″W"
+                },
+                {
+                    "localidad": "Colonia Hansen",
+                    "coordenada": "33°16′04″S 61°42′21″W"
+                },
+                {
+                    "localidad": "Los Quirquinchos",
+                    "coordenada": "33°22′00″S 61°43′00″W"
+                },
+                {
+                    "localidad": "Los Nogales",
+                    "coordenada": "33°08′30″S 61°36′26″W"
+                },
+                {
+                    "localidad": "San José de la Esquina",
+                    "coordenada": "33°06′46″S 61°42′33″W"
+                },
+                {
+                    "localidad": "Sanford",
+                    "coordenada": "33°08′42″S 61°16′42″W"
+                },
+                {
+                    "localidad": "Villada",
+                    "coordenada": "33°21′00″S 61°27′01″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Castellanos",
+            "coordenadas": "31°16′00″S 61°29′00″W",
+            "localidades": [
+                {
+                    "localidad": "Rafaela",
+                    "coordenada": "31°16′00″S 61°29′00″W"
+                },
+                {
+                    "localidad": "Frontera",
+                    "coordenada": "31°25′40″S 62°03′43″W"
+                },
+                {
+                    "localidad": "Sunchales",
+                    "coordenada": "30°56′39″S 61°33′41″W"
+                },
+                {
+                    "localidad": "San Vicente",
+                    "coordenada": "31°43′00″S 61°35′00″W"
+                },
+                {
+                    "localidad": "Aldao",
+                    "coordenada": "30°58′47″S 61°44′43″W"
+                },
+                {
+                    "localidad": "Angélica",
+                    "coordenada": "31°33′S 61°33′W"
+                },
+                {
+                    "localidad": "Ataliva",
+                    "coordenada": "30°59′00″S 61°27′00″W"
+                },
+                {
+                    "localidad": "Aurelia",
+                    "coordenada": "31°25′16″S 61°25′30″W"
+                },
+                {
+                    "localidad": "Bauer y Sigel",
+                    "coordenada": "31°16′19″S 61°56′42″W"
+                },
+                {
+                    "localidad": "Bella Italia",
+                    "coordenada": "31°16′52″S 61°24′43″W"
+                },
+                {
+                    "localidad": "Castellanos",
+                    "coordenada": "31°12′29″S 61°43′26″W"
+                },
+                {
+                    "localidad": "Colonia Bicha",
+                    "coordenada": "30°51′11″S 61°50′56″W"
+                },
+                {
+                    "localidad": "Colonia Bigand",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Colonia Cello",
+                    "coordenada": "31°25′52″S 61°50′28″W"
+                },
+                {
+                    "localidad": "Colonia Iturraspe",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Colonia Margarita",
+                    "coordenada": "31°41′06″S 61°38′53″W"
+                },
+                {
+                    "localidad": "Colonia Raquel",
+                    "coordenada": "30°50′10″S 61°29′17″W"
+                },
+                {
+                    "localidad": "Coronel Fraga",
+                    "coordenada": "31°10′26″S 61°55′05″W"
+                },
+                {
+                    "localidad": "Egusquiza",
+                    "coordenada": "31°05′42″S 61°37′37″W"
+                },
+                {
+                    "localidad": "Esmeralda",
+                    "coordenada": "31°37′01″S 61°55′55″W"
+                },
+                {
+                    "localidad": "Estación Clucellas",
+                    "coordenada": "31°31′25″S 61°43′12″W"
+                },
+                {
+                    "localidad": "Eusebia y Carolina",
+                    "coordenada": "30°56′46″S 61°51′25″W"
+                },
+                {
+                    "localidad": "Eustolia",
+                    "coordenada": "31°34′36″S 61°47′00″W"
+                },
+                {
+                    "localidad": "Fidela",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Galisteo",
+                    "coordenada": "31°02′00″S 61°22′00″W"
+                },
+                {
+                    "localidad": "Garibaldi",
+                    "coordenada": "31°39′00″S 61°49′00″W"
+                },
+                {
+                    "localidad": "Hugentobler",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Humberto Primo",
+                    "coordenada": "30°52′06″S 61°20′53″W"
+                },
+                {
+                    "localidad": "Josefina",
+                    "coordenada": "31°24′00″S 61°59′00″W"
+                },
+                {
+                    "localidad": "Lehmann",
+                    "coordenada": "31°08′00″S 61°27′00″W"
+                },
+                {
+                  "localidad": "María Juana",
+                  "coordenada": "31°41′00″S 61°44′00″W"
+                },
+                {
+                    "localidad": "Mauá",
+                    "coordenada": "30°45′54″S 61°16′00″W"
+                },
+                {
+                    "localidad": "Plaza Clucellas",
+                    "coordenada": "31°26′00″S 61°41′00″W"
+                },
+                {
+                    "localidad": "Presidente Roca",
+                    "coordenada": "31°12′43″S 61°36′50″W"
+                },
+                {
+                    "localidad": "Pueblo Marini",
+                    "coordenada": "31°02′20″S 61°53′21″W"
+                },
+                {
+                  "localidad": "Ramona",
+                  "coordenada": "31°06′00″S 61°53′00″W"
+                },
+                {
+                    "localidad": "Saguier",
+                    "coordenada": "31°19′01″S 61°41′42″W"
+                },
+                {
+                    "localidad": "San Antonio",
+                    "coordenada": "31°12′40″S 61°43′30″W"
+                },
+                {
+                    "localidad": "Santa Clara de Saguier",
+                    "coordenada": "31°21′00″S 61°50′00″W"
+                },
+                {
+                    "localidad": "Susana",
+                    "coordenada": "31°22′00″S 61°31′00″W"
+                },
+                {
+                  "localidad": "Tacural",
+                  "coordenada": "30°51′S 61°36′W"
+                },
+                {
+                    "localidad": "Tacurales",
+                    "coordenada": "30°49′19″S 61°44′49″W"
+                },
+                {
+                    "localidad": "Vila",
+                    "coordenada": "31°12′00″S 61°50′00″W"
+                },
+                {
+                  "localidad": "Villa San José",
+                  "coordenada": "31°20′13″S 61°37′16″W"
+                },
+                {
+                    "localidad": "Virginia",
+                    "coordenada": "30°44′24″S 61°20′28″W"
+                },
+                {
+                  "localidad": "Zenón Pereyra",
+                  "coordenada": "31°34′00″S 61°54′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Constitución",
+            "coordenadas": "33°14′00″S 60°20′00″W",
+            "localidades": [
+                {
+                    "localidad": "Barrio Arroyo del Medio",
+                    "coordenada": "33°19′00″S 60°19′00″W"
+                },
+                {
+                    "localidad": "Villa Constitución",
+                    "coordenada": "33°14′00″S 60°20′00″W"
+                },
+                {
+                    "localidad": "Alcorta",
+                    "coordenada": "33°32′00″S 61°07′00″W"
+                },
+                {
+                    "localidad": "Bombal",
+                    "coordenada": "33°27′29″S 61°19′05″W"
+                },
+                {
+                    "localidad": "Cañada Rica",
+                    "coordenada": "33°30′58″S 60°36′45″W"
+                },
+                {
+                    "localidad": "Cepeda",
+                    "coordenada": "33°23′53″S 60°37′26″W"
+                },
+                {
+                    "localidad": "Stephenson",
+                    "coordenada": "33°24′53″S 60°33′37″W"
+                },
+                {
+                  "localidad": "Empalme Villa Constitución",
+                  "coordenada": "33°16′00″S 60°23′00″W"
+                },
+                {
+                    "localidad": "General Gelly",
+                    "coordenada": "33°35′59″S 60°35′52″W"
+                },
+                {
+                    "localidad": "Godoy",
+                    "coordenada": "33°22′00″S 60°30′00″W"
+                },
+                {
+                    "localidad": "Juan Bernabé Molina",
+                    "coordenada": "33°29′37″S 60°30′33″W"
+                },
+                {
+                    "localidad": "Juncal",
+                    "coordenada": "33°42′59″S 61°03′03″W"
+                },
+                {
+                    "localidad": "La Vanguardia",
+                    "coordenada": "33°21′26″S 60°39′20″W"
+                },
+                {
+                    "localidad": "Máximo Paz",
+                    "coordenada": "33°29′00″S 60°57′00″W"
+                },
+                {
+                  "localidad": "Barrio Mitre",
+                  "coordenada": "33°15′07″S 60°23′20″W"
+                },
+                {
+                    "localidad": "Pavón",
+                    "coordenada": "33°15′00″S 60°23′00″W"
+                },
+                {
+                    "localidad": "Pavón Arriba",
+                    "coordenada": "33°19′00″S 60°50′00″W"
+                },
+                {
+                    "localidad": "Peyrano",
+                    "coordenada": "33°32′18″S 60°47′59″W"
+                },
+                {
+                    "localidad": "Rueda",
+                    "coordenada": "33°20′00″S 60°27′00″W"
+                },
+                {
+                  "localidad": "Santa Teresa",
+                  "coordenada": "33°26′12″S 60°47′26″W"
+                },
+                {
+                    "localidad": "Sargento Cabral",
+                    "coordenada": "33°25′49″S 60°37′42″W"
+                },
+                {
+                  "localidad": "Theobald",
+                  "coordenada": "33°19′00″S 60°19′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Garay",
+            "coordenadas": "31°06′00″S 60°05′00″W",
+            "localidades": [
+                {
+                    "localidad": "Cayastá",
+                    "coordenada": "31°12′00″S 60°10′00″W"
+                },
+                {
+                    "localidad": "Colonia Mascías",
+                    "coordenada": "30°52′52″S 60°02′06″W"
+                },
+                {
+                    "localidad": "Helvecia",
+                    "coordenada": "31°06′00″S 60°05′00″W"
+                },
+                {
+                    "localidad": "Saladero Mariano Cabal",
+                    "coordenada": "30°52′52″S 60°02′06″W"
+                },
+                {
+                    "localidad": "Los Zapallos",
+                    "coordenada": "31°29′31″S 60°25′37″W"
+                },
+                {
+                  "localidad": "Santa Rosa de Calchines",
+                  "coordenada": "31°25′00″S 60°20′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "General López",
+            "coordenadas": "33°39′S 61°27′W",
+            "localidades": [
+                {
+                    "localidad": "Firmat",
+                    "coordenada": "33°27′00″S 61°29′00″W"
+                },
+                {
+                    "localidad": "Rufino",
+                    "coordenada": "34°15′43″S 62°42′40″W"
+                },
+                {
+                    "localidad": "Venado Tuerto",
+                    "coordenada": "33°45′00″S 61°58′00″W"
+                },
+                {
+                    "localidad": "Villa Cañás",
+                    "coordenada": "34°00′S 61°36′W"
+                },
+                {
+                    "localidad": "Aarón Castellanos",
+                    "coordenada": "34°19′54″S 62°22′23″W"
+                },
+                {
+                    "localidad": "Amenábar",
+                    "coordenada": "34°07′59″S 62°25′20″W"
+                },
+                {
+                    "localidad": "Cafferata",
+                    "coordenada": "33°26′00″S 62°06′00″W"
+                },
+                {
+                  "localidad": "Cañada del Ucle",
+                  "coordenada": "33°24′34″S 61°36′21″W"
+                },
+                {
+                    "localidad": "Carmen",
+                    "coordenada": "33°44′00″S 61°46′00″W"
+                },
+                {
+                    "localidad": "Carreras",
+                    "coordenada": "33°36′00″S 61°19′00″W"
+                },
+                {
+                    "localidad": "Chapuy",
+                    "coordenada": "33°48′S 61°45′W"
+                },
+                {
+                    "localidad": "Christophersen",
+                    "coordenada": "34°10′55″S 62°01′26″W"
+                },
+                {
+                    "localidad": "Chovet",
+                    "coordenada": "33°36′S 61°36′W"
+                },
+                {
+                    "localidad": "Diego de Alvear",
+                    "coordenada": "34°22′22″S 62°07′41″W"
+                },
+                {
+                  "localidad": "Elortondo",
+                  "coordenada": "33°42′00″S 61°37′00″W"
+                },
+                {
+                    "localidad": "Hughes",
+                    "coordenada": "33°48′00″S 61°20′00″W"
+                },
+                {
+                    "localidad": "La Chispa",
+                    "coordenada": "33°32′39″S 61°58′27″W"
+                },
+                {
+                    "localidad": "Labordeboy",
+                    "coordenada": "33°43′04″S 61°18′51″W"
+                },
+                {
+                    "localidad": "Lazzarino",
+                    "coordenada": "34°09′50″S 62°25′34″W"
+                },
+                {
+                    "localidad": "Maggiolo",
+                    "coordenada": "33°44′00″S 62°17′00″W"
+                },
+                {
+                  "localidad": "María Teresa",
+                  "coordenada": "34°01′00″S 61°54′00″W"
+                },
+                {
+                    "localidad": "Melincué",
+                    "coordenada": "33°39′S 61°27′W"
+                },
+                {
+                  "localidad": "Miguel Torres",
+                  "coordenada": "33°32′00″S 61°28′00″W"
+                },
+                {
+                    "localidad": "Murphy",
+                    "coordenada": "33°37′00″S 61°52′00″W"
+                },
+                {
+                  "localidad": "San Eduardo",
+                  "coordenada": "33°53′00″S 62°07′00″W"
+                },
+                {
+                  "localidad": "San Francisco de Santa Fe",
+                  "coordenada": "33°35′23″S 62°07′18″W"
+                },
+                {
+                    "localidad": "San Gregorio",
+                    "coordenada": "34°19′31″S 62°02′19″W"
+                },
+                {
+                  "localidad": "Sancti Spíritu",
+                  "coordenada": "34°01′00″S 62°23′00″W"
+                },
+                {
+                  "localidad": "Santa Isabel",
+                  "coordenada": "33°53′00″S 61°42′00″W"
+                },
+                {
+                  "localidad": "Teodelina",
+                  "coordenada": "34°11′23″S 61°31′35″W"
+                },
+                {
+                  "localidad": "Wheelwright",
+                  "coordenada": "33°46′00″S 61°13′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "General Obligado",
+            "coordenadas": "29°40′00″S 59°12′00″W",
+            "localidades": [
+                {
+                    "localidad": "Avellaneda",
+                    "coordenada": "29°07′03″S 59°39′30″W"
+                },
+                {
+                    "localidad": "Las Toscas",
+                    "coordenada": "28°21′00″S 59°17′00″W"
+                },
+                {
+                    "localidad": "Malabrigo",
+                    "coordenada": "29°20′55″S 59°58′10″W"
+                },
+                {
+                    "localidad": "Reconquista",
+                    "coordenada": "29°08′40″S 59°38′38″W"
+                },
+                {
+                    "localidad": "Villa Ocampo",
+                    "coordenada": "28°29′00″S 59°21′00″W"
+                },
+                {
+                    "localidad": "Arroyo Ceibal",
+                    "coordenada": "28°43′26″S 59°28′37″W"
+                },
+                {
+                    "localidad": "Berna",
+                    "coordenada": "29°16′26″S 59°50′42″W"
+                },
+                {
+                  "localidad": "El Arazá",
+                  "coordenada": "29°07′55″S 59°56′53″W"
+                },
+                {
+                    "localidad": "El Rabón",
+                    "coordenada": "28°12′00″S 59°17′00″W"
+                },
+                {
+                    "localidad": "El Sombrerito",
+                    "coordenada": "28°39′20″S 59°25′34″W"
+                },
+                {
+                    "localidad": "Florencia",
+                    "coordenada": "28°02′25″S 59°15′00″W"
+                },
+                {
+                    "localidad": "Guadalupe Norte",
+                    "coordenada": "28°56′38″S 59°33′47″W"
+                },
+                {
+                    "localidad": "Campo Hardy",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Ingeniero Chanourdie",
+                    "coordenada": "28°45′41″S 59°34′34″W"
+                },
+                {
+                  "localidad": "La Sarita",
+                  "coordenada": "28°58′16″S 59°50′56″W"
+                },
+                {
+                    "localidad": "Lanteri",
+                    "coordenada": "28°50′00″S 59°39′00″W"
+                },
+                {
+                  "localidad": "Las Garzas",
+                  "coordenada": "28°50′46″S 59°30′01″W"
+                },
+                {
+                    "localidad": "Los Laureles",
+                    "coordenada": "29°22′05″S 59°44′13″W"
+                },
+                {
+                  "localidad": "Nicanor Molinas",
+                  "coordenada": "29°07′47″S 59°49′56″W"
+                },
+                {
+                    "localidad": "San Antonio de Obligado",
+                    "coordenada": "28°22′00″S 59°16′00″W"
+                },
+                {
+                  "localidad": "Tacuarendí",
+                  "coordenada": "28°25′00″S 59°18′00″W"
+                },
+                {
+                  "localidad": "Villa Ana",
+                  "coordenada": "28°29′00″S 59°37′00″W"
+                },
+                {
+                  "localidad": "Villa Guillermina",
+                  "coordenada": "28°14′25″S 59°28′00″W"
+                },
+                {
+                  "localidad": "Puerto Reconquista",
+                  "coordenada": "29°14′06″S 59°34′52″W"
+                },
+                {
+                  "localidad": "La Isleta",
+                  "coordenada": "28°29′31″S 59°17′38″W"
+                },
+                {
+                  "localidad": "San Manuel",
+                  "coordenada": "28°52′15″S 59°51′53″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Iriondo",
+            "coordenadas": "32°49′00″S 61°24′00″W",
+            "localidades": [
+                {
+                    "localidad": "Cañada de Gómez",
+                    "coordenada": "32°49′00″S 61°24′00″W"
+                },
+                {
+                    "localidad": "Barrio Cicarelli",
+                    "coordenada": "32°36′30″S 61°19′26″W"
+                },
+                {
+                    "localidad": "Colonia Medici",
+                    "coordenada": "32°35′48″S 61°22′38″W"
+                },
+                {
+                    "localidad": "Larguía",
+                    "coordenada": "32°33′05″S 61°13′07″W"
+                },
+                {
+                    "localidad": "Totoras",
+                    "coordenada": "32°35′00″S 61°11′00″W"
+                },
+                {
+                    "localidad": "Bustinza",
+                    "coordenada": "32°44′00″S 61°18′26″W"
+                },
+                {
+                    "localidad": "Carrizales",
+                    "coordenada": "32°30′00″S 61°02′00″W"
+                },
+                {
+                  "localidad": "Clason",
+                  "coordenada": "32°27′46″S 61°17′27″W"
+                },
+                {
+                    "localidad": "Berreta",
+                    "coordenada": "32°55′52″S 61°15′40″W"
+                },
+                {
+                    "localidad": "Correa",
+                    "coordenada": "32°50′46″S 61°15′06″W"
+                },
+                {
+                    "localidad": "Lucio V. López",
+                    "coordenada": "32°43′00″S 61°02′00″W"
+                },
+                {
+                    "localidad": "Oliveros",
+                    "coordenada": "32°34′00″S 60°51′00″W"
+                },
+                {
+                    "localidad": "Pueblo Andino",
+                    "coordenada": "32°40′08″S 60°52′26″W"
+                },
+                {
+                    "localidad": "Villa La Ribera",
+                    "coordenada": "32°38′17″S 60°49′19″W"
+                },
+                {
+                  "localidad": "Salto Grande",
+                  "coordenada": "32°40′00″S 61°05′00″W"
+                },
+                {
+                  "localidad": "Serodino",
+                  "coordenada": "32°36′S 60°57′W"
+                },
+                {
+                  "localidad": "San Ricardo",
+                  "coordenada": ""
+                },
+                {
+                  "localidad": "Villa Eloisa",
+                  "coordenada": "32°57′S 61°33′W"
+                }
+            ]
+        },
+        {
+            "departamento": "La Capital",
+            "coordenadas": "31°38′00″S 60°42′00″W",
+            "localidades": [
+                {
+                    "localidad": "Santa Fe",
+                    "coordenada": "31°38′00″S 60°42′00″W"
+                },
+                {
+                    "localidad": "Laguna Paiva",
+                    "coordenada": "31°18′59″S 60°39′26″W"
+                },
+                {
+                    "localidad": "Recreo",
+                    "coordenada": "31°30′00″S 60°44′00″W"
+                },
+                {
+                    "localidad": "San José del Rincón",
+                    "coordenada": "31°36′18″S 60°34′12″W"
+                },
+                {
+                    "localidad": "Santo Tomé",
+                    "coordenada": "31°40′00″S 60°46′00″W"
+                },
+                {
+                    "localidad": "Arroyo Aguiar",
+                    "coordenada": "31°25′48″S 60°39′58″W"
+                },
+                {
+                    "localidad": "Villa Laura",
+                    "coordenada": "31°22′16″S 60°39′50″W"
+                },
+                {
+                  "localidad": "Arroyo Leyes",
+                  "coordenada": "31°35′06″S 60°33′00″W"
+                },
+                {
+                    "localidad": "Rincón Potrero",
+                    "coordenada": "31°30′47″S 60°27′47″W"
+                },
+                {
+                    "localidad": "Cabal",
+                    "coordenada": "31°05′56″S 60°44′49″W"
+                },
+                {
+                    "localidad": "Campo Andino",
+                    "coordenada": "31°14′20″S 60°31′48″W"
+                },
+                {
+                    "localidad": "Gobernador Candioti",
+                    "coordenada": "31°24′S 60°45′W"
+                },
+                {
+                    "localidad": "Emilia",
+                    "coordenada": "31°03′32″S 60°44′42″W"
+                },
+                {
+                    "localidad": "Cuatro Esquinas",
+                    "coordenada": "33°14′42″S 60°45′47″W"
+                },
+                {
+                  "localidad": "Lassaga",
+                  "coordenada": ""
+                },
+                {
+                    "localidad": "Llambi Campbell",
+                    "coordenada": "31°11′00″S 60°45′00″W"
+                },
+                {
+                    "localidad": "Ángel Gallardo",
+                    "coordenada": "31°33′18″S 60°40′37″W"
+                },
+                {
+                    "localidad": "Chaco Chico",
+                    "coordenada": "31°33′54″S 60°38′28″W"
+                },
+                {
+                  "localidad": "Monte Vera",
+                  "coordenada": "31°31′00″S 60°40′00″W"
+                },
+                {
+                    "localidad": "Paraje La Costa",
+                    "coordenada": "31°30′54″S 60°36′43″W"
+                },
+                {
+                  "localidad": "Manucho",
+                  "coordenada": ""
+                },
+                {
+                    "localidad": "Nelson",
+                    "coordenada": "31°16′00″S 60°45′00″W"
+                },
+                {
+                  "localidad": "Sauce Viejo",
+                  "coordenada": "31°46′00″S 60°51′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Las Colonias",
+            "coordenadas": "31°25′00″S 60°56′00″W",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        }
+    ]
+}
