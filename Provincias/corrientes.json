@@ -1,0 +1,475 @@
+{
+    "provincia": "Corrientes",
+    "departamentos": [
+        {
+            "departamento": "Bella Vista",
+            "coordenadas": "28°28′00″S 59°03′00″W",
+            "localidades": [
+                {
+                    "localidad": "Bella Vista",
+                    "coordenada": "28°30′27″S 59°02′43″W"
+                },
+                {
+                    "localidad": "Tres de Abril",
+                    "coordenada": "28°24′50″S 58°54′39″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Berón de Astrada",
+            "coordenadas": "27°33′00″S 57°32′00″W",
+            "localidades": [
+                {
+                    "localidad": "San Antonio de Itatí",
+                    "coordenada": "27°33′00″S 57°32′00″W"
+                },
+                {
+                    "localidad": "Yahapé",
+                    "coordenada": "27°22′20″S 57°39′17″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Capital",
+            "coordenadas": "27°30′S 58°48′W",
+            "localidades": [
+                {
+                    "localidad": "Corrientes",
+                    "coordenada": "27°29′00″S 58°49′00″W"
+                },
+                {
+                    "localidad": "Laguna Brava",
+                    "coordenada": "27°29′36″S 58°43′05″W"
+                },
+                {
+                    "localidad": "Riachuelo",
+                    "coordenada": "27°34′58″S 58°44′40″W"
+                },
+                {
+                    "localidad": "San Cayetano",
+                    "coordenada": "27°34′15″S 58°41′41″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Concepción",
+            "coordenadas": "28°23′35″S 57°53′13″W",
+            "localidades": [
+                {
+                    "localidad": "Concepción",
+                    "coordenada": "28°23′35″S 57°53′13″W"
+                },
+                {
+                    "localidad": "Santa Rosa",
+                    "coordenada": "28°15′47″S 58°07′08″W"
+                },
+                {
+                    "localidad": "Tabay",
+                    "coordenada": "28°18′27″S 58°17′13″W"
+                },
+                {
+                    "localidad": "Tatacuá",
+                    "coordenada": "28°22′23″S 58°19′14″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Curuzú Cuatiá",
+            "coordenadas": "29°47′00″S 58°05′00″W",
+            "localidades": [
+                {
+                    "localidad": "Curuzú Cuatiá",
+                    "coordenada": "29°47′00″S 58°05′00″W"
+                },
+                {
+                    "localidad": "Perugorría",
+                    "coordenada": "29°20′29″S 58°36′38″W"
+                },
+                {
+                    "localidad": "Cazadores Correntinos",
+                    "coordenada": "29°58′51″S 58°17′59″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Empedrado",
+            "coordenadas": "27°57′15″S 58°48′32″W",
+            "localidades": [
+                {
+                    "localidad": "Empedrado",
+                    "coordenada": "27°57′15″S 58°48′32″W"
+                },
+                {
+                    "localidad": "El Sombrero",
+                    "coordenada": "27°42′12″S 58°46′02″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Esquina",
+            "coordenadas": "30°00′00″S 59°20′00″W",
+            "localidades": [
+                {
+                    "localidad": "Esquina",
+                    "coordenada": "30°01′01″S 59°32′02″W"
+                },
+                {
+                    "localidad": "Pueblo Libertador",
+                    "coordenada": "30°13′S 59°23′W"
+                }
+            ]
+        },
+        {
+            "departamento": "General Alvear",
+            "coordenadas": "29°05′56″S 56°33′12″W",
+            "localidades": [
+                {
+                    "localidad": "Alvear",
+                    "coordenada": "29°05′56″S 56°33′12″W"
+                },
+                {
+                    "localidad": "Estación Torrent",
+                    "coordenada": "28°49′37″S 56°28′10″W"
+                }
+            ]
+        },
+        {
+            "departamento": "General Paz",
+            "coordenadas": "27°45′00″S 57°37′00″W",
+            "localidades": [
+                {
+                    "localidad": "Caá Catí",
+                    "coordenada": "27°45′00″S 57°36′58″W"
+                },
+                {
+                    "localidad": "Itá Ibaté",
+                    "coordenada": "27°25′33″S 57°20′17″W"
+                },
+                {
+                    "localidad": "Palmar Grande",
+                    "coordenada": "27°56′28″S 57°54′04″W"
+                },
+                {
+                    "localidad": "Lomas de Vallejos",
+                    "coordenada": "27°44′10″S 57°55′08″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Goya",
+            "coordenadas": "29°09′S 59°15′W",
+            "localidades": [
+                {
+                    "localidad": "Goya",
+                    "coordenada": "29°08′00″S 59°15′00″W"
+                },
+                {
+                    "localidad": "Colonia Carolina",
+                    "coordenada": "29°08′39″S 59°11′01″W"
+                },
+                {
+                    "localidad": "San Isidro",
+                    "coordenada": "29°29′54″S 59°18′56″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Itatí",
+            "coordenadas": "27°16′00″S 58°15′00″W",
+            "localidades": [
+                {
+                    "localidad": "Itatí",
+                    "coordenada": "27°16′00″S 58°15′00″W"
+                },
+                {
+                    "localidad": "Ramada Paso",
+                    "coordenada": "27°21′49″S 58°17′59″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Ituzaingó",
+            "coordenadas": "27°36′00″S 56°40′00″W",
+            "localidades": [
+                {
+                    "localidad": "Ituzaingó",
+                    "coordenada": "27°36′00″S 56°40′00″W"
+                },
+                {
+                    "localidad": "Colonia Liebig's",
+                    "coordenada": "27°54′38″S 55°49′36″W"
+                },
+                {
+                    "localidad": "San Carlos",
+                    "coordenada": "27°44′37″S 55°53′54″W"
+                },
+                {
+                    "localidad": "San Antonio",
+                    "coordenada": "27°30′30″S 56°44′11″W"
+                },
+                {
+                    "localidad": "Villa Olivari",
+                    "coordenada": "27°38′01″S 56°54′19″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Lavalle",
+            "coordenadas": "29°01′00″S 59°10′00″W",
+            "localidades": [
+                {
+                    "localidad": "Santa Lucía",
+                    "coordenada": "28°59′00″S 59°06′00″W"
+                },
+                {
+                    "localidad": "Lavalle",
+                    "coordenada": "29°01′40″S 59°10′55″W"
+                },
+                {
+                    "localidad": "Cruz de los Milagros",
+                    "coordenada": "28°50′11″S 59°00′17″W"
+                },
+                {
+                    "localidad": "Gobernador Martínez",
+                    "coordenada": "28°54′45″S 58°56′10″W"
+                },
+                {
+                    "localidad": "Villa Córdoba",
+                    "coordenada": "28°59′37″S 59°04′31″W"
+                },
+                {
+                    "localidad": "Yataytí Calle",
+                    "coordenada": "29°01′42″S 58°54′44″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Mburucuyá",
+            "coordenadas": "28°03′00″S 58°13′00″W",
+            "localidades": [
+                {
+                    "localidad": "Mburucuyá",
+                    "coordenada": "28°02′43″S 58°13′42″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Mercedes",
+            "coordenadas": "29°12′00″S 58°05′00″W",
+            "localidades": [
+                {
+                    "localidad": "Mercedes",
+                    "coordenada": "29°12′00″S 58°05′00″W"
+                },
+                {
+                    "localidad": "Mariano I. Loza",
+                    "coordenada": "29°22′39″S 58°11′38″W"
+                },
+                {
+                    "localidad": "Felipe Yofre",
+                    "coordenada": "29°06′25″S 58°20′21″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Monte Caseros",
+            "coordenadas": "30°15′00″S 57°38′00″W",
+            "localidades": [
+                {
+                    "localidad": "Monte Caseros",
+                    "coordenada": "30°15′S 57°39′W"
+                },
+                {
+                    "localidad": "Mocoretá",
+                    "coordenada": "30°37′08″S 57°57′56″W"
+                },
+                {
+                    "localidad": "Colonia Libertad",
+                    "coordenada": "30°02′36″S 57°49′18″W"
+                },
+                {
+                    "localidad": "Estación Libertad",
+                    "coordenada": "30°03′00″S 57°49′00″W"
+                },
+                {
+                    "localidad": "Juan Pujol",
+                    "coordenada": "30°25′10″S 57°51′22″W"
+                },
+                {
+                    "localidad": "Parada Acuña",
+                    "coordenada": "29°54′29″S 57°57′34″W"
+                },
+                {
+                    "localidad": "Parada Labougle",
+                    "coordenada": "30°18′57″S 57°43′47″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Paso de los Libres",
+            "coordenadas": "29°43′00″S 57°04′00″W",
+            "localidades": [
+                {
+                    "localidad": "Paso de los Libres",
+                    "coordenada": "29°43′00″S 57°05′00″W"
+                },
+                {
+                    "localidad": "Bonpland",
+                    "coordenada": "29°49′03″S 57°25′40″W"
+                },
+                {
+                    "localidad": "Parada Pucheta",
+                    "coordenada": "29°54′22″S 57°34′27″W"
+                },
+                {
+                    "localidad": "Tapebicuá",
+                    "coordenada": "29°30′22″S 56°58′26″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Saladas",
+            "coordenadas": "28°15′00″S 58°37′00″W",
+            "localidades": [
+                {
+                    "localidad": "Saladas",
+                    "coordenada": "28°15′14″S 58°37′33″W"
+                },
+                {
+                    "localidad": "San Lorenzo",
+                    "coordenada": "28°08′17″S 58°46′05″W"
+                }
+            ]
+        },
+        {
+            "departamento": "San Cosme",
+            "coordenadas": "27°31′00″S 58°34′00″W",
+            "localidades": [
+                {
+                    "localidad": "San Cosme",
+                    "coordenada": "27°22′13″S 58°30′45″W"
+                },
+                {
+                    "localidad": "Paso de la Patria",
+                    "coordenada": "27°19′02″S 58°34′21″W"
+                },
+                {
+                    "localidad": "Ingenio Primer Correntino",
+                    "coordenada": "27°25′55″S 58°37′28″W"
+                },
+                {
+                    "localidad": "Santa Ana de los Guácaras",
+                    "coordenada": "27°27′19″S 58°39′17″W"
+                }
+            ]
+        },
+        {
+            "departamento": "San Luis del Palmar",
+            "coordenadas": "27°31′00″S 58°34′00″W",
+            "localidades": [
+                {
+                    "localidad": "Herlitzka",
+                    "coordenada": "27°33′58″S 58°15′33″W"
+                },
+                {
+                    "localidad": "San Luis del Palmar",
+                    "coordenada": "27°31′00″S 58°34′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "San Martín",
+            "coordenadas": "29°11′00″S 56°39′00″W",
+            "localidades": [
+                {
+                    "localidad": "La Cruz",
+                    "coordenada": "29°11′00″S 56°39′00″W"
+                },
+                {
+                    "localidad": "Colonia Carlos Pellegrini",
+                    "coordenada": "28°32′14″S 57°10′17″W"
+                },
+                {
+                    "localidad": "Guaviraví",
+                    "coordenada": "29°22′00″S 56°50′00″W"
+                },
+                {
+                    "localidad": "Yapeyú",
+                    "coordenada": "29°28′11″S 56°49′03″W"
+                }
+            ]
+        },
+        {
+            "departamento": "San Miguel",
+            "coordenadas": "28°00′S 57°36′W",
+            "localidades": [
+                {
+                    "localidad": "San Miguel",
+                    "coordenada": "27°59′54″S 57°35′14″W"
+                },
+                {
+                    "localidad": "Loreto",
+                    "coordenada": "27°46′05″S 57°16′35″W"
+                }
+            ]
+        },
+        {
+            "departamento": "San Roque",
+            "coordenadas": "28°34′00″S 58°43′00″W",
+            "localidades": [
+                {
+                    "localidad": "San Roque",
+                    "coordenada": "28°34′27″S 58°42′32″W"
+                },
+                {
+                    "localidad": "Nueve de Julio",
+                    "coordenada": "28°50′00″S 58°50′00″W"
+                },
+                {
+                    "localidad": "Chavarría",
+                    "coordenada": "28°57′19″S 58°34′18″W"
+                },
+                {
+                    "localidad": "Colonia Pando",
+                    "coordenada": "28°31′32″S 58°29′10″W"
+                },
+                {
+                    "localidad": "Pedro R. Fernández",
+                    "coordenada": "28°45′03″S 58°39′21″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Santo Tomé",
+            "coordenadas": "28°33′00″S 56°02′00″W",
+            "localidades": [
+                {
+                    "localidad": "Santo Tomé",
+                    "coordenada": "28°33′S 56°03′W"
+                },
+                {
+                    "localidad": "Gobernador Virasoro",
+                    "coordenada": "28°03′00″S 56°02′00″W"
+                },
+                {
+                    "localidad": "Garaví",
+                    "coordenada": "28°13′49″S 55°47′05″W"
+                },
+                {
+                    "localidad": "Garruchos",
+                    "coordenada": "28°10′25″S 55°39′04″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Sauce",
+            "coordenadas": "30°04′00″S 58°46′00″W",
+            "localidades": [
+                {
+                    "localidad": "Sauce",
+                    "coordenada": "30°04′00″S 58°46′00″W"
+                }
+            ]
+        }
+    ]
+}
