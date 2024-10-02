@@ -1,0 +1,419 @@
+{
+    "provincia": "Misiones",
+    "departamentos": [
+        {
+            "departamento": "Capital",
+            "coordenadas": "27°24′S 55°55′W",
+            "localidades": [
+                {
+                    "localidad": "Posadas",
+                    "coordenada": "27°22′00″S 55°53′49″W"
+                },
+                {
+                    "localidad": "Garupá",
+                    "coordenada": "27°29′00″S 55°50′00″W"
+                },
+                {
+                    "localidad": "Fachinal",
+                    "coordenada": "27°37′47″S 55°42′21″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Oberá",
+            "coordenadas": "27°29′00″S 55°08′00″W",
+            "localidades": [
+                {
+                    "localidad": "Campo Ramón",
+                    "coordenada": "27°27′21″S 55°01′20″W"
+                },
+                {
+                    "localidad": "Campo Viera",
+                    "coordenada": "27°19′51″S 55°03′16″W"
+                },
+                {
+                    "localidad": "Colonia Alberdi",
+                    "coordenada": "27°21′35″S 55°13′57″W"
+                },
+                {
+                    "localidad": "General Alvear",
+                    "coordenada": "27°25′35″S 55°10′10″W"
+                },
+                {
+                    "localidad": "Guaraní",
+                    "coordenada": "27°31′24″S 55°09′28″W"
+                },
+                {
+                    "localidad": "Los Helechos",
+                    "coordenada": "27°33′25″S 55°04′34″W"
+                },
+                {
+                    "localidad": "Oberá",
+                    "coordenada": "27°29′00″S 55°08′00″W"
+                },
+                {
+                    "localidad": "Panambí",
+                    "coordenada": "27°43′20″S 54°54′54″W"
+                },
+                {
+                    "localidad": "San Martín",
+                    "coordenada": "27°28′03″S 55°16′27″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Iguazú",
+            "coordenadas": "26°01′14″S 54°36′55″W",
+            "localidades": [
+                {
+                    "localidad": "Wanda",
+                    "coordenada": "25°58′09″S 54°34′11″W"
+                },
+                {
+                    "localidad": "Puerto Esperanza",
+                    "coordenada": "26°01′00″S 54°39′00″W"
+                },
+                {
+                    "localidad": "Puerto Iguazú",
+                    "coordenada": "25°36′39″S 54°34′49″W"
+                },
+                {
+                    "localidad": "Puerto Libertad",
+                    "coordenada": "25°55′17″S 54°35′04″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Eldorado",
+            "coordenadas": "26°24′04″S 54°37′07″W",
+            "localidades": [
+                {
+                    "localidad": "Colonia Delicia",
+                    "coordenada": "26°14′10″S 54°36′11″W"
+                },
+                {
+                    "localidad": "Colonia Victoria",
+                    "coordenada": "26°19′53″S 54°37′25″W"
+                },
+                {
+                    "localidad": "Eldorado",
+                    "coordenada": "26°24′00″S 54°38′00″W"
+                },
+                {
+                    "localidad": "Nueve de Julio",
+                    "coordenada": "26°25′48″S 54°27′58″W"
+                },
+                {
+                    "localidad": "Santiago de Liniers",
+                    "coordenada": "26°22′36″S 54°23′14″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Guaraní",
+            "coordenadas": "27°17′55″S 54°11′55″W",
+            "localidades": [
+                {
+                    "localidad": "El Soberbio",
+                    "coordenada": "27°17′44″S 54°11′47″W"
+                },
+                {
+                    "localidad": "Fracrán",
+                    "coordenada": "26°44′35″S 54°17′39″W"
+                },
+                {
+                    "localidad": "San Vicente",
+                    "coordenada": "26°59′35″S 54°29′13″W"
+                }
+            ]
+        },
+        {
+            "departamento": "San Ignacio",
+            "coordenadas": "27°15′32″S 55°32′21″W",
+            "localidades": [
+                {
+                    "localidad": "Colonia Polana",
+                    "coordenada": "26°58′54″S 55°19′06″W"
+                },
+                {
+                    "localidad": "Corpus",
+                    "coordenada": "27°07′46″S 55°30′39″W"
+                },
+                {
+                    "localidad": "General Urquiza",
+                    "coordenada": "27°06′28″S 55°22′36″W"
+                },
+                {
+                    "localidad": "Gobernador Roca",
+                    "coordenada": "27°11′25″S 55°28′09″W"
+                },
+                {
+                    "localidad": "Hipólito Yrigoyen",
+                    "coordenada": "27°05′28″S 55°17′09″W"
+                },
+                {
+                    "localidad": "Jardín América",
+                    "coordenada": "27°02′34″S 55°13′38″W"
+                },
+                {
+                    "localidad": "San Ignacio",
+                    "coordenada": "27°15′30″S 55°32′21″W"
+                },
+                {
+                    "localidad": "Santo Pipó",
+                    "coordenada": "27°08′24″S 55°24′31″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Cainguás",
+            "coordenadas": "27°13′00″S 54°58′00″W",
+            "localidades": [
+                {
+                    "localidad": "Aristóbulo del Valle",
+                    "coordenada": "27°05′43″S 54°53′49″W"
+                },
+                {
+                    "localidad": "Dos de Mayo",
+                    "coordenada": "27°01′11″S 54°41′04″W"
+                },
+                {
+                    "localidad": "Campo Grande",
+                    "coordenada": "27°12′29″S 54°58′47″W"
+                },
+                {
+                    "localidad": "Salto Encantado",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "Libertador General San Martín",
+            "coordenadas": "26°48′00″S 55°02′00″W",
+            "localidades": [
+                {
+                    "localidad": "Capioví",
+                    "coordenada": "26°55′42″S 55°03′26″W"
+                },
+                {
+                    "localidad": "El Alcázar",
+                    "coordenada": "26°43′00″S 54°48′48″W"
+                },
+                {
+                    "localidad": "Garuhapé",
+                    "coordenada": "26°49′12″S 54°57′30″W"
+                },
+                {
+                    "localidad": "Puerto Leoni",
+                    "coordenada": "26°59′19″S 55°09′57″W"
+                },
+                {
+                    "localidad": "Puerto Rico",
+                    "coordenada": "26°49′01″S 55°01′37″W"
+                },
+                {
+                    "localidad": "Ruiz de Montoya",
+                    "coordenada": "26°58′10″S 55°03′20″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Apóstoles",
+            "coordenadas": "27°54′51″S 55°45′18″W",
+            "localidades": [
+                {
+                    "localidad": "Apóstoles",
+                    "coordenada": "27°55′00″S 55°46′00″W"
+                },
+                {
+                    "localidad": "Azara",
+                    "coordenada": "28°03′38″S 55°40′38″W"
+                },
+                {
+                    "localidad": "San José",
+                    "coordenada": "27°46′11″S 55°46′49″W"
+                },
+                {
+                    "localidad": "Tres Capones",
+                    "coordenada": "28°00′15″S 55°36′34″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Leandro N. Alem",
+            "coordenadas": "27°36′14″S 55°19′25″W",
+            "localidades": [
+                {
+                    "localidad": "Almafuerte",
+                    "coordenada": "27°30′29″S 55°24′13″W"
+                },
+                {
+                    "localidad": "Arroyo del Medio",
+                    "coordenada": "27°41′54″S 55°24′17″W"
+                },
+                {
+                    "localidad": "Caá Yarí",
+                    "coordenada": "27°29′05″S 55°17′55″W"
+                },
+                {
+                    "localidad": "Cerro Azul",
+                    "coordenada": "27°38′01″S 55°29′50″W"
+                },
+                {
+                    "localidad": "Dos Arroyos",
+                    "coordenada": "27°42′S 55°15′W"
+                },
+                {
+                    "localidad": "Gobernador López",
+                    "coordenada": "27°39′59″S 55°12′49″W"
+                },
+                {
+                    "localidad": "Leandro N. Alem",
+                    "coordenada": "27°36′00″S 55°20′00″W"
+                },
+                {
+                    "localidad": "Olegario Víctor Andrade",
+                    "coordenada": "27°34′00″S 55°30′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "General Manuel Belgrano",
+            "coordenadas": "26°15′S 53°39′W",
+            "localidades": [
+                {
+                    "localidad": "Bernardo de Irigoyen",
+                    "coordenada": "26°15′19″S 53°38′49″W"
+                },
+                {
+                    "localidad": "Comandante Andresito",
+                    "coordenada": "25°40′13″S 54°02′34″W"
+                },
+                {
+                    "localidad": "San Antonio",
+                    "coordenada": "26°03′00″S 53°43′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Montecarlo",
+            "coordenadas": "26°34′02″S 54°45′57″W",
+            "localidades": [
+                {
+                    "localidad": "Caraguatay",
+                    "coordenada": "26°39′26″S 54°44′20″W"
+                },
+                {
+                    "localidad": "Montecarlo",
+                    "coordenada": "26°33′58″S 54°45′25″W"
+                },
+                {
+                    "localidad": "Puerto Piray",
+                    "coordenada": "26°28′02″S 54°43′05″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Candelaria",
+            "coordenadas": "27°22′10″S 55°34′56″W",
+            "localidades": [
+                {
+                    "localidad": "Bonpland",
+                    "coordenada": "27°29′07″S 55°28′49″W"
+                },
+                {
+                    "localidad": "Candelaria",
+                    "coordenada": "27°27′34″S 55°44′43″W"
+                },
+                {
+                    "localidad": "Cerro Corá",
+                    "coordenada": "27°30′44″S 55°36′34″W"
+                },
+                {
+                    "localidad": "Loreto",
+                    "coordenada": "27°19′55″S 55°31′23″W"
+                },
+                {
+                    "localidad": "Mártires",
+                    "coordenada": "27°25′23″S 55°22′38″W"
+                },
+                {
+                    "localidad": "Profundidad",
+                    "coordenada": "27°33′42″S 55°42′16″W"
+                },
+                {
+                    "localidad": "Santa Ana",
+                    "coordenada": "27°22′09″S 55°34′54″W"
+                }
+            ]
+        },
+        {
+            "departamento": "San Pedro",
+            "coordenadas": "26°38′00″S 54°07′00″W",
+            "localidades": [
+                {
+                    "localidad": "San Pedro",
+                    "coordenada": "26°37′45″S 54°06′48″W"
+                },
+                {
+                    "localidad": "Pozo Azul",
+                    "coordenada": "26°20′47″S 54°09′08″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Veinticinco de Mayo",
+            "coordenadas": "27°34′09″S 54°41′03″W",
+            "localidades": [
+                {
+                    "localidad": "Alba Posse",
+                    "coordenada": "27°33′58″S 54°40′59″W"
+                },
+                {
+                    "localidad": "Colonia Aurora",
+                    "coordenada": "27°28′29″S 54°31′28″W"
+                },
+                {
+                    "localidad": "25 de Mayo",
+                    "coordenada": "27°22′38″S 54°44′34″W"
+                }
+            ]
+        },
+        {
+            "departamento": "San Javier",
+            "coordenadas": "27°52′26″S 55°08′06″W",
+            "localidades": [
+                {
+                    "localidad": "Florentino Ameghino",
+                    "coordenada": "27°38′03″S 55°05′03″W"
+                },
+                {
+                    "localidad": "Itacaruaré",
+                    "coordenada": "27°52′00″S 55°16′00″W"
+                },
+                {
+                    "localidad": "Mojón Grande",
+                    "coordenada": "27°43′00″S 55°10′00″W"
+                },
+                {
+                    "localidad": "San Javier",
+                    "coordenada": "27°52′26″S 55°08′05″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Concepción",
+            "coordenadas": "27°59′11″S 55°31′31″W",
+            "localidades": [
+                {
+                    "localidad": "Concepción de la Sierra",
+                    "coordenada": "27°59′00″S 55°31′00″W"
+                },
+                {
+                    "localidad": "Santa María",
+                    "coordenada": "27°56′04″S 55°24′25″W"
+                }
+            ]
+        }
+    ]
+}
