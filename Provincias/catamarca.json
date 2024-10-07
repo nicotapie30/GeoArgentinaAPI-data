@@ -1,0 +1,877 @@
+{
+    "provincia": "Catamarca",
+    "departamentos": [
+        {
+            "departamento": "Ambato",
+            "coordenadas": "28°10′14″S 65°47′29″W",
+            "localidades": [
+                {
+                    "localidad": "Chuchucaruana",
+                    "coordenada": "27°56′00″S 65°40′00″W"
+                },
+                {
+                    "localidad": "Colpes",
+                    "coordenada": "28°03′54″S 65°48′43″W"
+                },
+                {
+                    "localidad": "El Bolsón",
+                    "coordenada": "27°55′00″S 65°53′00″W"
+                },
+                {
+                    "localidad": "El Rodeo",
+                    "coordenada": "28°12′55″S 65°52′27″W"
+                },
+                {
+                    "localidad": "Huaycama",
+                    "coordenada": "28°04′26″S 65°48′40″W"
+                },
+                {
+                    "localidad": "La Puerta",
+                    "coordenada": "28°10′00″S 65°47′00″W"
+                },
+                {
+                    "localidad": "Las Chacritas",
+                    "coordenada": "27°41′13″S 65°55′26″W"
+                },
+                {
+                    "localidad": "Las Juntas",
+                    "coordenada": "28°08′00″S 65°54′00″W"
+                },
+                {
+                    "localidad": "Los Castillos",
+                    "coordenada": "27°58′00″S 65°48′00″W"
+                },
+                {
+                    "localidad": "Los Talas",
+                    "coordenada": "27°58′00″S 65°52′00″W"
+                },
+                {
+                    "localidad": "Los Varela",
+                    "coordenada": "27°55′00″S 65°52′00″W"
+                },
+                {
+                    "localidad": "Singuil",
+                    "coordenada": "27°49′00″S 65°52′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Ancasti",
+            "coordenadas": "28°48′45″S 65°30′03″W",
+            "localidades": [
+                {
+                    "localidad": "Villa de Ancasti",
+                    "coordenada": "28°48′44″S 65°30′00″W"
+                },
+                {
+                    "localidad": "Anquincila",
+                    "coordenada": "28°46′00″S 65°33′00″W"
+                },
+                {
+                    "localidad": "La Candelaria",
+                    "coordenada": "28°42′S 65°27′W"
+                },
+                {
+                    "localidad": "La Majada",
+                    "coordenada": "29°01′49″S 65°32′40″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Andalgalá",
+            "coordenadas": "27°36′00″S 66°19′00″W",
+            "localidades": [
+                {
+                    "localidad": "Aconquija",
+                    "coordenada": "27°29′55″S 66°01′26″W"
+                },
+                {
+                    "localidad": "Alto de las Juntas",
+                    "coordenada": "27°25′34″S 65°59′35″W"
+                },
+                {
+                    "localidad": "Andalgalá",
+                    "coordenada": "27°36′00″S 66°19′00″W"
+                },
+                {
+                    "localidad": "Amanao",
+                    "coordenada": "27°33′00″S 66°31′00″W"
+                },
+                {
+                    "localidad": "Buena Vista",
+                    "coordenada": "27°30′17″S 66°01′26″W"
+                },
+                {
+                    "localidad": "Chaquiago",
+                    "coordenada": "27°32′00″S 66°21′00″W"
+                },
+                {
+                    "localidad": "Choya",
+                    "coordenada": "27°32′00″S 66°24′00″W"
+                },
+                {
+                    "localidad": "El Alamito",
+                    "coordenada": "27°29′31″S 66°01′19″W"
+                },
+                {
+                    "localidad": "El Lindero",
+                    "coordenada": "27°27′12″S 66°00′13″W"
+                },
+                {
+                    "localidad": "El Potrero",
+                    "coordenada": "27°30′32″S 66°19′41″W"
+                },
+                {
+                    "localidad": "La Aguada",
+                    "coordenada": "27°33′37″S 66°18′09″W"
+                },
+                {
+                    "localidad": "La Mesada",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Minas Capillitas",
+                    "coordenada": "27°20′30″S 66°23′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Antofagasta de la Sierra",
+            "coordenadas": "26°00′00″S 67°34′00″W",
+            "localidades": [
+                {
+                    "localidad": "Antofagasta de la Sierra",
+                    "coordenada": "26°03′34″S 67°24′23″W"
+                },
+                {
+                    "localidad": "El Peñón",
+                    "coordenada": "26°28′41″S 67°15′54″W"
+                },
+                {
+                    "localidad": "Los Nacimientos",
+                    "coordenada": "25°49′25″S 67°22′17″W"
+                },
+                {
+                    "localidad": "Antofalla",
+                    "coordenada": "25°31′01″S 67°37′08″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Belén",
+            "coordenadas": "27°39′00″S 67°02′00″W",
+            "localidades": [
+                {
+                    "localidad": "Barranca Larga",
+                    "coordenada": "26°59′10″S 66°44′00″W"
+                },
+                {
+                    "localidad": "Belén",
+                    "coordenada": "27°39′00″S 67°02′00″W"
+                },
+                {
+                    "localidad": "Cóndor Huasi",
+                    "coordenada": "27°29′34″S 67°06′03″W"
+                },
+                {
+                    "localidad": "Las Barrancas (Belén) Norte chico",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Corral Quemado",
+                    "coordenada": "27°08′59″S 66°56′42″W"
+                },
+                {
+                    "localidad": "El Durazno",
+                    "coordenada": "27°15′14″S 67°02′17″W"
+                },
+                {
+                    "localidad": "Farallón Negro",
+                    "coordenada": "27°18′21″S 66°40′52″W"
+                },
+                {
+                    "localidad": "Hualfín",
+                    "coordenada": "27°14′00″S 66°50′00″W"
+                },
+                {
+                    "localidad": "Jacipunco",
+                    "coordenada": "27°14′31″S 67°00′40″W"
+                },
+                {
+                    "localidad": "La Puntilla",
+                    "coordenada": "27°41′06″S 66°59′35″W"
+                },
+                {
+                    "localidad": "Las Juntas",
+                    "coordenada": "27°32′10″S 67°07′10″W"
+                },
+                {
+                    "localidad": "Londres",
+                    "coordenada": "27°43′00″S 67°07′00″W"
+                },
+                {
+                    "localidad": "Los Nacimientos",
+                    "coordenada": "27°11′00″S 66°44′00″W"
+                },
+                {
+                    "localidad": "Pozo de la Piedra",
+                    "coordenada": "27°35′00″S 67°08′00″W"
+                },
+                {
+                    "localidad": "Puerta de Corral Quemado",
+                    "coordenada": "27°14′00″S 66°56′00″W"
+                },
+                {
+                    "localidad": "Puerta de San José",
+                    "coordenada": "27°33′00″S 67°01′00″W"
+                },
+                {
+                    "localidad": "Villa Vil",
+                    "coordenada": "27°06′00″S 66°49′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Capayán",
+            "coordenadas": "28°44′00″S 65°59′00″W",
+            "localidades": [
+                {
+                    "localidad": "Adolfo E. Carranza",
+                    "coordenada": "29°02′00″S 66°01′00″W"
+                },
+                {
+                    "localidad": "Balde de la Punta",
+                    "coordenada": "29°31′01″S 65°34′44″W"
+                },
+                {
+                    "localidad": "Capayán",
+                    "coordenada": "28°45′40″S 66°03′01″W"
+                },
+                {
+                    "localidad": "Chumbicha",
+                    "coordenada": "28°52′00″S 66°14′00″W"
+                },
+                {
+                    "localidad": "Colonia del Valle",
+                    "coordenada": "28°39′00″S 65°52′41″W"
+                },
+                {
+                    "localidad": "Colonia Nueva Coneta",
+                    "coordenada": "28°34′04″S 65°50′18″W"
+                },
+                {
+                    "localidad": "Concepción",
+                    "coordenada": "28°41′00″S 66°04′00″W"
+                },
+                {
+                    "localidad": "Coneta",
+                    "coordenada": "28°35′00″S 65°54′00″W"
+                },
+                {
+                    "localidad": "El Bañado",
+                    "coordenada": "28°38′00″S 65°52′00″W"
+                },
+                {
+                    "localidad": "Huillapima",
+                    "coordenada": "28°43′00″S 65°58′00″W"
+                },
+                {
+                    "localidad": "Los Ángeles",
+                    "coordenada": "28°29′00″S 65°59′00″W"
+                },
+                {
+                    "localidad": "Miraflores",
+                    "coordenada": "28°36′00″S 65°55′00″W"
+                },
+                {
+                    "localidad": "San Martín",
+                    "coordenada": "29°14′00″S 65°46′00″W"
+                },
+                {
+                    "localidad": "San Pablo",
+                    "coordenada": "28°42′00″S 66°02′00″W"
+                },
+                {
+                    "localidad": "San Pedro",
+                    "coordenada": "28°44′00″S 66°07′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Capital",
+            "coordenadas": "28°28′00″S 65°47′00″W",
+            "localidades": [
+                {
+                    "localidad": "Barrio Bancario",
+                    "coordenada": "28°28′00″S 65°47′00″W"
+                },
+                {
+                    "localidad": "San Fernando del Valle de Catamarca",
+                    "coordenada": "28°28′07″S 65°46′45″W"
+                },
+                {
+                    "localidad": "El Pantanillo",
+                    "coordenada": "28°31′53″S 65°48′03″W"
+                },
+                {
+                    "localidad": "Banda de Varela",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "El Alto",
+            "coordenadas": "28°18′00″S 65°22′00″W",
+            "localidades": [
+                {
+                    "localidad": "El Alto",
+                    "coordenada": "28°18′00″S 65°22′00″W"
+                },
+                {
+                    "localidad": "Guayamba",
+                    "coordenada": "28°21′00″S 65°25′00″W"
+                },
+                {
+                    "localidad": "Infanzón",
+                    "coordenada": "28°35′00″S 65°26′00″W"
+                },
+                {
+                    "localidad": "Los Corrales",
+                    "coordenada": "28°31′00″S 65°22′00″W"
+                },
+                {
+                    "localidad": "Tapso",
+                    "coordenada": "28°24′00″S 65°07′00″W"
+                },
+                {
+                    "localidad": "Vilismán",
+                    "coordenada": "28°29′00″S 65°27′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Fray Mamerto Esquiú",
+            "coordenadas": "28°23′00″S 65°42′00″W",
+            "localidades": [
+                {
+                    "localidad": "Collagasta",
+                    "coordenada": "28°22′00″S 65°44′00″W"
+                },
+                {
+                    "localidad": "La Carrera",
+                    "coordenada": "28°22′00″S 65°43′00″W"
+                },
+                {
+                    "localidad": "El Hueco",
+                    "coordenada": "28°25′48″S 65°43′05″W"
+                },
+                {
+                    "localidad": "La Falda de San Antonio",
+                    "coordenada": "28°26′S 65°41′W"
+                },
+                {
+                    "localidad": "La Tercena",
+                    "coordenada": "28°22′12″S 65°42′54″W"
+                },
+                {
+                    "localidad": "Pomancillo Este",
+                    "coordenada": "28°19′00″S 65°43′00″W"
+                },
+                {
+                    "localidad": "Pomancillo Oeste",
+                    "coordenada": "28°19′00″S 65°43′00″W"
+                },
+                {
+                    "localidad": "San Antonio",
+                    "coordenada": "28°24′00″S 65°44′00″W"
+                },
+                {
+                    "localidad": "San José de Piedra Blanca",
+                    "coordenada": "28°22′00″S 65°42′00″W"
+                },
+                {
+                    "localidad": "Villa Las Pirquitas",
+                    "coordenada": "28°16′48″S 65°43′55″W"
+                }
+            ]
+        },
+        {
+            "departamento": "La Paz",
+            "coordenadas": "29°16′00″S 65°02′00″W",
+            "localidades": [
+                {
+                    "localidad": "Casa de Piedra",
+                    "coordenada": "29°35′00″S 65°30′00″W"
+                },
+                {
+                    "localidad": "El Aybal",
+                    "coordenada": "29°07′00″S 65°21′00″W"
+                },
+                {
+                    "localidad": "El Bañado",
+                    "coordenada": "29°12′S 65°27′W"
+                },
+                {
+                    "localidad": "El Divisadero",
+                    "coordenada": "29°13′00″S 65°27′00″W"
+                },
+                {
+                    "localidad": "El Quimilo",
+                    "coordenada": "29°55′00″S 65°22′00″W"
+                },
+                {
+                    "localidad": "Esquiú",
+                    "coordenada": "29°23′00″S 65°17′00″W"
+                },
+                {
+                    "localidad": "Icaño",
+                    "coordenada": "28°55′10″S 65°19′48″W"
+                },
+                {
+                    "localidad": "La Dorada",
+                    "coordenada": "29°15′00″S 65°28′00″W"
+                },
+                {
+                    "localidad": "Las Esquinas",
+                    "coordenada": "28°42′38″S 65°46′03″W"
+                },
+                {
+                    "localidad": "La Guardia",
+                    "coordenada": "29°33′S 65°27′W"
+                },
+                {
+                    "localidad": "Las Palmitas",
+                    "coordenada": "28°38′12″S 64°59′09″W"
+                },
+                {
+                    "localidad": "Quirós",
+                    "coordenada": "28°47′00″S 65°07′00″W"
+                },
+                {
+                    "localidad": "Ramblones",
+                    "coordenada": "29°10′00″S 65°25′00″W"
+                },
+                {
+                    "localidad": "Recreo",
+                    "coordenada": "29°16′00″S 65°04′00″W"
+                },
+                {
+                    "localidad": "San Antonio",
+                    "coordenada": "28°56′00″S 65°06′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Paclín",
+            "coordenadas": "28°10′00″S 65°41′00″W",
+            "localidades": [
+                {
+                    "localidad": "Amadores",
+                    "coordenada": "28°15′45″S 65°38′15″W"
+                },
+                {
+                    "localidad": "El Rosario",
+                    "coordenada": "27°59′36″S 65°41′26″W"
+                },
+                {
+                    "localidad": "La Bajada",
+                    "coordenada": "28°22′00″S 65°37′00″W"
+                },
+                {
+                    "localidad": "La Higuera",
+                    "coordenada": "27°56′28″S 65°41′49″W"
+                },
+                {
+                    "localidad": "La Merced",
+                    "coordenada": "28°09′16″S 65°39′34″W"
+                },
+                {
+                    "localidad": "La Viña",
+                    "coordenada": "28°02′18″S 65°35′49″W"
+                },
+                {
+                    "localidad": "Las Lajas",
+                    "coordenada": "27°50′47″S 65°43′34″W"
+                },
+                {
+                    "localidad": "Monte Potrero",
+                    "coordenada": "28°10′59″S 65°39′36″W"
+                },
+                {
+                    "localidad": "Palo Labrado",
+                    "coordenada": "28°21′00″S 65°37′00″W"
+                },
+                {
+                    "localidad": "San Antonio",
+                    "coordenada": "28°00′29″S 65°42′40″W"
+                },
+                {
+                    "localidad": "Villa de Balcozna",
+                    "coordenada": "27°53′00″S 65°43′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Pomán",
+            "coordenadas": "28°10′26″S 66°12′41″W",
+            "localidades": [
+                {
+                    "localidad": "Saujil",
+                    "coordenada": "28°10′26″S 66°12′41″W"
+                },
+                {
+                    "localidad": "Colpes",
+                    "coordenada": "28°01′00″S 66°19′00″W"
+                },
+                {
+                    "localidad": "San José",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Joyango",
+                    "coordenada": "28°05′00″S 66°09′00″W"
+                },
+                {
+                    "localidad": "San Miguel",
+                    "coordenada": "28°08′24″S 66°12′10″W"
+                },
+                {
+                    "localidad": "Las Casitas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Rincón",
+                    "coordenada": "28°13′17″S 66°08′37″W"
+                },
+                {
+                    "localidad": "Michango",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Siján",
+                    "coordenada": "28°16′00″S 66°14′00″W"
+                },
+                {
+                    "localidad": "Puestos del Campo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Mutquín",
+                    "coordenada": "28°19′00″S 66°10′00″W"
+                },
+                {
+                    "localidad": "Apoyaco",
+                    "coordenada": "28°18′S 66°09′W"
+                },
+                {
+                    "localidad": "Villa de Pomán",
+                    "coordenada": "28°23′00″S 66°13′00″W"
+                },
+                {
+                    "localidad": "Rosario de Colana",
+                    "coordenada": "28°22′00″S 66°10′00″W"
+                },
+                {
+                    "localidad": "Retiro de Colana",
+                    "coordenada": "28°22′00″S 66°10′00″W"
+                },
+                {
+                    "localidad": "El Pajonal",
+                    "coordenada": "28°22′00″S 66°18′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Santa María",
+            "coordenadas": "26°41′00″S 66°02′00″W",
+            "localidades": [
+                {
+                    "localidad": "Andalhualá",
+                    "coordenada": "26°52′00″S 66°02′00″W"
+                },
+                {
+                    "localidad": "Casa de Piedra",
+                    "coordenada": "26°49′02″S 66°04′46″W"
+                },
+                {
+                    "localidad": "Caspichango",
+                    "coordenada": "26°44′00″S 65°57′00″W"
+                },
+                {
+                    "localidad": "Chañar Punco",
+                    "coordenada": "26°45′10″S 66°04′40″W"
+                },
+                {
+                    "localidad": "El Cajón",
+                    "coordenada": "26°24′26″S 66°15′12″W"
+                },
+                {
+                    "localidad": "El Cerrito",
+                    "coordenada": "26°41′00″S 66°03′00″W"
+                },
+                {
+                    "localidad": "El Puesto",
+                    "coordenada": "26°38′46″S 66°02′28″W"
+                },
+                {
+                    "localidad": "Famatanca",
+                    "coordenada": "26°46′00″S 66°05′00″W"
+                },
+                {
+                    "localidad": "El Desmonte",
+                    "coordenada": "26°54′S 66°06′W"
+                },
+                {
+                    "localidad": "Fuerte Quemado",
+                    "coordenada": "26°37′00″S 66°03′00″W"
+                },
+                {
+                    "localidad": "La Hoyada",
+                    "coordenada": "26°33′00″S 66°22′00″W"
+                },
+                {
+                    "localidad": "La Loma",
+                    "coordenada": "26°45′38″S 66°03′25″W"
+                },
+                {
+                    "localidad": "La Puntilla",
+                    "coordenada": "26°50′25″S 66°05′35″W"
+                },
+                {
+                    "localidad": "Lampacito",
+                    "coordenada": "26°43′01″S 66°04′34″W"
+                },
+                {
+                    "localidad": "Las Mojarras",
+                    "coordenada": "26°40′40″S 66°03′26″W"
+                },
+                {
+                    "localidad": "Loro Huasi ",
+                    "coordenada": "26°45′17″S 66°03′19″W"
+                },
+                {
+                    "localidad": "Medanitos",
+                    "coordenada": "26°44′42″S 66°04′44″W"
+                },
+                {
+                    "localidad": "Ovejería",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Palo Seco",
+                    "coordenada": "26°49′55″S 66°05′24″W"
+                },
+                {
+                    "localidad": "Punta de Balasto",
+                    "coordenada": "26°58′00″S 66°08′00″W"
+                },
+                {
+                    "localidad": "San José",
+                    "coordenada": "26°48′04″S 66°04′11″W"
+                },
+                {
+                    "localidad": "San José Banda",
+                    "coordenada": "26°47′13″S 66°05′00″W"
+                },
+                {
+                    "localidad": "San José Norte",
+                    "coordenada": "26°46′47″S 66°03′39″W"
+                },
+                {
+                    "localidad": "San José Villa",
+                    "coordenada": "26°46′24″S 66°03′37″W"
+                },
+                {
+                    "localidad": "Santa María",
+                    "coordenada": "26°41′40″S 66°02′53″W"
+                },
+                {
+                    "localidad": "Yapes",
+                    "coordenada": "26°49′05″S 66°04′41″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Santa Rosa",
+            "coordenadas": "28°06′00″S 65°19′00″W",
+            "localidades": [
+                {
+                    "localidad": "Alijilán",
+                    "coordenada": "28°09′00″S 65°29′00″W"
+                },
+                {
+                    "localidad": "Bañado de Ovanta",
+                    "coordenada": "28°06′00″S 65°19′00″W"
+                },
+                {
+                    "localidad": "Las Cañas",
+                    "coordenada": "28°12′00″S 65°13′00″W"
+                },
+                {
+                    "localidad": "Lavalle",
+                    "coordenada": "28°12′S 65°06′W"
+                },
+                {
+                    "localidad": "Los Altos",
+                    "coordenada": "28°03′00″S 65°28′00″W"
+                },
+                {
+                    "localidad": "Manantiales",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Monte Redondo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "San Pedro",
+                    "coordenada": "27°57′14″S 65°09′59″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Tinogasta",
+            "coordenadas": "28°04′00″S 67°34′00″W",
+            "localidades": [
+                {
+                    "localidad": "Anillaco",
+                    "coordenada": "27°54′39″S 67°37′19″W"
+                },
+                {
+                    "localidad": "Antinaco",
+                    "coordenada": "27°12′S 67°36′W"
+                },
+                {
+                    "localidad": "Banda de Lucero",
+                    "coordenada": "28°10′34″S 67°28′08″W"
+                },
+                {
+                    "localidad": "Cerro Negro",
+                    "coordenada": "28°16′00″S 67°08′00″W"
+                },
+                {
+                    "localidad": "Copacabana",
+                    "coordenada": "28°10′35″S 67°29′17″W"
+                },
+                {
+                    "localidad": "Cordobita",
+                    "coordenada": "28°18′00″S 67°13′00″W"
+                },
+                {
+                    "localidad": "Costa de Reyes",
+                    "coordenada": "28°18′00″S 67°40′00″W"
+                },
+                {
+                    "localidad": "El Pueblito",
+                    "coordenada": "28°17′17″S 67°09′43″W"
+                },
+                {
+                    "localidad": "El Puesto",
+                    "coordenada": "27°57′00″S 67°38′00″W"
+                },
+                {
+                    "localidad": "El Salado",
+                    "coordenada": "28°18′S 67°15′W"
+                },
+                {
+                    "localidad": "Fiambalá",
+                    "coordenada": "27°41′00″S 67°38′00″W"
+                },
+                {
+                    "localidad": "La Puntilla",
+                    "coordenada": "28°08′00″S 67°30′00″W"
+                },
+                {
+                    "localidad": "La Ramadita",
+                    "coordenada": "27°38′00″S 67°38′00″W"
+                },
+                {
+                    "localidad": "Los Balverdi",
+                    "coordenada": "28°16′23″S 67°06′47″W"
+                },
+                {
+                    "localidad": "Medanitos",
+                    "coordenada": "27°32′00″S 67°36′00″W"
+                },
+                {
+                    "localidad": "Palo Blanco",
+                    "coordenada": "27°19′00″S 67°45′00″W"
+                },
+                {
+                    "localidad": "Pampa Blanca",
+                    "coordenada": "27°38′00″S 67°38′00″W"
+                },
+                {
+                    "localidad": "Punta del Agua",
+                    "coordenada": "27°13′30″S 67°45′25″W"
+                },
+                {
+                    "localidad": "Santa Rosa",
+                    "coordenada": "28°02′00″S 67°37′00″W"
+                },
+                {
+                    "localidad": "Saujil",
+                    "coordenada": "27°34′00″S 67°37′00″W"
+                },
+                {
+                    "localidad": "Tatón",
+                    "coordenada": "27°20′23″S 67°31′51″W"
+                },
+                {
+                    "localidad": "Tinogasta",
+                    "coordenada": "28°04′00″S 67°34′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Valle Viejo",
+            "coordenadas": "28°27′28″S 65°43′30″W",
+            "localidades": [
+                {
+                    "localidad": "El Portezuelo",
+                    "coordenada": "28°28′00″S 65°38′00″W"
+                },
+                {
+                    "localidad": "Huaycama",
+                    "coordenada": "28°32′00″S 65°41′00″W"
+                },
+                {
+                    "localidad": "Las Tejas",
+                    "coordenada": "28°39′30″S 65°47′05″W"
+                },
+                {
+                    "localidad": "San Isidro",
+                    "coordenada": "28°27′30″S 65°43′30″W"
+                },
+                {
+                    "localidad": "Sumalao",
+                    "coordenada": "28°28′00″S 65°44′00″W"
+                },
+                {
+                    "localidad": "Villa Dolores",
+                    "coordenada": "28°26′42″S 65°43′12″W"
+                },
+                {
+                    "localidad": "Santa Rosa",
+                    "coordenada": "28°26′45″S 65°42′15″W"
+                },
+                {
+                    "localidad": "El Bañado",
+                    "coordenada": "28°27′30″S 65°42′45″W"
+                },
+                {
+                    "localidad": "Polcos",
+                    "coordenada": "28°26′06″S 65°43′12″W"
+                },
+                {
+                    "localidad": "Pozo del Mistol",
+                    "coordenada": "28°28′15″S 65°43′00″W"
+                },
+                {
+                    "localidad": "Santa Cruz",
+                    "coordenada": "28°30′00″S 65°40′00″W"
+                }
+            ]
+        }
+    ]
+}
