@@ -1,0 +1,579 @@
+{
+    "provincia": "Tucumán",
+    "departamentos": [
+        {
+            "departamento": "Burruyacú",
+            "coordenadas": "26°30′01″S 64°44′31″W",
+            "localidades": [
+                {
+                    "localidad": "Siete de Abril",
+                    "coordenada": "26°17′29″S 64°29′59″W"
+                },
+                {
+                    "localidad": "Barrio San Jorge",
+                    "coordenada": "26°40′34″S 65°02′46″W"
+                },
+                {
+                    "localidad": "El Chañar",
+                    "coordenada": "26°45′30″S 65°04′07″W"
+                },
+                {
+                    "localidad": "El Naranjo",
+                    "coordenada": "26°39′43″S 65°02′52″W"
+                },
+                {
+                    "localidad": "Gobernador Garmendia",
+                    "coordenada": "26°34′08″S 64°33′22″W"
+                },
+                {
+                    "localidad": "La Ramada",
+                    "coordenada": "26°41′13″S 64°56′53″W"
+                },
+                {
+                    "localidad": "San José de Macomitas",
+                    "coordenada": "26°43′48″S 65°00′40″W"
+                },
+                {
+                    "localidad": "Piedrabuena",
+                    "coordenada": "26°44′17″S 64°38′53″W"
+                },
+                {
+                    "localidad": "Villa Padre Monti",
+                    "coordenada": "26°30′25″S 64°59′46″W"
+                },
+                {
+                    "localidad": "Villa Benjamín Aráoz",
+                    "coordenada": "26°33′18″S 64°47′49″W"
+                },
+                {
+                    "localidad": "Burruyacú",
+                    "coordenada": "26°29′53″S 64°44′28″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Capital",
+            "coordenadas": "26°50′00″S 65°12′00″W",
+            "localidades": [
+                {
+                    "localidad": "San Miguel de Tucumán",
+                    "coordenada": "26°49′00″S 65°13′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Chicligasta",
+            "coordenadas": "27°20′45″S 65°35′34″W",
+            "localidades": [
+                {
+                    "localidad": "Concepción",
+                    "coordenada": "27°20′00″S 65°35′00″W"
+                },
+                {
+                    "localidad": "Alpachiri",
+                    "coordenada": "27°20′10″S 65°45′18″W"
+                },
+                {
+                    "localidad": "Alto Verde y Los Gucheas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Arcadia",
+                    "coordenada": "27°18′00″S 65°34′00″W"
+                },
+                {
+                    "localidad": "Gastona y Belicha",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Ingenio La Trinidad",
+                    "coordenada": "27°24′00″S 65°31′00″W"
+                },
+                {
+                    "localidad": "Medinas",
+                    "coordenada": "27°25′12″S 65°31′59″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Cruz Alta",
+            "coordenadas": "26°50′24″S 65°09′43″W",
+            "localidades": [
+                {
+                    "localidad": "Banda del Río Salí",
+                    "coordenada": "26°50′00″S 65°10′00″W"
+                },
+                {
+                    "localidad": "Alderetes",
+                    "coordenada": "26°49′00″S 65°08′00″W"
+                },
+                {
+                    "localidad": "Colombres",
+                    "coordenada": "26°54′S 65°06′W"
+                },
+                {
+                    "localidad": "Delfín Gallo",
+                    "coordenada": "26°51′S 65°06′W"
+                },
+                {
+                    "localidad": "El Bracho y El Cevilar",
+                    "coordenada": "26°59′35″S 65°10′55″W"
+                },
+                {
+                    "localidad": "El Naranjito",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "La Florida y Luisiana",
+                    "coordenada": "26°49′15″S 65°05′43″W"
+                },
+                {
+                    "localidad": "Las Cejas",
+                    "coordenada": "26°53′00″S 64°44′00″W"
+                },
+                {
+                    "localidad": "Los Bulacio y Los Villagra",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Pereyras",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Pérez",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Ralos",
+                    "coordenada": "26°52′00″S 64°58′00″W"
+                },
+                {
+                    "localidad": "Ranchillos y San Miguel",
+                    "coordenada": "26°56′00″S 65°02′00″W"
+                },
+                {
+                    "localidad": "San Andrés",
+                    "coordenada": "26°53′35″S 65°11′38″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Famaillá",
+            "coordenadas": "27°03′S 65°24′W",
+            "localidades": [
+                {
+                    "localidad": "Famaillá",
+                    "coordenada": "27°03′S 65°24′W"
+                }
+            ]
+        },
+        {
+            "departamento": "Graneros",
+            "coordenadas": "27°38′48″S 65°26′25″W",
+            "localidades": [
+                {
+                    "localidad": "Graneros",
+                    "coordenada": "27°38′54″S 65°26′22″W"
+                },
+                {
+                    "localidad": "Lamadrid",
+                    "coordenada": "27°38′42″S 65°14′49″W"
+                },
+                {
+                    "localidad": "Taco Ralo",
+                    "coordenada": "27°50′06″S 65°11′38″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Juan Bautista Alberdi",
+            "coordenadas": "27°35′08″S 65°37′03″W",
+            "localidades": [
+                {
+                    "localidad": "Juan Bautista Alberdi",
+                    "coordenada": "27°35′10″S 65°37′11″W"
+                },
+                {
+                    "localidad": "Ciudad Alberdi",
+                    "coordenada": "27°35′10″S 65°37′11″W"
+                },
+                {
+                    "localidad": "Escaba",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Villa Belgrano",
+                    "coordenada": "27°31′52″S 65°36′54″W"
+                }
+            ]
+        },
+        {
+            "departamento": "La Cocha",
+            "coordenadas": "27°46′16″S 65°35′08″W",
+            "localidades": [
+                {
+                    "localidad": "La Cocha",
+                    "coordenada": "27°46′12″S 65°35′09″W"
+                },
+                {
+                    "localidad": "El Sacrificio",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Huasa Pampa",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Rumi Punco",
+                    "coordenada": "27°59′27″S 65°34′43″W"
+                },
+                {
+                    "localidad": "San Ignacio",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "San José de la Cocha",
+                    "coordenada": "27°43′52″S 65°35′53″W"
+                },
+                {
+                    "localidad": "Yánima",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "Leales",
+            "coordenadas": "27°01′58″S 65°18′26″W",
+            "localidades": [
+                {
+                    "localidad": "Bella Vista",
+                    "coordenada": "27°02′00″S 65°18′00″W"
+                },
+                {
+                    "localidad": "Agua Dulce y La Soledad",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Mojón",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Esquina y Mancopa",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Estación Araoz y Tacanas",
+                    "coordenada": "27°03′22″S 64°55′16″W"
+                },
+                {
+                    "localidad": "Las Talas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Gómez",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Puestos",
+                    "coordenada": "27°16′52″S 65°01′08″W"
+                },
+                {
+                    "localidad": "Manuel García Fernández",
+                    "coordenada": "26°57′22″S 65°16′12″W"
+                },
+                {
+                    "localidad": "Quilmes y Los Sueldos",
+                    "coordenada": "27°05′00″S 65°15′00″W"
+                },
+                {
+                    "localidad": "Río Colorado",
+                    "coordenada": "27°09′00″S 65°21′22″W"
+                },
+                {
+                    "localidad": "Santa Rosa de Leales",
+                    "coordenada": "27°09′S 65°15′W"
+                },
+                {
+                    "localidad": "Villa de Leales",
+                    "coordenada": "27°12′S 65°18′W"
+                }
+            ]
+        },
+        {
+            "departamento": "Lules",
+            "coordenadas": "26°55′19″S 65°20′16″W",
+            "localidades": [
+                {
+                    "localidad": "San Isidro de Lules",
+                    "coordenada": "26°55′22″S 65°20′15″W"
+                },
+                {
+                    "localidad": "El Manantial",
+                    "coordenada": "26°51′00″S 65°16′00″W"
+                },
+                {
+                    "localidad": "San Felipe y Santa Bárbara",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "San Pablo y Villa Nougués",
+                    "coordenada": "26°51′28″S 65°22′32″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Monteros",
+            "coordenadas": "27°09′54″S 65°29′52″W",
+            "localidades": [
+                {
+                    "localidad": "Monteros",
+                    "coordenada": "27°10′00″S 65°30′00″W"
+                },
+                {
+                    "localidad": "Acheral",
+                    "coordenada": "27°07′00″S 65°27′00″W"
+                },
+                {
+                    "localidad": "Amberes",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Capitán Cáceres",
+                    "coordenada": "27°11′24″S 65°36′14″W"
+                },
+                {
+                    "localidad": "El Cercado",
+                    "coordenada": "18°44′N 71°31′W"
+                },
+                {
+                    "localidad": "Los Sosas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Río Seco",
+                    "coordenada": "27°16′00″S 65°32′00″W"
+                },
+                {
+                    "localidad": "Santa Lucía",
+                    "coordenada": "27°06′00″S 65°31′00″W"
+                },
+                {
+                    "localidad": "Santa Rosa y Los Rojo",
+                    "coordenada": "27°13′00″S 65°31′00″W"
+                },
+                {
+                    "localidad": "Sargento Moya",
+                    "coordenada": "27°13′42″S 65°39′36″W"
+                },
+                {
+                    "localidad": "Soldado Maldonado",
+                    "coordenada": "27°08′42″S 65°33′49″W"
+                },
+                {
+                    "localidad": "Teniente Berdina",
+                    "coordenada": "27°03′04″S 65°29′13″W"
+                },
+                {
+                    "localidad": "Villa Quinteros",
+                    "coordenada": "27°15′07″S 65°33′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Río Chico",
+            "coordenadas": "27°26′00″S 65°37′00″W",
+            "localidades": [
+                {
+                    "localidad": "Aguilares",
+                    "coordenada": "27°26′00″S 65°37′00″W"
+                },
+                {
+                    "localidad": "Ingenio Santa Bárbara",
+                    "coordenada": "27°27′20″S 65°36′36″W"
+                },
+                {
+                    "localidad": "Los Sarmientos",
+                    "coordenada": "27°24′50″S 65°41′24″W"
+                },
+                {
+                    "localidad": "Río Chico",
+                    "coordenada": "27°28′45″S 65°37′36″W"
+                },
+                {
+                    "localidad": "Santa Ana",
+                    "coordenada": "27°28′00″S 65°40′00″W"
+                },
+                {
+                    "localidad": "Villa Clodomiro Hileret",
+                    "coordenada": "27°28′26″S 65°39′29″W"
+                },
+                {
+                    "localidad": "Monte Bello",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Polear",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "Simoca",
+            "coordenadas": "27°15′47″S 65°21′28″W",
+            "localidades": [
+                {
+                    "localidad": "Simoca",
+                    "coordenada": "27°16′00″S 65°20′00″W"
+                },
+                {
+                    "localidad": "Atahona",
+                    "coordenada": "27°24′58″S 65°17′13″W"
+                },
+                {
+                    "localidad": "Buena Vista",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Ciudacita",
+                    "coordenada": "27°13′48″S 65°54′58″W"
+                },
+                {
+                    "localidad": "Manuela Pedraza",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Monteagudo",
+                    "coordenada": "27°30′40″S 65°16′37″W"
+                },
+                {
+                    "localidad": "Pampa Mayo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Río Chico y Nueva Trinidad",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "San Pedro y San Antonio",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Santa Cruz y La Tuna",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Villa Chicligasta",
+                    "coordenada": "27°26′02″S 65°09′43″W"
+                },
+                {
+                    "localidad": "Yerba Buena",
+                    "coordenada": "27°12′S 65°18′W"
+                }
+            ]
+        },
+        {
+            "departamento": "Tafí del Valle",
+            "coordenadas": "26°50′47″S 65°42′32″W",
+            "localidades": [
+                {
+                    "localidad": "Tafí del Valle",
+                    "coordenada": "26°52′00″S 65°41′00″W"
+                },
+                {
+                    "localidad": "Amaicha del Valle",
+                    "coordenada": "26°36′00″S 65°55′00″W"
+                },
+                {
+                    "localidad": "Colalao del Valle",
+                    "coordenada": "26°22′00″S 65°57′00″W"
+                },
+                {
+                    "localidad": "El Mollar",
+                    "coordenada": "26°57′00″S 65°43′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Tafí Viejo",
+            "coordenadas": "26°44′04″S 65°15′33″W",
+            "localidades": [
+                {
+                    "localidad": "Tafí Viejo",
+                    "coordenada": "26°44′00″S 65°16′00″W"
+                },
+                {
+                    "localidad": "Las Talitas",
+                    "coordenada": "26°46′33″S 65°12′02″W"
+                },
+                {
+                    "localidad": "Anca Juli",
+                    "coordenada": "26°33′30″S 65°31′47″W"
+                },
+                {
+                    "localidad": "El Cadillal",
+                    "coordenada": "26°37′55″S 65°12′32″W"
+                },
+                {
+                    "localidad": "La Esperanza",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Nogales",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Raco",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Pocitos",
+                    "coordenada": "26°47′02″S 65°12′58″W"
+                },
+                {
+                    "localidad": "Lomas de Tafí",
+                    "coordenada": "26°46′08″S 65°13′59″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Trancas",
+            "coordenadas": "26°13′51″S 65°17′00″W",
+            "localidades": [
+                {
+                    "localidad": "Trancas",
+                    "coordenada": "26°13′51″S 65°16′41″W"
+                },
+                {
+                    "localidad": "Choromoro",
+                    "coordenada": "26°24′40″S 65°19′05″W"
+                },
+                {
+                    "localidad": "San Pedro de Colalao",
+                    "coordenada": "26°14′00″S 65°29′00″W"
+                },
+                {
+                    "localidad": "Tapia",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "Yerba Buena",
+            "coordenadas": "26°49′00″S 65°19′00″W",
+            "localidades": [
+                {
+                    "localidad": "Yerba Buena",
+                    "coordenada": "26°49′00″S 65°19′00″W"
+                },
+                {
+                    "localidad": "San Javier",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Cevil Redondo",
+                    "coordenada": "26°47′00″S 65°17′00″W"
+                }
+            ]
+        }
+    ]
+}
