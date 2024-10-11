@@ -1,0 +1,903 @@
+{
+    "provincia": "Jujuy",
+    "departamentos": [
+        {
+            "departamento": "Cochinoca",
+            "coordenadas": "22°43′22″S 65°41′48″W",
+            "localidades": [
+                {
+                    "localidad": "Abra Pampa",
+                    "coordenada": "22°43′00″S 65°42′00″W"
+                },
+                {
+                    "localidad": "Abdón Castro Tolay",
+                    "coordenada": "23°22′00″S 66°04′00″W"
+                },
+                {
+                    "localidad": "Puesto del Marqués",
+                    "coordenada": "22°32′00″S 65°41′00″W"
+                },
+                {
+                    "localidad": "Rinconadillas",
+                    "coordenada": "23°25′00″S 65°55′00″W"
+                },
+                {
+                    "localidad": "San Francisco de Alfarcito",
+                    "coordenada": "23°19′11″S 65°58′20″W"
+                },
+                {
+                    "localidad": "Santuario de Tres Pozos",
+                    "coordenada": "23°31′57″S 65°57′49″W"
+                },
+                {
+                    "localidad": "Tusaquillas",
+                    "coordenada": "23°12′S 66°03′W"
+                },
+                {
+                    "localidad": "Tambillos",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Casabindo",
+                    "coordenada": "22°59′00″S 66°02′00″W"
+                },
+                {
+                    "localidad": "Agua de Castilla",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Cochinoca",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Abralaite",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Quebraleña",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Tabladitas",
+                    "coordenada": "22°44′45″S 65°36′22″W"
+                },
+                {
+                    "localidad": "La Redonda",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Quera",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "Doctor Manuel Belgrano",
+            "coordenadas": "24°11′13″S 65°17′57″W",
+            "localidades": [
+                {
+                    "localidad": "La Almona",
+                    "coordenada": "24°15′29″S 65°23′31″W"
+                },
+                {
+                    "localidad": "Ocloyas",
+                    "coordenada": "23°56′38″S 65°13′55″W"
+                },
+                {
+                    "localidad": "Los Nogales",
+                    "coordenada": "24°07′08″S 65°25′41″W"
+                },
+                {
+                    "localidad": "Guerrero",
+                    "coordenada": "24°11′09″S 65°26′49″W"
+                },
+                {
+                    "localidad": "León",
+                    "coordenada": "24°02′00″S 65°25′00″W"
+                },
+                {
+                    "localidad": "San Pablo de Reyes",
+                    "coordenada": "24°08′38″S 65°23′38″W"
+                },
+                {
+                    "localidad": "Yala",
+                    "coordenada": "24°07′00″S 65°24′00″W"
+                },
+                {
+                    "localidad": "Lozano",
+                    "coordenada": "24°05′06″S 65°24′12″W"
+                },
+                {
+                    "localidad": "San Salvador de Jujuy",
+                    "coordenada": "24°11′08″S 65°17′58″W"
+                }
+            ]
+        },
+        {
+            "departamento": "El Carmen",
+            "coordenadas": "24°23′23″S 65°15′42″W",
+            "localidades": [
+                {
+                    "localidad": "Perico",
+                    "coordenada": "24°22′56″S 65°06′55″W"
+                },
+                {
+                    "localidad": "Monterrico",
+                    "coordenada": "24°27′05″S 65°10′00″W"
+                },
+                {
+                    "localidad": "El Carmen",
+                    "coordenada": "24°23′15″S 65°15′33″W"
+                },
+                {
+                    "localidad": "Pampa Blanca",
+                    "coordenada": "24°31′59″S 65°04′37″W"
+                },
+                {
+                    "localidad": "Aguas Calientes",
+                    "coordenada": "24°35′00″S 64°55′30″W"
+                },
+                {
+                    "localidad": "Puesto Viejo",
+                    "coordenada": "24°29′05″S 64°58′03″W"
+                },
+                {
+                    "localidad": "Barrio El Milagro",
+                    "coordenada": "24°27′40″S 65°06′50″W"
+                },
+                {
+                    "localidad": "Barrio La Unión",
+                    "coordenada": "24°24′14″S 65°04′08″W"
+                },
+                {
+                    "localidad": "Los Lapachos",
+                    "coordenada": "24°28′34″S 65°04′39″W"
+                },
+                {
+                    "localidad": "Manantiales",
+                    "coordenada": "24°32′05″S 64°58′38″W"
+                },
+                {
+                    "localidad": "San Isidro",
+                    "coordenada": "24°33′21″S 64°56′32″W"
+                },
+                {
+                    "localidad": "San Juancito",
+                    "coordenada": "24°23′00″S 64°59′42″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Humahuaca",
+            "coordenadas": "23°12′09″S 65°20′55″W",
+            "localidades": [
+                {
+                    "localidad": "Coctaca",
+                    "coordenada": "23°08′53″S 65°17′08″W"
+                },
+                {
+                    "localidad": "El Aguilar",
+                    "coordenada": "23°12′59″S 65°40′49″W"
+                },
+                {
+                    "localidad": "Humahuaca",
+                    "coordenada": "23°12′20″S 65°21′02″W"
+                },
+                {
+                    "localidad": "Iturbe",
+                    "coordenada": "22°58′44″S 65°21′13″W"
+                },
+                {
+                    "localidad": "Tres Cruces",
+                    "coordenada": "22°55′00″S 65°34′50″W"
+                },
+                {
+                    "localidad": "Uquía",
+                    "coordenada": "23°18′13″S 65°21′22″W"
+                },
+                {
+                    "localidad": "Palca de Aparzo",
+                    "coordenada": "23°07′24″S 65°08′00″W"
+                },
+                {
+                    "localidad": "Chucalezna",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Chorcán",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Aparzo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Ocumazo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Varas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Hornaditas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Calete",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Cianzo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Pueblo Viejo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Coraya",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Portillo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Chaupi Rodero",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Casillas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Muyuyoc",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Las Cuevas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Vizcarra",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Vicuñayoc",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Pisungo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Yacoraite",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Azul Pampa",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Valiazo",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "Ledesma",
+            "coordenadas": "23°48′42″S 64°47′34″W",
+            "localidades": [
+                {
+                    "localidad": "23 de agosto",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Bananal",
+                    "coordenada": "23°33′58″S 64°30′00″W"
+                },
+                {
+                    "localidad": "Bermejito",
+                    "coordenada": "23°47′19″S 64°43′49″W"
+                },
+                {
+                    "localidad": "Caimancito",
+                    "coordenada": "23°44′24″S 64°35′34″W"
+                },
+                {
+                    "localidad": "Calilegua",
+                    "coordenada": "23°46′22″S 64°46′11″W"
+                },
+                {
+                    "localidad": "Chalicán",
+                    "coordenada": "24°04′00″S 64°48′00″W"
+                },
+                {
+                    "localidad": "Fraile Pintado",
+                    "coordenada": "23°56′00″S 64°47′00″W"
+                },
+                {
+                    "localidad": "Guayacán",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Jaramillo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Libertad",
+                    "coordenada": "23°45′45″S 64°43′37″W"
+                },
+                {
+                    "localidad": "Libertador General San Martín",
+                    "coordenada": "23°48′00″S 64°47′00″W"
+                },
+                {
+                    "localidad": "Paulina",
+                    "coordenada": "23°50′38″S 64°44′20″W"
+                },
+                {
+                    "localidad": "San Borja",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Yuto",
+                    "coordenada": "23°38′36″S 64°28′19″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Palpalá",
+            "coordenadas": "24°15′09″S 65°12′12″W",
+            "localidades": [
+                {
+                    "localidad": "Carahunco",
+                    "coordenada": "24°18′28″S 65°04′55″W"
+                },
+                {
+                    "localidad": "Centro Forestal",
+                    "coordenada": "24°13′43″S 65°10′39″W"
+                },
+                {
+                    "localidad": "Palpalá",
+                    "coordenada": "24°15′30″S 65°12′30″W"
+                },
+                {
+                    "localidad": "El Algarrobal",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Las Escaleras",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Cucho",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Blancos",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Mina 9 de Octubre",
+                    "coordenada": "24°14′41″S 65°05′08″W"
+                },
+                {
+                    "localidad": "Río Blanco",
+                    "coordenada": "24°13′37″S 65°14′15″W"
+                },
+                {
+                    "localidad": "Villa Palpalá",
+                    "coordenada": "24°15′00″S 65°07′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Rinconada",
+            "coordenadas": "22°26′25″S 66°09′59″W",
+            "localidades": [
+                {
+                    "localidad": "Nuevo Pirquitas",
+                    "coordenada": "22°41′36″S 66°29′57″W"
+                },
+                {
+                    "localidad": "Rinconada",
+                    "coordenada": "22°26′25″S 66°10′02″W"
+                },
+                {
+                    "localidad": "Lagunillas del Farallón",
+                    "coordenada": "22°27′46″S 66°37′38″W"
+                },
+                {
+                    "localidad": "Loma Blanca",
+                    "coordenada": "30°39′S 66°09′W"
+                },
+                {
+                    "localidad": "Coyaguaima",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Orosmayo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Casa Colorada",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Liviara",
+                    "coordenada": "22°31′13″S 66°20′18″W"
+                },
+                {
+                    "localidad": "Mina Pan de Azúcar",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Antiguyo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Carahuasi",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Casti",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Ciénaga Grande",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Cincel",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Esquina Blanca",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Laguna Larga",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Tiomayo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Ojo de Agua",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Pozuelos",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Ramadas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Santo Domingo",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Uquillayoc",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Vizcachayoc",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "San Antonio",
+            "coordenadas": "24°22′00″S 65°20′00″W",
+            "localidades": [
+                {
+                    "localidad": "San Antonio",
+                    "coordenada": "24°22′03″S 65°20′07″W"
+                },
+                {
+                    "localidad": "Los Alisos",
+                    "coordenada": "24°16′12″S 65°16′37″W"
+                },
+                {
+                    "localidad": "El Ceibal",
+                    "coordenada": "24°17′53″S 65°16′23″W"
+                },
+                {
+                    "localidad": "Loma Atravesada",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Paños",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "La Almona",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Morado",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "San Pedro",
+            "coordenadas": "24°14′00″S 64°52′00″W",
+            "localidades": [
+                {
+                    "localidad": "Arrayanal",
+                    "coordenada": "24°10′41″S 64°50′28″W"
+                },
+                {
+                    "localidad": "Arroyo Colorado",
+                    "coordenada": "24°20′10″S 64°39′47″W"
+                },
+                {
+                    "localidad": "Don Emilio",
+                    "coordenada": "24°19′01″S 64°54′27″W"
+                },
+                {
+                    "localidad": "El Acheral",
+                    "coordenada": "24°24′11″S 64°48′00″W"
+                },
+                {
+                    "localidad": "El Puesto",
+                    "coordenada": "24°11′53″S 64°47′17″W"
+                },
+                {
+                    "localidad": "El Quemado",
+                    "coordenada": "24°06′17″S 64°49′26″W"
+                },
+                {
+                    "localidad": "El Sauzal",
+                    "coordenada": "24°17′56″S 64°57′25″W"
+                },
+                {
+                    "localidad": "La Esperanza",
+                    "coordenada": "24°13′26″S 64°50′17″W"
+                },
+                {
+                    "localidad": "La Manga",
+                    "coordenada": "24°11′28″S 64°50′49″W"
+                },
+                {
+                    "localidad": "La Mendieta",
+                    "coordenada": "24°19′00″S 64°58′00″W"
+                },
+                {
+                    "localidad": "Miraflores",
+                    "coordenada": "24°13′26″S 64°49′16″W"
+                },
+                {
+                    "localidad": "Palos Blancos",
+                    "coordenada": "24°19′37″S 64°56′42″W"
+                },
+                {
+                    "localidad": "Parapetí",
+                    "coordenada": "24°14′06″S 64°50′38″W"
+                },
+                {
+                    "localidad": "Piedritas",
+                    "coordenada": "24°17′42″S 64°52′52″W"
+                },
+                {
+                    "localidad": "Rodeito",
+                    "coordenada": "24°16′16″S 64°46′05″W"
+                },
+                {
+                    "localidad": "Rosario de Río Grande",
+                    "coordenada": "24°18′25″S 64°55′52″W"
+                },
+                {
+                    "localidad": "San Antonio",
+                    "coordenada": "24°13′05″S 64°48′22″W"
+                },
+                {
+                    "localidad": "San Lucas",
+                    "coordenada": "24°16′05″S 64°51′50″W"
+                },
+                {
+                    "localidad": "San Pedro de Jujuy",
+                    "coordenada": "24°14′00″S 64°52′00″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Santa Bárbara",
+            "coordenadas": "24°18′31″S 64°39′37″W",
+            "localidades": [
+                {
+                    "localidad": "El Piquete",
+                    "coordenada": "24°10′43″S 64°40′44″W"
+                },
+                {
+                    "localidad": "Puente Lavayén",
+                    "coordenada": "24°16′23″S 64°42′22″W"
+                },
+                {
+                    "localidad": "El Fuerte",
+                    "coordenada": "24°15′43″S 64°24′50″W"
+                },
+                {
+                    "localidad": "El Talar",
+                    "coordenada": "23°34′00″S 64°22′00″W"
+                },
+                {
+                    "localidad": "Palma Sola",
+                    "coordenada": "23°58′41″S 64°18′13″W"
+                },
+                {
+                    "localidad": "Santa Clara",
+                    "coordenada": "24°17′00″S 64°41′00″W"
+                },
+                {
+                    "localidad": "Vinalito",
+                    "coordenada": "23°39′42″S 64°24′44″W"
+                },
+                {
+                    "localidad": "Siete Aguas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Isla Chica",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Olvido",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Los Matos",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Sauzal",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Real de los Toros",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "El Tipal",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Las Juntas",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "La Celulosa",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Madrejón",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "San Rafael",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Valle Grande",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        },
+        {
+            "departamento": "",
+            "coordenadas": "",
+            "localidades": [
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "",
+                    "coordenada": ""
+                }
+            ]
+        }
+    ]
+}
