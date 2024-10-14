@@ -690,211 +690,341 @@
             ]
         },
         {
-            "departamento": "",
-            "coordenadas": "",
+            "departamento": "Santa Catalina",
+            "coordenadas": "21°56′44″S 66°03′06″W",
             "localidades": [
                 {
-                    "localidad": "",
+                    "localidad": "Casira",
+                    "coordenada": "21°58′42″S 65°53′46″W"
+                },
+                {
+                    "localidad": "Ciénega de Paicone",
+                    "coordenada": "22°10′43″S 66°24′43″W"
+                },
+                {
+                    "localidad": "Cieneguillas",
+                    "coordenada": "22°06′00″S 65°52′01″W"
+                },
+                {
+                    "localidad": "Cusi Cusi",
+                    "coordenada": "22°20′24″S 66°29′31″W"
+                },
+                {
+                    "localidad": "El Angosto",
+                    "coordenada": "21°52′35″S 66°11′19″W"
+                },
+                {
+                    "localidad": "La Ciénaga",
+                    "coordenada": "21°57′43″S 66°15′43″W"
+                },
+                {
+                    "localidad": "Misa Rumi",
+                    "coordenada": "22°15′35″S 66°22′03″W"
+                },
+                {
+                    "localidad": "Paicone",
+                    "coordenada": "22°13′10″S 66°25′33″W"
+                },
+                {
+                    "localidad": "Oratorio",
+                    "coordenada": "22°05′58″S 66°08′00″W"
+                },
+                {
+                    "localidad": "Santa Catalina",
+                    "coordenada": "21°56′43″S 66°03′09″W"
+                },
+                {
+                    "localidad": "San Juan de Oro",
+                    "coordenada": "22°13′31″S 66°14′54″W"
+                },
+                {
+                    "localidad": "Yoscaba",
+                    "coordenada": "22°09′58″S 66°01′29″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Susques",
+            "coordenadas": "23°23′48″S 66°21′59″W",
+            "localidades": [
+                {
+                    "localidad": "Susques",
+                    "coordenada": "23°24′02″S 66°22′02″W"
+                },
+                {
+                    "localidad": "Catua",
+                    "coordenada": "23°52′00″S 67°01′00″W"
+                },
+                {
+                    "localidad": "Coranzulí",
+                    "coordenada": "23°00′56″S 66°21′59″W"
+                },
+                {
+                    "localidad": "Huáncar",
+                    "coordenada": "23°33′47″S 66°24′36″W"
+                },
+                {
+                    "localidad": "El Toro",
+                    "coordenada": "23°05′02″S 66°42′08″W"
+                },
+                {
+                    "localidad": "Pastos Chicos",
+                    "coordenada": "23°45′58″S 66°26′14″W"
+                },
+                {
+                    "localidad": "Pairique Chico",
+                    "coordenada": "23°02′07″S 66°49′00″W"
+                },
+                {
+                    "localidad": "Puesto Sey",
+                    "coordenada": "23°56′42″S 66°29′17″W"
+                },
+                {
+                    "localidad": "San Juan de Quillaques",
+                    "coordenada": "23°13′50″S 66°20′36″W"
+                },
+                {
+                    "localidad": "Jama",
+                    "coordenada": "23°14′24″S 67°01′03″W"
+                },
+                {
+                    "localidad": "Mina Providencia",
+                    "coordenada": "23°15′47″S 66°47′57″W"
+                },
+                {
+                    "localidad": "Olaroz Chico",
+                    "coordenada": "23°23′36″S 66°48′12″W"
+                },
+                {
+                    "localidad": "Ciénaga de Bávaro",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "El Codo",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "El Rosal",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "El Porvenir",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Géiseres de Coranzulí",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Olaroz Grande",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Siberia",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Medanitos",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Sijes",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Tanques",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Pairique Grande",
+                    "coordenada": ""
+                },
+                {
+                    "localidad": "Turilari",
                     "coordenada": ""
                 }
             ]
         },
         {
-            "departamento": "",
-            "coordenadas": "",
+            "departamento": "Tilcara",
+            "coordenadas": "23°34′26″S 65°23′37″W",
             "localidades": [
                 {
-                    "localidad": "",
+                    "localidad": "Colonia San José",
+                    "coordenada": "23°23′18″S 65°20′41″W"
+                },
+                {
+                    "localidad": "Huacalera",
+                    "coordenada": "23°26′00″S 65°21′00″W"
+                },
+                {
+                    "localidad": "Juella",
+                    "coordenada": "23°31′18″S 65°24′06″W"
+                },
+                {
+                    "localidad": "Maimará",
+                    "coordenada": "23°37′34″S 65°24′33″W"
+                },
+                {
+                    "localidad": "Tilcara",
+                    "coordenada": "23°34′37″S 65°23′36″W"
+                }
+            ]
+        },
+        {
+            "departamento": "Tumbaya",
+            "coordenadas": "23°51′28″S 65°28′04″W",
+            "localidades": [
+                {
+                    "localidad": "Bárcena",
+                    "coordenada": "23°58′59″S 65°27′18″W"
+                },
+                {
+                    "localidad": "El Moreno",
+                    "coordenada": "23°51′14″S 65°49′52″W"
+                },
+                {
+                    "localidad": "Purmamarca",
+                    "coordenada": "23°44′00″S 65°29′00″W"
+                },
+                {
+                    "localidad": "Tumbaya",
+                    "coordenada": "23°51′27″S 65°28′01″W"
+                },
+                {
+                    "localidad": "Volcán",
+                    "coordenada": "23°55′05″S 65°27′55″W"
+                },
+                {
+                    "localidad": "Coiruro",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Guachichocana",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Tres Morros",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
+                    "localidad": "Tunalito",
                     "coordenada": ""
                 }
             ]
         },
         {
-            "departamento": "",
-            "coordenadas": "",
+            "departamento": "Valle Grande",
+            "coordenadas": "23°28′33″S 64°56′52″W",
             "localidades": [
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Pampichuela",
+                    "coordenada": "23°33′18″S 65°00′29″W"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Valle Colorado",
+                    "coordenada": "23°24′49″S 64°56′03″W"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Caspalá",
+                    "coordenada": "23°21′47″S 65°05′31″W"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Santa Ana",
+                    "coordenada": "23°21′22″S 64°59′18″W"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "San Francisco",
+                    "coordenada": "23°37′19″S 64°57′04″W"
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
+                    "localidad": "Valle Grande",
+                    "coordenada": "23°28′34″S 64°56′55″W"
                 }
             ]
         },
         {
-            "departamento": "",
-            "coordenadas": "",
+            "departamento": "Yavi",
+            "coordenadas": "22°06′04″S 65°35′44″W",
             "localidades": [
                 {
-                    "localidad": "",
+                    "localidad": "Cangrejillos",
+                    "coordenada": "22°25′08″S 65°34′48″W"
+                },
+                {
+                    "localidad": "El Cóndor",
+                    "coordenada": "22°23′13″S 65°20′21″W"
+                },
+                {
+                    "localidad": "La Intermedia",
+                    "coordenada": "22°25′16″S 65°42′00″W"
+                },
+                {
+                    "localidad": "La Quiaca",
+                    "coordenada": "22°06′20″S 65°36′00″W"
+                },
+                {
+                    "localidad": "Llulluchayoc",
+                    "coordenada": "22°33′00″S 65°23′13″W"
+                },
+                {
+                    "localidad": "Pumahuasi",
+                    "coordenada": "22°17′00″S 65°41′00″W"
+                },
+                {
+                    "localidad": "Yavi",
+                    "coordenada": "22°07′52″S 65°27′47″W"
+                },
+                {
+                    "localidad": "Yavi Chico",
+                    "coordenada": "22°06′00″S 65°28′00″W"
+                },
+                {
+                    "localidad": "Barrios",
+                    "coordenada": "22°14′52″S 65°31′42″W"
+                },
+                {
+                    "localidad": "Alto del Pelador",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Cajas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Caracara",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Cerrillos",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Corral Blanco",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Inti Cancha",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Mina Bélgica",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Mina Pulpera",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "",
-            "coordenadas": "",
-            "localidades": [
-                {
-                    "localidad": "",
+                    "localidad": "San Juancito",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
+                    "localidad": "Mina Sol de Mayo",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "",
+                    "localidad": "Suripugio",
                     "coordenada": ""
                 }
             ]
