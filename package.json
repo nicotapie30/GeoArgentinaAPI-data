@@ -13,7 +13,8 @@
   "dependencies": {
     "express": "^4.21.1",
     "lowdb": "^7.0.1",
-    "pnpm": "^9.10.0"
+    "pnpm": "^9.10.0",
+    "steno": "^4.0.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.12.0",
