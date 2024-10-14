@@ -10,6 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lowdb": "^7.0.1",
     "pnpm": "^9.10.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.12.0",
+    "eslint": "9.12.0",
+    "globals": "15.11.0"
   }
 }
