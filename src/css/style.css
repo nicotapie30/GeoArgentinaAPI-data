@@ -8,7 +8,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     --fonttitle: 'Poppins';
     --fonttext: 'Montserrat';
-    --backgroundcolor: #FDFDFD;
+    --backgroundcolor: #FDF1F7;
     --titlecolor: #61ADA0;
     --subtitlecolor: #B2D5BA;
     --itemscolor: #2c272c;
@@ -20,15 +20,19 @@ body {
     width: 100dvw;
     height: 100dvh;
     background: var(--backgroundcolor);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
 }
 
 
 
 /*---- ESTILOS DEL HEADER ----*/
 .header {
-    width: 100%;
+    width: 80%;
     height: 3rem;
-    padding: 1.5rem;
+    padding: 2.5rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -81,6 +85,7 @@ body {
 
 .nav__link {
     text-decoration: none;
+    font-family: var(--fonttext);
     font-size: 0.8rem;
     font-weight: 600;
     color: var(--itemscolor);
@@ -97,4 +102,37 @@ body {
 .nav__link:last-child {
     color: #000;
     font-size: 0.9rem;
+}
+
+
+
+
+
+/*---- ESTILOS DEL HERO ----*/
+
+/*-- TITLES --*/
+.section__titles {
+    width: 80%;
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.7rem;
+}
+
+
+.titles__title {
+    font-family: var(--fonttitle);
+    font-size: 2.8rem;
+    color: var(--titlecolor);
+    text-wrap: nowrap;
+}
+
+
+.titles__subtitle {
+    font-family: var(--fonttitle);
+    font-size: 0.8rem;
+    color: var(--subtitlecolor);
+    text-wrap: pretty;
 }
