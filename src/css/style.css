@@ -1,0 +1,73 @@
+/*---- ESTILOS GENERALES ----*/
+html {
+    font-size: 1.6rem;
+}
+
+body {
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    --fonttitle: 'Poppins';
+    --fonttext: 'Montserrat';
+    --backgroundcolor: #FDFFFF;
+    --titlecolor: #61ADA0;
+    --subtitlecolor: #B2D5BA;
+    --itemscolor: #554a56;
+    --objetscolor: #248F8D;
+}
+
+
+.layout {
+    width: 100dvw;
+    height: 100dvh;
+    background: var(--backgroundcolor);
+}
+
+
+
+/*---- ESTILOS DEL HEADER ----*/
+.header {
+    width: 100%;
+    height: 3rem;
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+/*-- LOGO Y NAME --*/
+.header__container-creator {
+    display: flex;
+    gap: 0.5rem;
+}
+
+
+.creator__name {
+    font-family: var(--fonttext);
+    font-size: 0.5rem;
+    font-weight: 600;
+}
+
+
+
+/*-- LINKS --*/
+.header__nav {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+
+.nav__link {
+    text-decoration: none;
+    font-size: 0.6rem;
+    font-weight: 600;
+    color: var(--itemscolor);
+}
+
+
+.nav__link:last-child {
+    color: #000;
+    font-size: 0.9rem;
+}
