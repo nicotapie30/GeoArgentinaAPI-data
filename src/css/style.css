@@ -8,10 +8,10 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     --fonttitle: 'Poppins';
     --fonttext: 'Montserrat';
-    --backgroundcolor: #FDFFFF;
+    --backgroundcolor: #FDFDFD;
     --titlecolor: #61ADA0;
     --subtitlecolor: #B2D5BA;
-    --itemscolor: #554a56;
+    --itemscolor: #2c272c;
     --objetscolor: #248F8D;
 }
 
@@ -39,14 +39,34 @@ body {
 /*-- LOGO Y NAME --*/
 .header__container-creator {
     display: flex;
-    gap: 0.5rem;
+    align-items: center;
+    justify-content: center;
 }
 
 
-.creator__name {
+.creator__img {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+
+.creator__container-description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.creator__item {
     font-family: var(--fonttext);
     font-size: 0.5rem;
     font-weight: 600;
+}
+
+
+.creator__desc {
+    font-size: 0.3rem;
+    font-weight: 700;
 }
 
 
@@ -54,16 +74,23 @@ body {
 /*-- LINKS --*/
 .header__nav {
     display: flex;
-    gap: 1rem;
+    gap: 1.4rem;
     align-items: center;
 }
 
 
 .nav__link {
     text-decoration: none;
-    font-size: 0.6rem;
+    font-size: 0.8rem;
     font-weight: 600;
     color: var(--itemscolor);
+    transition: all 200ms ease;
+    display: flex;
+    justify-content: center;
+
+    &:hover {
+        filter: invert(50%) contrast(150%);
+    }
 }
 
 
