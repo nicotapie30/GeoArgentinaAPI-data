@@ -10,11 +10,11 @@ body {
     --fonttext: 'Montserrat';
     --fontcode: 'Kanit';
     --backgroundcolor: #FDF1F7;
-    --titlecolor: #61ADA0;
-    --subtitlecolor: #B2D5BA;
+    --titlecolor: #4A8073;
+    --subtitlecolor: #636363;
     --itemscolor: #3d3c3d;
     --textguidecolor: rgba(50, 50, 50, 0.9);
-    --objetscolor: #248F8D;
+    --objetscolor: #228380;
     --backgroundcode: rgba(0, 0, 0, 0.8)
 }
 
@@ -27,7 +27,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: radial-gradient(70% 130% at 50% 50%, rgb(255, 255, 255), rgba(144, 199, 190, 0.6) 140%)
+    background: #757F9A;
+    background: linear-gradient(to bottom, #ffffff, #b3c6c4);
 }
 
 
@@ -98,7 +99,8 @@ body {
     justify-content: center;
 
     &:hover {
-        filter: invert(50%) contrast(150%);
+        filter: invert(40%) contrast(150%);
+        color: var(--objetscolor);
     }
 }
 
@@ -132,7 +134,7 @@ body {
     color: var(--titlecolor);
     text-align: center;
     text-wrap: nowrap;
-    text-shadow: 0px 0px 2px #555;
+    text-shadow: 0px 0px 2px #333;
 }
 
 
@@ -143,6 +145,7 @@ body {
     text-align: center;
     text-wrap: balance;
     text-wrap: pretty;
+    text-shadow: 0px 0px 1px #111;
 }
 
 
@@ -154,7 +157,7 @@ body {
 /*---- ESTILOS DEL MAIN ----*/
 .section__main {
     width: 80%;
-    margin: 7rem 0 0 0;
+    margin: 10rem 0 0 0;
 }
 
 
@@ -168,7 +171,7 @@ body {
     margin: 0 0 3rem 0;
     font-family: var(--fonttitle);
     font-size: 1.5rem;
-    color: var(--itemscolor);
+    color: var(--titlecolor);
     text-align: center;
 }
 
@@ -268,7 +271,7 @@ b {
     background: #ffffff;
     border: none;
     border-radius: 10px;
-    box-shadow: 0px 0px 3px #555;
+    box-shadow: 0px 0px 4px #444;
 }
 
 
