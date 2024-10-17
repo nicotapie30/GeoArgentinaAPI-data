@@ -21,6 +21,11 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
     <meta name="author" content="Nicolás Alejandro Tapié">
     <link rel="stylesheet" href="/src/css/reset.css">
     <link rel="stylesheet" href="/src/css/style.css">
@@ -50,42 +55,114 @@
 
         <section class="section__titles">
             <h1 class="titles__title">Localidades Argentinas</h1>
-            <h2 class="titles__subtitle">Esta web realiza una guía para implementar correctamente la API de localidades
-                Argentinas</h2>
+            <h2 class="titles__subtitle">Bienvenido a la API de Localidades de Argentina. Esta API te permite acceder a
+                información sobre provincias, departamentos y localidades del país. A continuación, te mostramos
+                cómo puedes empezar a utilizarla.</h2>
         </section>
 
         <section class="section__main">
             <main class="main__main" id="main">
+                <h2 class="main__title">Guía para Utulizar la API</h2>
+
+                <span class="mainlist__text">Antes de comezar, asegúrate de tener:</span>
+
+                <div class="container__mainlist">
+                    <ul class="mainlist__ul">
+                        <li class="mainlist__item"> • Una herramienta para realizar solicitudes <strong>HTTP</strong>,
+                            como
+                            <b>Postman</b> o <b>curl</b>.
+                        </li>
+                        <li class="mainlist__item class="> • Conocimientos básicos en <strong>HTTP</strong> y
+                            <strong>JSON</strong>.
+                        </li>
+                    </ul>
+                </div>
+
+                <h3 class="main__endpoints">Endpoints Disponibles</h3>
+
                 <div class="main__container-containers">
 
                     <div class="main__container container-1">
-                        <h3 class="main__title">Paso 1:</h3>
+                        <h4 class="main__subtitle">Obtener Todas las Provincias</h4>
+                        <ul class="main__ul-items">
+                            <li class="main__li-items">URL: <code>/api/provincias</code></li>
+                            <li class="main__li-items">Método: <code>GET</code></li>
+                            <li class="main__li-items">Descripción: <p class="description__text">Devuelve una lista de
+                                    todas las provincias</p>
+                            </li>
+                        </ul>
+                        <p class="main__solicitud">Ejemplo de Solicitud:</p>
+                        <p class="main__code"><code>curl http://dominio/api/provincia</code></p>
+                        <p class="main__respuesta">Ejemplo de Respuesta</p>
                         <img src="" alt="" class="main__img">
-                        <p class="main__description"></p>
                     </div>
 
                     <div class="main__container container-2">
-                        <h3 class="main__title">Paso 2:</h3>
+                        <h4 class="main__subtitle">Obtener Departamentos de una Provincia</h4>
+                        <ul class="main__ul-items">
+                            <li class="main__li-items">URL: <code>/api/provincias/{provincia}/departamentos</code></li>
+                            <li class="main__li-items">Método: <code>GET</code></li>
+                            <li class="main__li-items">Descripción: <p class="description__text">Devuelve una lista de
+                                    todos los departamentos de
+                                    una
+                                    provincia específica</p>
+                            </li>
+                        </ul>
+                        <p class="main__solicitud">Ejemplo de Solicitud:</p>
+                        <p class="main__code"><code>curl http://dominio/api/provincias/Buenos-Aires/departamentos</code>
+                        </p>
+                        <p class="main__respuesta">Ejemplo de Respuesta</p>
                         <img src="" alt="" class="main__img">
-                        <p class="main__description"></p>
                     </div>
 
                     <div class="main__container container-3">
-                        <h3 class="main__title">Paso 3:</h3>
+                        <h4 class="main__subtitle">Obtener Localidades de un Departamento</h4>
+                        <ul class="main__ul-items">
+                            <li class="main__li-items">URL:
+                                <code>/api/provincias/{provincia}/departamentos/{departamento}/localidades</code>
+                            </li>
+                            <li class="main__li-items">Método: <code>GET</code></li>
+                            <li class="main__li-items">Descripción: <p class="description__text">Devuelve una lista de
+                                    todas las localidades de un
+                                    departamento específico</p>
+                            </li>
+                        </ul>
+                        <p class="main__solicitud">Ejemplo de Solicitud:</p>
+                        <p class="main__code">
+                            <code>curl http://dominio/api/provincias/Buenos-Aires/departamentos/Puelén/localidades</code>
+                        </p>
+                        <p class="main__respuesta">Ejemplo de Respuesta</p>
                         <img src="" alt="" class="main__img">
-                        <p class="main__description"></p>
                     </div>
 
                     <div class="main__container container-4">
-                        <h3 class="main__title">Paso 4:</h3>
+                        <h4 class="main__subtitle">Obtener Información de una Localidad Específica</h4>
+                        <ul class="main__ul-items">
+                            <li class="main__li-items">URL:
+                                <code>/api/provincias/{provincia}/departamentos/{departamento}/localidades/{localidad}</code>
+                            </li>
+                            <li class="main__li-items">Método: <code>GET</code></li>
+                            <li class="main__li-items">Descripción: <p class="description__text">Devuelve información
+                                    detallada de una localidad
+                                    específica</p>
+                            </li>
+                        </ul>
+                        <p class="main__solicitud">Ejemplo de Solicitud:</p>
+                        <p class="main__code">
+                            <code>curl http://dominio/api/provincias/Buenos-Aires/departamentos/Puelén/localidades/Puelén</code>
+                        </p>
+                        <p class="main__respuesta">Ejemplo de Respuesta</p>
                         <img src="" alt="" class="main__img">
-                        <p class="main__description"></p>
                     </div>
 
                     <div class="main__container container-5">
-                        <h3 class="main__title">Paso 5:</h3>
+                        <h4 class="main__subtitle">Manejo de Errores</h4>
+                        <ul class="main__ul-items">
+                            <li class="main__li-items"><strong>404 Not Found</strong></li>
+                            <li class="main__li-items"><strong>500 Internal Server Error</strong></li>
+                        </ul>
+                        <p class="main__respuesta">Ejemplo de Respuesta de Error</p>
                         <img src="" alt="" class="main__img">
-                        <p class="main__description"></p>
                     </div>
 
                 </div>

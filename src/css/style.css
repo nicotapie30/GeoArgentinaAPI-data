@@ -8,22 +8,26 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     --fonttitle: 'Poppins';
     --fonttext: 'Montserrat';
+    --fontcode: 'Kanit';
     --backgroundcolor: #FDF1F7;
     --titlecolor: #61ADA0;
     --subtitlecolor: #B2D5BA;
-    --itemscolor: #2c272c;
+    --itemscolor: #3d3c3d;
+    --textguidecolor: rgba(50, 50, 50, 0.9);
     --objetscolor: #248F8D;
+    --backgroundcode: rgba(0, 0, 0, 0.8)
 }
 
 
 .layout {
     width: 100%;
     height: 100%;
+    padding: 2.5rem;
     background: var(--backgroundcolor);
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: radial-gradient(70% 130% at 50% 50%, rgb(255, 255, 255), rgba(97, 173, 160, 0.6) 140%)
+    background-image: radial-gradient(70% 130% at 50% 50%, rgb(255, 255, 255), rgba(144, 199, 190, 0.6) 140%)
 }
 
 
@@ -32,7 +36,6 @@ body {
 .header {
     width: 80%;
     height: 3rem;
-    padding: 2.5rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -127,6 +130,7 @@ body {
     font-family: var(--fonttitle);
     font-size: 2.9rem;
     color: var(--titlecolor);
+    text-align: center;
     text-wrap: nowrap;
     text-shadow: 0px 0px 2px #555;
 }
@@ -136,6 +140,8 @@ body {
     font-family: var(--fonttitle);
     font-size: 0.9rem;
     color: var(--subtitlecolor);
+    text-align: center;
+    text-wrap: balance;
     text-wrap: pretty;
 }
 
@@ -148,13 +154,67 @@ body {
 /*---- ESTILOS DEL MAIN ----*/
 .section__main {
     width: 80%;
-    margin: 6rem 0 0 0;
+    margin: 7rem 0 0 0;
 }
 
 
 .main__main {
     width: 100%;
 }
+
+
+
+.main__title {
+    margin: 0 0 3rem 0;
+    font-family: var(--fonttitle);
+    font-size: 1.5rem;
+    color: var(--itemscolor);
+    text-align: center;
+}
+
+
+.mainlist__text {
+    margin: 5rem 0 0.5rem 0;
+    font-family: var(--fonttitle);
+    color: var(--itemscolor);
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+}
+
+
+
+.container__mainlist {
+    padding: 0.3rem 0 3rem 0;
+    font-family: var(--fonttext);
+    font-size: 0.6rem;
+    font-weight: 600;
+}
+
+
+.mainlist__item {
+    padding: 0.7rem 0 0 0;
+    font-weight: 600;
+    list-style: none;
+}
+
+
+strong,
+b {
+    font-weight: 800;
+}
+
+
+
+.main__endpoints {
+    padding: 1rem 0 1rem 0;
+    font-family: var(--fonttitle);
+    color: var(--itemscolor);
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+
 
 
 /*-- GRILLAS --*/
@@ -167,7 +227,7 @@ body {
         'paso3'
         'paso4'
         'paso5';
-    grid-gap: 2rem;
+    grid-gap: 4rem;
 }
 
 
@@ -195,19 +255,116 @@ body {
 
 
 
+
+
+
 /*-- PASOS --*/
 .main__container {
-    width: 25rem;
+    width: 30rem;
     height: 15rem;
+    padding: 1rem;
     display: flex;
     flex-direction: column;
-    background: #fff;
+    background: #ffffff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px #555;
 }
 
 
-.main__title {
-    font-family: 'Poppins';
-    font-size: 0.9rem;
+
+
+.main__subtitle {
+    padding: 0 0 0.8rem 0;
+    font-family: var(--fonttitle);
+    font-size: 1.1rem;
+    color: var(--objetscolor);
+    text-shadow: 0px 0px 2px #ccc;
+}
+
+
+.main__ul-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.main__li-items {
+    padding: 0.3rem 0;
+    list-style: none;
+    font-family: var(--fonttitle);
+    color: var(--textguidecolor);
+    font-size: 0.6rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+
+.main__li-items>code {
+    margin: 0 0 0 0.5rem;
+    padding: 0.2rem 1rem;
+    background: var(--backgroundcode);
+    color: #ffffff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-family: var(--fontcode);
+    font-size: 0.5rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+    box-shadow: 0px 0px 4px #000;
+    text-shadow: 0px 0px 1px #555;
+}
+
+
+.description__text {
+    display: inline;
+    font-weight: 600;
+    letter-spacing: 0px;
     color: var(--itemscolor);
-    padding: 0.5rem;
+}
+
+
+
+
+/*-- CURL / URL --*/
+.main__solicitud {
+    padding: 1rem 0 0.4rem 0;
+    list-style: none;
+    font-family: var(--fonttitle);
+    color: var(--itemscolor);
+    font-size: 0.8rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+
+
+.main__code>code {
+    margin: 0;
+    padding: 0.2rem 1rem;
+    background: var(--backgroundcode);
+    color: #ffffff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-family: var(--fontcode);
+    font-size: 0.5rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+    box-shadow: 0px 0px 4px #000;
+    text-shadow: 0px 0px 1px #555;
+}
+
+
+
+.main__respuesta {
+    padding: 1rem 0 0.4rem 0;
+    list-style: none;
+    font-family: var(--fonttitle);
+    color: var(--itemscolor);
+    font-size: 0.8rem;
+    font-weight: 800;
+    letter-spacing: 1px;
 }
