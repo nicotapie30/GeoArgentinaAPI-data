@@ -1,0 +1,94 @@
+[
+    {
+        "src": "/public/imgs/buenosaires.png",
+        "alt": "Buenos-Aires"
+    },
+    {
+        "src": "/public/imgs/catamarca.png",
+        "alt": "Catamarca"
+    },
+    {
+        "src": "/public/imgs/chaco.png",
+        "alt": "Chaco"
+    },
+    {
+        "src": "/public/imgs/chubut.png",
+        "alt": "Chubut"
+    },
+    {
+        "src": "/public/imgs/cordoba.png",
+        "alt": "Cordoba"
+    },
+    {
+        "src": "/public/imgs/corrientes.png",
+        "alt": "Corrientes"
+    },
+    {
+        "src": "/public/imgs/entre-rios.png",
+        "alt": "Entre-Ríos"
+    },
+    {
+        "src": "/public/imgs/formosa.png",
+        "alt": "Formosa"
+    },
+    {
+        "src": "/public/imgs/jujuy.png",
+        "alt": "Jujuy"
+    },
+    {
+        "src": "/public/imgs/la-rioja.png",
+        "alt": "La-Rioja"
+    },
+    {
+        "src": "/public/imgs/lapampa.png",
+        "alt": "La-Pampa"
+    },
+    {
+        "src": "/public/imgs/mendoza.png",
+        "alt": "Mendoza"
+    },
+    {
+        "src": "/public/imgs/misiones.png",
+        "alt": "Misiones"
+    },
+    {
+        "src": "/public/imgs/neuquen.png",
+        "alt": "Neuquen"
+    },
+    {
+        "src": "/public/imgs/rionegro.png",
+        "alt": "Río-Negro"
+    },
+    {
+        "src": "/public/imgs/salta.png",
+        "alt": "Salta"
+    },
+    {
+        "src": "/public/imgs/san-luis.png",
+        "alt": "San-Luis"
+    },
+    {
+        "src": "/public/imgs/sanjuan.png",
+        "alt": "San-Juan"
+    },
+    {
+        "src": "/public/imgs/santa-fe.png",
+        "alt": "Santa-Fe"
+    },
+    {
+        "src": "/public/imgs/santacruz.png",
+        "alt": "Santa-Cruz"
+    },
+    {
+        "src": "/public/imgs/santiago-del-estero.png",
+        "alt": "Santaigo-del-Estero"
+    },
+    {
+        "src": "/public/imgs/tierradelfuego.png",
+        "alt": "Tierra-del-Fuego"
+    },
+    {
+        "src": "/public/imgs/tucuman.png",
+        "alt": "Tucuman"
+    }
+]
