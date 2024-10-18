@@ -28,6 +28,7 @@ body {
     align-items: center;
     background: #757F9A;
     background: linear-gradient(to bottom, #ffffff, #b3c6c4);
+    overflow: hidden;
 }
 
 
@@ -228,8 +229,33 @@ b {
         'paso3'
         'paso4'
         'paso5';
-    grid-gap: 4rem;
+    grid-gap: 5rem;
+    position: relative;
 }
+
+
+.main__container-containers::after {
+    content: '';
+    width: 0.5rem;
+    height: 0%;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    transform-origin: top;
+    background: #111;
+    z-index: 1;
+
+    animation: bar linear forwards;
+    animation-timeline: scroll(block);
+}
+
+@keyframes bar {
+    to {
+        height: 100%;
+    }
+}
+
 
 
 .container-1 {
@@ -261,7 +287,7 @@ b {
 
 /*-- PASOS --*/
 .main__container {
-    width: 30rem;
+    width: 32rem;
     height: 15rem;
     padding: 1rem;
     display: flex;
@@ -270,6 +296,7 @@ b {
     border: none;
     border-radius: 10px;
     box-shadow: 0px 0px 4px #444;
+    z-index: 10;
 }
 
 

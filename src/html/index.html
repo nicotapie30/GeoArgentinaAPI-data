@@ -27,6 +27,7 @@
         href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
     <meta name="author" content="Nicolás Alejandro Tapié">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="/src/css/reset.css">
     <link rel="stylesheet" href="/src/css/style.css">
     <title>Localidades Argentinas</title>
@@ -82,7 +83,9 @@
 
                 <div class="main__container-containers">
 
-                    <div class="main__container container-1">
+                    <div class="bar"></div>
+
+                    <div class="main__container container-1" data-aos="fade-right">
                         <h4 class="main__subtitle">Obtener Todas las Provincias</h4>
                         <ul class="main__ul-items">
                             <li class="main__li-items">URL: <code>/api/provincias</code></li>
@@ -97,7 +100,7 @@
                         <img src="" alt="" class="main__img">
                     </div>
 
-                    <div class="main__container container-2">
+                    <div class="main__container container-2" data-aos="fade-left">
                         <h4 class="main__subtitle">Obtener Departamentos de una Provincia</h4>
                         <ul class="main__ul-items">
                             <li class="main__li-items">URL: <code>/api/provincias/{provincia}/departamentos</code></li>
@@ -115,7 +118,7 @@
                         <img src="" alt="" class="main__img">
                     </div>
 
-                    <div class="main__container container-3">
+                    <div class="main__container container-3" data-aos="fade-right">
                         <h4 class="main__subtitle">Obtener Localidades de un Departamento</h4>
                         <ul class="main__ul-items">
                             <li class="main__li-items">URL:
@@ -135,7 +138,7 @@
                         <img src="" alt="" class="main__img">
                     </div>
 
-                    <div class="main__container container-4">
+                    <div class="main__container container-4" data-aos="fade-left">
                         <h4 class="main__subtitle">Obtener Información de una Localidad Específica</h4>
                         <ul class="main__ul-items">
                             <li class="main__li-items">URL:
@@ -155,7 +158,7 @@
                         <img src="" alt="" class="main__img">
                     </div>
 
-                    <div class="main__container container-5">
+                    <div class="main__container container-5" data-aos="fade-right">
                         <h4 class="main__subtitle">Manejo de Errores</h4>
                         <ul class="main__ul-items">
                             <li class="main__li-items"><strong>404 Not Found</strong></li>
@@ -217,6 +220,11 @@
 
         </footer>
     </div>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </body>
 
 </html>
