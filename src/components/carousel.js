@@ -168,7 +168,7 @@ class MyCarousel extends HTMLElement {
 
                             .carousel__container {
                                 width: calc(10rem * 46);
-                                margin-top: 4rem;
+                                margin-top: 5rem;
                                 display: flex;
                                 align-items: center;
                                 gap: 5rem;

@@ -168,10 +168,34 @@ my-carousel {
 
 
 
+/*-- ARROW --*/
+.fa-arrow-down {
+    margin: 5rem 0 0 0;
+    font-size: 2.7rem;
+    font-weight: 600;
+    opacity: 0.5;
+
+    animation: down 1s ease-in-out infinite alternate;
+}
+
+
+@keyframes down {
+    0% {
+        transform: translateY(0)
+    }
+
+    100% {
+        transform: translateY(1rem);
+    }
+}
+
+
+
+
 /*---- ESTILOS DEL MAIN ----*/
 .section__main {
     width: 80%;
-    margin: 10rem 0 0 0;
+    margin: 4rem 0 0 0;
 }
 
 
@@ -182,11 +206,12 @@ my-carousel {
 
 
 .main__title {
-    margin: 0 0 3rem 0;
+    margin: 0;
     font-family: var(--fonttitle);
-    font-size: 1.7rem;
+    font-size: 1.9rem;
     color: var(--titlecolor);
     text-align: center;
+    text-shadow: 0px 0px 2px #333;
 }
 
 
@@ -194,7 +219,7 @@ my-carousel {
     margin: 5rem 0 0.5rem 0;
     font-family: var(--fonttitle);
     color: var(--itemscolor);
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 700;
     display: flex;
 }
@@ -204,7 +229,7 @@ my-carousel {
 .container__mainlist {
     padding: 0.3rem 0 3rem 0;
     font-family: var(--fonttext);
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     font-weight: 600;
 }
 
@@ -343,6 +368,7 @@ b {
     font-weight: 600;
     letter-spacing: 0px;
     color: var(--itemscolor);
+    opacity: 1;
 }
 
 
