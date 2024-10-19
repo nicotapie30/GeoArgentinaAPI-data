@@ -3,6 +3,7 @@
 import express from 'express';
 import loadAllDbs from './db_conection/db.js';
 
+
 // Crear servidor
 const app = express();
 app.use(express.json());
@@ -80,26 +81,26 @@ app.get('/api/:dbName/departamentos/:departamento/localidades', async (req, res)
 
 // Crear endpoint a las localidades específicas de un departamento
 app.get('/api/:dbName/departamentos/:departamento/localidades/:localidad', async (req, res) => {
-    const data = await getData(req.params.dbName);
-    if (data) {
-      const departamento = data.departamentos.find(dep => dep.departamento === req.params.departamento);
-      if (departamento) {
-        const localidad = departamento.localidades.find(loc => loc.localidad === req.params.localidad);
-        if (localidad) {
-          res.json(localidad);
-        } else {
-          res.status(404).send('Localidad not found');
-        }
+  const data = await getData(req.params.dbName);
+  if (data) {
+    const departamento = data.departamentos.find(dep => dep.departamento === req.params.departamento);
+    if (departamento) {
+      const localidad = departamento.localidades.find(loc => loc.localidad === req.params.localidad);
+      if (localidad) {
+        res.json(localidad);
       } else {
-        res.status(404).send('Departamento not found');
+        res.status(404).send('Localidad not found');
       }
     } else {
-      res.status(404).send('Database not found');
+      res.status(404).send('Departamento not found');
     }
-  });
+  } else {
+    res.status(404).send('Database not found');
+  }
+});
 
 
-  
+
 // Crear puerto
 app.listen(PORT, HOST, () => {
   console.log(`Server running at http//${HOST}:${PORT}`);

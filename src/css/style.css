@@ -11,7 +11,7 @@ body {
     --fontcode: 'Kanit';
     --backgroundcolor: #FDF1F7;
     --titlecolor: #4A8073;
-    --subtitlecolor: #626262;
+    --subtitlecolor: #606060;
     --itemscolor: #3d3c3d;
     --textguidecolor: rgba(50, 50, 50, 0.9);
     --objetscolor: #228380;
@@ -118,6 +118,9 @@ body {
 
 
 
+
+
+
 /*---- ESTILOS DEL HERO ----*/
 
 /*-- TITLES --*/
@@ -153,6 +156,13 @@ body {
 }
 
 
+
+
+/*-- CAROUSEL --*/
+my-carousel {
+    width: 85%;
+    overflow: hidden;
+}
 
 
 
@@ -575,10 +585,16 @@ b {
 }
 
 
+.carousel__container {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
 
 .carousel {
     width: 15rem;
     height: 10rem;
+    margin-top: 4rem;
     display: flex;
     gap: 4rem;
     align-items: center;
@@ -588,9 +604,21 @@ b {
 
 .carousel>img {
     width: 8rem;
-    height: 5rem;
+    height: 7rem;
     display: flex;
     justify-content: center;
     align-items: center;
     filter: drop-shadow(0px 0px 2px #000);
+}
+
+
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
 }
