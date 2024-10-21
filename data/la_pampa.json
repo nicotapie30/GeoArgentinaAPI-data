@@ -1,5 +1,5 @@
 {
-    "provincia": "La-Pampa",
+    "provincia": "La_Pampa",
     "departamentos": [
         {
             "departamento": "Atreucó",
@@ -18,21 +18,21 @@
                     "coordenada": "37°08′59″S 64°00′43″W"
                 },
                 {
-                    "localidad": "Miguel-Riglos",
+                    "localidad": "Miguel_Riglos",
                     "coordenada": "36°51′S 63°42′W"
                 },
                 {
-                    "localidad": "Tomás-Manuel-de-Anchorena",
+                    "localidad": "Tomás_Manuel_de_Anchorena",
                     "coordenada": "36°51′00″S 63°31′00″W"
                 }
             ]
         },
         {
-            "departamento": "Caleu-Caleu",
+            "departamento": "Caleu_Caleu",
             "coordenadas": "38°58′56″S 64°05′26″W",
             "localidades": [
                 {
-                    "localidad": "La-Adela",
+                    "localidad": "La_Adela",
                     "coordenada": "38°59′00″S 64°05′00″W"
                 }
             ]
@@ -46,7 +46,7 @@
                     "coordenada": "36°31′00″S 64°01′00″W"
                 },
                 {
-                    "localidad": "Santa-Rosa",
+                    "localidad": "Santa_Rosa",
                     "coordenada": "36°37′13″S 64°17′26″W"
                 }
             ]
@@ -74,7 +74,7 @@
             "coordenadas": "36°13′32″S 66°56′25″W",
             "localidades": [
                 {
-                    "localidad": "Santa-Isabel",
+                    "localidad": "Santa_Isabel",
                     "coordenada": "36°15′00″S 66°56′00″W"
                 }
             ]
@@ -84,15 +84,15 @@
             "coordenadas": "35°14′05″S 63°35′31″W",
             "localidades": [
                 {
-                    "localidad": "Coronel-Hilario-Lagos",
+                    "localidad": "Coronel_Hilario_Lagos",
                     "coordenada": "35°01′00″S 63°56′00″W"
                 },
                 {
-                    "localidad": "Bernardo-Larroudé",
+                    "localidad": "Bernardo_Larroudé",
                     "coordenada": "35°02′00″S 63°34′00″W"
                 },
                 {
-                    "localidad": "Intendente-Alvear",
+                    "localidad": "Intendente_Alvear",
                     "coordenada": "35°14′00″S 63°35′00″W"
                 },
                 {
@@ -110,15 +110,15 @@
             ]
         },
         {
-            "departamento": "Chical-Co",
+            "departamento": "Chical_Co",
             "coordenadas": "36°23′54″S 67°08′39″W",
             "localidades": [
                 {
-                    "localidad": "La-Humada",
+                    "localidad": "La_Humada",
                     "coordenada": "36°21′S 68°00′W"
                 },
                 {
-                    "localidad": "Algarrobo-del-Águila",
+                    "localidad": "Algarrobo_del_Águila",
                     "coordenada": "36°24′04″S 67°08′43″W"
                 }
             ]
@@ -132,15 +132,15 @@
                     "coordenada": "36°01′00″S 64°36′00″W"
                 },
                 {
-                    "localidad": "Eduardo-Castex",
+                    "localidad": "Eduardo_Castex",
                     "coordenada": "35°54′S 64°18′W"
                 },
                 {
-                    "localidad": "Monte-Nievas",
+                    "localidad": "Monte_Nievas",
                     "coordenada": "35°52′00″S 64°09′00″W"
                 },
                 {
-                    "localidad": "Mauricio-Mayer",
+                    "localidad": "Mauricio_Mayer",
                     "coordenada": "36°12′37″S 64°01′57″W"
                 },
                 {
@@ -162,7 +162,7 @@
                     "coordenada": "38°09′00″S 65°55′00″W"
                 },
                 {
-                    "localidad": "Gobernador-Duval",
+                    "localidad": "Gobernador_Duval",
                     "coordenada": "38°43′00″S 66°24′00″W"
                 }
             ]
@@ -172,7 +172,7 @@
             "coordenadas": "37°39′51″S 63°32′16″W",
             "localidades": [
                 {
-                    "localidad": "Santa-Teresa",
+                    "localidad": "Santa_Teresa",
                     "coordenada": "37°34′00″S 63°25′00″W"
                 },
                 {
@@ -180,7 +180,7 @@
                     "coordenada": "37°22′00″S 63°46′00″W"
                 },
                 {
-                    "localidad": "General-Manuel-Campos",
+                    "localidad": "General_Manuel_Campos",
                     "coordenada": "37°28′00″S 63°36′00″W"
                 },
                 {
@@ -206,35 +206,35 @@
                     "coordenada": "37°54′00″S 63°43′00″W"
                 },
                 {
-                    "localidad": "General-San-Martín",
+                    "localidad": "General_San_Martín",
                     "coordenada": "37°59′00″S 63°34′00″W"
                 },
                 {
-                    "localidad": "Jacinto-Aráuz",
+                    "localidad": "Jacinto_Aráuz",
                     "coordenada": "38°04′00″S 63°26′00″W"
                 }
             ]
         },
         {
-            "departamento": "Lihuel-Calel",
+            "departamento": "Lihuel_Calel",
             "coordenadas": "38°19′38″S 64°38′33″W",
             "localidades": [
                 {
-                    "localidad": "Cuchillo-Có",
+                    "localidad": "Cuchillo_Có",
                     "coordenada": "38°19′38″S 64°38′33″W"
                 }
             ]
         },
         {
-            "departamento": "Limay-Mahuida",
+            "departamento": "Limay_Mahuida",
             "coordenadas": "37°09′22″S 66°40′33″W",
             "localidades": [
                 {
-                    "localidad": "La-Reforma",
+                    "localidad": "La_Reforma",
                     "coordenada": "37°33′00″S 66°13′37″W"
                 },
                 {
-                    "localidad": "Limay-Mahuida",
+                    "localidad": "Limay_Mahuida",
                     "coordenada": "37°09′33″S 66°40′31″W"
                 }
             ]
@@ -252,11 +252,11 @@
                     "coordenada": "36°16′00″S 65°30′00″W"
                 },
                 {
-                    "localidad": "Carro-Quemado",
+                    "localidad": "Carro_Quemado",
                     "coordenada": "36°28′00″S 65°20′00″W"
                 },
                 {
-                    "localidad": "Luan-Toro",
+                    "localidad": "Luan_Toro",
                     "coordenada": "36°12′S 65°06′W"
                 },
                 {
@@ -270,7 +270,7 @@
             "coordenadas": "35°39′09″S 63°45′29″W",
             "localidades": [
                 {
-                    "localidad": "General-Pico",
+                    "localidad": "General_Pico",
                     "coordenada": "35°39′31″S 63°45′28″W"
                 },
                 {
@@ -296,33 +296,33 @@
                     "coordenada": "37°20′30″S 67°37′00″W"
                 },
                 {
-                    "localidad": "25-de-Mayo",
+                    "localidad": "25_de_Mayo",
                     "coordenada": "37°46′16″S 67°43′02″W"
                 },
                 {
-                    "localidad": "Casa-de-Piedra",
+                    "localidad": "Casa_de_Piedra",
                     "coordenada": "38°09′10″S 67°09′20″W"
                 }
             ]
         },
         {
-            "departamento": "Quemú-Quemú",
+            "departamento": "Quemú_Quemú",
             "coordenadas": "36°03′16″S 63°33′58″W",
             "localidades": [
                 {
-                    "localidad": "Miguel-Cané",
+                    "localidad": "Miguel_Cané",
                     "coordenada": "36°10′00″S 63°30′00″W"
                 },
                 {
-                    "localidad": "Quemú-Quemú",
+                    "localidad": "Quemú_Quemú",
                     "coordenada": "36°03′S 63°33′W"
                 },
                 {
-                    "localidad": "Villa-Mirasol",
+                    "localidad": "Villa_Mirasol",
                     "coordenada": "36°05′00″S 63°53′00″W"
                 },
                 {
-                    "localidad": "Colonia-Barón",
+                    "localidad": "Colonia_Barón",
                     "coordenada": "36°09′00″S 63°50′00″W"
                 },
                 {
@@ -348,7 +348,7 @@
                     "coordenada": "35°35′40″S 64°33′31″W"
                 },
                 {
-                    "localidad": "La-Maruja",
+                    "localidad": "La_Maruja",
                     "coordenada": "35°38′57″S 64°46′09″W"
                 },
                 {
@@ -356,7 +356,7 @@
                     "coordenada": "35°03′00″S 64°32′00″W"
                 },
                 {
-                    "localidad": "Pichi-Huinca",
+                    "localidad": "Pichi_Huinca",
                     "coordenada": "35°38′00″S 64°46′00″W"
                 }
             ]
@@ -370,19 +370,19 @@
                     "coordenada": "35°02′00″S 64°15′00″W"
                 },
                 {
-                    "localidad": "Alta-Italia",
+                    "localidad": "Alta_Italia",
                     "coordenada": "35°20′00″S 64°07′06″W"
                 },
                 {
-                    "localidad": "Embajador-Martini",
+                    "localidad": "Embajador_Martini",
                     "coordenada": "35°23′14″S 64°16′58″W"
                 },
                 {
-                    "localidad": "Ingeniero-Luiggi",
+                    "localidad": "Ingeniero_Luiggi",
                     "coordenada": "35°25′00″S 64°29′00″W"
                 },
                 {
-                    "localidad": "Adolfo-Van-Praet",
+                    "localidad": "Adolfo_Van_Praet",
                     "coordenada": "35°01′00″S 64°03′00″W"
                 },
                 {
@@ -432,11 +432,11 @@
             "coordenadas": "37°22′41″S 64°36′17″W",
             "localidades": [
                 {
-                    "localidad": "General-Acha",
+                    "localidad": "General_Acha",
                     "coordenada": "37°23′00″S 64°36′00″W"
                 },
                 {
-                    "localidad": "Ataliva-Roca",
+                    "localidad": "Ataliva_Roca",
                     "coordenada": "37°01′00″S 64°17′00″W"
                 },
                 {
@@ -448,7 +448,7 @@
                     "coordenada": "37°19′00″S 65°39′00″W"
                 },
                 {
-                    "localidad": "Colonia-Santa-María",
+                    "localidad": "Colonia_Santa_María",
                     "coordenada": "37°29′41″S 64°13′27″W"
                 },
                 {

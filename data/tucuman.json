@@ -6,31 +6,31 @@
             "coordenadas": "26°30′01″S 64°44′31″W",
             "localidades": [
                 {
-                    "localidad": "Siete-de-Abril",
+                    "localidad": "Siete_de_Abril",
                     "coordenada": "26°17′29″S 64°29′59″W"
                 },
                 {
-                    "localidad": "Barrio-San-Jorge",
+                    "localidad": "Barrio_San_Jorge",
                     "coordenada": "26°40′34″S 65°02′46″W"
                 },
                 {
-                    "localidad": "El-Chañar",
+                    "localidad": "El_Chañar",
                     "coordenada": "26°45′30″S 65°04′07″W"
                 },
                 {
-                    "localidad": "El-Naranjo",
+                    "localidad": "El_Naranjo",
                     "coordenada": "26°39′43″S 65°02′52″W"
                 },
                 {
-                    "localidad": "Gobernador-Garmendia",
+                    "localidad": "Gobernador_Garmendia",
                     "coordenada": "26°34′08″S 64°33′22″W"
                 },
                 {
-                    "localidad": "La-Ramada",
+                    "localidad": "La_Ramada",
                     "coordenada": "26°41′13″S 64°56′53″W"
                 },
                 {
-                    "localidad": "San-José-de-Macomitas",
+                    "localidad": "San_José_de_Macomitas",
                     "coordenada": "26°43′48″S 65°00′40″W"
                 },
                 {
@@ -38,11 +38,11 @@
                     "coordenada": "26°44′17″S 64°38′53″W"
                 },
                 {
-                    "localidad": "Villa-Padre-Monti",
+                    "localidad": "Villa_Padre_Monti",
                     "coordenada": "26°30′25″S 64°59′46″W"
                 },
                 {
-                    "localidad": "Villa-Benjamín-Aráoz",
+                    "localidad": "Villa_Benjamín_Aráoz",
                     "coordenada": "26°33′18″S 64°47′49″W"
                 },
                 {
@@ -56,7 +56,7 @@
             "coordenadas": "26°50′00″S 65°12′00″W",
             "localidades": [
                 {
-                    "localidad": "San-Miguel-de-Tucumán",
+                    "localidad": "San_Miguel_de_Tucumán",
                     "coordenada": "26°49′00″S 65°13′00″W"
                 }
             ]
@@ -74,7 +74,7 @@
                     "coordenada": "27°20′10″S 65°45′18″W"
                 },
                 {
-                    "localidad": "Alto-Verde-y-Los-Gucheas",
+                    "localidad": "Alto_Verde_y_Los_Gucheas",
                     "coordenada": ""
                 },
                 {
@@ -82,11 +82,11 @@
                     "coordenada": "27°18′00″S 65°34′00″W"
                 },
                 {
-                    "localidad": "Gastona-y-Belicha",
+                    "localidad": "Gastona_y_Belicha",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Ingenio-La-Trinidad",
+                    "localidad": "Ingenio_La_Trinidad",
                     "coordenada": "27°24′00″S 65°31′00″W"
                 },
                 {
@@ -96,11 +96,11 @@
             ]
         },
         {
-            "departamento": "Cruz-Alta",
+            "departamento": "Cruz_Alta",
             "coordenadas": "26°50′24″S 65°09′43″W",
             "localidades": [
                 {
-                    "localidad": "Banda-del-Río-Salí",
+                    "localidad": "Banda_del_Río_Salí",
                     "coordenada": "26°50′00″S 65°10′00″W"
                 },
                 {
@@ -112,47 +112,47 @@
                     "coordenada": "26°54′S 65°06′W"
                 },
                 {
-                    "localidad": "Delfín-Gallo",
+                    "localidad": "Delfín_Gallo",
                     "coordenada": "26°51′S 65°06′W"
                 },
                 {
-                    "localidad": "El-Bracho-y-El-Cevilar",
+                    "localidad": "El_Bracho_y_El_Cevilar",
                     "coordenada": "26°59′35″S 65°10′55″W"
                 },
                 {
-                    "localidad": "El-Naranjito",
+                    "localidad": "El_Naranjito",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-Florida-y-Luisiana",
+                    "localidad": "La_Florida_y_Luisiana",
                     "coordenada": "26°49′15″S 65°05′43″W"
                 },
                 {
-                    "localidad": "Las-Cejas",
+                    "localidad": "Las_Cejas",
                     "coordenada": "26°53′00″S 64°44′00″W"
                 },
                 {
-                    "localidad": "Los-Bulacio-y-Los-Villagra",
+                    "localidad": "Los_Bulacio_y_Los_Villagra",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Pereyras",
+                    "localidad": "Los_Pereyras",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Pérez",
+                    "localidad": "Los_Pérez",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Ralos",
+                    "localidad": "Los_Ralos",
                     "coordenada": "26°52′00″S 64°58′00″W"
                 },
                 {
-                    "localidad": "Ranchillos-y-San-Miguel",
+                    "localidad": "Ranchillos_y_San_Miguel",
                     "coordenada": "26°56′00″S 65°02′00″W"
                 },
                 {
-                    "localidad": "San-Andrés",
+                    "localidad": "San_Andrés",
                     "coordenada": "26°53′35″S 65°11′38″W"
                 }
             ]
@@ -180,21 +180,21 @@
                     "coordenada": "27°38′42″S 65°14′49″W"
                 },
                 {
-                    "localidad": "Taco-Ralo",
+                    "localidad": "Taco_Ralo",
                     "coordenada": "27°50′06″S 65°11′38″W"
                 }
             ]
         },
         {
-            "departamento": "Juan-Bautista-Alberdi",
+            "departamento": "Juan_Bautista_Alberdi",
             "coordenadas": "27°35′08″S 65°37′03″W",
             "localidades": [
                 {
-                    "localidad": "Juan-Bautista-Alberdi",
+                    "localidad": "Juan_Bautista_Alberdi",
                     "coordenada": "27°35′10″S 65°37′11″W"
                 },
                 {
-                    "localidad": "Ciudad-Alberdi",
+                    "localidad": "Ciudad_Alberdi",
                     "coordenada": "27°35′10″S 65°37′11″W"
                 },
                 {
@@ -202,37 +202,37 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa-Belgrano",
+                    "localidad": "Villa_Belgrano",
                     "coordenada": "27°31′52″S 65°36′54″W"
                 }
             ]
         },
         {
-            "departamento": "La-Cocha",
+            "departamento": "La_Cocha",
             "coordenadas": "27°46′16″S 65°35′08″W",
             "localidades": [
                 {
-                    "localidad": "La-Cocha",
+                    "localidad": "La_Cocha",
                     "coordenada": "27°46′12″S 65°35′09″W"
                 },
                 {
-                    "localidad": "El-Sacrificio",
+                    "localidad": "El_Sacrificio",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Huasa-Pampa",
+                    "localidad": "Huasa_Pampa",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Rumi-Punco",
+                    "localidad": "Rumi_Punco",
                     "coordenada": "27°59′27″S 65°34′43″W"
                 },
                 {
-                    "localidad": "San-Ignacio",
+                    "localidad": "San_Ignacio",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "San-José-de-la-Cocha",
+                    "localidad": "San_José_de_la_Cocha",
                     "coordenada": "27°43′52″S 65°35′53″W"
                 },
                 {
@@ -246,55 +246,55 @@
             "coordenadas": "27°01′58″S 65°18′26″W",
             "localidades": [
                 {
-                    "localidad": "Bella-Vista",
+                    "localidad": "Bella_Vista",
                     "coordenada": "27°02′00″S 65°18′00″W"
                 },
                 {
-                    "localidad": "Agua-Dulce-y-La-Soledad",
+                    "localidad": "Agua_Dulce_y_La_Soledad",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Mojón",
+                    "localidad": "El_Mojón",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Esquina-y-Mancopa",
+                    "localidad": "Esquina_y_Mancopa",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Estación-Araoz-y-Tacanas",
+                    "localidad": "Estación_Araoz_y_Tacanas",
                     "coordenada": "27°03′22″S 64°55′16″W"
                 },
                 {
-                    "localidad": "Las-Talas",
+                    "localidad": "Las_Talas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Gómez",
+                    "localidad": "Los_Gómez",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Puestos",
+                    "localidad": "Los_Puestos",
                     "coordenada": "27°16′52″S 65°01′08″W"
                 },
                 {
-                    "localidad": "Manuel-García-Fernández",
+                    "localidad": "Manuel_García_Fernández",
                     "coordenada": "26°57′22″S 65°16′12″W"
                 },
                 {
-                    "localidad": "Quilmes-y-Los-Sueldos",
+                    "localidad": "Quilmes_y_Los_Sueldos",
                     "coordenada": "27°05′00″S 65°15′00″W"
                 },
                 {
-                    "localidad": "Río-Colorado",
+                    "localidad": "Río_Colorado",
                     "coordenada": "27°09′00″S 65°21′22″W"
                 },
                 {
-                    "localidad": "Santa-Rosa-de-Leales",
+                    "localidad": "Santa_Rosa_de_Leales",
                     "coordenada": "27°09′S 65°15′W"
                 },
                 {
-                    "localidad": "Villa-de-Leales",
+                    "localidad": "Villa_de_Leales",
                     "coordenada": "27°12′S 65°18′W"
                 }
             ]
@@ -304,19 +304,19 @@
             "coordenadas": "26°55′19″S 65°20′16″W",
             "localidades": [
                 {
-                    "localidad": "San-Isidro-de-Lules",
+                    "localidad": "San_Isidro_de_Lules",
                     "coordenada": "26°55′22″S 65°20′15″W"
                 },
                 {
-                    "localidad": "El-Manantial",
+                    "localidad": "El_Manantial",
                     "coordenada": "26°51′00″S 65°16′00″W"
                 },
                 {
-                    "localidad": "San-Felipe-y-Santa-Bárbara",
+                    "localidad": "San_Felipe_y_Santa_Bárbara",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "San-Pablo-y-Villa-Nougués",
+                    "localidad": "San_Pablo_y_Villa_Nougués",
                     "coordenada": "26°51′28″S 65°22′32″W"
                 }
             ]
@@ -338,49 +338,49 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Capitán-Cáceres",
+                    "localidad": "Capitán_Cáceres",
                     "coordenada": "27°11′24″S 65°36′14″W"
                 },
                 {
-                    "localidad": "El-Cercado",
+                    "localidad": "El_Cercado",
                     "coordenada": "18°44′N 71°31′W"
                 },
                 {
-                    "localidad": "Los-Sosas",
+                    "localidad": "Los_Sosas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Río-Seco",
+                    "localidad": "Río_Seco",
                     "coordenada": "27°16′00″S 65°32′00″W"
                 },
                 {
-                    "localidad": "Santa-Lucía",
+                    "localidad": "Santa_Lucía",
                     "coordenada": "27°06′00″S 65°31′00″W"
                 },
                 {
-                    "localidad": "Santa-Rosa-y-Los-Rojo",
+                    "localidad": "Santa_Rosa_y_Los_Rojo",
                     "coordenada": "27°13′00″S 65°31′00″W"
                 },
                 {
-                    "localidad": "Sargento-Moya",
+                    "localidad": "Sargento_Moya",
                     "coordenada": "27°13′42″S 65°39′36″W"
                 },
                 {
-                    "localidad": "Soldado-Maldonado",
+                    "localidad": "Soldado_Maldonado",
                     "coordenada": "27°08′42″S 65°33′49″W"
                 },
                 {
-                    "localidad": "Teniente-Berdina",
+                    "localidad": "Teniente_Berdina",
                     "coordenada": "27°03′04″S 65°29′13″W"
                 },
                 {
-                    "localidad": "Villa-Quinteros",
+                    "localidad": "Villa_Quinteros",
                     "coordenada": "27°15′07″S 65°33′00″W"
                 }
             ]
         },
         {
-            "departamento": "Río-Chico",
+            "departamento": "Río_Chico",
             "coordenadas": "27°26′00″S 65°37′00″W",
             "localidades": [
                 {
@@ -388,31 +388,31 @@
                     "coordenada": "27°26′00″S 65°37′00″W"
                 },
                 {
-                    "localidad": "Ingenio-Santa-Bárbara",
+                    "localidad": "Ingenio_Santa_Bárbara",
                     "coordenada": "27°27′20″S 65°36′36″W"
                 },
                 {
-                    "localidad": "Los-Sarmientos",
+                    "localidad": "Los_Sarmientos",
                     "coordenada": "27°24′50″S 65°41′24″W"
                 },
                 {
-                    "localidad": "Río-Chico",
+                    "localidad": "Río_Chico",
                     "coordenada": "27°28′45″S 65°37′36″W"
                 },
                 {
-                    "localidad": "Santa-Ana",
+                    "localidad": "Santa_Ana",
                     "coordenada": "27°28′00″S 65°40′00″W"
                 },
                 {
-                    "localidad": "Villa-Clodomiro-Hileret",
+                    "localidad": "Villa_Clodomiro_Hileret",
                     "coordenada": "27°28′26″S 65°39′29″W"
                 },
                 {
-                    "localidad": "Monte-Bello",
+                    "localidad": "Monte_Bello",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Polear",
+                    "localidad": "El_Polear",
                     "coordenada": ""
                 }
             ]
@@ -430,7 +430,7 @@
                     "coordenada": "27°24′58″S 65°17′13″W"
                 },
                 {
-                    "localidad": "Buena-Vista",
+                    "localidad": "Buena_Vista",
                     "coordenada": ""
                 },
                 {
@@ -438,7 +438,7 @@
                     "coordenada": "27°13′48″S 65°54′58″W"
                 },
                 {
-                    "localidad": "Manuela-Pedraza",
+                    "localidad": "Manuela_Pedraza",
                     "coordenada": ""
                 },
                 {
@@ -446,79 +446,79 @@
                     "coordenada": "27°30′40″S 65°16′37″W"
                 },
                 {
-                    "localidad": "Pampa-Mayo",
+                    "localidad": "Pampa_Mayo",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Río-Chico-y-Nueva-Trinidad",
+                    "localidad": "Río_Chico_y_Nueva_Trinidad",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "San-Pedro-y-San-Antonio",
+                    "localidad": "San_Pedro_y_San_Antonio",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Santa-Cruz-y-La-Tuna",
+                    "localidad": "Santa_Cruz_y_La_Tuna",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa-Chicligasta",
+                    "localidad": "Villa_Chicligasta",
                     "coordenada": "27°26′02″S 65°09′43″W"
                 },
                 {
-                    "localidad": "Yerba-Buena",
+                    "localidad": "Yerba_Buena",
                     "coordenada": "27°12′S 65°18′W"
                 }
             ]
         },
         {
-            "departamento": "Tafí-del-Valle",
+            "departamento": "Tafí_del_Valle",
             "coordenadas": "26°50′47″S 65°42′32″W",
             "localidades": [
                 {
-                    "localidad": "Tafí-del-Valle",
+                    "localidad": "Tafí_del_Valle",
                     "coordenada": "26°52′00″S 65°41′00″W"
                 },
                 {
-                    "localidad": "Amaicha-del-Valle",
+                    "localidad": "Amaicha_del_Valle",
                     "coordenada": "26°36′00″S 65°55′00″W"
                 },
                 {
-                    "localidad": "Colalao-del-Valle",
+                    "localidad": "Colalao_del_Valle",
                     "coordenada": "26°22′00″S 65°57′00″W"
                 },
                 {
-                    "localidad": "El-Mollar",
+                    "localidad": "El_Mollar",
                     "coordenada": "26°57′00″S 65°43′00″W"
                 }
             ]
         },
         {
-            "departamento": "Tafí-Viejo",
+            "departamento": "Tafí_Viejo",
             "coordenadas": "26°44′04″S 65°15′33″W",
             "localidades": [
                 {
-                    "localidad": "Tafí-Viejo",
+                    "localidad": "Tafí_Viejo",
                     "coordenada": "26°44′00″S 65°16′00″W"
                 },
                 {
-                    "localidad": "Las-Talitas",
+                    "localidad": "Las_Talitas",
                     "coordenada": "26°46′33″S 65°12′02″W"
                 },
                 {
-                    "localidad": "Anca-Juli",
+                    "localidad": "Anca_Juli",
                     "coordenada": "26°33′30″S 65°31′47″W"
                 },
                 {
-                    "localidad": "El-Cadillal",
+                    "localidad": "El_Cadillal",
                     "coordenada": "26°37′55″S 65°12′32″W"
                 },
                 {
-                    "localidad": "La-Esperanza",
+                    "localidad": "La_Esperanza",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Nogales",
+                    "localidad": "Los_Nogales",
                     "coordenada": ""
                 },
                 {
@@ -526,11 +526,11 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Pocitos",
+                    "localidad": "Los_Pocitos",
                     "coordenada": "26°47′02″S 65°12′58″W"
                 },
                 {
-                    "localidad": "Lomas-de-Tafí",
+                    "localidad": "Lomas_de_Tafí",
                     "coordenada": "26°46′08″S 65°13′59″W"
                 }
             ]
@@ -548,7 +548,7 @@
                     "coordenada": "26°24′40″S 65°19′05″W"
                 },
                 {
-                    "localidad": "San-Pedro-de-Colalao",
+                    "localidad": "San_Pedro_de_Colalao",
                     "coordenada": "26°14′00″S 65°29′00″W"
                 },
                 {
@@ -558,19 +558,19 @@
             ]
         },
         {
-            "departamento": "Yerba-Buena",
+            "departamento": "Yerba_Buena",
             "coordenadas": "26°49′00″S 65°19′00″W",
             "localidades": [
                 {
-                    "localidad": "Yerba-Buena",
+                    "localidad": "Yerba_Buena",
                     "coordenada": "26°49′00″S 65°19′00″W"
                 },
                 {
-                    "localidad": "San-Javier",
+                    "localidad": "San_Javier",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Cevil-Redondo",
+                    "localidad": "Cevil_Redondo",
                     "coordenada": "26°47′00″S 65°17′00″W"
                 }
             ]

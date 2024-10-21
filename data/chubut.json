@@ -11,51 +11,51 @@
             "coordenadas": "42°46′00″S 65°02′00″W",
             "localidades": [
                 {
-                    "localidad": "Puerto-Madryn",
+                    "localidad": "Puerto_Madryn",
                     "coordenada": "42°46′23″S 65°02′12″W"
                 },
                 {
-                    "localidad": "Puerto-Pirámides",
+                    "localidad": "Puerto_Pirámides",
                     "coordenada": "42°34′00″S 64°17′00″W"
                 },
                 {
-                    "localidad": "Quinta-El-Mirador",
+                    "localidad": "Quinta_El_Mirador",
                     "coordenada": "42°34′20″S 64°16′50″W"
                 },
                 {
-                    "localidad": "Punta-Delgada",
+                    "localidad": "Punta_Delgada",
                     "coordenada": "42°46′00″S 63°38′15″W"
                 },
                 {
-                    "localidad": "Mina-Guanacache",
+                    "localidad": "Mina_Guanacache",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Arroyo-Verde",
+                    "localidad": "Arroyo_Verde",
                     "coordenada": "41°59′47″S 65°17′37″W"
                 },
                 {
-                    "localidad": "Puerto-Lobos",
+                    "localidad": "Puerto_Lobos",
                     "coordenada": "42°00′00″S 65°04′19″W"
                 },
                 {
-                    "localidad": "Riacho-San-José",
+                    "localidad": "Riacho_San_José",
                     "coordenada": "42°25′35″S 64°36′56″W"
                 },
                 {
-                    "localidad": "Playa-El-Doradillo",
+                    "localidad": "Playa_El_Doradillo",
                     "coordenada": "42°40′13″S 64°59′19″W"
                 },
                 {
-                    "localidad": "Puerto-Galván",
+                    "localidad": "Puerto_Galván",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Desempeño",
+                    "localidad": "El_Desempeño",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Puerto-San-José",
+                    "localidad": "Puerto_San_José",
                     "coordenada": "42°25′41″S 64°08′27″W"
                 }
             ]
@@ -65,7 +65,7 @@
             "coordenadas": "42°54′00″S 71°19′00″W",
             "localidades": [
                 {
-                    "localidad": "Buenos-Aires-Chico",
+                    "localidad": "Buenos_Aires_Chico",
                     "coordenada": "42°05′00″S 71°14′00″W"
                 },
                 {
@@ -77,11 +77,11 @@
                     "coordenada": "42°10′23″S 70°39′39″W"
                 },
                 {
-                    "localidad": "El-Hoyo",
+                    "localidad": "El_Hoyo",
                     "coordenada": "42°03′48″S 71°31′13″W"
                 },
                 {
-                    "localidad": "El-Maitén",
+                    "localidad": "El_Maitén",
                     "coordenada": "42°03′00″S 71°10′00″W"
                 },
                 {
@@ -93,15 +93,15 @@
                     "coordenada": "42°43′30″S 70°32′10″W"
                 },
                 {
-                    "localidad": "Lago-Epuyén",
+                    "localidad": "Lago_Epuyén",
                     "coordenada": "42°12′57″S 71°25′44″W"
                 },
                 {
-                    "localidad": "Cerro-Radal",
+                    "localidad": "Cerro_Radal",
                     "coordenada": "42°01′53″S 71°37′03″W"
                 },
                 {
-                    "localidad": "Lago-Puelo",
+                    "localidad": "Lago_Puelo",
                     "coordenada": "42°04′00″S 71°37′00″W"
                 },
                 {
@@ -115,23 +115,23 @@
             "coordenadas": "45°52′00″S 67°30′00″W",
             "localidades": [
                 {
-                    "localidad": "Comodoro-Rivadavia",
+                    "localidad": "Comodoro_Rivadavia",
                     "coordenada": "45°52′00″S 67°30′00″W"
                 },
                 {
-                    "localidad": "Acceso-Norte",
+                    "localidad": "Acceso_Norte",
                     "coordenada": "45°46′57″S 67°29′35″W"
                 },
                 {
-                    "localidad": "Barrio-Militar",
+                    "localidad": "Barrio_Militar",
                     "coordenada": "45°47′40″S 67°28′25″W"
                 },
                 {
-                    "localidad": "Caleta-Córdova",
+                    "localidad": "Caleta_Córdova",
                     "coordenada": "45°44′00″S 67°04′00″W"
                 },
                 {
-                    "localidad": "Caleta-Olivares",
+                    "localidad": "Caleta_Olivares",
                     "coordenada": "45°46′00″S 67°22′00″W"
                 },
                 {
@@ -147,15 +147,15 @@
                     "coordenada": "45°46′12″S 67°26′13″W"
                 },
                 {
-                    "localidad": "Don-Bosco",
+                    "localidad": "Don_Bosco",
                     "coordenada": "45°48′00″S 67°32′00″W"
                 },
                 {
-                    "localidad": "General-Mosconi",
+                    "localidad": "General_Mosconi",
                     "coordenada": "45°42′00″S 67°28′00″W"
                 },
                 {
-                    "localidad": "Gas-del-Estado",
+                    "localidad": "Gas_del_Estado",
                     "coordenada": "45°47′46″S 67°30′11″W"
                 },
                 {
@@ -167,27 +167,27 @@
                     "coordenada": "45°49′41″S 67°32′33″W"
                 },
                 {
-                    "localidad": "Manantial-Rosales",
+                    "localidad": "Manantial_Rosales",
                     "coordenada": "45°49′24″S 67°31′37″W"
                 },
                 {
-                    "localidad": "Próspero-Palazzo",
+                    "localidad": "Próspero_Palazzo",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Presidente-Ortiz",
+                    "localidad": "Presidente_Ortiz",
                     "coordenada": "45°49′00″S 67°27′00″W"
                 },
                 {
-                    "localidad": "Rada-Tilly",
+                    "localidad": "Rada_Tilly",
                     "coordenada": "45°55′32″S 67°33′09″W"
                 },
                 {
-                    "localidad": "Restinga-Alí",
+                    "localidad": "Restinga_Alí",
                     "coordenada": "45°48′00″S 67°25′00″W"
                 },
                 {
-                    "localidad": "Rodríguez-Peña",
+                    "localidad": "Rodríguez_Peña",
                     "coordenada": "45°48′41″S 67°28′25″W"
                 },
                 {
@@ -199,17 +199,17 @@
                     "coordenada": "45°49′08″S 67°30′11″W"
                 },
                 {
-                    "localidad": "25-de-mayo",
+                    "localidad": "25_de_mayo",
                     "coordenada": "45°47′40″S 67°28′25″W"
                 },
                 {
-                    "localidad": "Villa-S.U.P.E.",
+                    "localidad": "Villa_S.U.P.E.",
                     "coordenada": "45°49′18″S 67°30′06″W"
                 }
             ]
         },
         {
-            "departamento": "Florentino-Ameghino",
+            "departamento": "Florentino_Ameghino",
             "coordenadas": "44°46′00″S 65°43′00″W",
             "localidades": [
                 {
@@ -239,19 +239,19 @@
                     "coordenada": "43°32′23″S 71°28′05″W"
                 },
                 {
-                    "localidad": "Cerro-centinela",
+                    "localidad": "Cerro_centinela",
                     "coordenada": "43°28′54″S 71°35′55″W"
                 },
                 {
-                    "localidad": "Lago-Rosario",
+                    "localidad": "Lago_Rosario",
                     "coordenada": "43°15′01″S 71°20′56″W"
                 },
                 {
-                    "localidad": "Los-Cipreses",
+                    "localidad": "Los_Cipreses",
                     "coordenada": "43°10′00″S 71°45′00″W"
                 },
                 {
-                    "localidad": "Villa-Futalaufquen",
+                    "localidad": "Villa_Futalaufquen",
                     "coordenada": "42°53′41″S 71°36′58″W"
                 }
             ]
@@ -261,7 +261,7 @@
             "coordenadas": "43°16′00″S 65°28′00″W",
             "localidades": [
                 {
-                    "localidad": "Villa-Dique-Florentino-Ameghino",
+                    "localidad": "Villa_Dique_Florentino_Ameghino",
                     "coordenada": "43°42′S 66°28′W"
                 },
                 {
@@ -273,7 +273,7 @@
                     "coordenada": "43°17′00″S 65°29′00″W"
                 },
                 {
-                    "localidad": "Veintiocho-de-Julio",
+                    "localidad": "Veintiocho_de_Julio",
                     "coordenada": "43°23′26″S 65°50′22″W"
                 }
             ]
@@ -287,7 +287,7 @@
                     "coordenada": "42°16′00″S 69°13′00″W"
                 },
                 {
-                    "localidad": "Lagunita-Salada",
+                    "localidad": "Lagunita_Salada",
                     "coordenada": "42°44′35″S 69°08′49″W"
                 },
                 {
@@ -295,11 +295,11 @@
                     "coordenada": "42°37′14″S 68°54′14″W"
                 },
                 {
-                    "localidad": "El-Escorial",
+                    "localidad": "El_Escorial",
                     "coordenada": "43°05′26″S 68°32′22″W"
                 },
                 {
-                    "localidad": "Yala-Laubat",
+                    "localidad": "Yala_Laubat",
                     "coordenada": "42°45′35″S 68°51′59″W"
                 }
             ]
@@ -313,7 +313,7 @@
                     "coordenada": "43°29′33″S 70°48′39″W"
                 },
                 {
-                    "localidad": "Paso-del-Sapo",
+                    "localidad": "Paso_del_Sapo",
                     "coordenada": "42°44′00″S 69°36′00″W"
                 },
                 {
@@ -321,11 +321,11 @@
                     "coordenada": "43°35′00″S 71°42′00″W"
                 },
                 {
-                    "localidad": "Colan-Conhué",
+                    "localidad": "Colan_Conhué",
                     "coordenada": "43°14′27″S 69°55′50″W"
                 },
                 {
-                    "localidad": "Aldea-Epulef",
+                    "localidad": "Aldea_Epulef",
                     "coordenada": "43°19′15″S 69°41′40″W"
                 }
             ]
@@ -335,45 +335,45 @@
             "coordenadas": "43°43′00″S 67°15′00″W",
             "localidades": [
                 {
-                    "localidad": "Las-Plumas",
+                    "localidad": "Las_Plumas",
                     "coordenada": "43°43′00″S 67°15′00″W"
                 },
                 {
-                    "localidad": "El-Mirasol",
+                    "localidad": "El_Mirasol",
                     "coordenada": "43°17′01″S 67°45′39″W"
                 }
             ]
         },
         {
-            "departamento": "Paso-de-Indios",
+            "departamento": "Paso_de_Indios",
             "coordenadas": "43°51′00″S 69°02′00″W",
             "localidades": [
                 {
-                    "localidad": "Los-Altares",
+                    "localidad": "Los_Altares",
                     "coordenada": "43°53′31″S 68°23′31″W"
                 },
                 {
-                    "localidad": "Cerro-Cóndor",
+                    "localidad": "Cerro_Cóndor",
                     "coordenada": "43°25′16″S 69°09′47″W"
                 },
                 {
-                    "localidad": "Paso-de-Indios",
+                    "localidad": "Paso_de_Indios",
                     "coordenada": "43°54′00″S 69°04′00″W"
                 },
                 {
-                    "localidad": "Cajón-de-Ginebra-Grande",
+                    "localidad": "Cajón_de_Ginebra_Grande",
                     "coordenada": "43°46′08″S 69°26′17″W"
                 },
                 {
-                    "localidad": "Cajón-de-Ginebra-Chico",
+                    "localidad": "Cajón_de_Ginebra_Chico",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Canquel",
+                    "localidad": "El_Canquel",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Sombrero",
+                    "localidad": "El_Sombrero",
                     "coordenada": "44°10′00″S 68°16′00″W"
                 }
             ]
@@ -383,11 +383,11 @@
             "coordenadas": "43°17′00″S 65°05′00″W",
             "localidades": [
                 {
-                    "localidad": "Playa-Unión",
+                    "localidad": "Playa_Unión",
                     "coordenada": "43°19′00″S 65°02′00″W"
                 },
                 {
-                    "localidad": "Puerto-Rawson",
+                    "localidad": "Puerto_Rawson",
                     "coordenada": "43°20′00″S 65°03′00″W"
                 },
                 {
@@ -399,33 +399,33 @@
                     "coordenada": "43°15′12″S 65°18′34″W"
                 },
                 {
-                    "localidad": "Playa-Magagna",
+                    "localidad": "Playa_Magagna",
                     "coordenada": "43°22′56″S 65°02′42″W"
                 }
             ]
         },
         {
-            "departamento": "Río-Senguer",
+            "departamento": "Río_Senguer",
             "coordenadas": "45°01′00″S 70°49′00″W",
             "localidades": [
                 {
-                    "localidad": "Río-Mayo",
+                    "localidad": "Río_Mayo",
                     "coordenada": "45°41′13″S 70°15′36″W"
                 },
                 {
-                    "localidad": "Alto-Río-Senguer",
+                    "localidad": "Alto_Río_Senguer",
                     "coordenada": "45°02′31″S 70°49′24″W"
                 },
                 {
-                    "localidad": "Doctor-Ricardo-Rojas",
+                    "localidad": "Doctor_Ricardo_Rojas",
                     "coordenada": "45°34′00″S 71°04′00″W"
                 },
                 {
-                    "localidad": "Lago-Blanco",
+                    "localidad": "Lago_Blanco",
                     "coordenada": "45°55′00″S 71°15′00″W"
                 },
                 {
-                    "localidad": "Aldea-Beleiro",
+                    "localidad": "Aldea_Beleiro",
                     "coordenada": "45°33′10″S 71°31′18″W"
                 },
                 {
@@ -433,7 +433,7 @@
                     "coordenada": "45°17′00″S 69°57′00″W"
                 },
                 {
-                    "localidad": "Aldea-Apeleg",
+                    "localidad": "Aldea_Apeleg",
                     "coordenada": "44°41′14″S 70°51′12″W"
                 }
             ]
@@ -443,7 +443,7 @@
             "coordenadas": "45°35′00″S 69°05′00″W",
             "localidades": [
                 {
-                    "localidad": "Buen-Pasto",
+                    "localidad": "Buen_Pasto",
                     "coordenada": "45°05′00″S 69°28′00″W"
                 },
                 {
@@ -457,19 +457,19 @@
             "coordenadas": "44°01′00″S 70°28′00″W",
             "localidades": [
                 {
-                    "localidad": "Gobernador-Costa",
+                    "localidad": "Gobernador_Costa",
                     "coordenada": "44°04′00″S 70°35′00″W"
                 },
                 {
-                    "localidad": "José-de-San-Martín",
+                    "localidad": "José_de_San_Martín",
                     "coordenada": "44°01′00″S 70°28′00″W"
                 },
                 {
-                    "localidad": "Río-Pico",
+                    "localidad": "Río_Pico",
                     "coordenada": "44°10′47″S 71°22′09″W"
                 },
                 {
-                    "localidad": "Doctor-Atilio-Oscar-Viglione",
+                    "localidad": "Doctor_Atilio_Oscar_Viglione",
                     "coordenada": "44°11′30″S 71°39′52″W"
                 }
             ]
@@ -479,7 +479,7 @@
             "coordenadas": "42°23′00″S 66°57′00″W",
             "localidades": [
                 {
-                    "localidad": "Gan-Gan",
+                    "localidad": "Gan_Gan",
                     "coordenada": "42°30′00″S 68°16′00″W"
                 },
                 {

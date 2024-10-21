@@ -1,5 +1,5 @@
 {
-    "provincia": "La-Rioja",
+    "provincia": "La_Rioja",
     "departamentos": [
         {
             "departamento": "Arauco",
@@ -14,11 +14,11 @@
                     "coordenada": "28°34′06″S 66°48′05″W"
                 },
                 {
-                    "localidad": "Bañado-de-los-Pantanos",
+                    "localidad": "Bañado_de_los_Pantanos",
                     "coordenada": "28°22′40″S 66°49′51″W"
                 },
                 {
-                    "localidad": "Estación-Mazán",
+                    "localidad": "Estación_Mazán",
                     "coordenada": "28°40′40″S 66°29′28″W"
                 },
                 {
@@ -26,11 +26,11 @@
                     "coordenada": "28°33′00″S 67°08′00″W"
                 },
                 {
-                    "localidad": "Termas-de-Santa-Teresita",
+                    "localidad": "Termas_de_Santa_Teresita",
                     "coordenada": "28°36′00″S 66°32′00″W"
                 },
                 {
-                    "localidad": "Villa-Mazán",
+                    "localidad": "Villa_Mazán",
                     "coordenada": "28°40′00″S 66°34′00″W"
                 },
                 {
@@ -40,11 +40,11 @@
             ]
         },
         {
-            "departamento": "Castro-Barros",
+            "departamento": "Castro_Barros",
             "coordenadas": "28°50′27″S 66°56′23″W",
             "localidades": [
                 {
-                    "localidad": "Agua-Blanca",
+                    "localidad": "Agua_Blanca",
                     "coordenada": "28°57′55″S 67°00′01″W"
                 },
                 {
@@ -64,11 +64,11 @@
                     "coordenada": "28°54′00″S 66°58′00″W"
                 },
                 {
-                    "localidad": "Las-Peñas",
+                    "localidad": "Las_Peñas",
                     "coordenada": "29°05′13″S 67°01′14″W"
                 },
                 {
-                    "localidad": "Los-Molinos",
+                    "localidad": "Los_Molinos",
                     "coordenada": "28°44′00″S 66°56′00″W"
                 },
                 {
@@ -76,11 +76,11 @@
                     "coordenada": "28°57′S 66°57′W"
                 },
                 {
-                    "localidad": "San-Pedro",
+                    "localidad": "San_Pedro",
                     "coordenada": "28°39′S 66°57′W"
                 },
                 {
-                    "localidad": "Santa-Vera-Cruz",
+                    "localidad": "Santa_Vera_Cruz",
                     "coordenada": "28°40′23″S 66°57′36″W"
                 }
             ]
@@ -98,71 +98,71 @@
                     "coordenada": "30°25′03″S 66°20′49″W"
                 },
                 {
-                    "localidad": "Bella-Vista",
+                    "localidad": "Bella_Vista",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Retamo",
+                    "localidad": "El_Retamo",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Esperanza-de-los-Cerrillos",
+                    "localidad": "Esperanza_de_los_Cerrillos",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Esquina-del-Norte",
+                    "localidad": "Esquina_del_Norte",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-Aguadita",
+                    "localidad": "La_Aguadita",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Santa-Bárbara",
+                    "localidad": "Santa_Bárbara",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Santa-Rita-de-la-Zanja",
+                    "localidad": "Santa_Rita_de_la_Zanja",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Puesto-El-Alto",
+                    "localidad": "Puesto_El_Alto",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Santa-Lucía",
+                    "localidad": "Santa_Lucía",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Bajito-Hondo",
+                    "localidad": "Bajito_Hondo",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "San-Nicolás-del-Quebrachal",
+                    "localidad": "San_Nicolás_del_Quebrachal",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Bajo-de-Luca",
+                    "localidad": "Bajo_de_Luca",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Bordos",
+                    "localidad": "Los_Bordos",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Mollar",
+                    "localidad": "El_Mollar",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-Caldera",
+                    "localidad": "La_Caldera",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Pozo-de-la-Vaca",
+                    "localidad": "Pozo_de_la_Vaca",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Pozo-de-la-Orilla",
+                    "localidad": "Pozo_de_la_Orilla",
                     "coordenada": ""
                 },
                 {
@@ -170,15 +170,15 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Pozo-Redondo",
+                    "localidad": "Pozo_Redondo",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Simbol",
+                    "localidad": "El_Simbol",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-Calerita",
+                    "localidad": "La_Calerita",
                     "coordenada": ""
                 }
             ]
@@ -196,15 +196,15 @@
                     "coordenada": "29°12′00″S 67°28′00″W"
                 },
                 {
-                    "localidad": "Los-Sarmientos",
+                    "localidad": "Los_Sarmientos",
                     "coordenada": "29°08′54″S 67°29′00″W"
                 },
                 {
-                    "localidad": "San-Miguel",
+                    "localidad": "San_Miguel",
                     "coordenada": "29°11′00″S 67°28′00″W"
                 },
                 {
-                    "localidad": "La-Puntilla",
+                    "localidad": "La_Puntilla",
                     "coordenada": "29°09′41″S 67°28′54″W"
                 },
                 {
@@ -224,7 +224,7 @@
                     "coordenada": "29°11′00″S 67°26′00″W"
                 },
                 {
-                    "localidad": "Colonia-Malligasta",
+                    "localidad": "Colonia_Malligasta",
                     "coordenada": "29°11′00″S 67°26′00″W"
                 },
                 {
@@ -232,7 +232,7 @@
                     "coordenada": "29°08′00″S 67°25′00″W"
                 },
                 {
-                    "localidad": "Colonia-Vichigasta",
+                    "localidad": "Colonia_Vichigasta",
                     "coordenada": "29°29′00″S 67°31′00″W"
                 },
                 {
@@ -244,19 +244,19 @@
                     "coordenada": "29°10′48″S 67°38′35″W"
                 },
                 {
-                    "localidad": "Colonia-Anguinán",
+                    "localidad": "Colonia_Anguinán",
                     "coordenada": "29°12′00″S 67°28′00″W"
                 },
                 {
-                    "localidad": "San-Nicolás",
+                    "localidad": "San_Nicolás",
                     "coordenada": "29°07′00″S 67°28′00″W"
                 },
                 {
-                    "localidad": "Santa-Florentina",
+                    "localidad": "Santa_Florentina",
                     "coordenada": "29°08′00″S 67°34′00″W"
                 },
                 {
-                    "localidad": "Colonia-Catinzaco",
+                    "localidad": "Colonia_Catinzaco",
                     "coordenada": "29°40′00″S 67°23′00″W"
                 },
                 {
@@ -264,7 +264,7 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-Mejicanita",
+                    "localidad": "La_Mejicanita",
                     "coordenada": ""
                 }
             ]
@@ -278,7 +278,7 @@
                     "coordenada": "28°55′00″S 67°31′00″W"
                 },
                 {
-                    "localidad": "Alto-Carrizal",
+                    "localidad": "Alto_Carrizal",
                     "coordenada": "28°52′00″S 67°34′18″W"
                 },
                 {
@@ -290,7 +290,7 @@
                     "coordenada": "28°49′13″S 67°18′53″W"
                 },
                 {
-                    "localidad": "Bajo-Carrizal",
+                    "localidad": "Bajo_Carrizal",
                     "coordenada": "28°53′17″S 67°33′50″W"
                 },
                 {
@@ -302,11 +302,11 @@
                     "coordenada": "28°36′11″S 67°34′59″W"
                 },
                 {
-                    "localidad": "El-Potrerillo",
+                    "localidad": "El_Potrerillo",
                     "coordenada": "28°23′53″S 67°41′25″W"
                 },
                 {
-                    "localidad": "La-Cuadra",
+                    "localidad": "La_Cuadra",
                     "coordenada": "28°28′05″S 67°41′28″W"
                 },
                 {
@@ -314,21 +314,21 @@
                     "coordenada": "28°34′34″S 67°26′57″W"
                 },
                 {
-                    "localidad": "Plaza-Vieja",
+                    "localidad": "Plaza_Vieja",
                     "coordenada": "28°59′00″S 67°31′00″W"
                 },
                 {
-                    "localidad": "Santa-Cruz",
+                    "localidad": "Santa_Cruz",
                     "coordenada": "28°29′02″S 67°41′37″W"
                 },
                 {
-                    "localidad": "Santo-Domingo",
+                    "localidad": "Santo_Domingo",
                     "coordenada": "28°33′21″S 67°40′30″W"
                 }
             ]
         },
         {
-            "departamento": "General-Ángel-Vicente-Peñaloza",
+            "departamento": "General_Ángel_Vicente_Peñaloza",
             "coordenadas": "30°30′27″S 66°31′43″W",
             "localidades": [
                 {
@@ -348,15 +348,15 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Puesto-Santa-Cruz",
+                    "localidad": "Puesto_Santa_Cruz",
                     "coordenada": "30°32′23″S 66°23′58″W"
                 },
                 {
-                    "localidad": "Km-38",
+                    "localidad": "Km_38",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Punta-de-los-Llanos",
+                    "localidad": "Punta_de_los_Llanos",
                     "coordenada": "30°09′14″S 66°32′43″W"
                 },
                 {
@@ -370,7 +370,7 @@
             ]
         },
         {
-            "departamento": "General-Belgrano",
+            "departamento": "General_Belgrano",
             "coordenadas": "30°37′54″S 66°15′59″W",
             "localidades": [
                 {
@@ -378,7 +378,7 @@
                     "coordenada": "30°36′58″S 66°15′58″W"
                 },
                 {
-                    "localidad": "Castro-Barros",
+                    "localidad": "Castro_Barros",
                     "coordenada": "30°34′43″S 65°43′35″W"
                 },
                 {
@@ -386,7 +386,7 @@
                     "coordenada": "30°32′24″S 65°57′26″W"
                 },
                 {
-                    "localidad": "Loma-Blanca",
+                    "localidad": "Loma_Blanca",
                     "coordenada": "30°39′S 66°09′W"
                 },
                 {
@@ -394,11 +394,11 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Baldes-de-Pacheco",
+                    "localidad": "Baldes_de_Pacheco",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Esquina-del-sur",
+                    "localidad": "Esquina_del_sur",
                     "coordenada": ""
                 },
                 {
@@ -406,11 +406,11 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Tala-verde",
+                    "localidad": "Tala_verde",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-huerta",
+                    "localidad": "La_huerta",
                     "coordenada": ""
                 },
                 {
@@ -418,11 +418,11 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Monte-Grande",
+                    "localidad": "Monte_Grande",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "San-Ramón",
+                    "localidad": "San_Ramón",
                     "coordenada": ""
                 },
                 {
@@ -430,29 +430,29 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-cardonal",
+                    "localidad": "El_cardonal",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Loma-alta",
+                    "localidad": "Loma_alta",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Corral-de-negro",
+                    "localidad": "Corral_de_negro",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Santa-cruz",
+                    "localidad": "Santa_cruz",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-virque",
+                    "localidad": "El_virque",
                     "coordenada": ""
                 }
             ]
         },
         {
-            "departamento": "General-Felipe-Varela",
+            "departamento": "General_Felipe_Varela",
             "coordenadas": "29°19′04″S 68°13′40″W",
             "localidades": [
                 {
@@ -460,7 +460,7 @@
                     "coordenada": "29°28′22″S 67°46′29″W"
                 },
                 {
-                    "localidad": "Banda-Florida",
+                    "localidad": "Banda_Florida",
                     "coordenada": "29°18′21″S 68°14′42″W"
                 },
                 {
@@ -468,11 +468,11 @@
                     "coordenada": "29°31′00″S 68°33′00″W"
                 },
                 {
-                    "localidad": "Los-Palacios",
+                    "localidad": "Los_Palacios",
                     "coordenada": "29°22′19″S 68°13′58″W"
                 },
                 {
-                    "localidad": "Los-Tambillos",
+                    "localidad": "Los_Tambillos",
                     "coordenada": ""
                 },
                 {
@@ -480,21 +480,21 @@
                     "coordenada": "29°34′00″S 68°03′00″W"
                 },
                 {
-                    "localidad": "Puerto-Alegre",
+                    "localidad": "Puerto_Alegre",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Santa-Clara",
+                    "localidad": "Santa_Clara",
                     "coordenada": "29°33′00″S 68°31′00″W"
                 },
                 {
-                    "localidad": "Villa-Unión",
+                    "localidad": "Villa_Unión",
                     "coordenada": "29°18′S 68°12′W"
                 }
             ]
         },
         {
-            "departamento": "General-Juan-Facundo-Quiroga",
+            "departamento": "General_Juan_Facundo_Quiroga",
             "coordenadas": "30°48′18″S 66°36′12″W",
             "localidades": [
                 {
@@ -510,11 +510,11 @@
                     "coordenada": "30°51′S 66°27′W"
                 },
                 {
-                    "localidad": "San-Antonio",
+                    "localidad": "San_Antonio",
                     "coordenada": "31°05′09″S 66°43′57″W"
                 },
                 {
-                    "localidad": "La-Chimenea",
+                    "localidad": "La_Chimenea",
                     "coordenada": ""
                 },
                 {
@@ -522,7 +522,7 @@
                     "coordenada": "30°46′00″S 66°28′00″W"
                 },
                 {
-                    "localidad": "El-Retamal",
+                    "localidad": "El_Retamal",
                     "coordenada": ""
                 },
                 {
@@ -534,7 +534,7 @@
                     "coordenada": "30°45′23″S 66°40′04″W"
                 },
                 {
-                    "localidad": "Loma-Larga",
+                    "localidad": "Loma_Larga",
                     "coordenada": ""
                 },
                 {
@@ -542,7 +542,7 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Tres-Cruces",
+                    "localidad": "Tres_Cruces",
                     "coordenada": ""
                 },
                 {
@@ -560,11 +560,11 @@
             ]
         },
         {
-            "departamento": "General-Lamadrid",
+            "departamento": "General_Lamadrid",
             "coordenadas": "29°00′39″S 68°13′35″W",
             "localidades": [
                 {
-                    "localidad": "Villa-Castelli",
+                    "localidad": "Villa_Castelli",
                     "coordenada": "29°01′05″S 68°13′37″W"
                 },
                 {
@@ -572,19 +572,19 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Condado",
+                    "localidad": "El_Condado",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-Banda",
+                    "localidad": "La_Banda",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Moraditos",
+                    "localidad": "Los_Moraditos",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Pastos-Largos",
+                    "localidad": "Pastos_Largos",
                     "coordenada": ""
                 },
                 {
@@ -598,7 +598,7 @@
             ]
         },
         {
-            "departamento": "General-Ortiz-de-Ocampo",
+            "departamento": "General_Ortiz_de_Ocampo",
             "coordenadas": "31°00′31″S 65°59′33″W",
             "localidades": [
                 {
@@ -606,7 +606,7 @@
                     "coordenada": "31°08′00″S 66°21′00″W"
                 },
                 {
-                    "localidad": "Colonia-Ortiz-de-Ocampo",
+                    "localidad": "Colonia_Ortiz_de_Ocampo",
                     "coordenada": "30°57′47″S 66°10′37″W"
                 },
                 {
@@ -618,33 +618,33 @@
                     "coordenada": "30°48′S 66°15′W"
                 },
                 {
-                    "localidad": "Villa-Santa-Rita-de-Catuna",
+                    "localidad": "Villa_Santa_Rita_de_Catuna",
                     "coordenada": "30°57′14″S 66°12′58″W"
                 },
                 {
-                    "localidad": "Comandante-Leal",
+                    "localidad": "Comandante_Leal",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Fraile",
+                    "localidad": "El_Fraile",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Aguirres",
+                    "localidad": "Los_Aguirres",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Alanices",
+                    "localidad": "Los_Alanices",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Esquina-Chica",
+                    "localidad": "Esquina_Chica",
                     "coordenada": ""
                 }
             ]
         },
         {
-            "departamento": "General-San-Martín",
+            "departamento": "General_San_Martín",
             "coordenadas": "31°34′00″S 66°15′00″W",
             "localidades": [
                 {
@@ -656,55 +656,55 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Bajo-Hondo",
+                    "localidad": "Bajo_Hondo",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Abra",
+                    "localidad": "El_Abra",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-Represa",
+                    "localidad": "La_Represa",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-Represita",
+                    "localidad": "La_Represita",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Las-Ventanitas",
+                    "localidad": "Las_Ventanitas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa-Nidia",
+                    "localidad": "Villa_Nidia",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Pozo-de-Piedra",
+                    "localidad": "Pozo_de_Piedra",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Corral-de-Isaac",
+                    "localidad": "Corral_de_Isaac",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Cuatro-Esquinas",
+                    "localidad": "Cuatro_Esquinas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Caldén",
+                    "localidad": "El_Caldén",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Cadillo",
+                    "localidad": "El_Cadillo",
                     "coordenada": "31°52′19″S 65°46′13″W"
                 },
                 {
-                    "localidad": "San-Solano",
+                    "localidad": "San_Solano",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa-Nidia",
+                    "localidad": "Villa_Nidia",
                     "coordenada": ""
                 }
             ]
@@ -718,7 +718,7 @@
                     "coordenada": "30°03′18″S 67°30′13″W"
                 },
                 {
-                    "localidad": "Los-Colorados",
+                    "localidad": "Los_Colorados",
                     "coordenada": ""
                 },
                 {
@@ -730,7 +730,7 @@
                     "coordenada": "30°03′00″S 66°52′59″W"
                 },
                 {
-                    "localidad": "Patquía-Viejo",
+                    "localidad": "Patquía_Viejo",
                     "coordenada": ""
                 }
             ]
@@ -740,13 +740,13 @@
             "coordenadas": "29°26′00″S 66°51′00″W",
             "localidades": [
                 {
-                    "localidad": "La-Rioja",
+                    "localidad": "La_Rioja",
                     "coordenada": "29°24′47″S 66°51′21″W"
                 }
             ]
         },
         {
-            "departamento": "Rosario-Vera-Peñaloza",
+            "departamento": "Rosario_Vera_Peñaloza",
             "coordenadas": "31°20′27″S 66°35′29″W",
             "localidades": [
                 {
@@ -754,15 +754,15 @@
                     "coordenada": "31°16′00″S 66°35′00″W"
                 },
                 {
-                    "localidad": "Desiderio-Tello",
+                    "localidad": "Desiderio_Tello",
                     "coordenada": "31°13′00″S 66°19′00″W"
                 },
                 {
-                    "localidad": "El-Totoral",
+                    "localidad": "El_Totoral",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa-Casana",
+                    "localidad": "Villa_Casana",
                     "coordenada": "31°06′45″S 66°33′06″W"
                 },
                 {
@@ -774,7 +774,7 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-calera",
+                    "localidad": "La_calera",
                     "coordenada": ""
                 },
                 {
@@ -782,45 +782,45 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Potrerillo-de-los-flores",
+                    "localidad": "Potrerillo_de_los_flores",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Tala",
+                    "localidad": "El_Tala",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Valle-Hermoso",
+                    "localidad": "Valle_Hermoso",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Las-Toscas",
+                    "localidad": "Las_Toscas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "San-Isidro",
+                    "localidad": "San_Isidro",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Agua-Blanca",
+                    "localidad": "Agua_Blanca",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Las-Jarillas",
+                    "localidad": "Las_Jarillas",
                     "coordenada": ""
                 }
             ]
         },
         {
-            "departamento": "San-Blas-de-los-Sauces",
+            "departamento": "San_Blas_de_los_Sauces",
             "coordenadas": "28°24′52″S 67°05′55″W",
             "localidades": [
                 {
-                    "localidad": "Las-Pirguas",
+                    "localidad": "Las_Pirguas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Retiro",
+                    "localidad": "El_Retiro",
                     "coordenada": "28°17′16″S 67°01′10″W"
                 },
                 {
@@ -836,15 +836,15 @@
                     "coordenada": "28°22′00″S 67°03′00″W"
                 },
                 {
-                    "localidad": "San-Blas",
+                    "localidad": "San_Blas",
                     "coordenada": "28°24′49″S 67°05′51″W"
                 },
                 {
-                    "localidad": "Los-Robles",
+                    "localidad": "Los_Robles",
                     "coordenada": "28°25′00″S 67°07′00″W"
                 },
                 {
-                    "localidad": "Los-Talas",
+                    "localidad": "Los_Talas",
                     "coordenada": "28°26′35″S 67°07′05″W"
                 },
                 {
@@ -882,11 +882,11 @@
             "coordenadas": "29°16′56″S 67°01′16″W",
             "localidades": [
                 {
-                    "localidad": "Villa-Sanagasta",
+                    "localidad": "Villa_Sanagasta",
                     "coordenada": "29°16′59″S 67°01′59″W"
                 },
                 {
-                    "localidad": "Alta-Gracia",
+                    "localidad": "Alta_Gracia",
                     "coordenada": ""
                 },
                 {
@@ -900,7 +900,7 @@
             "coordenadas": "28°45′13″S 68°12′16″W",
             "localidades": [
                 {
-                    "localidad": "Villa-San-José-de-Vinchina",
+                    "localidad": "Villa_San_José_de_Vinchina",
                     "coordenada": "28°45′35″S 68°12′25″W"
                 },
                 {
@@ -908,23 +908,23 @@
                     "coordenada": "28°38′00″S 68°24′00″W"
                 },
                 {
-                    "localidad": "Alto-Jagüé",
+                    "localidad": "Alto_Jagüé",
                     "coordenada": "28°39′22″S 68°23′53″W"
                 },
                 {
-                    "localidad": "Bajo-Jagüé",
+                    "localidad": "Bajo_Jagüé",
                     "coordenada": "28°38′42″S 68°20′49″W"
                 },
                 {
-                    "localidad": "Potrero-Grande",
+                    "localidad": "Potrero_Grande",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Valle-Hermoso",
+                    "localidad": "Valle_Hermoso",
                     "coordenada": "28°22′58″S 67°59′59″W"
                 },
                 {
-                    "localidad": "Punta-de-Agua",
+                    "localidad": "Punta_de_Agua",
                     "coordenada": "28°06′00″S 69°05′00″W"
                 }
             ]

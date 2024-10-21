@@ -1,8 +1,8 @@
 {
-    "provincia": "Tierra-del-Fuego",
+    "provincia": "Tierra_del_Fuego",
     "departamentos": [
         {
-            "departamento": "Antártida-Argentina",
+            "departamento": "Antártida_Argentina",
             "coordenadas": "75°00′S 49°30′W",
             "localidades": [
                 {
@@ -22,11 +22,11 @@
                     "coordenada": "62°14′18″S 58°40′00″W"
                 },
                 {
-                    "localidad": "San-Martín",
+                    "localidad": "San_Martín",
                     "coordenada": "68°07′48″S 67°06′08″W"
                 },
                 {
-                    "localidad": "Belgrano-II",
+                    "localidad": "Belgrano_II",
                     "coordenada": "77°52′28″S 34°37′37″W"
                 },
                 {
@@ -60,20 +60,20 @@
             ]
         },
         {
-            "departamento": "Islas-del-Atlántico-Sur",
+            "departamento": "Islas_del_Atlántico_Sur",
             "coordenadas": "54°29′50″S 36°34′59″W",
             "localidades": []
         },
         {
-            "departamento": "Río-Grande",
+            "departamento": "Río_Grande",
             "coordenadas": "53°47′11″S 67°41′48″W",
             "localidades": [
                 {
-                    "localidad": "Río-Grande",
+                    "localidad": "Río_Grande",
                     "coordenada": "53°47′00″S 67°42′00″W"
                 },
                 {
-                    "localidad": "San-Sebastián",
+                    "localidad": "San_Sebastián",
                     "coordenada": "53°17′59″S 68°27′27″W"
                 }
             ]
@@ -91,7 +91,7 @@
                     "coordenada": "54°21′00″S 68°11′00″W"
                 },
                 {
-                    "localidad": "Lago-Escondido",
+                    "localidad": "Lago_Escondido",
                     "coordenada": "54°38′16″S 67°46′01″W"
                 }
             ]
@@ -105,19 +105,19 @@
                     "coordenada": "54°48′26″S 68°18′16″W"
                 },
                 {
-                    "localidad": "Puerto-Almanza",
+                    "localidad": "Puerto_Almanza",
                     "coordenada": "54°52′12″S 67°33′50″W"
                 },
                 {
-                    "localidad": "Punta-Parana",
+                    "localidad": "Punta_Parana",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Puerto-Parry",
+                    "localidad": "Puerto_Parry",
                     "coordenada": "54°48′42″S 64°22′18″W"
                 },
                 {
-                    "localidad": "Puerto-Cook",
+                    "localidad": "Puerto_Cook",
                     "coordenada": "54°46′01″S 64°03′00″W"
                 }
             ]

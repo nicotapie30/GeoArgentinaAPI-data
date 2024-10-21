@@ -2,27 +2,27 @@
     "provincia": "Chaco",
     "departamentos": [
         {
-            "departamento": "Almirante-Brown",
+            "departamento": "Almirante_Brown",
             "coordenadas": "26°31′00″S 61°10′00″W",
             "localidades": [
                 {
-                    "localidad": "Pampa-del-Infierno",
+                    "localidad": "Pampa_del_Infierno",
                     "coordenada": "26°31′00″S 61°10′00″W"
                 },
                 {
-                    "localidad": "Concepción-del-Bermejo",
+                    "localidad": "Concepción_del_Bermejo",
                     "coordenada": "26°07′59″S 60°19′01″W"
                 },
                 {
-                    "localidad": "Los-Frentones",
+                    "localidad": "Los_Frentones",
                     "coordenada": "26°25′00″S 61°25′00″W"
                 },
                 {
-                    "localidad": "Taco-Pozo",
+                    "localidad": "Taco_Pozo",
                     "coordenada": "25°36′54″S 63°15′54″W"
                 },
                 {
-                    "localidad": "Río-Muerto",
+                    "localidad": "Río_Muerto",
                     "coordenada": "26°18′28″S 61°39′16″W"
                 }
             ]
@@ -32,31 +32,31 @@
             "coordenadas": "27°03′00″S 58°43′00″W",
             "localidades": [
                 {
-                    "localidad": "La-Leonesa",
+                    "localidad": "La_Leonesa",
                     "coordenada": "27°03′00″S 58°43′00″W"
                 },
                 {
-                    "localidad": "Las-Palmas",
+                    "localidad": "Las_Palmas",
                     "coordenada": "27°04′00″S 58°42′00″W"
                 },
                 {
-                    "localidad": "General-Vedia",
+                    "localidad": "General_Vedia",
                     "coordenada": "26°56′00″S 58°40′00″W"
                 },
                 {
-                    "localidad": "Isla-del-Cerrito",
+                    "localidad": "Isla_del_Cerrito",
                     "coordenada": "27°17′43″S 58°37′10″W"
                 },
                 {
-                    "localidad": "Puerto-Bermejo-Nuevo",
+                    "localidad": "Puerto_Bermejo_Nuevo",
                     "coordenada": "26°56′00″S 58°30′00″W"
                 },
                 {
-                    "localidad": "Puerto-Bermejo-Viejo",
+                    "localidad": "Puerto_Bermejo_Viejo",
                     "coordenada": "26°55′43″S 58°30′30″W"
                 },
                 {
-                    "localidad": "Puerto-Eva-Perón",
+                    "localidad": "Puerto_Eva_Perón",
                     "coordenada": "26°39′51″S 58°37′57″W"
                 }
             ]
@@ -72,21 +72,21 @@
             ]
         },
         {
-            "departamento": "Comandante-Fernández",
+            "departamento": "Comandante_Fernández",
             "coordenadas": "26°48′S 60°27′W",
             "localidades": [
                 {
-                    "localidad": "Presidencia-Roque-Sáenz-Peña",
+                    "localidad": "Presidencia_Roque_Sáenz_Peña",
                     "coordenada": "26°47′00″S 60°27′00″W"
                 }
             ]
         },
         {
-            "departamento": "Doce-de-Octubre",
+            "departamento": "Doce_de_Octubre",
             "coordenadas": "27°19′00″S 61°15′00″W",
             "localidades": [
                 {
-                    "localidad": "General-Pinedo",
+                    "localidad": "General_Pinedo",
                     "coordenada": "27°19′00″S 61°17′00″W"
                 },
                 {
@@ -94,25 +94,25 @@
                     "coordenada": "27°30′S 61°42′W"
                 },
                 {
-                    "localidad": "General-Capdevila",
+                    "localidad": "General_Capdevila",
                     "coordenada": "27°26′00″S 61°28′00″W"
                 },
                 {
-                    "localidad": "Mesón-de-Fierro",
+                    "localidad": "Mesón_de_Fierro",
                     "coordenada": "27°26′00″S 61°01′00″W"
                 },
                 {
-                    "localidad": "Pampa-Landriel",
+                    "localidad": "Pampa_Landriel",
                     "coordenada": "27°23′41″S 61°06′09″W"
                 }
             ]
         },
         {
-            "departamento": "Dos-de-Abril",
+            "departamento": "Dos_de_Abril",
             "coordenadas": "27°37′00″S 61°21′00″W",
             "localidades": [
                 {
-                    "localidad": "Hermoso-Campo",
+                    "localidad": "Hermoso_Campo",
                     "coordenada": "27°37′00″S 61°21′00″W"
                 },
                 {
@@ -122,11 +122,11 @@
             ]
         },
         {
-            "departamento": "Fray-Justo-Santa-María-de-Oro",
+            "departamento": "Fray_Justo_Santa_María_de_Oro",
             "coordenadas": "27°49′00″S 61°09′00″W",
             "localidades": [
                 {
-                    "localidad": "Santa-Sylvina",
+                    "localidad": "Santa_Sylvina",
                     "coordenada": "27°47′00″S 61°09′00″W"
                 },
                 {
@@ -134,13 +134,13 @@
                     "coordenada": "27°54′53″S 61°24′05″W"
                 },
                 {
-                    "localidad": "Venados-Grandes",
+                    "localidad": "Venados_Grandes",
                     "coordenada": "27°49′00″S 61°23′00″W"
                 }
             ]
         },
         {
-            "departamento": "General-Belgrano",
+            "departamento": "General_Belgrano",
             "coordenadas": "26°57′00″S 60°58′00″W",
             "localidades": [
                 {
@@ -150,7 +150,7 @@
             ]
         },
         {
-            "departamento": "General-Donovan",
+            "departamento": "General_Donovan",
             "coordenadas": "27°13′00″S 59°17′00″W",
             "localidades": [
                 {
@@ -158,11 +158,11 @@
                     "coordenada": "27°12′00″S 59°17′00″W"
                 },
                 {
-                    "localidad": "La-Escondida",
+                    "localidad": "La_Escondida",
                     "coordenada": "27°06′14″S 59°26′43″W"
                 },
                 {
-                    "localidad": "La-Verde",
+                    "localidad": "La_Verde",
                     "coordenada": "27°07′34″S 59°22′32″W"
                 },
                 {
@@ -172,23 +172,23 @@
             ]
         },
         {
-            "departamento": "General-Güemes",
+            "departamento": "General_Güemes",
             "coordenadas": "25°56′00″S 60°37′00″W",
             "localidades": [
                 {
-                    "localidad": "El-Espinillo",
+                    "localidad": "El_Espinillo",
                     "coordenada": "25°24′29″S 60°26′53″W"
                 },
                 {
-                    "localidad": "El-Sauzalito",
+                    "localidad": "El_Sauzalito",
                     "coordenada": "24°25′42″S 61°40′59″W"
                 },
                 {
-                    "localidad": "Fuerte-Esperanza",
+                    "localidad": "Fuerte_Esperanza",
                     "coordenada": "25°09′36″S 61°50′23″W"
                 },
                 {
-                    "localidad": "Juan-José-Castelli",
+                    "localidad": "Juan_José_Castelli",
                     "coordenada": "25°57′00″S 60°37′00″W"
                 },
                 {
@@ -196,11 +196,11 @@
                     "coordenada": "25°38′49″S 60°55′44″W"
                 },
                 {
-                    "localidad": "Misión-Nueva-Pompeya",
+                    "localidad": "Misión_Nueva_Pompeya",
                     "coordenada": "24°55′54″S 61°29′00″W"
                 },
                 {
-                    "localidad": "Villa-Río-Bermejito",
+                    "localidad": "Villa_Río_Bermejito",
                     "coordenada": "25°38′14″S 60°15′56″W"
                 }
             ]
@@ -210,11 +210,11 @@
             "coordenadas": "26°48′S 60°21′W",
             "localidades": [
                 {
-                    "localidad": "Avia-Terai",
+                    "localidad": "Avia_Terai",
                     "coordenada": "26°42′00″S 60°44′00″W"
                 },
                 {
-                    "localidad": "Campo-Largo",
+                    "localidad": "Campo_Largo",
                     "coordenada": "26°48′03″S 60°50′32″W"
                 },
                 {
@@ -228,19 +228,19 @@
             "coordenadas": "27°23′00″S 59°05′00″W",
             "localidades": [
                 {
-                    "localidad": "Colonia-Popular",
+                    "localidad": "Colonia_Popular",
                     "coordenada": "27°17′00″S 59°09′00″W"
                 },
                 {
-                    "localidad": "Laguna-Blanca",
+                    "localidad": "Laguna_Blanca",
                     "coordenada": "27°15′16″S 59°13′52″W"
                 },
                 {
-                    "localidad": "Puerto-Tirol",
+                    "localidad": "Puerto_Tirol",
                     "coordenada": "27°21′37″S 59°03′46″W"
                 },
                 {
-                    "localidad": "General-Obligado",
+                    "localidad": "General_Obligado",
                     "coordenada": "27°24′39″S 59°25′09″W"
                 },
                 {
@@ -248,45 +248,45 @@
                     "coordenada": "20°04′55″S 49°54′50″W"
                 },
                 {
-                    "localidad": "Puerto-Bastiani",
+                    "localidad": "Puerto_Bastiani",
                     "coordenada": "27°18′01″S 59°06′34″W"
                 },
                 {
-                    "localidad": "Villa-Jalón",
+                    "localidad": "Villa_Jalón",
                     "coordenada": "27°20′48″S 59°05′25″W"
                 }
             ]
         },
         {
-            "departamento": "Libertador-General-San-Martín",
+            "departamento": "Libertador_General_San_Martín",
             "coordenadas": "26°32′00″S 59°20′00″W",
             "localidades": [
                 {
-                    "localidad": "Ciervo-Petiso",
+                    "localidad": "Ciervo_Petiso",
                     "coordenada": "26°35′00″S 59°38′00″W"
                 },
                 {
-                    "localidad": "General-José-de-San-Martín",
+                    "localidad": "General_José_de_San_Martín",
                     "coordenada": "26°32′15″S 59°20′30″W"
                 },
                 {
-                    "localidad": "La-Eduvigis",
+                    "localidad": "La_Eduvigis",
                     "coordenada": "26°50′00″S 59°05′00″W"
                 },
                 {
-                    "localidad": "Laguna-Limpia",
+                    "localidad": "Laguna_Limpia",
                     "coordenada": "26°29′45″S 59°40′51″W"
                 },
                 {
-                    "localidad": "Pampa-Almirón",
+                    "localidad": "Pampa_Almirón",
                     "coordenada": "26°42′00″S 59°08′00″W"
                 },
                 {
-                    "localidad": "Pampa-del-Indio",
+                    "localidad": "Pampa_del_Indio",
                     "coordenada": "26°02′00″S 59°55′00″W"
                 },
                 {
-                    "localidad": "Presidencia-Roca",
+                    "localidad": "Presidencia_Roca",
                     "coordenada": "26°08′00″S 59°36′00″W"
                 }
             ]
@@ -296,35 +296,35 @@
             "coordenadas": "26°21′00″S 60°26′00″W",
             "localidades": [
                 {
-                    "localidad": "Tres-Isletas",
+                    "localidad": "Tres_Isletas",
                     "coordenada": "26°21′00″S 60°25′00″W"
                 }
             ]
         },
         {
-            "departamento": "Mayor-Luis-Jorge-Fontana",
+            "departamento": "Mayor_Luis_Jorge_Fontana",
             "coordenadas": "27°35′00″S 60°43′00″W",
             "localidades": [
                 {
-                    "localidad": "Coronel-Du-Graty",
+                    "localidad": "Coronel_Du_Graty",
                     "coordenada": "27°40′00″S 60°56′00″W"
                 },
                 {
-                    "localidad": "Enrique-Urién",
+                    "localidad": "Enrique_Urién",
                     "coordenada": "27°34′00″S 60°32′00″W"
                 },
                 {
-                    "localidad": "Villa-Ángela",
+                    "localidad": "Villa_Ángela",
                     "coordenada": "27°35′00″S 60°43′00″W"
                 }
             ]
         },
         {
-            "departamento": "Nueve-de-Julio",
+            "departamento": "Nueve_de_Julio",
             "coordenadas": "27°05′00″S 61°05′00″W",
             "localidades": [
                 {
-                    "localidad": "Las-Breñas",
+                    "localidad": "Las_Breñas",
                     "coordenada": "27°05′23″S 61°04′54″W"
                 }
             ]
@@ -334,39 +334,39 @@
             "coordenadas": "27°17′00″S 60°42′00″W",
             "localidades": [
                 {
-                    "localidad": "La-Clotilde",
+                    "localidad": "La_Clotilde",
                     "coordenada": "27°08′00″S 60°40′00″W"
                 },
                 {
-                    "localidad": "La-Tigra",
+                    "localidad": "La_Tigra",
                     "coordenada": "27°06′36″S 60°35′14″W"
                 },
                 {
-                    "localidad": "San-Bernardo",
+                    "localidad": "San_Bernardo",
                     "coordenada": "27°17′30″S 60°42′30″W"
                 }
             ]
         },
         {
-            "departamento": "Presidencia-d-la-Plaza",
+            "departamento": "Presidencia_d_la_Plaza",
             "coordenadas": "27°01′00″S 59°51′00″W",
             "localidades": [
                 {
-                    "localidad": "Presidencia-de-la-Plaza",
+                    "localidad": "Presidencia_de_la_Plaza",
                     "coordenada": "26°59′00″S 59°50′00″W"
                 }
             ]
         },
         {
-            "departamento": "Primero-de-Mayo",
+            "departamento": "Primero_de_Mayo",
             "coordenadas": "27°16′00″S 58°58′00″W",
             "localidades": [
                 {
-                    "localidad": "Margarita-Belén",
+                    "localidad": "Margarita_Belén",
                     "coordenada": "27°16′00″S 58°58′00″W"
                 },
                 {
-                    "localidad": "Colonia-Benítez",
+                    "localidad": "Colonia_Benítez",
                     "coordenada": "27°20′00″S 58°56′00″W"
                 }
             ]
@@ -382,7 +382,7 @@
             ]
         },
         {
-            "departamento": "San-Fernando",
+            "departamento": "San_Fernando",
             "coordenadas": "27°27′00″S 58°59′00″W",
             "localidades": [
                 {
@@ -402,17 +402,17 @@
                     "coordenada": "27°25′00″S 59°02′00″W"
                 },
                 {
-                    "localidad": "Puerto-Vilelas",
+                    "localidad": "Puerto_Vilelas",
                     "coordenada": "27°31′00″S 58°56′00″W"
                 }
             ]
         },
         {
-            "departamento": "San-Lorenzo",
+            "departamento": "San_Lorenzo",
             "coordenadas": "27°17′00″S 60°25′00″W",
             "localidades": [
                 {
-                    "localidad": "Villa-Berthet",
+                    "localidad": "Villa_Berthet",
                     "coordenada": "27°16′00″S 60°25′00″W"
                 },
                 {
@@ -422,23 +422,23 @@
             ]
         },
         {
-            "departamento": "Sargento-Cabral",
+            "departamento": "Sargento_Cabral",
             "coordenadas": "26°56′00″S 59°32′00″W",
             "localidades": [
                 {
-                    "localidad": "Capitán-Solari",
+                    "localidad": "Capitán_Solari",
                     "coordenada": "26°48′00″S 59°34′00″W"
                 },
                 {
-                    "localidad": "Colonia-Elisa",
+                    "localidad": "Colonia_Elisa",
                     "coordenada": "26°55′00″S 59°31′00″W"
                 },
                 {
-                    "localidad": "Colonias-Unidas",
+                    "localidad": "Colonias_Unidas",
                     "coordenada": "26°42′00″S 59°38′00″W"
                 },
                 {
-                    "localidad": "Las-Garcitas",
+                    "localidad": "Las_Garcitas",
                     "coordenada": "26°37′05″S 59°47′57″W"
                 }
             ]
@@ -452,13 +452,13 @@
                     "coordenada": "27°39′16″S 59°51′46″W"
                 },
                 {
-                    "localidad": "Cote-Lai",
+                    "localidad": "Cote_Lai",
                     "coordenada": "27°31′37″S 59°34′22″W"
                 }
             ]
         },
         {
-            "departamento": "Veinticinco-de-Mayo",
+            "departamento": "Veinticinco_de_Mayo",
             "coordenadas": "26°55′00″S 60°03′00″W",
             "localidades": [
                 {

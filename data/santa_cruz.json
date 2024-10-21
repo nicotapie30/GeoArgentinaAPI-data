@@ -1,24 +1,24 @@
 {
-    "provincia": "Santa-Cruz",
+    "provincia": "Santa_Cruz",
     "departamentos": [
         {
-            "departamento": "Corpen-Aike",
+            "departamento": "Corpen_Aike",
             "coordenadas": "50°01′09″S 68°31′23″W",
             "localidades": [
                 {
-                    "localidad": "Comandante-Luis-Piedrabuena",
+                    "localidad": "Comandante_Luis_Piedrabuena",
                     "coordenada": "49°58′59″S 68°54′36″W"
                 },
                 {
-                    "localidad": "Puerto-Santa-Cruz",
+                    "localidad": "Puerto_Santa_Cruz",
                     "coordenada": "50°01′09″S 68°31′23″W"
                 },
                 {
-                    "localidad": "Puerto-de-Punta-Quilla",
+                    "localidad": "Puerto_de_Punta_Quilla",
                     "coordenada": "50°07′06″S 68°24′40″W"
                 },
                 {
-                    "localidad": "Río-Chico",
+                    "localidad": "Río_Chico",
                     "coordenada": "49°48′00″S 68°37′00″W"
                 }
             ]
@@ -28,19 +28,19 @@
             "coordenadas": "47°44′52″S 65°53′33″W",
             "localidades": [
                 {
-                    "localidad": "Caleta-Olivia",
+                    "localidad": "Caleta_Olivia",
                     "coordenada": "46°26′00″S 67°32′00″W"
                 },
                 {
-                    "localidad": "Cañadón-Seco",
+                    "localidad": "Cañadón_Seco",
                     "coordenada": "46°33′47″S 67°36′38″W"
                 },
                 {
-                    "localidad": "Fitz-Roy",
+                    "localidad": "Fitz_Roy",
                     "coordenada": "47°01′34″S 67°14′58″W"
                 },
                 {
-                    "localidad": "Gobernador-Moyano",
+                    "localidad": "Gobernador_Moyano",
                     "coordenada": "47°15′S 68°36′W"
                 },
                 {
@@ -48,19 +48,19 @@
                     "coordenada": "47°11′00″S 67°09′00″W"
                 },
                 {
-                    "localidad": "Koluel-Kayke",
+                    "localidad": "Koluel_Kayke",
                     "coordenada": "46°43′00″S 68°13′24″W"
                 },
                 {
-                    "localidad": "Las-Heras",
+                    "localidad": "Las_Heras",
                     "coordenada": "46°33′S 68°57′W"
                 },
                 {
-                    "localidad": "Pico-Truncado",
+                    "localidad": "Pico_Truncado",
                     "coordenada": "46°48′00″S 67°58′00″W"
                 },
                 {
-                    "localidad": "Puerto-Deseado",
+                    "localidad": "Puerto_Deseado",
                     "coordenada": "47°45′00″S 65°55′00″W"
                 },
                 {
@@ -70,11 +70,11 @@
             ]
         },
         {
-            "departamento": "Güer-Aike",
+            "departamento": "Güer_Aike",
             "coordenadas": "51°37′24″S 69°12′59″W",
             "localidades": [
                 {
-                    "localidad": "El-Turbio",
+                    "localidad": "El_Turbio",
                     "coordenada": "51°41′00″S 72°05′00″W"
                 },
                 {
@@ -82,71 +82,71 @@
                     "coordenada": "51°01′43″S 70°46′45″W"
                 },
                 {
-                    "localidad": "Julia-Dufour",
+                    "localidad": "Julia_Dufour",
                     "coordenada": "51°32′50″S 72°14′17″W"
                 },
                 {
-                    "localidad": "Mina-3",
+                    "localidad": "Mina_3",
                     "coordenada": "51°32′24″S 72°16′18″W"
                 },
                 {
-                    "localidad": "Río-Gallegos",
+                    "localidad": "Río_Gallegos",
                     "coordenada": "51°37′24″S 69°12′58″W"
                 },
                 {
-                    "localidad": "Río-Turbio",
+                    "localidad": "Río_Turbio",
                     "coordenada": "51°32′10″S 72°20′10″W"
                 },
                 {
-                    "localidad": "Rospentek-Aike",
+                    "localidad": "Rospentek_Aike",
                     "coordenada": "51°39′55″S 72°08′43″W"
                 },
                 {
-                    "localidad": "Veintiocho-de-Noviembre",
+                    "localidad": "Veintiocho_de_Noviembre",
                     "coordenada": "51°35′02″S 72°12′52″W"
                 },
                 {
-                    "localidad": "Güer-Aike",
+                    "localidad": "Güer_Aike",
                     "coordenada": "51°37′50″S 69°36′43″W"
                 },
                 {
-                    "localidad": "Puerto-Coig",
+                    "localidad": "Puerto_Coig",
                     "coordenada": "50°57′24″S 69°13′36″W"
                 }
             ]
         },
         {
-            "departamento": "Lago-Argentino",
+            "departamento": "Lago_Argentino",
             "coordenadas": "50°20′19″S 72°16′26″W",
             "localidades": [
                 {
-                    "localidad": "El-Calafate",
+                    "localidad": "El_Calafate",
                     "coordenada": "50°20′16″S 72°15′36″W"
                 },
                 {
-                    "localidad": "El-Chaltén",
+                    "localidad": "El_Chaltén",
                     "coordenada": "49°19′53″S 72°53′10″W"
                 },
                 {
-                    "localidad": "Tres-Lagos",
+                    "localidad": "Tres_Lagos",
                     "coordenada": "49°35′53″S 71°26′47″W"
                 },
                 {
-                    "localidad": "Puerto-Bandera",
+                    "localidad": "Puerto_Bandera",
                     "coordenada": "50°18′00″S 72°47′00″W"
                 }
             ]
         },
         {
-            "departamento": "Lago-Buenos-Aires",
+            "departamento": "Lago_Buenos_Aires",
             "coordenadas": "46°35′18″S 70°55′49″W",
             "localidades": [
                 {
-                    "localidad": "Los-Antiguos",
+                    "localidad": "Los_Antiguos",
                     "coordenada": "46°33′00″S 71°37′00″W"
                 },
                 {
-                    "localidad": "Perito-Moreno",
+                    "localidad": "Perito_Moreno",
                     "coordenada": "46°35′24″S 70°55′47″W"
                 }
             ]
@@ -156,33 +156,33 @@
             "coordenadas": "49°18′16″S 67°43′47″W",
             "localidades": [
                 {
-                    "localidad": "Puerto-San-Julián",
+                    "localidad": "Puerto_San_Julián",
                     "coordenada": "49°18′25″S 67°43′47″W"
                 },
                 {
-                    "localidad": "El-Salado",
+                    "localidad": "El_Salado",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Bella-Vista",
+                    "localidad": "Bella_Vista",
                     "coordenada": ""
                 }
             ]
         },
         {
-            "departamento": "Río-Chico",
+            "departamento": "Río_Chico",
             "coordenadas": "48°45′03″S 70°14′55″W",
             "localidades": [
                 {
-                    "localidad": "Bajo-Caracoles",
+                    "localidad": "Bajo_Caracoles",
                     "coordenada": "47°26′36″S 70°55′35″W"
                 },
                 {
-                    "localidad": "Gobernador-Gregores",
+                    "localidad": "Gobernador_Gregores",
                     "coordenada": "48°45′03″S 70°14′55″W"
                 },
                 {
-                    "localidad": "Hipólito-Yrigoyen",
+                    "localidad": "Hipólito_Yrigoyen",
                     "coordenada": "47°33′57″S 71°44′24″W"
                 }
             ]

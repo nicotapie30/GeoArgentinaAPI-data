@@ -12,7 +12,7 @@
             ]
         },
         {
-            "departamento": "General-Alvear",
+            "departamento": "General_Alvear",
             "coordenadas": "34°58′00″S 67°42′00″W",
             "localidades": [
                 {
@@ -24,21 +24,21 @@
                     "coordenada": "35°08′59″S 67°39′11″W"
                 },
                 {
-                    "localidad": "General-Alvear",
+                    "localidad": "General_Alvear",
                     "coordenada": "34°58′00″S 67°42′00″W"
                 },
                 {
-                    "localidad": "Los-Compartos",
+                    "localidad": "Los_Compartos",
                     "coordenada": "34°55′23″S 67°34′53″W"
                 }
             ]
         },
         {
-            "departamento": "Godoy-Cruz",
+            "departamento": "Godoy_Cruz",
             "coordenadas": "32°55′00″S 68°49′00″W",
             "localidades": [
                 {
-                    "localidad": "Godoy-Cruz",
+                    "localidad": "Godoy_Cruz",
                     "coordenada": "32°55′00″S 68°50′00″W"
                 }
             ]
@@ -48,23 +48,23 @@
             "coordenadas": "32°54′00″S 68°47′00″W",
             "localidades": [
                 {
-                    "localidad": "Colonia-Segovia",
+                    "localidad": "Colonia_Segovia",
                     "coordenada": "S 32.84873 W 68.71682"
                 },
                 {
-                    "localidad": "Guaymallén-(Villa Nueva)",
+                    "localidad": "Guaymallén_(Villa Nueva)",
                     "coordenada": "S 32.90164 W 68.78858"
                 },
                 {
-                    "localidad": "La-Primavera",
+                    "localidad": "La_Primavera",
                     "coordenada": "S 32.92385 W 68.66983"
                 },
                 {
-                    "localidad": "Los-Corralitos",
+                    "localidad": "Los_Corralitos",
                     "coordenada": "S 32.89982 W 68.69869"
                 },
                 {
-                    "localidad": "Puente-de-Hierro",
+                    "localidad": "Puente_de_Hierro",
                     "coordenada": "S 32.86661 W 68.66670"
                 }
             ]
@@ -74,7 +74,7 @@
             "coordenadas": "33°15′00″S 68°43′00″W",
             "localidades": [
                 {
-                    "localidad": "Ingeniero-Giagnoni",
+                    "localidad": "Ingeniero_Giagnoni",
                     "coordenada": "S 33.12141 W 68.40982"
                 },
                 {
@@ -82,11 +82,11 @@
                     "coordenada": "S 33.14589 W 68.48489"
                 },
                 {
-                    "localidad": "La-Colonia",
+                    "localidad": "La_Colonia",
                     "coordenada": "S 33.09560 W 68.48215"
                 },
                 {
-                    "localidad": "Los-Barriales",
+                    "localidad": "Los_Barriales",
                     "coordenada": "S 33.09772 W 68.57073"
                 },
                 {
@@ -98,7 +98,7 @@
                     "coordenada": "S 32.89084 W 68.82717"
                 },
                 {
-                    "localidad": "Rodríguez-Peña",
+                    "localidad": "Rodríguez_Peña",
                     "coordenada": "S 33.12131 W 68.59795"
                 }
             ]
@@ -112,21 +112,21 @@
                     "coordenada": "S 33.40366 W 67.15684"
                 },
                 {
-                    "localidad": "La-Paz",
+                    "localidad": "La_Paz",
                     "coordenada": "S 33.46156 W 67.55226"
                 },
                 {
-                    "localidad": "Villa-Antigua",
+                    "localidad": "Villa_Antigua",
                     "coordenada": "S 33.46500 W 67.59391"
                 }
             ]
         },
         {
-            "departamento": "Las-Heras",
+            "departamento": "Las_Heras",
             "coordenadas": "32°51′00″S 68°49′00″W",
             "localidades": [
                 {
-                    "localidad": "Blanco-Encalada",
+                    "localidad": "Blanco_Encalada",
                     "coordenada": "S 33.04201 W 69.04919"
                 },
                 {
@@ -134,15 +134,15 @@
                     "coordenada": "S 32.58462 W 68.66753"
                 },
                 {
-                    "localidad": "Las-Cuevas",
+                    "localidad": "Las_Cuevas",
                     "coordenada": "S 32.81352 W 70.04855"
                 },
                 {
-                    "localidad": "Las-Heras",
+                    "localidad": "Las_Heras",
                     "coordenada": "S 32.85033 W 68.84063"
                 },
                 {
-                    "localidad": "Los-Penitentes",
+                    "localidad": "Los_Penitentes",
                     "coordenada": "S 32.84112 W 69.84117"
                 },
                 {
@@ -150,11 +150,11 @@
                     "coordenada": "S 32.79294 W 69.65194"
                 },
                 {
-                    "localidad": "Puente-del-Inca",
+                    "localidad": "Puente_del_Inca",
                     "coordenada": "S 32.82650 W 69.91120"
                 },
                 {
-                    "localidad": "Punta-de-Vacas",
+                    "localidad": "Punta_de_Vacas",
                     "coordenada": "S 32.85140 W 69.75453"
                 },
                 {
@@ -168,55 +168,55 @@
             "coordenadas": "32°43′00″S 68°35′00″W",
             "localidades": [
                 {
-                    "localidad": "3-de-Mayo",
+                    "localidad": "3_de_Mayo",
                     "coordenada": "S 16.54488 W 68.20981"
                 },
                 {
-                    "localidad": "Barrio-Alto-del-Olvido",
+                    "localidad": "Barrio_Alto_del_Olvido",
                     "coordenada": "S 32.66908 W 68.58118"
                 },
                 {
-                    "localidad": "Barrio-Jocolí-II",
+                    "localidad": "Barrio_Jocolí_II",
                     "coordenada": "S 32.64718 W 68.66095"
                 },
                 {
-                    "localidad": "Barrio-Lagunas-de-Bartoluzzi",
+                    "localidad": "Barrio_Lagunas_de_Bartoluzzi",
                     "coordenada": "S 32.61306 W 68.56104"
                 },
                 {
-                    "localidad": "Barrio-La-Palmera",
+                    "localidad": "Barrio_La_Palmera",
                     "coordenada": "S 32.89084 W 68.82717"
                 },
                 {
-                    "localidad": "Barrio-La-Pega",
+                    "localidad": "Barrio_La_Pega",
                     "coordenada": "S 32.80712 W 68.67501"
                 },
                 {
-                    "localidad": "Barrio-Los-Jarilleros",
+                    "localidad": "Barrio_Los_Jarilleros",
                     "coordenada": "S 32.71930 W 68.65291"
                 },
                 {
-                    "localidad": "Barrio-Los-Olivos",
+                    "localidad": "Barrio_Los_Olivos",
                     "coordenada": "S 32.99530 W 68.78015"
                 },
                 {
-                    "localidad": "Barrio-Virgen-del-Rosario",
+                    "localidad": "Barrio_Virgen_del_Rosario",
                     "coordenada": "S 34.96336 W 67.65741"
                 },
                 {
-                    "localidad": "Costa-de-Araujo",
+                    "localidad": "Costa_de_Araujo",
                     "coordenada": "S 32.76048 W 68.39488"
                 },
                 {
-                    "localidad": "El-Paramillo",
+                    "localidad": "El_Paramillo",
                     "coordenada": "S 32.77630 W 68.57186"
                 },
                 {
-                    "localidad": "El-Vergel",
+                    "localidad": "El_Vergel",
                     "coordenada": "S 32.78482 W 68.61202"
                 },
                 {
-                    "localidad": "Ingeniero-Gustavo-André",
+                    "localidad": "Ingeniero_Gustavo_André",
                     "coordenada": "S 32.68006 W 68.31653"
                 },
                 {
@@ -224,21 +224,21 @@
                     "coordenada": "S 32.58462 W 68.66753"
                 },
                 {
-                    "localidad": "Jocolí-Viejo",
+                    "localidad": "Jocolí_Viejo",
                     "coordenada": "S 32.70830 W 68.67399"
                 },
                 {
-                    "localidad": "Las-Violetas",
+                    "localidad": "Las_Violetas",
                     "coordenada": "S 32.82248 W 68.60619"
                 },
                 {
-                    "localidad": "Villa-Tulumaya",
+                    "localidad": "Villa_Tulumaya",
                     "coordenada": "S 32.72144 W 68.59589"
                 }
             ]
         },
         {
-            "departamento": "Luján-de-Cuyo",
+            "departamento": "Luján_de_Cuyo",
             "coordenadas": "33°30′00″S 62°58′00″W",
             "localidades": [
                 {
@@ -246,7 +246,7 @@
                     "coordenada": "S 33.11846 W 68.88593"
                 },
                 {
-                    "localidad": "Barrio-Perdriel-IV",
+                    "localidad": "Barrio_Perdriel_IV",
                     "coordenada": "S 33.07716 W 68.91432"
                 },
                 {
@@ -254,27 +254,27 @@
                     "coordenada": "S 33.01484 W 69.11756"
                 },
                 {
-                    "localidad": "Costa-Flores",
+                    "localidad": "Costa_Flores",
                     "coordenada": "S 33.07052 W 68.92519"
                 },
                 {
-                    "localidad": "El-Carrizal",
+                    "localidad": "El_Carrizal",
                     "coordenada": "S 32.85932 W 68.86278"
                 },
                 {
-                    "localidad": "El-Salto",
+                    "localidad": "El_Salto",
                     "coordenada": "S 32.95542 W 69.28118"
                 },
                 {
-                    "localidad": "Las-Compuertas",
+                    "localidad": "Las_Compuertas",
                     "coordenada": "S 33.03798 W 68.98183"
                 },
                 {
-                    "localidad": "Las-Vegas",
+                    "localidad": "Las_Vegas",
                     "coordenada": "S 33.01146 W 69.27299"
                 },
                 {
-                    "localidad": "Luján-de-Cuyo",
+                    "localidad": "Luján_de_Cuyo",
                     "coordenada": "S 33.10852 W 69.01300"
                 },
                 {
@@ -300,19 +300,19 @@
                     "coordenada": "S 33.09656 W 68.70929"
                 },
                 {
-                    "localidad": "Barrio-Jesús-de-Nazaret",
+                    "localidad": "Barrio_Jesús_de_Nazaret",
                     "coordenada": "S 33.00981 W 68.71773"
                 },
                 {
-                    "localidad": "Cruz-de-Piedra",
+                    "localidad": "Cruz_de_Piedra",
                     "coordenada": "S 33.02997 W 68.80377"
                 },
                 {
-                    "localidad": "El-Pedregal",
+                    "localidad": "El_Pedregal",
                     "coordenada": "S 32.83191 W 68.82599"
                 },
                 {
-                    "localidad": "Fray-Luis-Beltrán",
+                    "localidad": "Fray_Luis_Beltrán",
                     "coordenada": "S 33.00683 W 68.64972"
                 },
                 {
@@ -320,7 +320,7 @@
                     "coordenada": "S 32.98369 W 68.78795"
                 },
                 {
-                    "localidad": "Rodeo-del-Medio",
+                    "localidad": "Rodeo_del_Medio",
                     "coordenada": "S 32.99325 W 68.68591"
                 },
                 {
@@ -328,11 +328,11 @@
                     "coordenada": "S 33.00542 W 68.79690"
                 },
                 {
-                    "localidad": "San-Roque",
+                    "localidad": "San_Roque",
                     "coordenada": "S 33.03211 W 68.58532"
                 },
                 {
-                    "localidad": "Villa-Teresa",
+                    "localidad": "Villa_Teresa",
                     "coordenada": "S 33.02075 W 68.61528"
                 }
             ]
@@ -342,11 +342,11 @@
             "coordenadas": "36°10′00″S 69°20′00″W",
             "localidades": [
                 {
-                    "localidad": "Agua-Escondida",
+                    "localidad": "Agua_Escondida",
                     "coordenada": "S 36.15566 W 68.30177"
                 },
                 {
-                    "localidad": "Las-Leñas",
+                    "localidad": "Las_Leñas",
                     "coordenada": "S 35.14551 W 70.08206"
                 },
                 {
@@ -364,39 +364,39 @@
                     "coordenada": "S 33.18187 W 68.52520"
                 },
                 {
-                    "localidad": "Barrio-Cooperativa-Los-Campamentos",
+                    "localidad": "Barrio_Cooperativa_Los_Campamentos",
                     "coordenada": "S 33.27300 W 68.41358"
                 },
                 {
-                    "localidad": "Barrio-Rivadavia",
+                    "localidad": "Barrio_Rivadavia",
                     "coordenada": "S 33.23165 W 68.47692"
                 },
                 {
-                    "localidad": "El-Mirador",
+                    "localidad": "El_Mirador",
                     "coordenada": "S 33.31934 W 68.32964"
                 },
                 {
-                    "localidad": "La-Central",
+                    "localidad": "La_Central",
                     "coordenada": "S 33.27486 W 68.31668"
                 },
                 {
-                    "localidad": "La-Esperanza",
+                    "localidad": "La_Esperanza",
                     "coordenada": "S 32.87610 W 68.87353"
                 },
                 {
-                    "localidad": "La-Florida",
+                    "localidad": "La_Florida",
                     "coordenada": "S 33.26740 W 68.45483"
                 },
                 {
-                    "localidad": "La-Libertad",
+                    "localidad": "La_Libertad",
                     "coordenada": "S 33.21543 W 68.50164"
                 },
                 {
-                    "localidad": "Los-Árboles",
+                    "localidad": "Los_Árboles",
                     "coordenada": "S 33.18253 W 68.56482"
                 },
                 {
-                    "localidad": "Los-Campamentos",
+                    "localidad": "Los_Campamentos",
                     "coordenada": "S 33.27175 W 68.43254"
                 },
                 {
@@ -404,11 +404,11 @@
                     "coordenada": "S 33.18112 W 68.61430"
                 },
                 {
-                    "localidad": "Mundo-Nuevo",
+                    "localidad": "Mundo_Nuevo",
                     "coordenada": "S 33.17702 W 68.43871"
                 },
                 {
-                    "localidad": "Reducción-de-Abajo",
+                    "localidad": "Reducción_de_Abajo",
                     "coordenada": "S 33.20336 W 68.59434"
                 },
                 {
@@ -416,17 +416,17 @@
                     "coordenada": "S 33.19589 W 68.46628"
                 },
                 {
-                    "localidad": "Santa-María-de-Oro",
+                    "localidad": "Santa_María_de_Oro",
                     "coordenada": "S 33.20738 W 68.42543"
                 }
             ]
         },
         {
-            "departamento": "San-Carlos",
+            "departamento": "San_Carlos",
             "coordenadas": "33°46′00″S 69°02′00″W",
             "localidades": [
                 {
-                    "localidad": "Barrio-Carrasco",
+                    "localidad": "Barrio_Carrasco",
                     "coordenada": "S 32.89084 W 68.82717"
                 },
                 {
@@ -434,11 +434,11 @@
                     "coordenada": "S 33.89142 W 69.07108"
                 },
                 {
-                    "localidad": "Eugenio-Bustos",
+                    "localidad": "Eugenio_Bustos",
                     "coordenada": "S 33.79741 W 69.08203"
                 },
                 {
-                    "localidad": "La-Consulta",
+                    "localidad": "La_Consulta",
                     "coordenada": "S 33.72434 W 69.08203"
                 },
                 {
@@ -446,37 +446,37 @@
                     "coordenada": "S 33.94336 W 69.08203"
                 },
                 {
-                    "localidad": "San-Carlos",
+                    "localidad": "San_Carlos",
                     "coordenada": "S 33.77112 W 69.04754"
                 }
             ]
         },
         {
-            "departamento": "San-Martín",
+            "departamento": "San_Martín",
             "coordenadas": "33°04′00″S 68°19′00″W",
             "localidades": [
                 {
-                    "localidad": "Alto-Verde",
+                    "localidad": "Alto_Verde",
                     "coordenada": "S 33.15423 W 68.35591"
                 },
                 {
-                    "localidad": "Barrio-Chivilcoy",
+                    "localidad": "Barrio_Chivilcoy",
                     "coordenada": "S 33.04176 W 68.35251"
                 },
                 {
-                    "localidad": "Barrio-Emanuel",
+                    "localidad": "Barrio_Emanuel",
                     "coordenada": "S 32.84193 W 68.39222"
                 },
                 {
-                    "localidad": "Barrio-la-Estación",
+                    "localidad": "Barrio_la_Estación",
                     "coordenada": "S 32.89735 W 68.83985"
                 },
                 {
-                    "localidad": "Barrio-Los-Charabones",
+                    "localidad": "Barrio_Los_Charabones",
                     "coordenada": "S 32.99543 W 68.27950"
                 },
                 {
-                    "localidad": "Barrio-Nuestra-Señora-de-Fátima",
+                    "localidad": "Barrio_Nuestra_Señora_de_Fátima",
                     "coordenada": "S 16.48053 W 68.12513"
                 },
                 {
@@ -488,11 +488,11 @@
                     "coordenada": "S 33.04087 W 68.44982"
                 },
                 {
-                    "localidad": "El-Espino",
+                    "localidad": "El_Espino",
                     "coordenada": "S 33.07486 W 68.39607"
                 },
                 {
-                    "localidad": "El-Ramblón",
+                    "localidad": "El_Ramblón",
                     "coordenada": "S 33.16831 W 68.28501"
                 },
                 {
@@ -500,61 +500,61 @@
                     "coordenada": "S 33.01470 W 68.38811"
                 },
                 {
-                    "localidad": "Nueva-California",
+                    "localidad": "Nueva_California",
                     "coordenada": "S 32.74948 W 68.32423"
                 },
                 {
-                    "localidad": "San-Martín",
+                    "localidad": "San_Martín",
                     "coordenada": "S 33.08053 W 68.47107"
                 },
                 {
-                    "localidad": "Tres-Porteñas",
+                    "localidad": "Tres_Porteñas",
                     "coordenada": "S 32.89938 W 68.38855"
                 }
             ]
         },
         {
-            "departamento": "San-Rafael",
+            "departamento": "San_Rafael",
             "coordenadas": "34°37′00″S 68°19′00″W",
             "localidades": [
                 {
-                    "localidad": "25-de-Mayo",
+                    "localidad": "25_de_Mayo",
                     "coordenada": "S 32.90450 W 68.85295"
                 },
                 {
-                    "localidad": "Barrio-Campos-El-Toledano",
+                    "localidad": "Barrio_Campos_El_Toledano",
                     "coordenada": "S 32.89084 W 68.82717"
                 },
                 {
-                    "localidad": "Barrio-El-Nevado",
+                    "localidad": "Barrio_El_Nevado",
                     "coordenada": "S 34.78728 W 67.98097"
                 },
                 {
-                    "localidad": "Barrio-Empleados-de-Comercio",
+                    "localidad": "Barrio_Empleados_de_Comercio",
                     "coordenada": "S 34.55566 W 68.30248"
                 },
                 {
-                    "localidad": "Barrio-Intendencia",
+                    "localidad": "Barrio_Intendencia",
                     "coordenada": "S 34.64069 W 68.32106"
                 },
                 {
-                    "localidad": "Capitán-Montoya",
+                    "localidad": "Capitán_Montoya",
                     "coordenada": "S 34.58206 W 68.45770"
                 },
                 {
-                    "localidad": "Cuadro-Benegas",
+                    "localidad": "Cuadro_Benegas",
                     "coordenada": "S 34.75805 W 69.34162"
                 },
                 {
-                    "localidad": "El-Nihuil",
+                    "localidad": "El_Nihuil",
                     "coordenada": "S 35.03000 W 68.64258"
                 },
                 {
-                    "localidad": "El-Sosneado",
+                    "localidad": "El_Sosneado",
                     "coordenada": "S 35.07885 W 69.56773"
                 },
                 {
-                    "localidad": "El-Tropezón",
+                    "localidad": "El_Tropezón",
                     "coordenada": "S 34.68368 W 68.27900"
                 },
                 {
@@ -562,85 +562,85 @@
                     "coordenada": "S 34.67651 W 68.13325"
                 },
                 {
-                    "localidad": "Jaime-Prats",
+                    "localidad": "Jaime_Prats",
                     "coordenada": "S 34.91039 W 67.82048"
                 },
                 {
-                    "localidad": "La-Llave-Nueva",
+                    "localidad": "La_Llave_Nueva",
                     "coordenada": "S 34.64019 W 68.00992"
                 },
                 {
-                    "localidad": "Las-Malvinas",
+                    "localidad": "Las_Malvinas",
                     "coordenada": "S 34.81380 W 68.29102"
                 },
                 {
-                    "localidad": "Los-Reyunos",
+                    "localidad": "Los_Reyunos",
                     "coordenada": "S 34.59701 W 68.64064"
                 },
                 {
-                    "localidad": "Monte-Comán",
+                    "localidad": "Monte_Comán",
                     "coordenada": "S 34.59452 W 67.87616"
                 },
                 {
-                    "localidad": "Pobre-Diablo",
+                    "localidad": "Pobre_Diablo",
                     "coordenada": "S 34.66249 W 68.35516"
                 },
                 {
-                    "localidad": "Punta-del-Agua",
+                    "localidad": "Punta_del_Agua",
                     "coordenada": "S 35.52709 W 68.07535"
                 },
                 {
-                    "localidad": "Rama-Caída",
+                    "localidad": "Rama_Caída",
                     "coordenada": "S 34.66936 W 68.37891"
                 },
                 {
-                    "localidad": "Real-del-Padre",
+                    "localidad": "Real_del_Padre",
                     "coordenada": "S 34.81380 W 67.76367"
                 },
                 {
-                    "localidad": "Salto-de-las-Rosas",
+                    "localidad": "Salto_de_las_Rosas",
                     "coordenada": "S 34.72418 W 68.22921"
                 },
                 {
-                    "localidad": "San-Rafael",
+                    "localidad": "San_Rafael",
                     "coordenada": "S 34.61260 W 68.33051"
                 },
                 {
-                    "localidad": "Villa-Atuel",
+                    "localidad": "Villa_Atuel",
                     "coordenada": "S 34.83212 W 67.92064"
                 },
                 {
-                    "localidad": "Villa-Atuel-Norte",
+                    "localidad": "Villa_Atuel_Norte",
                     "coordenada": "S 34.75600 W 68.03131"
                 }
             ]
         },
         {
-            "departamento": "Santa-Rosa",
+            "departamento": "Santa_Rosa",
             "coordenadas": "33°17′00″S 68°02′00″W",
             "localidades": [
                 {
-                    "localidad": "Barrio-12-de-Octubre",
+                    "localidad": "Barrio_12_de_Octubre",
                     "coordenada": "S 33.01120 W 68.64411"
                 },
                 {
-                    "localidad": "Barrio-María-Auxiliadora",
+                    "localidad": "Barrio_María_Auxiliadora",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Barrio-Molina-Cabrera",
+                    "localidad": "Barrio_Molina_Cabrera",
                     "coordenada": "S 33.24280 W 68.17402"
                 },
                 {
-                    "localidad": "La-Dormida",
+                    "localidad": "La_Dormida",
                     "coordenada": "S 33.34672 W 67.91722"
                 },
                 {
-                    "localidad": "Las-Catitas",
+                    "localidad": "Las_Catitas",
                     "coordenada": "S 33.28462 W 68.02734"
                 },
                 {
-                    "localidad": "Santa-Rosa",
+                    "localidad": "Santa_Rosa",
                     "coordenada": "S 33.28462 W 68.11523"
                 }
             ]
@@ -650,23 +650,23 @@
             "coordenadas": "33°34′08″S 69°01′35″W",
             "localidades": [
                 {
-                    "localidad": "Barrio-San-Cayetano",
+                    "localidad": "Barrio_San_Cayetano",
                     "coordenada": "S 33.63348 W 69.17962"
                 },
                 {
-                    "localidad": "Campo-Los-Andes",
+                    "localidad": "Campo_Los_Andes",
                     "coordenada": "S 33.70010 W 69.17657"
                 },
                 {
-                    "localidad": "Colonia-Las-Rosas",
+                    "localidad": "Colonia_Las_Rosas",
                     "coordenada": "S 33.60443 W 69.10178"
                 },
                 {
-                    "localidad": "El-Manzano",
+                    "localidad": "El_Manzano",
                     "coordenada": "S 36.10723 W 69.76100"
                 },
                 {
-                    "localidad": "Lo-Sauces",
+                    "localidad": "Lo_Sauces",
                     "coordenada": "S 33.59470 W 69.17559"
                 },
                 {
@@ -674,7 +674,7 @@
                     "coordenada": "S 33.58130 W 69.01543"
                 },
                 {
-                    "localidad": "Vista-Flores",
+                    "localidad": "Vista_Flores",
                     "coordenada": "S 33.65095 W 69.15555"
                 }
             ]
@@ -684,27 +684,27 @@
             "coordenadas": "33°15′S 69°15′W",
             "localidades": [
                 {
-                    "localidad": "Barrio-Belgrano-Norte",
+                    "localidad": "Barrio_Belgrano_Norte",
                     "coordenada": "S 33.32995 W 69.12607"
                 },
                 {
-                    "localidad": "Cordón-del-Plata",
+                    "localidad": "Cordón_del_Plata",
                     "coordenada": "S 33.46230 W 69.14169"
                 },
                 {
-                    "localidad": "El-Peral",
+                    "localidad": "El_Peral",
                     "coordenada": "S 33.38826 W 69.19506"
                 },
                 {
-                    "localidad": "El-Zampal",
+                    "localidad": "El_Zampal",
                     "coordenada": "S 33.39906 W 69.10589"
                 },
                 {
-                    "localidad": "La-Arboleda",
+                    "localidad": "La_Arboleda",
                     "coordenada": "S 33.37455 W 69.11310"
                 },
                 {
-                    "localidad": "San-José",
+                    "localidad": "San_José",
                     "coordenada": "S 32.88940 W 68.82201"
                 },
                 {

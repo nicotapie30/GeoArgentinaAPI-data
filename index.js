@@ -1,19 +1,15 @@
-
-// Importar librerias y Módulos
 import express from 'express';
 import loadAllDbs from './db_conection/db.js';
 
-
-// Crear servidor
 const app = express();
 app.use(express.json());
 
-const PORT = 3000;
-const HOST = 'localhost';
-
-
-// Conectar con archivo de base de datos
 const dbs = loadAllDbs();
+
+
+const PORT = 3000;
+const HOST = 'localhost'
+
 
 const getData = async (dbName) => {
   const db = dbs[dbName];
@@ -24,8 +20,6 @@ const getData = async (dbName) => {
   return null;
 };
 
-
-// Crear endpoint a las provincias
 app.get('/api/:dbName', async (req, res) => {
   const data = await getData(req.params.dbName);
   if (data) {
@@ -35,8 +29,6 @@ app.get('/api/:dbName', async (req, res) => {
   }
 });
 
-
-// Crear endpoint a los departamentos
 app.get('/api/:dbName/departamentos', async (req, res) => {
   const data = await getData(req.params.dbName);
   if (data) {
@@ -46,8 +38,6 @@ app.get('/api/:dbName/departamentos', async (req, res) => {
   }
 });
 
-
-// Crear endpoint a un departamento específico
 app.get('/api/:dbName/departamentos/:departamento', async (req, res) => {
   const data = await getData(req.params.dbName);
   if (data) {
@@ -62,8 +52,6 @@ app.get('/api/:dbName/departamentos/:departamento', async (req, res) => {
   }
 });
 
-
-// Crear endpoint a las localidades de un departamento
 app.get('/api/:dbName/departamentos/:departamento/localidades', async (req, res) => {
   const data = await getData(req.params.dbName);
   if (data) {
@@ -78,14 +66,12 @@ app.get('/api/:dbName/departamentos/:departamento/localidades', async (req, res)
   }
 });
 
-
-// Crear endpoint a las localidades específicas de un departamento
 app.get('/api/:dbName/departamentos/:departamento/localidades/:localidad', async (req, res) => {
   const data = await getData(req.params.dbName);
   if (data) {
-    const departamento = data.departamentos.find(dep => dep.departamento === req.params.departamento);
+    const departamento = data.departamentos.find(d => d.departamento === req.params.departamento);
     if (departamento) {
-      const localidad = departamento.localidades.find(loc => loc.localidad === req.params.localidad);
+      const localidad = departamento.localidades.find(l => l.localidad === req.params.localidad);
       if (localidad) {
         res.json(localidad);
       } else {
@@ -99,9 +85,6 @@ app.get('/api/:dbName/departamentos/:departamento/localidades/:localidad', async
   }
 });
 
-
-
-// Crear puerto
-app.listen(PORT, HOST, () => {
-  console.log(`Server running at http//${HOST}:${PORT}`);
+app.listen(3000, () => {
+  console.log(`Server is running on ${HOST}:${PORT}`);
 });

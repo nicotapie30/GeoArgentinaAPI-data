@@ -1,5 +1,5 @@
 {
-    "provincia": "San-Luis",
+    "provincia": "San_Luis",
     "departamentos": [
         {
             "departamento": "Ayacucho",
@@ -18,19 +18,19 @@
                     "coordenada": "32°14′00″S 65°48′00″W"
                 },
                 {
-                    "localidad": "San-Francisco-del-Monte-de-Oro",
+                    "localidad": "San_Francisco_del_Monte_de_Oro",
                     "coordenada": "32°36′00″S 66°07′30″W"
                 },
                 {
-                    "localidad": "Leandro-N.-Alem",
+                    "localidad": "Leandro_N._Alem",
                     "coordenada": "32°29′00″S 66°03′00″W"
                 },
                 {
-                    "localidad": "La-Majada",
+                    "localidad": "La_Majada",
                     "coordenada": "32°32′00″S 66°06′00″W"
                 },
                 {
-                    "localidad": "Río-Juan-Gómez",
+                    "localidad": "Río_Juan_Gómez",
                     "coordenada": "32°36′14″S 66°05′13″W"
                 }
             ]
@@ -40,11 +40,11 @@
             "coordenadas": "32°39′S 66°27′W",
             "localidades": [
                 {
-                    "localidad": "Los-Manantiales",
+                    "localidad": "Los_Manantiales",
                     "coordenada": "32°39′58″S 66°27′06″W"
                 },
                 {
-                    "localidad": "La-Calera",
+                    "localidad": "La_Calera",
                     "coordenada": "32°51′47″S 66°50′56″W"
                 },
                 {
@@ -52,7 +52,7 @@
                     "coordenada": "32°55′00″S 66°20′00″W"
                 },
                 {
-                    "localidad": "Villa-de-la-Quebrada",
+                    "localidad": "Villa_de_la_Quebrada",
                     "coordenada": "33°02′00″S 66°18′00″W"
                 }
             ]
@@ -86,33 +86,33 @@
                     "coordenada": "32°46′00″S 65°22′00″W"
                 },
                 {
-                    "localidad": "San-Pablo",
+                    "localidad": "San_Pablo",
                     "coordenada": "32°39′S 65°18′W"
                 },
                 {
-                    "localidad": "Villa-del-Carmen",
+                    "localidad": "Villa_del_Carmen",
                     "coordenada": "32°57′S 65°03′W"
                 },
                 {
-                    "localidad": "Villa-Larca",
+                    "localidad": "Villa_Larca",
                     "coordenada": "32°37′00″S 64°59′00″W"
                 }
             ]
         },
         {
-            "departamento": "Coronel-Pringles",
+            "departamento": "Coronel_Pringles",
             "coordenadas": "33°03′00″S 65°37′00″W",
             "localidades": [
                 {
-                    "localidad": "El-Trapiche",
+                    "localidad": "El_Trapiche",
                     "coordenada": "33°06′59″S 66°03′46″W"
                 },
                 {
-                    "localidad": "Estancia-Grande",
+                    "localidad": "Estancia_Grande",
                     "coordenada": "33°11′00″S 66°10′00″W"
                 },
                 {
-                    "localidad": "La-Toma",
+                    "localidad": "La_Toma",
                     "coordenada": "33°03′00″S 65°37′00″W"
                 },
                 {
@@ -124,7 +124,7 @@
                     "coordenada": "33°30′S 65°48′W"
                 },
                 {
-                    "localidad": "Juan-Llerena",
+                    "localidad": "Juan_Llerena",
                     "coordenada": "33°16′52″S 65°36′50″W"
                 },
                 {
@@ -132,11 +132,11 @@
                     "coordenada": "33°12′S 65°51′W"
                 },
                 {
-                    "localidad": "La-Bajada",
+                    "localidad": "La_Bajada",
                     "coordenada": "33°02′00″S 66°11′00″W"
                 },
                 {
-                    "localidad": "La-Florida",
+                    "localidad": "La_Florida",
                     "coordenada": "33°07′05″S 66°00′03″W"
                 },
                 {
@@ -146,23 +146,23 @@
             ]
         },
         {
-            "departamento": "General-Pedernera",
+            "departamento": "General_Pedernera",
             "coordenadas": "33°40′00″S 65°27′00″W",
             "localidades": [
                 {
-                    "localidad": "Justo-Daract",
+                    "localidad": "Justo_Daract",
                     "coordenada": "33°52′00″S 65°10′00″W"
                 },
                 {
-                    "localidad": "Villa-Mercedes",
+                    "localidad": "Villa_Mercedes",
                     "coordenada": "33°40′00″S 65°28′00″W"
                 },
                 {
-                    "localidad": "Juan-Jorba",
+                    "localidad": "Juan_Jorba",
                     "coordenada": "33°37′00″S 65°16′00″W"
                 },
                 {
-                    "localidad": "La-Punilla",
+                    "localidad": "La_Punilla",
                     "coordenada": "33°08′00″S 65°05′00″W"
                 },
                 {
@@ -170,25 +170,25 @@
                     "coordenada": "33°49′00″S 65°25′00″W"
                 },
                 {
-                    "localidad": "San-José-del-Morro",
+                    "localidad": "San_José_del_Morro",
                     "coordenada": "33°13′00″S 65°29′00″W"
                 },
                 {
-                    "localidad": "Villa-Salles",
+                    "localidad": "Villa_Salles",
                     "coordenada": "33°50′20″S 65°12′54″W"
                 },
                 {
-                    "localidad": "Villa-Reynolds",
+                    "localidad": "Villa_Reynolds",
                     "coordenada": "33°44′00″S 65°23′00″W"
                 }
             ]
         },
         {
-            "departamento": "Gobernador-Dupuy",
+            "departamento": "Gobernador_Dupuy",
             "coordenadas": "34°45′S 65°15′W",
             "localidades": [
                 {
-                    "localidad": "Buena-Esperanza",
+                    "localidad": "Buena_Esperanza",
                     "coordenada": "34°45′S 65°15′W"
                 },
                 {
@@ -212,7 +212,7 @@
                     "coordenada": "34°47′00″S 65°41′00″W"
                 },
                 {
-                    "localidad": "Fortín-El-Patria",
+                    "localidad": "Fortín_El_Patria",
                     "coordenada": "34°46′00″S 65°31′00″W"
                 },
                 {
@@ -220,33 +220,33 @@
                     "coordenada": "35°07′00″S 65°23′00″W"
                 },
                 {
-                    "localidad": "Nueva-Galia",
+                    "localidad": "Nueva_Galia",
                     "coordenada": "35°07′00″S 65°15′00″W"
                 },
                 {
-                    "localidad": "La-Maroma",
+                    "localidad": "La_Maroma",
                     "coordenada": "35°12′S 66°21′W"
                 },
                 {
-                    "localidad": "Los-Overos",
+                    "localidad": "Los_Overos",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Martín-de-Loyola",
+                    "localidad": "Martín_de_Loyola",
                     "coordenada": "35°42′44″S 66°21′14″W"
                 }
             ]
         },
         {
-            "departamento": "Juan-Martín-de-Pueyrredón",
+            "departamento": "Juan_Martín_de_Pueyrredón",
             "coordenadas": "33°18′00″S 66°20′00″W",
             "localidades": [
                 {
-                    "localidad": "Alto-Pelado",
+                    "localidad": "Alto_Pelado",
                     "coordenada": "33°50′S 66°09′W"
                 },
                 {
-                    "localidad": "Alto-Pencoso",
+                    "localidad": "Alto_Pencoso",
                     "coordenada": "33°26′S 66°56′W"
                 },
                 {
@@ -270,7 +270,7 @@
                     "coordenada": "33°25′00″S 67°11′00″W"
                 },
                 {
-                    "localidad": "El-Volcán",
+                    "localidad": "El_Volcán",
                     "coordenada": "33°15′S 66°12′W"
                 },
                 {
@@ -278,27 +278,27 @@
                     "coordenada": "33°24′00″S 67°02′00″W"
                 },
                 {
-                    "localidad": "Juana-Koslay",
+                    "localidad": "Juana_Koslay",
                     "coordenada": "33°16′48″S 66°14′43″W"
                 },
                 {
-                    "localidad": "La-Punta",
+                    "localidad": "La_Punta",
                     "coordenada": "33°11′01″S 66°18′46″W"
                 },
                 {
-                    "localidad": "Potrero-de-los-Funes",
+                    "localidad": "Potrero_de_los_Funes",
                     "coordenada": "33°13′00″S 66°14′00″W"
                 },
                 {
-                    "localidad": "Salinas-del-Bebedero",
+                    "localidad": "Salinas_del_Bebedero",
                     "coordenada": "33°30′00″S 66°37′00″W"
                 },
                 {
-                    "localidad": "San-Jerónimo",
+                    "localidad": "San_Jerónimo",
                     "coordenada": "33°08′00″S 66°31′00″W"
                 },
                 {
-                    "localidad": "San-Luis",
+                    "localidad": "San_Luis",
                     "coordenada": "33°17′58″S 66°20′21″W"
                 },
                 {
@@ -316,7 +316,7 @@
                     "coordenada": "32°24′00″S 65°01′00″W"
                 },
                 {
-                    "localidad": "Cerro-de-Oro",
+                    "localidad": "Cerro_de_Oro",
                     "coordenada": "32°22′59″S 65°00′00″W"
                 },
                 {
@@ -324,11 +324,11 @@
                     "coordenada": "32°04′00″S 65°20′00″W"
                 },
                 {
-                    "localidad": "Los-Cajones",
+                    "localidad": "Los_Cajones",
                     "coordenada": "32°01′31″S 65°22′20″W"
                 },
                 {
-                    "localidad": "Los-Molles",
+                    "localidad": "Los_Molles",
                     "coordenada": "32°27′00″S 65°01′00″W"
                 },
                 {
@@ -336,7 +336,7 @@
                     "coordenada": "32°20′32″S 65°00′52″W"
                 },
                 {
-                    "localidad": "Santa-Rosa-de-Conlara",
+                    "localidad": "Santa_Rosa_de_Conlara",
                     "coordenada": "32°20′34″S 65°12′32″W"
                 },
                 {
@@ -346,35 +346,35 @@
             ]
         },
         {
-            "departamento": "Libertado-General-San-Martín",
+            "departamento": "Libertado_General_San_Martín",
             "coordenadas": "32°34′40″S 65°40′41″W",
             "localidades": [
                 {
-                    "localidad": "Las-Aguadas",
+                    "localidad": "Las_Aguadas",
                     "coordenada": "32°22′00″S 65°30′00″W"
                 },
                 {
-                    "localidad": "Las-Chacras",
+                    "localidad": "Las_Chacras",
                     "coordenada": "32°33′45″S 65°46′37″W"
                 },
                 {
-                    "localidad": "Las-Lagunas",
+                    "localidad": "Las_Lagunas",
                     "coordenada": "32°36′S 65°33′W"
                 },
                 {
-                    "localidad": "Las-Vertientes",
+                    "localidad": "Las_Vertientes",
                     "coordenada": "32°47′50″S 65°45′23″W"
                 },
                 {
-                    "localidad": "Paso-Grande",
+                    "localidad": "Paso_Grande",
                     "coordenada": "32°52′00″S 65°39′00″W"
                 },
                 {
-                    "localidad": "San-Martín",
+                    "localidad": "San_Martín",
                     "coordenada": "32°24′38″S 65°40′32″W"
                 },
                 {
-                    "localidad": "Villa-de-Praga",
+                    "localidad": "Villa_de_Praga",
                     "coordenada": "32°32′00″S 65°39′00″W"
                 },
                 {

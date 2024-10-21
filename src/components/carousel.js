@@ -161,7 +161,7 @@ class MyCarousel extends HTMLElement {
                             .article__carousel {
                                 width: 100%;
                                 height: auto;
-                                margin: auto;
+                                margin: 0 -2rem;
                                 overflow: hidden;
                             }
 

@@ -14,7 +14,7 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa-Pehuenia",
+                    "localidad": "Villa_Pehuenia",
                     "coordenada": ""
                 }
             ]
@@ -24,7 +24,7 @@
             "coordenadas": "38°21′15″S 68°47′16″W",
             "localidades": [
                 {
-                    "localidad": "San-Patricio-del-Chañar",
+                    "localidad": "San_Patricio_del_Chañar",
                     "coordenada": "38°37′33″S 68°18′00″W"
                 },
                 {
@@ -34,47 +34,47 @@
             ]
         },
         {
-            "departamento": "Catán-Lil",
+            "departamento": "Catán_Lil",
             "coordenadas": "39°33′24″S 70°35′38″W",
             "localidades": [
                 {
-                    "localidad": "Las-Coloradas",
+                    "localidad": "Las_Coloradas",
                     "coordenada": "39°33′00″S 70°35′00″W"
                 }
             ]
         },
         {
-            "departamento": "Chos-Malal",
+            "departamento": "Chos_Malal",
             "coordenadas": "37°22′42″S 70°16′20″W",
             "localidades": [
                 {
-                    "localidad": "Chos-Malal",
+                    "localidad": "Chos_Malal",
                     "coordenada": "37°23′00″S 70°16′00″W"
                 },
                 {
-                    "localidad": "Tricao-Malal",
+                    "localidad": "Tricao_Malal",
                     "coordenada": "37°03′00″S 70°19′00″W"
                 },
                 {
-                    "localidad": "Coyuco-Cochico",
+                    "localidad": "Coyuco_Cochico",
                     "coordenada": "36°29′13″S 70°14′11″W"
                 },
                 {
-                    "localidad": "Villa-Curí-Leuvú",
+                    "localidad": "Villa_Curí_Leuvú",
                     "coordenada": "37°07′48″S 70°23′53″W"
                 }
             ]
         },
         {
-            "departamento": "Collón-Curá",
+            "departamento": "Collón_Curá",
             "coordenadas": "40°02′54″S 70°04′30″W",
             "localidades": [
                 {
-                    "localidad": "Piedra-del-Águila",
+                    "localidad": "Piedra_del_Águila",
                     "coordenada": "40°03′00″S 70°04′40″W"
                 },
                 {
-                    "localidad": "Santo-Tomás",
+                    "localidad": "Santo_Tomás",
                     "coordenada": "39°49′20″S 70°05′57″W"
                 }
             ]
@@ -96,7 +96,7 @@
                     "coordenada": "38°57′00″S 68°14′00″W"
                 },
                 {
-                    "localidad": "Vista-Alegre",
+                    "localidad": "Vista_Alegre",
                     "coordenada": "38°45′00″S 68°11′00″W"
                 },
                 {
@@ -104,19 +104,19 @@
                     "coordenada": "39°01′S 68°26′W"
                 },
                 {
-                    "localidad": "Sauzal-Bonito",
+                    "localidad": "Sauzal_Bonito",
                     "coordenada": "38°36′00″S 69°06′14″W"
                 },
                 {
-                    "localidad": "Cutral-Co",
+                    "localidad": "Cutral_Co",
                     "coordenada": "38°56′00″S 69°14′00″W"
                 },
                 {
-                    "localidad": "Plaza-Huincul",
+                    "localidad": "Plaza_Huincul",
                     "coordenada": "38°56′02″S 69°11′55″W"
                 },
                 {
-                    "localidad": "Villa-El-Chocón",
+                    "localidad": "Villa_El_Chocón",
                     "coordenada": "39°16′S 68°47′W"
                 },
                 {
@@ -124,7 +124,7 @@
                     "coordenada": "39°06′07″S 68°35′56″W"
                 },
                 {
-                    "localidad": "Mari-Menuco",
+                    "localidad": "Mari_Menuco",
                     "coordenada": "38°32′S 68°33′W"
                 }
             ]
@@ -134,7 +134,7 @@
             "coordenadas": "39°57′03″S 71°04′15″W",
             "localidades": [
                 {
-                    "localidad": "Junín-de-los-Andes",
+                    "localidad": "Junín_de_los_Andes",
                     "coordenada": "39°57′02″S 71°04′10″W"
                 }
             ]
@@ -144,11 +144,11 @@
             "coordenadas": "40°09′24″S 71°21′09″W",
             "localidades": [
                 {
-                    "localidad": "San-Martín-de-los-Andes",
+                    "localidad": "San_Martín_de_los_Andes",
                     "coordenada": "40°10′00″S 71°21′00″W"
                 },
                 {
-                    "localidad": "Villa-Meliquina",
+                    "localidad": "Villa_Meliquina",
                     "coordenada": "40°22′31″S 71°15′30″W"
                 }
             ]
@@ -168,15 +168,15 @@
             ]
         },
         {
-            "departamento": "Los-Lagos",
+            "departamento": "Los_Lagos",
             "coordenadas": "40°45′43″S 71°38′35″W",
             "localidades": [
                 {
-                    "localidad": "Villa-La-Angostura",
+                    "localidad": "Villa_La_Angostura",
                     "coordenada": "40°45′42″S 71°38′41″W"
                 },
                 {
-                    "localidad": "Villa-Traful",
+                    "localidad": "Villa_Traful",
                     "coordenada": "40°38′05″S 71°25′36″W"
                 }
             ]
@@ -194,15 +194,15 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Las-Ovejas",
+                    "localidad": "Las_Ovejas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Los-Miches",
+                    "localidad": "Los_Miches",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Manzano-Amargo",
+                    "localidad": "Manzano_Amargo",
                     "coordenada": ""
                 },
                 {
@@ -210,7 +210,7 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa-Nahueve",
+                    "localidad": "Villa_Nahueve",
                     "coordenada": ""
                 }
             ]
@@ -228,11 +228,11 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Cholar",
+                    "localidad": "El_Cholar",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "El-Huecú",
+                    "localidad": "El_Huecú",
                     "coordenada": ""
                 },
                 {
@@ -246,11 +246,11 @@
             "coordenadas": "37°23′25″S 68°55′31″W",
             "localidades": [
                 {
-                    "localidad": "Rincón-de-los-Sauces",
+                    "localidad": "Rincón_de_los_Sauces",
                     "coordenada": "37°23′25″S 68°55′31″W"
                 },
                 {
-                    "localidad": "Buta-Ranquil",
+                    "localidad": "Buta_Ranquil",
                     "coordenada": "37°03′05″S 69°52′40″W"
                 },
                 {
@@ -258,25 +258,25 @@
                     "coordenada": "36°49′15″S 69°54′52″W"
                 },
                 {
-                    "localidad": "Octavio-Pico",
+                    "localidad": "Octavio_Pico",
                     "coordenada": "37°35′22″S 68°15′29″W"
                 }
             ]
         },
         {
-            "departamento": "Picún-Leufú",
+            "departamento": "Picún_Leufú",
             "coordenadas": "39°31′25″S 69°16′47″W",
             "localidades": [
                 {
-                    "localidad": "Picún-Leufú",
+                    "localidad": "Picún_Leufú",
                     "coordenada": "39°31′25″S 69°16′47″W"
                 },
                 {
-                    "localidad": "Paso-Aguerre",
+                    "localidad": "Paso_Aguerre",
                     "coordenada": "39°20′17″S 69°50′35″W"
                 },
                 {
-                    "localidad": "El-Sauce",
+                    "localidad": "El_Sauce",
                     "coordenada": "39°27′47″S 69°31′51″W"
                 }
             ]
@@ -286,19 +286,19 @@
             "coordenadas": "38°31′24″S 70°21′42″W",
             "localidades": [
                 {
-                    "localidad": "Bajada-del-Agrio",
+                    "localidad": "Bajada_del_Agrio",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La-Buitrera",
+                    "localidad": "La_Buitrera",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Las-Lajas",
+                    "localidad": "Las_Lajas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Quili-Malal",
+                    "localidad": "Quili_Malal",
                     "coordenada": ""
                 }
             ]
@@ -312,15 +312,15 @@
                     "coordenada": "38°54′10″S 70°03′54″W"
                 },
                 {
-                    "localidad": "Mariano-Moreno",
+                    "localidad": "Mariano_Moreno",
                     "coordenada": "38°44′00″S 70°01′00″W"
                 },
                 {
-                    "localidad": "Ramón-M.-Castro",
+                    "localidad": "Ramón_M._Castro",
                     "coordenada": "38°51′S 69°45′W"
                 },
                 {
-                    "localidad": "Los-Catutos",
+                    "localidad": "Los_Catutos",
                     "coordenada": "38°50′12″S 70°11′53″W"
                 }
             ]
