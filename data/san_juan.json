@@ -1,5 +1,5 @@
 {
-    "provincia": "San Juan",
+    "provincia": "San-Juan",
     "departamentos": [
         {
             "departamento": "Capital",
@@ -14,7 +14,7 @@
                     "coordenada": "31°31′39″S 68°33′59″W"
                 },
                 {
-                    "localidad": "San Juan",
+                    "localidad": "San-Juan",
                     "coordenada": "31°32′15″S 68°32′11″W"
                 },
                 {
@@ -28,7 +28,7 @@
             "coordenadas": "31°34′00″S 68°31′00″W",
             "localidades": [
                 {
-                    "localidad": "Villa Krause",
+                    "localidad": "Villa-Krause",
                     "coordenada": "31°35′00″S 68°32′00″W"
                 },
                 {
@@ -36,11 +36,11 @@
                     "coordenada": "31°33′36″S 68°33′32″W"
                 },
                 {
-                    "localidad": "El Medanito",
+                    "localidad": "El-Medanito",
                     "coordenada": "31°34′00″S 68°29′00″W"
                 },
                 {
-                    "localidad": "Villa Bolaños",
+                    "localidad": "Villa-Bolaños",
                     "coordenada": "31°38′00″S 68°28′00″W"
                 }
             ]
@@ -50,23 +50,23 @@
             "coordenadas": "31°29′00″S 68°32′00″W",
             "localidades": [
                 {
-                    "localidad": "El Mogote",
+                    "localidad": "El-Mogote",
                     "coordenada": "31°29′00″S 68°28′00″W"
                 },
                 {
-                    "localidad": "Barrio Los Tamarindos",
+                    "localidad": "Barrio-Los-Tamarindos",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa Obrera",
+                    "localidad": "Villa-Obrera",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa Unión",
+                    "localidad": "Villa-Unión",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa Paula Albarracín de Sarmiento",
+                    "localidad": "Villa-Paula-Albarracín-de-Sarmiento",
                     "coordenada": "31°29′35″S 68°31′55″W"
                 }
             ]
@@ -84,41 +84,41 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La Bebida",
+                    "localidad": "La-Bebida",
                     "coordenada": ""
                 }
             ]
         },
         {
-            "departamento": "Santa Lucía",
+            "departamento": "Santa-Lucía",
             "coordenadas": "31°32′00″S 68°28′00″W",
             "localidades": [
                 {
-                    "localidad": "Alto de Sierra",
+                    "localidad": "Alto-de-Sierra",
                     "coordenada": "31°32′13″S 68°25′12″W"
                 },
                 {
-                    "localidad": "Colonia Gutiérrez",
+                    "localidad": "Colonia-Gutiérrez",
                     "coordenada": "31°32′00″S 68°29′00″W"
                 },
                 {
-                    "localidad": "Santa Lucía",
+                    "localidad": "Santa-Lucía",
                     "coordenada": "31°32′26″S 68°29′56″W"
                 },
                 {
-                    "localidad": "La Legua",
+                    "localidad": "La-Legua",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa Marini",
+                    "localidad": "Villa-Marini",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Colonia Richet y Zapata",
+                    "localidad": "Colonia-Richet-y-Zapata",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Colonia Gutiérrez",
+                    "localidad": "Colonia-Gutiérrez",
                     "coordenada": ""
                 }
             ]
@@ -128,7 +128,7 @@
             "coordenadas": "31°39′S 68°33′W",
             "localidades": [
                 {
-                    "localidad": "Barrio Ruta 40",
+                    "localidad": "Barrio-Ruta-40",
                     "coordenada": "31°51′31″S 68°32′13″W"
                 },
                 {
@@ -136,27 +136,27 @@
                     "coordenada": "31°49′22″S 68°33′10″W"
                 },
                 {
-                    "localidad": "La Rinconada",
+                    "localidad": "La-Rinconada",
                     "coordenada": "31°43′00″S 68°35′00″W"
                 },
                 {
-                    "localidad": "Quinto Cuartel",
+                    "localidad": "Quinto-Cuartel",
                     "coordenada": "31°36′49″S 68°36′03″W"
                 },
                 {
-                    "localidad": "Villa Aberastain",
+                    "localidad": "Villa-Aberastain",
                     "coordenada": "31°39′00″S 68°35′00″W"
                 },
                 {
-                    "localidad": "Villa Barboza",
+                    "localidad": "Villa-Barboza",
                     "coordenada": "31°35′20″S 68°33′22″W"
                 },
                 {
-                    "localidad": "Villa Centenario",
+                    "localidad": "Villa-Centenario",
                     "coordenada": "31°40′18″S 68°31′15″W"
                 },
                 {
-                    "localidad": "Villa Nacusi",
+                    "localidad": "Villa-Nacusi",
                     "coordenada": "31°35′38″S 68°32′10″W"
                 }
             ]
@@ -170,11 +170,11 @@
                     "coordenada": "31°35′22″S 67°39′36″W"
                 },
                 {
-                    "localidad": "Ciudad de Caucete",
+                    "localidad": "Ciudad-de-Caucete",
                     "coordenada": "31°39′00″S 68°17′00″W"
                 },
                 {
-                    "localidad": "El Rincón",
+                    "localidad": "El-Rincón",
                     "coordenada": "31°40′08″S 68°19′12″W"
                 },
                 {
@@ -182,15 +182,15 @@
                     "coordenada": "31°27′40″S 67°21′07″W"
                 },
                 {
-                    "localidad": "Las Talas",
+                    "localidad": "Las-Talas",
                     "coordenada": "31°35′42″S 68°16′26″W"
                 },
                 {
-                    "localidad": "Los Médanos",
+                    "localidad": "Los-Médanos",
                     "coordenada": "31°36′07″S 68°16′16″W"
                 },
                 {
-                    "localidad": "Pie de Palo",
+                    "localidad": "Pie-de-Palo",
                     "coordenada": "31°39′00″S 68°13′00″W"
                 },
                 {
@@ -198,7 +198,7 @@
                     "coordenada": "31°44′00″S 67°59′00″W"
                 },
                 {
-                    "localidad": "Villa Independencia",
+                    "localidad": "Villa-Independencia",
                     "coordenada": "31°37′27″S 68°18′52″W"
                 }
             ]
@@ -208,19 +208,19 @@
             "coordenadas": "30°13′00″S 68°35′00″W",
             "localidades": [
                 {
-                    "localidad": "San José de Jáchal",
+                    "localidad": "San-José-de-Jáchal",
                     "coordenada": "30°14′00″S 68°45′00″W"
                 },
                 {
-                    "localidad": "El Fical",
+                    "localidad": "El-Fical",
                     "coordenada": "30°15′00″S 68°41′41″W"
                 },
                 {
-                    "localidad": "El Médano",
+                    "localidad": "El-Médano",
                     "coordenada": "30°07′37″S 68°40′54″W"
                 },
                 {
-                    "localidad": "Gran China",
+                    "localidad": "Gran-China",
                     "coordenada": "30°07′12″S 68°43′41″W"
                 },
                 {
@@ -228,7 +228,7 @@
                     "coordenada": "30°09′14″S 68°28′48″W"
                 },
                 {
-                    "localidad": "La Falda",
+                    "localidad": "La-Falda",
                     "coordenada": "30°11′53″S 68°40′19″W"
                 },
                 {
@@ -240,11 +240,11 @@
                     "coordenada": "30°24′33″S 68°41′20″W"
                 },
                 {
-                    "localidad": "Pampa Vieja",
+                    "localidad": "Pampa-Vieja",
                     "coordenada": "30°12′47″S 68°41′27″W"
                 },
                 {
-                    "localidad": "San Isidro",
+                    "localidad": "San-Isidro",
                     "coordenada": "30°08′37″S 68°42′04″W"
                 },
                 {
@@ -252,11 +252,11 @@
                     "coordenada": "30°10′59″S 68°43′26″W"
                 },
                 {
-                    "localidad": "Villa Malvinas Argentinas",
+                    "localidad": "Villa-Malvinas-Argentinas",
                     "coordenada": "30°13′23″S 68°43′59″W"
                 },
                 {
-                    "localidad": "Villa Mercedes",
+                    "localidad": "Villa-Mercedes",
                     "coordenada": "30°06′S 68°42′W"
                 }
             ]
@@ -266,27 +266,27 @@
             "coordenadas": "31°25′00″S 68°30′00″W",
             "localidades": [
                 {
-                    "localidad": "Campo Afuera",
+                    "localidad": "Campo-Afuera",
                     "coordenada": "31°25′19″S 68°32′47″W"
                 },
                 {
-                    "localidad": "General San Martín",
+                    "localidad": "General-San-Martín",
                     "coordenada": "31°26′23″S 68°31′14″W"
                 },
                 {
-                    "localidad": "El Rincón",
+                    "localidad": "El-Rincón",
                     "coordenada": "31°26′51″S 68°32′37″W"
                 },
                 {
-                    "localidad": "La Cañada",
+                    "localidad": "La-Cañada",
                     "coordenada": "31°26′21″S 68°28′25″W"
                 },
                 {
-                    "localidad": "Las Lomitas",
+                    "localidad": "Las-Lomitas",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa Ampacama",
+                    "localidad": "Villa-Ampacama",
                     "coordenada": "31°23′10″S 68°28′55″W"
                 }
             ]
@@ -296,7 +296,7 @@
             "coordenadas": "32°00′00″S 68°31′00″W",
             "localidades": [
                 {
-                    "localidad": "Cañada Honda",
+                    "localidad": "Cañada-Honda",
                     "coordenada": "31°58′34″S 68°32′52″W"
                 },
                 {
@@ -304,7 +304,7 @@
                     "coordenada": "32°04′00″S 68°42′00″W"
                 },
                 {
-                    "localidad": "Colonia Fiscal",
+                    "localidad": "Colonia-Fiscal",
                     "coordenada": "31°54′09″S 68°28′11″W"
                 },
                 {
@@ -316,11 +316,11 @@
                     "coordenada": "32°04′00″S 68°35′00″W"
                 },
                 {
-                    "localidad": "Las Lagunas",
+                    "localidad": "Las-Lagunas",
                     "coordenada": "32°02′38″S 68°22′05″W"
                 },
                 {
-                    "localidad": "Los Berros",
+                    "localidad": "Los-Berros",
                     "coordenada": "31°57′04″S 68°39′44″W"
                 },
                 {
@@ -328,25 +328,25 @@
                     "coordenada": "31°59′00″S 68°44′00″W"
                 },
                 {
-                    "localidad": "Punta del Médano",
+                    "localidad": "Punta-del-Médano",
                     "coordenada": "31°53′41″S 68°25′06″W"
                 },
                 {
-                    "localidad": "Media Agua",
+                    "localidad": "Media-Agua",
                     "coordenada": "31°59′00″S 68°26′00″W"
                 }
             ]
         },
         {
-            "departamento": "25 de Mayo",
+            "departamento": "25-de-Mayo",
             "coordenadas": "31°49′00″S 68°12′00″W",
             "localidades": [
                 {
-                    "localidad": "El Encón",
+                    "localidad": "El-Encón",
                     "coordenada": "32°12′56″S 67°47′43″W"
                 },
                 {
-                    "localidad": "La Chimbera",
+                    "localidad": "La-Chimbera",
                     "coordenada": "31°49′38″S 68°14′51″W"
                 },
                 {
@@ -354,33 +354,33 @@
                     "coordenada": "31°50′07″S 68°21′25″W"
                 },
                 {
-                    "localidad": "Villa Borjas",
+                    "localidad": "Villa-Borjas",
                     "coordenada": "31°48′29″S 68°19′42″W"
                 },
                 {
-                    "localidad": "Villa El Tango",
+                    "localidad": "Villa-El-Tango",
                     "coordenada": "31°45′32″S 68°14′42″W"
                 },
                 {
-                    "localidad": "Santa Rosa",
+                    "localidad": "Santa-Rosa",
                     "coordenada": "31°44′37″S 68°18′51″W"
                 }
             ]
         },
         {
-            "departamento": "San Martín",
+            "departamento": "San-Martín",
             "coordenadas": "31°30′00″S 68°17′00″W",
             "localidades": [
                 {
-                    "localidad": "San Isidro",
+                    "localidad": "San-Isidro",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Dos Acequias",
+                    "localidad": "Dos-Acequias",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "La Puntilla",
+                    "localidad": "La-Puntilla",
                     "coordenada": ""
                 }
             ]
@@ -404,15 +404,15 @@
             ]
         },
         {
-            "departamento": "9 de Julio",
+            "departamento": "9-de-Julio",
             "coordenadas": "31°37′00″S 68°23′00″W",
             "localidades": [
                 {
-                    "localidad": "Nueve de Julio/Villa Cabecera",
+                    "localidad": "Nueve-de-Julio",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Las Chacritas",
+                    "localidad": "Las-Chacritas",
                     "coordenada": "31°35′38″S 68°24′04″W"
                 },
                 {
@@ -420,15 +420,15 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Colonia Fiorito",
+                    "localidad": "Colonia-Fiorito",
                     "coordenada": "31°33′11″S 68°25′52″W"
                 },
                 {
-                    "localidad": "La Majadita",
+                    "localidad": "La-Majadita",
                     "coordenada": "30°40′51″S 67°30′20″W"
                 },
                 {
-                    "localidad": "Alto de Sierra Este",
+                    "localidad": "Alto-de-Sierra-Este",
                     "coordenada": "31°32′18″S 68°24′49″W"
                 }
             ]
@@ -438,21 +438,21 @@
             "coordenadas": "31°24′00″S 68°22′00″W",
             "localidades": [
                 {
-                    "localidad": "Villa del Salvador",
+                    "localidad": "Villa-del-Salvador",
                     "coordenada": "31°27′11″S 68°24′14″W"
                 },
                 {
-                    "localidad": "Villa Sefair Talacasto",
+                    "localidad": "Villa-Sefair-Talacasto",
                     "coordenada": "31°26′34″S 68°26′36″W"
                 },
                 {
-                    "localidad": "Las Tapias",
+                    "localidad": "Las-Tapias",
                     "coordenada": "31°25′26″S 68°26′49″W"
                 }
             ]
         },
         {
-            "departamento": "Valle Fértil",
+            "departamento": "Valle-Fértil",
             "coordenadas": "30°40′00″S 67°26′00″W",
             "localidades": [
                 {
@@ -460,7 +460,7 @@
                     "coordenada": "30°57′13″S 67°18′12″W"
                 },
                 {
-                    "localidad": "Baldes del Rosario",
+                    "localidad": "Baldes-del-Rosario",
                     "coordenada": "30°19′10″S 67°41′50″W"
                 },
                 {
@@ -468,7 +468,7 @@
                     "coordenada": "31°03′55″S 67°16′48″W"
                 },
                 {
-                    "localidad": "Los Baldecitos",
+                    "localidad": "Los-Baldecitos",
                     "coordenada": "30°13′20″S 67°41′36″W"
                 },
                 {
@@ -476,7 +476,7 @@
                     "coordenada": "30°33′59″S 67°32′28″W"
                 },
                 {
-                    "localidad": "Villa San Agustín",
+                    "localidad": "Villa-San-Agustín",
                     "coordenada": "30°38′01″S 67°27′59″W"
                 }
             ]
@@ -490,7 +490,7 @@
                     "coordenada": "30°03′27″S 69°10′26″W"
                 },
                 {
-                    "localidad": "Bella Vista",
+                    "localidad": "Bella-Vista",
                     "coordenada": "30°26′00″S 69°15′00″W"
                 },
                 {
@@ -502,7 +502,7 @@
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Las Flores",
+                    "localidad": "Las-Flores",
                     "coordenada": "30°19′23″S 69°12′15″W"
                 },
                 {
@@ -524,15 +524,15 @@
             "coordenadas": "31°25′00″S 68°44′00″W",
             "localidades": [
                 {
-                    "localidad": "Villa Aurora",
+                    "localidad": "Villa-Aurora",
                     "coordenada": ""
                 },
                 {
-                    "localidad": "Villa Ibáñez",
+                    "localidad": "Villa-Ibáñez",
                     "coordenada": "31°27′52″S 68°43′10″W"
                 },
                 {
-                    "localidad": "El Chilote",
+                    "localidad": "El-Chilote",
                     "coordenada": ""
                 }
             ]
@@ -542,11 +542,11 @@
             "coordenadas": "31°33′00″S 68°46′00″W",
             "localidades": [
                 {
-                    "localidad": "Villa Basilio Nievas",
+                    "localidad": "Villa-Basilio-Nievas",
                     "coordenada": "31°33′00″S 68°44′00″W"
                 },
                 {
-                    "localidad": "Villa Tacú",
+                    "localidad": "Villa-Tacú",
                     "coordenada": "31°31′42″S 68°42′08″W"
                 }
             ]
