@@ -88,22 +88,44 @@
 
                 <div class="main__container-containers">
 
-                    <div class="main__container container-1" data-aos="fade-right">
+                    <div class="main__container container-0" data-aos="fade-right">
                         <h4 class="main__subtitle">Obtener Todas las Provincias</h4>
+                        <h5 class="main__subtitle subtitle__main">Archivo especial con todas las Provincias</h5>
                         <ul class="main__ul-items">
                             <li class="main__li-items">URL: <code>/api/provincias</code></li>
                             <li class="main__li-items">Método: <code>GET</code></li>
                             <li class="main__li-items">Descripción: <p class="description__text">Devuelve una lista de
-                                    todas las provincias</p>
+                                    todas las Provincias</p>
                             </li>
                         </ul>
                         <p class="main__solicitud">Ejemplo de Solicitud:</p>
-                        <p class="main__code"><code>curl http://dominio/api/provincia</code></p>
+                        <p class="main__code"><code>curl http://dominio/api/provincias</code></p>
                         <p class="main__respuesta">Ejemplo de Respuesta</p>
-                        <img src="" alt="" class="main__img">
+                        <div class="main__container-img" data-aos="fade-bottom">
+                            <img src="/public/imgs/Todas_las_Provincias.png" alt="Todas las Provincias"
+                                class="main__img">
+                        </div>
                     </div>
 
-                    <div class="main__container container-2" data-aos="fade-left">
+                    <div class="main__container container-1" data-aos="fade-left">
+                        <h4 class="main__subtitle">Obtener una Provincia específica</h4>
+                        <ul class="main__ul-items">
+                            <li class="main__li-items">URL: <code>/api/{provincia}</code></li>
+                            <li class="main__li-items">Método: <code>GET</code></li>
+                            <li class="main__li-items">Descripción: <p class="description__text">Devuelve una Provincia
+                                    específica</p>
+                            </li>
+                        </ul>
+                        <p class="main__solicitud">Ejemplo de Solicitud:</p>
+                        <p class="main__code"><code>curl http://dominio/api/buenos_aires</code></p>
+                        <p class="main__respuesta">Ejemplo de Respuesta</p>
+                        <div class="main__container-img" data-aos="fade-bottom">
+                            <img src="/public/imgs/Provincia_específica.png" alt="Provincia Específica"
+                                class="main__img">
+                        </div>
+                    </div>
+
+                    <div class="main__container container-2" data-aos="fade-right">
                         <h4 class="main__subtitle">Obtener Departamentos de una Provincia</h4>
                         <ul class="main__ul-items">
                             <li class="main__li-items">URL: <code>/api/{provincia}/departamentos</code></li>
@@ -115,13 +137,15 @@
                             </li>
                         </ul>
                         <p class="main__solicitud">Ejemplo de Solicitud:</p>
-                        <p class="main__code"><code>curl http://dominio/api/Buenos-Aires/departamentos</code>
+                        <p class="main__code"><code>curl http://dominio/api/buenos_aires/departamentos</code>
                         </p>
                         <p class="main__respuesta">Ejemplo de Respuesta</p>
-                        <img src="" alt="" class="main__img">
+                        <div class="main__container-img" data-aos="fade-bottom">
+                            <img src="/public/imgs/Departamentos_de_una_Provincia.png" alt="" class="main__img">
+                        </div>
                     </div>
 
-                    <div class="main__container container-3" data-aos="fade-right">
+                    <div class="main__container container-3" data-aos="fade-left">
                         <h4 class="main__subtitle">Obtener Localidades de un Departamento</h4>
                         <ul class="main__ul-items">
                             <li class="main__li-items">URL:
@@ -135,13 +159,16 @@
                         </ul>
                         <p class="main__solicitud">Ejemplo de Solicitud:</p>
                         <p class="main__code">
-                            <code>curl http://dominio/api/Buenos-Aires/departamentos/Puelén/localidades</code>
+                            <code>curl http://dominio/api/buenos_aires/departamentos/Alberti/localidades</code>
                         </p>
                         <p class="main__respuesta">Ejemplo de Respuesta</p>
-                        <img src="" alt="" class="main__img">
+                        <div class="main__container-img" data-aos="fade-bottom">
+                            <img src="/public/imgs/Localidades_de_un_departamento.png"
+                                alt="Localidades de un Departamento" class="main__img">
+                        </div>
                     </div>
 
-                    <div class="main__container container-4" data-aos="fade-left">
+                    <div class="main__container container-4" data-aos="fade-right">
                         <h4 class="main__subtitle">Obtener Información de una Localidad Específica</h4>
                         <ul class="main__ul-items">
                             <li class="main__li-items">URL:
@@ -155,20 +182,25 @@
                         </ul>
                         <p class="main__solicitud">Ejemplo de Solicitud:</p>
                         <p class="main__code">
-                            <code>curl http://dominio/api/Buenos-Aires/departamentos/Puelén/localidades/Puelén</code>
+                            <code>curl http://dominio/api/buenos_aires/departamentos/Alberti/localidades/Villa_Ortíz</code>
                         </p>
                         <p class="main__respuesta">Ejemplo de Respuesta</p>
-                        <img src="" alt="" class="main__img">
+                        <div class="main__container-img" data-aos="fade-bottom">
+                            <img src="/public/imgs/Localidad_específica.png" alt="Localidad Específica"
+                                class="main__img">
+                        </div>
                     </div>
 
-                    <div class="main__container container-5" data-aos="fade-right">
+                    <div class="main__container container-5" data-aos="fade-left">
                         <h4 class="main__subtitle">Manejo de Errores</h4>
                         <ul class="main__ul-items">
                             <li class="main__li-items"><strong>404 Not Found</strong></li>
                             <li class="main__li-items"><strong>500 Internal Server Error</strong></li>
                         </ul>
                         <p class="main__respuesta">Ejemplo de Respuesta de Error</p>
-                        <img src="" alt="" class="main__img">
+                        <div class="main__container-img" data-aos="fade-bottom">
+                            <img src="/public/imgs/Errores.png" alt="Errores de Petición" class="main__img">
+                        </div>
                     </div>
 
                 </div>

@@ -1,9 +1,9 @@
 [
     {
         "provincia": "Buenos_Aires",
-        "partidos": [
+        "departamentos": [
             {
-                "partido": "Adolfo_Alsina",
+                "departamento": "Adolfo_Alsina",
                 "coordenadas": "37°10′00″S 62°44′00″W",
                 "localidades": [
                     {
@@ -45,7 +45,7 @@
                 ]
             },
             {
-                "partido": "Adolfo_Gonzales_Chaves",
+                "departamento": "Adolfo_Gonzales_Chaves",
                 "coordenadas": "38°02′00″S 60°05′00″W",
                 "localidades": [
                     {
@@ -67,7 +67,7 @@
                 ]
             },
             {
-                "partido": "Alberti",
+                "departamento": "Alberti",
                 "coordenadas": "35°02′00″S 60°15′00″W",
                 "localidades": [
                     {
@@ -109,7 +109,7 @@
                 ]
             },
             {
-                "partido": "Almirante_Brown",
+                "departamento": "Almirante_Brown",
                 "coordenadas": "34°47′00″S 58°24′00″W",
                 "localidades": [
                     {
@@ -167,7 +167,7 @@
                 ]
             },
             {
-                "partido": "Arrecifes",
+                "departamento": "Arrecifes",
                 "coordenadas": "34°04′00″S 60°07′00″W",
                 "localidades": [
                     {
@@ -185,7 +185,7 @@
                 ]
             },
             {
-                "partido": "Avellaneda",
+                "departamento": "Avellaneda",
                 "coordenadas": "34°40′00″S 58°21′00″W",
                 "localidades": [
                     {
@@ -219,7 +219,7 @@
                 ]
             },
             {
-                "partido": "Ayacucho",
+                "departamento": "Ayacucho",
                 "coordenadas": "37°09′00″S 58°28′00″W",
                 "localidades": [
                     {
@@ -257,7 +257,7 @@
                 ]
             },
             {
-                "partido": "Azul",
+                "departamento": "Azul",
                 "coordenadas": "36°48′S 59°51′W",
                 "localidades": [
                     {
@@ -283,7 +283,7 @@
                 ]
             },
             {
-                "partido": "Bahía_Blanca",
+                "departamento": "Bahía_Blanca",
                 "coordenadas": "38°42′00″S 62°16′00″W",
                 "localidades": [
                     {
@@ -321,7 +321,7 @@
                 ]
             },
             {
-                "partido": "Balcarce",
+                "departamento": "Balcarce",
                 "coordenadas": "37°52′00″S 58°15′00″W",
                 "localidades": [
                     {
@@ -351,7 +351,7 @@
                 ]
             },
             {
-                "partido": "Baradero",
+                "departamento": "Baradero",
                 "coordenadas": "33°50′00″S 59°32′00″W",
                 "localidades": [
                     {
@@ -373,7 +373,7 @@
                 ]
             },
             {
-                "partido": "Benito_Juárez",
+                "departamento": "Benito_Juárez",
                 "coordenadas": "37°41′00″S 59°48′00″W",
                 "localidades": [
                     {
@@ -399,7 +399,7 @@
                 ]
             },
             {
-                "partido": "Berazategui",
+                "departamento": "Berazategui",
                 "coordenadas": "34°46′04″S 58°12′47″W",
                 "localidades": [
                     {
@@ -441,7 +441,7 @@
                 ]
             },
             {
-                "partido": "Berisso",
+                "departamento": "Berisso",
                 "coordenadas": "34°53′00″S 57°54′00″W",
                 "localidades": [
                     {
@@ -531,7 +531,7 @@
                 ]
             },
             {
-                "partido": "Bolívar",
+                "departamento": "Bolívar",
                 "coordenadas": "36°14′00″S 61°07′00″W",
                 "localidades": [
                     {
@@ -577,7 +577,7 @@
                 ]
             },
             {
-                "partido": "Bragado",
+                "departamento": "Bragado",
                 "coordenadas": "35°07′00″S 60°30′00″W",
                 "localidades": [
                     {
@@ -623,7 +623,7 @@
                 ]
             },
             {
-                "partido": "Brandsen",
+                "departamento": "Brandsen",
                 "coordenadas": "35°10′04″S 58°14′14″W",
                 "localidades": [
                     {
@@ -653,7 +653,7 @@
                 ]
             },
             {
-                "partido": "Campana",
+                "departamento": "Campana",
                 "coordenadas": "34°08′00″S 58°52′00″W",
                 "localidades": [
                     {
@@ -679,7 +679,7 @@
                 ]
             },
             {
-                "partido": "Cañuelas",
+                "departamento": "Cañuelas",
                 "coordenadas": "35°03′00″S 58°46′00″W",
                 "localidades": [
                     {
@@ -725,7 +725,7 @@
                 ]
             },
             {
-                "partido": "Capitán_Sarmiento",
+                "departamento": "Capitán_Sarmiento",
                 "coordenadas": "34°11′00″S 59°46′00″W",
                 "localidades": [
                     {
@@ -739,7 +739,7 @@
                 ]
             },
             {
-                "partido": "Carlos_Casares",
+                "departamento": "Carlos_Casares",
                 "coordenadas": "35°37′00″S 61°22′00″W",
                 "localidades": [
                     {
@@ -785,7 +785,7 @@
                 ]
             },
             {
-                "partido": "Carlos_Tejedor",
+                "departamento": "Carlos_Tejedor",
                 "coordenadas": "35°22′00″S 62°55′00″W",
                 "localidades": [
                     {
@@ -811,7 +811,7 @@
                 ]
             },
             {
-                "partido": "Carmen_de_Areco",
+                "departamento": "Carmen_de_Areco",
                 "coordenadas": "34°23′00″S 59°49′00″W",
                 "localidades": [
                     {
@@ -829,7 +829,7 @@
                 ]
             },
             {
-                "partido": "Castelli",
+                "departamento": "Castelli",
                 "coordenadas": "36°06′00″S 57°47′00″W",
                 "localidades": [
                     {
@@ -851,7 +851,7 @@
                 ]
             },
             {
-                "partido": "Chacabuco",
+                "departamento": "Chacabuco",
                 "coordenadas": "34°38′00″S 64°01′00″W",
                 "localidades": [
                     {
@@ -877,7 +877,7 @@
                 ]
             },
             {
-                "partido": "Chascomús",
+                "departamento": "Chascomús",
                 "coordenadas": "35°34′00″S 58°01′00″W",
                 "localidades": [
                     {
@@ -919,7 +919,7 @@
                 ]
             },
             {
-                "partido": "Chivilcoy",
+                "departamento": "Chivilcoy",
                 "coordenadas": "34°54′00″S 60°02′00″W",
                 "localidades": [
                     {
@@ -957,7 +957,7 @@
                 ]
             },
             {
-                "partido": "Colón",
+                "departamento": "Colón",
                 "coordenadas": "33°53′50″S 61°05′58″W",
                 "localidades": [
                     {
@@ -979,7 +979,7 @@
                 ]
             },
             {
-                "partido": "Coronel_Rosales",
+                "departamento": "Coronel_Rosales",
                 "coordenadas": "38°52′00″S 62°05′00″W",
                 "localidades": [
                     {
@@ -1013,7 +1013,7 @@
                 ]
             },
             {
-                "partido": "Coronel_Dorrego",
+                "departamento": "Coronel_Dorrego",
                 "coordenadas": "38°43′00″S 61°17′00″W",
                 "localidades": [
                     {
@@ -1051,7 +1051,7 @@
                 ]
             },
             {
-                "partido": "Coronel_Pringles",
+                "departamento": "Coronel_Pringles",
                 "coordenadas": "38°00′00″S 61°01′00″W",
                 "localidades": [
                     {
@@ -1081,7 +1081,7 @@
                 ]
             },
             {
-                "partido": "Coronel_Suárez",
+                "departamento": "Coronel_Suárez",
                 "coordenadas": "37°27′33″S 61°55′54″W",
                 "localidades": [
                     {
@@ -1127,7 +1127,7 @@
                 ]
             },
             {
-                "partido": "Daireaux",
+                "departamento": "Daireaux",
                 "coordenadas": "36°36′S 60°45′W",
                 "localidades": [
                     {
@@ -1173,7 +1173,7 @@
                 ]
             },
             {
-                "partido": "Dolores",
+                "departamento": "Dolores",
                 "coordenadas": "36°19′00″S 57°40′00″W",
                 "localidades": [
                     {
@@ -1187,7 +1187,7 @@
                 ]
             },
             {
-                "partido": "Ensenada",
+                "departamento": "Ensenada",
                 "coordenadas": "34°52′00″S 57°54′00″W",
                 "localidades": [
                     {
@@ -1213,7 +1213,7 @@
                 ]
             },
             {
-                "partido": "Escobar",
+                "departamento": "Escobar",
                 "coordenadas": "34°21′00″S 58°46′00″W",
                 "localidades": [
                     {
@@ -1247,7 +1247,7 @@
                 ]
             },
             {
-                "partido": "Esteban_Echeverría",
+                "departamento": "Esteban_Echeverría",
                 "coordenadas": "34°48′00″S 58°28′00″W",
                 "localidades": [
                     {
@@ -1273,7 +1273,7 @@
                 ]
             },
             {
-                "partido": "Exaltación_de_la_Cruz",
+                "departamento": "Exaltación_de_la_Cruz",
                 "coordenadas": "34°17′39″S 59°05′57″W",
                 "localidades": [
                     {
@@ -1331,7 +1331,7 @@
                 ]
             },
             {
-                "partido": "Ezeiza",
+                "departamento": "Ezeiza",
                 "coordenadas": "34°50′00″S 58°33′00″W",
                 "localidades": [
                     {
@@ -1361,7 +1361,7 @@
                 ]
             },
             {
-                "partido": "Florencio_Varela",
+                "departamento": "Florencio_Varela",
                 "coordenadas": "34°49′00″S 58°17′00″W",
                 "localidades": [
                     {
@@ -1407,7 +1407,7 @@
                 ]
             },
             {
-                "partido": "Florentino_Ameghino",
+                "departamento": "Florentino_Ameghino",
                 "coordenadas": "34°51′00″S 62°28′00″W",
                 "localidades": [
                     {
@@ -1425,7 +1425,7 @@
                 ]
             },
             {
-                "partido": "General_Alvarado",
+                "departamento": "General_Alvarado",
                 "coordenadas": "38°09′21″S 58°01′42″W",
                 "localidades": [
                     {
@@ -1451,7 +1451,7 @@
                 ]
             },
             {
-                "partido": "General_Alvear",
+                "departamento": "General_Alvear",
                 "coordenadas": "36°02′00″S 60°01′00″W",
                 "localidades": [
                     {
@@ -1481,7 +1481,7 @@
                 ]
             },
             {
-                "partido": "General_Arenales",
+                "departamento": "General_Arenales",
                 "coordenadas": "34°18′S 61°18′W",
                 "localidades": [
                     {
@@ -1515,7 +1515,7 @@
                 ]
             },
             {
-                "partido": "General_Belgrano",
+                "departamento": "General_Belgrano",
                 "coordenadas": "35°45′S 58°30′W",
                 "localidades": [
                     {
@@ -1553,7 +1553,7 @@
                 ]
             },
             {
-                "partido": "General_Guido",
+                "departamento": "General_Guido",
                 "coordenadas": "36°39′00″S 57°47′00″W",
                 "localidades": [
                     {
@@ -1567,7 +1567,7 @@
                 ]
             },
             {
-                "partido": "General_Madariaga",
+                "departamento": "General_Madariaga",
                 "coordenadas": "37°00′07″S 57°08′10″W",
                 "localidades": [
                     {
@@ -1577,7 +1577,7 @@
                 ]
             },
             {
-                "partido": "General_La_Madrid",
+                "departamento": "General_La_Madrid",
                 "coordenadas": "37°15′S 61°15′W",
                 "localidades": [
                     {
@@ -1611,7 +1611,7 @@
                 ]
             },
             {
-                "partido": "General_Las_Heras",
+                "departamento": "General_Las_Heras",
                 "coordenadas": "34°55′00″S 58°56′00″W",
                 "localidades": [
                     {
@@ -1645,7 +1645,7 @@
                 ]
             },
             {
-                "partido": "General_Lavalle",
+                "departamento": "General_Lavalle",
                 "coordenadas": "36°25′00″S 56°57′00″W",
                 "localidades": [
                     {
@@ -1663,7 +1663,7 @@
                 ]
             },
             {
-                "partido": "General_Paz",
+                "departamento": "General_Paz",
                 "coordenadas": "35°32′00″S 58°17′00″W",
                 "localidades": [
                     {
@@ -1689,7 +1689,7 @@
                 ]
             },
             {
-                "partido": "General_Pinto",
+                "departamento": "General_Pinto",
                 "coordenadas": "36°02′00″S 59°06′00″W",
                 "localidades": [
                     {
@@ -1715,7 +1715,7 @@
                 ]
             },
             {
-                "partido": "General_Pueyrredón",
+                "departamento": "General_Pueyrredón",
                 "coordenadas": "38°00′12″S 57°33′10″W",
                 "localidades": [
                     {
@@ -1805,7 +1805,7 @@
                 ]
             },
             {
-                "partido": "General_Rodríguez",
+                "departamento": "General_Rodríguez",
                 "coordenadas": "34°37′00″S 58°57′00″W",
                 "localidades": [
                     {
@@ -1815,7 +1815,7 @@
                 ]
             },
             {
-                "partido": "General_San_Martín",
+                "departamento": "General_San_Martín",
                 "coordenadas": "34°34′00″S 58°31′00″W",
                 "localidades": [
                     {
@@ -1945,7 +1945,7 @@
                 ]
             },
             {
-                "partido": "General_Viamonte",
+                "departamento": "General_Viamonte",
                 "coordenadas": "35°00′00″S 61°02′00″W",
                 "localidades": [
                     {
@@ -1971,7 +1971,7 @@
                 ]
             },
             {
-                "partido": "General_Villegas",
+                "departamento": "General_Villegas",
                 "coordenadas": "",
                 "localidades": [
                     {
@@ -2025,7 +2025,7 @@
                 ]
             },
             {
-                "partido": "Guaminí",
+                "departamento": "Guaminí",
                 "coordenadas": "37°00′S 62°24′W",
                 "localidades": [
                     {
@@ -2059,7 +2059,7 @@
                 ]
             },
             {
-                "partido": "Hipólito_Yrigoyen",
+                "departamento": "Hipólito_Yrigoyen",
                 "coordenadas": "36°17′00″S 61°43′00″W",
                 "localidades": [
                     {
@@ -2085,7 +2085,7 @@
                 ]
             },
             {
-                "partido": "Hurlingham",
+                "departamento": "Hurlingham",
                 "coordenadas": "34°36′00″S 58°38′00″W",
                 "localidades": [
                     {
@@ -2103,7 +2103,7 @@
                 ]
             },
             {
-                "partido": "Ituzaingó",
+                "departamento": "Ituzaingó",
                 "coordenadas": "34°39′08″S 58°40′30″W",
                 "localidades": [
                     {
@@ -2117,7 +2117,7 @@
                 ]
             },
             {
-                "partido": "José_C._Paz",
+                "departamento": "José_C._Paz",
                 "coordenadas": "34°31′S 58°47′W",
                 "localidades": [
                     {
@@ -2127,7 +2127,7 @@
                 ]
             },
             {
-                "partido": "Junín",
+                "departamento": "Junín",
                 "coordenadas": "34°35′00″S 60°57′00″W",
                 "localidades": [
                     {
@@ -2169,7 +2169,7 @@
                 ]
             },
             {
-                "partido": "La_Costa",
+                "departamento": "La_Costa",
                 "coordenadas": "36°34′00″S 56°41′00″W",
                 "localidades": [
                     {
@@ -2235,7 +2235,7 @@
                 ]
             },
             {
-                "partido": "La_Matanza",
+                "departamento": "La_Matanza",
                 "coordenadas": "34°43′00″S 58°38′00″W",
                 "localidades": [
                     {
@@ -2305,7 +2305,7 @@
                 ]
             },
             {
-                "partido": "La_Plata",
+                "departamento": "La_Plata",
                 "coordenadas": "34°55′00″S 57°57′00″W",
                 "localidades": [
                     {
@@ -2431,7 +2431,7 @@
                 ]
             },
             {
-                "partido": "Lanús",
+                "departamento": "Lanús",
                 "coordenadas": "34°42′S 58°24′W",
                 "localidades": [
                     {
@@ -2461,7 +2461,7 @@
                 ]
             },
             {
-                "partido": "Laprida",
+                "departamento": "Laprida",
                 "coordenadas": "37°33′S 60°48′W",
                 "localidades": [
                     {
@@ -2479,7 +2479,7 @@
                 ]
             },
             {
-                "partido": "Las_Flores",
+                "departamento": "Las_Flores",
                 "coordenadas": "36°02′00″S 59°06′00″W",
                 "localidades": [
                     {
@@ -2505,7 +2505,7 @@
                 ]
             },
             {
-                "partido": "Leandro_N._Alem",
+                "departamento": "Leandro_N._Alem",
                 "coordenadas": "34°30′00″S 61°29′00″W",
                 "localidades": [
                     {
@@ -2535,7 +2535,7 @@
                 ]
             },
             {
-                "partido": "Lezama",
+                "departamento": "Lezama",
                 "coordenadas": "35°52′00″S 57°54′00″W",
                 "localidades": [
                     {
@@ -2545,7 +2545,7 @@
                 ]
             },
             {
-                "partido": "Lincoln",
+                "departamento": "Lincoln",
                 "coordenadas": "34°52′00″S 61°32′00″W",
                 "localidades": [
                     {
@@ -2591,7 +2591,7 @@
                 ]
             },
             {
-                "partido": "Lobería",
+                "departamento": "Lobería",
                 "coordenadas": "38°09′42″S 58°46′22″W",
                 "localidades": [
                     {
@@ -2621,7 +2621,7 @@
                 ]
             },
             {
-                "partido": "Lobos",
+                "departamento": "Lobos",
                 "coordenadas": "35°13′00″S 59°11′00″W",
                 "localidades": [
                     {
@@ -2663,7 +2663,7 @@
                 ]
             },
             {
-                "partido": "Lomas_de_Zamora",
+                "departamento": "Lomas_de_Zamora",
                 "coordenadas": "34°46′00″S 58°24′00″W",
                 "localidades": [
                     {
@@ -2709,7 +2709,7 @@
                 ]
             },
             {
-                "partido": "Luján",
+                "departamento": "Luján",
                 "coordenadas": "34°34′00″S 59°06′00″W",
                 "localidades": [
                     {
@@ -2747,7 +2747,7 @@
                 ]
             },
             {
-                "partido": "Magdalena",
+                "departamento": "Magdalena",
                 "coordenadas": "35°05′00″S 57°31′00″W",
                 "localidades": [
                     {
@@ -2777,7 +2777,7 @@
                 ]
             },
             {
-                "partido": "Maipú",
+                "departamento": "Maipú",
                 "coordenadas": "36°52′00″S 57°52′00″W",
                 "localidades": [
                     {
@@ -2795,7 +2795,7 @@
                 ]
             },
             {
-                "partido": "Malvinas_Argentinas",
+                "departamento": "Malvinas_Argentinas",
                 "coordenadas": "34°27′S 58°38′W",
                 "localidades": [
                     {
@@ -2837,7 +2837,7 @@
                 ]
             },
             {
-                "partido": "Mar_Chiquita",
+                "departamento": "Mar_Chiquita",
                 "coordenadas": "34°40′00″S 59°26′00″W",
                 "localidades": [
                     {
@@ -2899,7 +2899,7 @@
                 ]
             },
             {
-                "partido": "Marcos_Paz",
+                "departamento": "Marcos_Paz",
                 "coordenadas": "34°46′00″S 58°50′00″W",
                 "localidades": [
                     {
@@ -2929,7 +2929,7 @@
                 ]
             },
             {
-                "partido": "Mercedes",
+                "departamento": "Mercedes",
                 "coordenadas": "34°40′00″S 59°26′00″W",
                 "localidades": [
                     {
@@ -2967,7 +2967,7 @@
                 ]
             },
             {
-                "partido": "Merlo",
+                "departamento": "Merlo",
                 "coordenadas": "34°40′00″S 58°43′00″W",
                 "localidades": [
                     {
@@ -2997,7 +2997,7 @@
                 ]
             },
             {
-                "partido": "Monte",
+                "departamento": "Monte",
                 "coordenadas": "35°27′00″S 58°47′00″W",
                 "localidades": [
                     {
@@ -3015,7 +3015,7 @@
                 ]
             },
             {
-                "partido": "Monte_Hermoso",
+                "departamento": "Monte_Hermoso",
                 "coordenadas": "38°59′00″S 61°15′00″W",
                 "localidades": [
                     {
@@ -3025,7 +3025,7 @@
                 ]
             },
             {
-                "partido": "Moreno",
+                "departamento": "Moreno",
                 "coordenadas": "34°39′00″S 58°47′00″W",
                 "localidades": [
                     {
@@ -3055,7 +3055,7 @@
                 ]
             },
             {
-                "partido": "Morón",
+                "departamento": "Morón",
                 "coordenadas": "34°39′00″S 58°37′00″W",
                 "localidades": [
                     {
@@ -3081,7 +3081,7 @@
                 ]
             },
             {
-                "partido": "Navarro",
+                "departamento": "Navarro",
                 "coordenadas": "35°01′00″S 59°16′00″W",
                 "localidades": [
                     {
@@ -3103,7 +3103,7 @@
                 ]
             },
             {
-                "partido": "Necochea",
+                "departamento": "Necochea",
                 "coordenadas": "38°33′00″S 58°44′00″W",
                 "localidades": [
                     {
@@ -3137,7 +3137,7 @@
                 ]
             },
             {
-                "partido": "Nueve_de_Julio",
+                "departamento": "Nueve_de_Julio",
                 "coordenadas": "38°28′00″S 60°57′00″W",
                 "localidades": [
                     {
@@ -3191,7 +3191,7 @@
                 ]
             },
             {
-                "partido": "Olavarría",
+                "departamento": "Olavarría",
                 "coordenadas": "35°42′S 63°00′W",
                 "localidades": [
                     {
@@ -3245,7 +3245,7 @@
                 ]
             },
             {
-                "partido": "Patagones",
+                "departamento": "Patagones",
                 "coordenadas": "40°49′00″S 63°00′00″W",
                 "localidades": [
                     {
@@ -3287,7 +3287,7 @@
                 ]
             },
             {
-                "partido": "Pehuajó",
+                "departamento": "Pehuajó",
                 "coordenadas": "35°48′00″S 61°52′00″W",
                 "localidades": [
                     {
@@ -3329,7 +3329,7 @@
                 ]
             },
             {
-                "partido": "Pellegrini",
+                "departamento": "Pellegrini",
                 "coordenadas": "36°16′00″S 63°10′00″W",
                 "localidades": [
                     {
@@ -3347,7 +3347,7 @@
                 ]
             },
             {
-                "partido": "Pergamino",
+                "departamento": "Pergamino",
                 "coordenadas": "33°53′00″S 60°35′00″W",
                 "localidades": [
                     {
@@ -3409,7 +3409,7 @@
                 ]
             },
             {
-                "partido": "Pila",
+                "departamento": "Pila",
                 "coordenadas": "36°01′00″S 58°07′00″W",
                 "localidades": [
                     {
@@ -3423,7 +3423,7 @@
                 ]
             },
             {
-                "partido": "Pilar",
+                "departamento": "Pilar",
                 "coordenadas": "34°28′00″S 58°55′00″W",
                 "localidades": [
                     {
@@ -3469,7 +3469,7 @@
                 ]
             },
             {
-                "partido": "Pinamar",
+                "departamento": "Pinamar",
                 "coordenadas": "37°07′00″S 56°52′00″W",
                 "localidades": [
                     {
@@ -3499,7 +3499,7 @@
                 ]
             },
             {
-                "partido": "Presidente_Perón",
+                "departamento": "Presidente_Perón",
                 "coordenadas": "34°55′04″S 58°22′48″W",
                 "localidades": [
                     {
@@ -3509,7 +3509,7 @@
                 ]
             },
             {
-                "partido": "Puan",
+                "departamento": "Puan",
                 "coordenadas": "37°33′00″S 62°46′00″W",
                 "localidades": [
                     {
@@ -3567,7 +3567,7 @@
                 ]
             },
             {
-                "partido": "Punta_Indio",
+                "departamento": "Punta_Indio",
                 "coordenadas": "35°16′00″S 57°13′00″W",
                 "localidades": [
                     {
@@ -3601,7 +3601,7 @@
                 ]
             },
             {
-                "partido": "Quilmes",
+                "departamento": "Quilmes",
                 "coordenadas": "34°43′00″S 58°16′00″W",
                 "localidades": [
                     {
@@ -3631,7 +3631,7 @@
                 ]
             },
             {
-                "partido": "Ramallo",
+                "departamento": "Ramallo",
                 "coordenadas": "33°29′00″S 60°01′00″W",
                 "localidades": [
                     {
@@ -3661,7 +3661,7 @@
                 ]
             },
             {
-                "partido": "Rauch",
+                "departamento": "Rauch",
                 "coordenadas": "36°46′00″S 59°06′00″W",
                 "localidades": [
                     {
@@ -3691,7 +3691,7 @@
                 ]
             },
             {
-                "partido": "Rivadavia",
+                "departamento": "Rivadavia",
                 "coordenadas": "35°39′03″S 63°15′16″W",
                 "localidades": [
                     {
@@ -3729,7 +3729,7 @@
                 ]
             },
             {
-                "partido": "Rojas",
+                "departamento": "Rojas",
                 "coordenadas": "34°12′00″S 60°44′00″W",
                 "localidades": [
                     {
@@ -3767,7 +3767,7 @@
                 ]
             },
             {
-                "partido": "Roque_Pérez",
+                "departamento": "Roque_Pérez",
                 "coordenadas": "35°25′00″S 59°19′00″W",
                 "localidades": [
                     {
@@ -3793,7 +3793,7 @@
                 ]
             },
             {
-                "partido": "Saavedra",
+                "departamento": "Saavedra",
                 "coordenadas": "37°47′00″S 62°21′00″W",
                 "localidades": [
                     {
@@ -3827,7 +3827,7 @@
                 ]
             },
             {
-                "partido": "Saladillo",
+                "departamento": "Saladillo",
                 "coordenadas": "35°38′00″S 57°46′00″W",
                 "localidades": [
                     {
@@ -3857,7 +3857,7 @@
                 ]
             },
             {
-                "partido": "Salliqueló",
+                "departamento": "Salliqueló",
                 "coordenadas": "36°45′00″S 62°50′00″W",
                 "localidades": [
                     {
@@ -3871,7 +3871,7 @@
                 ]
             },
             {
-                "partido": "Salto",
+                "departamento": "Salto",
                 "coordenadas": "34°18′S 60°15′W",
                 "localidades": [
                     {
@@ -3901,7 +3901,7 @@
                 ]
             },
             {
-                "partido": "San_Andrés_de_Giles",
+                "departamento": "San_Andrés_de_Giles",
                 "coordenadas": "34°26′00″S 59°26′00″W",
                 "localidades": [
                     {
@@ -3935,7 +3935,7 @@
                 ]
             },
             {
-                "partido": "San_Antonio_de_Areco",
+                "departamento": "San_Antonio_de_Areco",
                 "coordenadas": "34°15′00″S 59°28′00″W",
                 "localidades": [
                     {
@@ -3957,7 +3957,7 @@
                 ]
             },
             {
-                "partido": "San_Cayetano",
+                "departamento": "San_Cayetano",
                 "coordenadas": "38°22′00″S 60°16′00″W",
                 "localidades": [
                     {
@@ -3975,7 +3975,7 @@
                 ]
             },
             {
-                "partido": "San_Fernando",
+                "departamento": "San_Fernando",
                 "coordenadas": "34°27′00″S 58°34′00″W",
                 "localidades": [
                     {
@@ -3997,7 +3997,7 @@
                 ]
             },
             {
-                "partido": "San_Isidro",
+                "departamento": "San_Isidro",
                 "coordenadas": "34°28′00″S 58°30′00″W",
                 "localidades": [
                     {
@@ -4027,7 +4027,7 @@
                 ]
             },
             {
-                "partido": "San_Miguel",
+                "departamento": "San_Miguel",
                 "coordenadas": "34°33′S 58°42′W",
                 "localidades": [
                     {
@@ -4053,7 +4053,7 @@
                 ]
             },
             {
-                "partido": "San_Nicolás",
+                "departamento": "San_Nicolás",
                 "coordenadas": "33°19′47″S 60°13′47″W",
                 "localidades": [
                     {
@@ -4103,7 +4103,7 @@
                 ]
             },
             {
-                "partido": "San_Pedro",
+                "departamento": "San_Pedro",
                 "coordenadas": "33°40′00″S 59°40′00″W",
                 "localidades": [
                     {
@@ -4137,7 +4137,7 @@
                 ]
             },
             {
-                "partido": "San_Vicente",
+                "departamento": "San_Vicente",
                 "coordenadas": "35°01′00″S 58°25′00″W",
                 "localidades": [
                     {
@@ -4159,7 +4159,7 @@
                 ]
             },
             {
-                "partido": "Suipacha",
+                "departamento": "Suipacha",
                 "coordenadas": "34°46′00″S 59°41′00″W",
                 "localidades": [
                     {
@@ -4177,7 +4177,7 @@
                 ]
             },
             {
-                "partido": "Tandil",
+                "departamento": "Tandil",
                 "coordenadas": "37°04′00″S 59°08′00″W",
                 "localidades": [
                     {
@@ -4203,7 +4203,7 @@
                 ]
             },
             {
-                "partido": "Tapalqué",
+                "departamento": "Tapalqué",
                 "coordenadas": "36°22′54″S 60°02′07″W",
                 "localidades": [
                     {
@@ -4245,7 +4245,7 @@
                 ]
             },
             {
-                "partido": "Tigre",
+                "departamento": "Tigre",
                 "coordenadas": "34°25′00″S 58°35′00″W",
                 "localidades": [
                     {
@@ -4291,7 +4291,7 @@
                 ]
             },
             {
-                "partido": "Tordillo",
+                "departamento": "Tordillo",
                 "coordenadas": "36°30′00″S 57°19′00″W",
                 "localidades": [
                     {
@@ -4309,7 +4309,7 @@
                 ]
             },
             {
-                "partido": "Tornquist",
+                "departamento": "Tornquist",
                 "coordenadas": "38°06′00″S 62°13′00″W",
                 "localidades": [
                     {
@@ -4343,7 +4343,7 @@
                 ]
             },
             {
-                "partido": "Trenque_Lauquen",
+                "departamento": "Trenque_Lauquen",
                 "coordenadas": "35°58′00″S 62°41′00″W",
                 "localidades": [
                     {
@@ -4373,7 +4373,7 @@
                 ]
             },
             {
-                "partido": "Tres_Arroyos",
+                "departamento": "Tres_Arroyos",
                 "coordenadas": "38°22′00″S 60°16′00″W",
                 "localidades": [
                     {
@@ -4423,7 +4423,7 @@
                 ]
             },
             {
-                "partido": "Tres_de_Febrero",
+                "departamento": "Tres_de_Febrero",
                 "coordenadas": "34°35′53″S 58°33′54″W",
                 "localidades": [
                     {
@@ -4489,7 +4489,7 @@
                 ]
             },
             {
-                "partido": "Tres_Lomas",
+                "departamento": "Tres_Lomas",
                 "coordenadas": "36°27′32″S 62°51′41″W",
                 "localidades": [
                     {
@@ -4507,7 +4507,7 @@
                 ]
             },
             {
-                "partido": "Veinticinco_de_Mayo",
+                "departamento": "Veinticinco_de_Mayo",
                 "coordenadas": "35°25′00″S 60°10′00″W",
                 "localidades": [
                     {
@@ -4553,7 +4553,7 @@
                 ]
             },
             {
-                "partido": "Vicente_López",
+                "departamento": "Vicente_López",
                 "coordenadas": "34°31′00″S 58°29′00″W",
                 "localidades": [
                     {
@@ -4595,7 +4595,7 @@
                 ]
             },
             {
-                "partido": "Villa_Gesell",
+                "departamento": "Villa_Gesell",
                 "coordenadas": "37°15′S 56°57′W",
                 "localidades": [
                     {
@@ -4621,7 +4621,7 @@
                 ]
             },
             {
-                "partido": "Villarino",
+                "departamento": "Villarino",
                 "coordenadas": "38°49′00″S 62°42′00″W",
                 "localidades": [
                     {
@@ -4667,7 +4667,7 @@
                 ]
             },
             {
-                "partido": "Zárate",
+                "departamento": "Zárate",
                 "coordenadas": "34°06′00″S 59°02′00″W",
                 "localidades": [
                     {
