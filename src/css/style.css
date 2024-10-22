@@ -15,7 +15,9 @@ body {
     --itemscolor: #3d3c3d;
     --textguidecolor: rgba(50, 50, 50, 0.9);
     --objetscolor: #228380;
-    --backgroundcode: rgba(0, 0, 0, 0.8)
+    --backgroundcode: rgba(0, 0, 0, 0.8);
+    --whitecolor: #ffffff;
+    --blackcolor: #000;
 }
 
 
@@ -27,8 +29,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: #757F9A;
-    background: linear-gradient(to bottom, #ffffff, #b3c6c4);
+    background: linear-gradient(to bottom, var(--whitecolor) 8%, #b6b5cb, #b3c6c4);
     overflow: hidden;
 }
 
@@ -107,7 +108,7 @@ body {
 
 
 .nav__link>i {
-    color: #000;
+    color: var(--blackcolor);
     font-size: 1rem;
 
     &:hover {
@@ -166,6 +167,51 @@ my-carousel {
 
 
 
+.article__carousel {
+    width: 80%;
+    overflow: hidden;
+}
+
+
+.carousel__container {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+
+.carousel {
+    width: 15rem;
+    height: 10rem;
+    margin-top: 4rem;
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.carousel>img {
+    width: 8rem;
+    height: 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: drop-shadow(0px 0px 2px var(--blackcolor));
+}
+
+
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+
 
 
 /*-- ARROW --*/
@@ -220,7 +266,7 @@ my-carousel {
     font-family: var(--fonttitle);
     color: var(--itemscolor);
     font-size: 1.2rem;
-    font-weight: 700;
+    font-weight: 800;
     display: flex;
 }
 
@@ -252,7 +298,7 @@ b {
     padding: 1rem 0 1rem 0;
     font-family: var(--fonttitle);
     color: var(--itemscolor);
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 700;
 }
 
@@ -315,7 +361,7 @@ b {
     padding: 1rem;
     display: flex;
     flex-direction: column;
-    background: #ffffff;
+    background: var(--whitecolor);
     border: none;
     border-radius: 10px;
     box-shadow: 0px 0px 4px #444;
@@ -332,6 +378,7 @@ b {
     color: var(--objetscolor);
     text-shadow: 0px 0px 2px #ccc;
 }
+
 
 
 .main__ul-items {
@@ -356,7 +403,7 @@ b {
     margin: 0 0 0 0.5rem;
     padding: 0.2rem 1rem;
     background: var(--backgroundcode);
-    color: #ffffff;
+    color: var(--whitecolor);
     border: none;
     outline: none;
     border-radius: 5px;
@@ -364,7 +411,7 @@ b {
     font-size: 0.5rem;
     font-weight: 400;
     letter-spacing: 1px;
-    box-shadow: 0px 0px 4px #000;
+    box-shadow: 0px 0px 4px var(--blackcolor);
     text-shadow: 0px 0px 1px #555;
 }
 
@@ -381,8 +428,8 @@ b {
 
 /*-- IMÁGENES --*/
 .main__container-img {
-    width: 80%;
-    height: 80%;
+    width: 90%;
+    height: 90%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -391,6 +438,7 @@ b {
     outline: none;
     border-radius: 10px;
     align-self: center;
+    box-shadow: 0px 0px 2px #555;
 }
 
 
@@ -399,6 +447,7 @@ b {
     height: 100%;
     border-radius: 10px;
     scale: 0.8;
+    filter: brightness(110%) contrast(110%);
 }
 
 
@@ -422,7 +471,7 @@ b {
     margin: 0;
     padding: 0.2rem 1rem;
     background: var(--backgroundcode);
-    color: #ffffff;
+    color: var(--whitecolor);
     border: none;
     outline: none;
     border-radius: 5px;
@@ -430,14 +479,14 @@ b {
     font-size: 0.5rem;
     font-weight: 400;
     letter-spacing: 1px;
-    box-shadow: 0px 0px 4px #000;
+    box-shadow: 0px 0px 4px var(--blackcolor);
     text-shadow: 0px 0px 1px #555;
 }
 
 
 
 .main__respuesta {
-    padding: 1rem 0 0.4rem 0;
+    padding: 1.5rem 0 0.4rem 0;
     list-style: none;
     font-family: var(--fonttitle);
     color: var(--itemscolor);
@@ -455,7 +504,6 @@ b {
 /*-- INFO --*/
 .footer__footer {
     width: 100%;
-    height: 10rem;
     margin: 5rem 0 0 0;
     background: var(--subtitlecolor);
     display: flex;
@@ -483,12 +531,38 @@ b {
 }
 
 
-.info__text {
+.info__ul {
     font-family: var(--fonttext);
     font-size: 0.6rem;
     font-weight: 600;
-    color: #ffffff;
+    color: var(--whitecolor);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+
+
+
+.container__links {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding-top: 0.3rem;
+}
+
+
+
+.info__li {
+    padding: 0 0 0 0.4rem;
+    list-style: none;
+
+}
+
+
+.info__link {
+    color: var(--whitecolor);
+}
+
 
 
 .info__link:hover {
@@ -525,7 +599,7 @@ b {
     font-family: var(--fonttext);
     font-size: 0.5rem;
     font-weight: 600;
-    color: #ffffff;
+    color: var(--whitecolor);
 }
 
 
@@ -556,7 +630,7 @@ b {
     font-size: 0.9rem;
     font-weight: 700;
     letter-spacing: 1px;
-    color: #ffffff;
+    color: var(--whitecolor);
 }
 
 
@@ -565,7 +639,7 @@ b {
     font-size: 0.6rem;
     font-weight: 600;
     text-decoration: none;
-    color: #ffffff;
+    color: var(--whitecolor);
     position: relative;
 }
 
@@ -577,7 +651,7 @@ b {
     height: 1px;
     bottom: 0;
     left: 0;
-    background: #ffffff;
+    background: var(--whitecolor);
     transform-origin: left;
     transform: scaleX(0);
     transition: all 300ms ease;
@@ -602,7 +676,7 @@ b {
 /*-- ICONOS --*/
 .fa-brands {
     font-size: 1rem;
-    color: #ffffff;
+    color: var(--whitecolor);
 
 
     &:hover {
@@ -625,57 +699,18 @@ b {
 
 /*-- DERECHOS --*/
 .footer__containers-derechos {
-    padding: 1rem 0 0.5rem 0;
+    padding: 1rem 0 0.7rem 0;
     font-family: var(--fonttext);
     font-size: 0.5rem;
     font-weight: 600;
     display: flex;
     justify-content: center;
-    color: #ffffff;
+    color: var(--whitecolor);
     border-top: 1.9px solid #888;
 }
 
 
-.article__carousel {
-    width: 80%;
-    overflow: hidden;
-}
-
-
-.carousel__container {
-    overflow: hidden;
-    width: 100%;
-    position: relative;
-}
-
-.carousel {
-    width: 15rem;
-    height: 10rem;
-    margin-top: 4rem;
-    display: flex;
-    gap: 4rem;
-    align-items: center;
-    justify-content: center;
-}
-
-
-.carousel>img {
-    width: 8rem;
-    height: 7rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    filter: drop-shadow(0px 0px 2px #000);
-}
-
-
-
-@keyframes scroll {
-    0% {
-        transform: translateX(0);
-    }
-
-    100% {
-        transform: translateX(-50%);
-    }
+.contact__link-name {
+    font-size: 0.1;
+    font-weight: 400;
 }

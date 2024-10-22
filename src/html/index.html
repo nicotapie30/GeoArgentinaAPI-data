@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
@@ -90,7 +90,6 @@
 
                     <div class="main__container container-0" data-aos="fade-right">
                         <h4 class="main__subtitle">Obtener Todas las Provincias</h4>
-                        <h5 class="main__subtitle subtitle__main">Archivo especial con todas las Provincias</h5>
                         <ul class="main__ul-items">
                             <li class="main__li-items">URL: <code>/api/provincias</code></li>
                             <li class="main__li-items">Método: <code>GET</code></li>
@@ -100,7 +99,7 @@
                         </ul>
                         <p class="main__solicitud">Ejemplo de Solicitud:</p>
                         <p class="main__code"><code>curl http://dominio/api/provincias</code></p>
-                        <p class="main__respuesta">Ejemplo de Respuesta</p>
+                        <p class="main__respuesta">Ejemplo de Respuesta:</p>
                         <div class="main__container-img" data-aos="fade-bottom">
                             <img src="/public/imgs/Todas_las_Provincias.png" alt="Todas las Provincias"
                                 class="main__img">
@@ -118,7 +117,7 @@
                         </ul>
                         <p class="main__solicitud">Ejemplo de Solicitud:</p>
                         <p class="main__code"><code>curl http://dominio/api/buenos_aires</code></p>
-                        <p class="main__respuesta">Ejemplo de Respuesta</p>
+                        <p class="main__respuesta">Ejemplo de Respuesta:</p>
                         <div class="main__container-img" data-aos="fade-bottom">
                             <img src="/public/imgs/Provincia_específica.png" alt="Provincia Específica"
                                 class="main__img">
@@ -139,7 +138,7 @@
                         <p class="main__solicitud">Ejemplo de Solicitud:</p>
                         <p class="main__code"><code>curl http://dominio/api/buenos_aires/departamentos</code>
                         </p>
-                        <p class="main__respuesta">Ejemplo de Respuesta</p>
+                        <p class="main__respuesta">Ejemplo de Respuesta:</p>
                         <div class="main__container-img" data-aos="fade-bottom">
                             <img src="/public/imgs/Departamentos_de_una_Provincia.png" alt="" class="main__img">
                         </div>
@@ -161,7 +160,7 @@
                         <p class="main__code">
                             <code>curl http://dominio/api/buenos_aires/departamentos/Alberti/localidades</code>
                         </p>
-                        <p class="main__respuesta">Ejemplo de Respuesta</p>
+                        <p class="main__respuesta">Ejemplo de Respuesta:</p>
                         <div class="main__container-img" data-aos="fade-bottom">
                             <img src="/public/imgs/Localidades_de_un_departamento.png"
                                 alt="Localidades de un Departamento" class="main__img">
@@ -184,7 +183,7 @@
                         <p class="main__code">
                             <code>curl http://dominio/api/buenos_aires/departamentos/Alberti/localidades/Villa_Ortíz</code>
                         </p>
-                        <p class="main__respuesta">Ejemplo de Respuesta</p>
+                        <p class="main__respuesta">Ejemplo de Respuesta:</p>
                         <div class="main__container-img" data-aos="fade-bottom">
                             <img src="/public/imgs/Localidad_específica.png" alt="Localidad Específica"
                                 class="main__img">
@@ -194,8 +193,8 @@
                     <div class="main__container container-5" data-aos="fade-left">
                         <h4 class="main__subtitle">Manejo de Errores</h4>
                         <ul class="main__ul-items">
-                            <li class="main__li-items"><strong>404 Not Found</strong></li>
-                            <li class="main__li-items"><strong>500 Internal Server Error</strong></li>
+                            <li class="main__li-items"><strong>• 404 Not Found</strong></li>
+                            <li class="main__li-items"><strong>• 500 Internal Server Error</strong></li>
                         </ul>
                         <p class="main__respuesta">Ejemplo de Respuesta de Error</p>
                         <div class="main__container-img" data-aos="fade-bottom">
@@ -224,10 +223,18 @@
                         </div>
                     </div>
 
-                    <p class="info__text">Los datos utilizados han sido extraídos de
-                        <a class="info__text info__link" href="https://es.wikipedia.org/wiki/Wikipedia:Portada"
-                            target="_blank">Wikipedia</a>.
-                    </p>
+                    <ul class="info__ul">Los datos utilizados han sido extraídos de
+                        <div class="container__links">
+                            <li class="info__li"><a class="info__text info__link"
+                                    href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank">Wikipedia</a>
+                            </li>
+                            <li class="info__li">
+                                <a class="info__text info__link" href="https://www.citypopulation.de/"
+                                    target="_blank">City
+                                    Population</a>
+                            </li>
+                        </div>
+                    </ul>
                 </div>
 
                 <div class="container__brands">
@@ -250,7 +257,10 @@
             </div>
 
             <div class="footer__containers footer__containers-derechos">
-                <p class="footer__legalterms">&copy; Derechos reservados a Nicolás Alejandro Tapié</p>
+                <p class="footer__legalterms">&copy; Realizado por <a
+                        href="https://www.linkedin.com/in/nicolasatapiedev30/"
+                        class="contact__link contact__link-name">Nicolás Alejandro
+                        Tapié</a></p>
             </div>
 
         </footer>
