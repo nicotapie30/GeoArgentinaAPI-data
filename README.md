@@ -159,4 +159,4 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 - **Instagram:** 👉​<a href="https://www.instagram.com/nicotapie1/" target="_blank">Instagram</a>
 <br>
 
-**Un fuerte abrazo ❤️**
+<p align="center" style="font-size: 1.5em; font-weight: bold;"><b>Un fuerte abrazo ❤️</b></p>
