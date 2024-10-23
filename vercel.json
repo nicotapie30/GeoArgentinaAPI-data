@@ -5,8 +5,8 @@
             "destination": "/api/index.js"
         },
         {
-            "source": "/(.*)",
-            "destination": "/html/index.html"
+            "source": "/src/html/(.*)",
+            "destination": "/src/html/index.html"
         }
     ]
 }
