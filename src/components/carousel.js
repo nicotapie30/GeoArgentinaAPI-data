@@ -113,7 +113,7 @@ class MyCarousel extends HTMLElement {
                                         <img src="/public/imgs/la-rioja.webp" alt="La Rioja" title="La Rioja">
                                     </div>
                                     <div class="carousel">
-                                        <img src="/public/imgs/lapampa.webp" alt="La Pampa" title="La Pampa">
+                                        <img src="/public/imgs/la-pampa.webp" alt="La Pampa" title="La Pampa">
                                     </div>
                                     <div class="carousel">
                                         <img src="/public/imgs/mendoza.webp" alt="Mendoza" title="Mendoza">
@@ -125,7 +125,7 @@ class MyCarousel extends HTMLElement {
                                         <img src="/public/imgs/neuquen.webp" alt="Neuquen" title="Neuquen">
                                     </div>
                                     <div class="carousel">
-                                        <img src="/public/imgs/rionegro.webp" alt="Río Negro" title="Río Negro">
+                                        <img src="/public/imgs/rio-negro.webp" alt="Río Negro" title="Río Negro">
                                     </div>
                                     <div class="carousel">
                                         <img src="/public/imgs/salta.webp" alt="Salta" title="Salta">
@@ -134,19 +134,19 @@ class MyCarousel extends HTMLElement {
                                         <img src="/public/imgs/san-luis.webp" alt="San Luis" title="San Luis">
                                     </div>
                                     <div class="carousel">
-                                        <img src="/public/imgs/sanjuan.webp" alt="San Juan" title="San Juan">
+                                        <img src="/public/imgs/san-juan.webp" alt="San Juan" title="San Juan">
                                     </div>
                                     <div class="carousel">
                                         <img src="/public/imgs/santa-fe.webp" alt="Santa Fe" title="Santa Fe">
                                     </div>
                                     <div class="carousel">
-                                        <img src="/public/imgs/santacruz.webp" alt="Santa Cruz" title="Santa Cruz">
+                                        <img src="/public/imgs/santa-cruz.webp" alt="Santa Cruz" title="Santa Cruz">
                                     </div>
                                     <div class="carousel">
                                         <img src="/public/imgs/santiago-del-estero.webp" alt="Santiago del Estero" title="Santiago del Estero">
                                     </div>
                                     <div class="carousel">
-                                        <img src="/public/imgs/tierradelfuego.webp" alt="Tierra del Fuego" title="Tierra del Fuego">
+                                        <img src="/public/imgs/tierra-del-fuego.webp" alt="Tierra del Fuego" title="Tierra del Fuego">
                                     </div>
                                     <div class="carousel">
                                         <img src="/public/imgs/tucuman.webp" alt="Tucuman" title="Tucuman">

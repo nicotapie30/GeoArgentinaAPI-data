@@ -29,7 +29,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(to bottom, var(--whitecolor) 8%, #b6b5cb, #b3c6c4);
+    background: linear-gradient(to bottom, var(--whitecolor) 5%, #b6b5cb, #b3c6c4);
+    backdrop-filter: blur(10px);
     overflow: hidden;
 }
 
@@ -258,6 +259,7 @@ my-carousel {
     color: var(--titlecolor);
     text-align: center;
     text-shadow: 0px 0px 2px #333;
+    text-wrap: nowrap;
 }
 
 
@@ -268,6 +270,8 @@ my-carousel {
     font-size: 1.2rem;
     font-weight: 800;
     display: flex;
+    text-wrap: balance;
+    text-wrap: pretty
 }
 
 
@@ -713,4 +717,186 @@ b {
 .contact__link-name {
     font-size: 0.1;
     font-weight: 400;
+}
+
+
+
+
+@media(width < 1024px) {
+    .layout {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    my-carousel {
+        display: flex;
+        justify-content: center;
+    }
+
+    .titles__title {
+        font-size: 2.4rem
+    }
+
+    .titles__subtitle {
+        font-size: 0.7rem;
+    }
+
+    .section__main {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main__container {
+        width: 25rem;
+    }
+
+    .main__img {
+        width: 100%;
+        height: 100%;
+        scale: 0.9;
+    }
+}
+
+
+
+
+@media(width <=768px) {
+
+
+    .titles__title {
+        font-size: 2rem;
+    }
+
+    .main__container-containers {
+        justify-content: center;
+    }
+
+    .main__container {
+        width: 20rem;
+    }
+
+    .main__li-items>code {
+        font-size: 0.4rem;
+    }
+
+    .main__code>code {
+        font-size: 0.4rem;
+        padding: 0.2rem;
+    }
+
+    .footer__containers {
+        width: 90%;
+    }
+}
+
+
+
+
+
+@media(width <=735px) {
+
+    .section__main {
+        width: 90%;
+    }
+
+
+    my-carousel {
+        display: none;
+    }
+
+    .titles__title {
+        font-size: 1.4rem;
+    }
+
+    .titles__subtitle {
+        font-size: 0.6rem;
+    }
+
+    .main__title {
+        font-size: 1.2rem;
+    }
+
+    .main__endpoints {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    .mainlist__text {
+        font-size: 0.8rem;
+        text-align: center;
+    }
+
+
+    .mainlist__item {
+        font-size: 0.5rem;
+    }
+
+
+    .main__container-containers {
+        gap: 4rem;
+    }
+
+    .main__container {
+        width: 12rem;
+        padding: 0.2rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main__li-items>code {
+        font-size: 6px;
+        padding: 0.2rem;
+    }
+
+    .main__li-items>code:last-child {
+        font-size: 5px;
+        padding: 0.2rem;
+        margin: 0%;
+    }
+
+
+    .main__subtitle {
+        font-size: 0.8rem;
+        text-align: center;
+    }
+
+    .main__code>code {
+        font-size: 10rem;
+        padding: 0.2rem 0.1rem;
+    }
+
+    .main__code>code:last-child {
+        font-size: 6px;
+        padding: 0.2rem 0.1rem;
+    }
+
+    .main__img {
+        width: 100%;
+        height: 100%;
+        scale: 0.9;
+    }
+
+    .footer__containers {
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    .container__brands {
+        align-items: center;
+    }
+
+    .contact-1 {
+        align-items: center;
+    }
+
+    .info__ul {
+        text-align: center;
+    }
 }
