@@ -85,6 +85,6 @@ app.get('/api/:dbName/departamentos/:departamento/localidades/:localidad', async
   }
 });
 
-app.listen(3000, () => {
+app.listen(PORT, () => {
   console.log(`Server is running on ${HOST}:${PORT}`);
 });
