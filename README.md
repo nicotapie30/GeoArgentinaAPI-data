@@ -23,14 +23,14 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una lista de todas las Provincias.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `http://dominio/api/provincias`
+**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/provincias`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
 <br>
 
 
-<img src="public/imgs/Todas_las_Provincias.png" alt="Todas las Provincias" style="scale: 0.8;">
+<img src="assets/imgs/Todas_las_Provincias.png" alt="Todas las Provincias" style="scale: 0.8;">
 <br>
 <br>
 
@@ -46,14 +46,14 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `http://dominio/api/buenos_aires`
+**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/buenos_aires`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
 <br>
 
 
-<img src="public/imgs/Provincia_específica.png" alt="Provincia Específica" style="scale: 0.8;">
+<img src="assets/imgs/Provincia_específica.png" alt="Provincia Específica" style="scale: 0.8;">
 <br>
 <br>
 
@@ -69,14 +69,14 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `http://dominio/api/buenos_aires/departamentos`
+**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/buenos_aires/departamentos`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
 <br>
 
 
-<img src="public/imgs/Departamentos_de_una_Provincia.png" alt="Departamentos de una Provincia" style="scale: 0.8;">
+<img src="assets/imgs/Departamentos_de_una_Provincia.png" alt="Departamentos de una Provincia" style="scale: 0.8;">
 <br>
 <br>
 
@@ -92,14 +92,14 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `http://dominio/api/buenos_aires/departamentos/Alberti/localidades`
+**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/buenos_aires/departamentos/Alberti/localidades`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
 <br>
 
 
-<img src="public/imgs/Localidades_de_un_departamento.png" alt="Localidades de un Departamento" style="scale: 0.8;">
+<img src="assets/imgs/Localidades_de_un_departamento.png" alt="Localidades de un Departamento" style="scale: 0.8;">
 <br>
 <br>
 
@@ -115,14 +115,14 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `http://dominio/api/buenos_aires/departamentos/Alberti/localidades/Villa_Ortíz`
+**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/buenos_aires/departamentos/Alberti/localidades/Villa_Ortíz`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
 <br>
 
 
-<img src="public/imgs/Localidad_específica.png" alt="Localidad Específica" style="scale: 0.8;">
+<img src="assets/imgs/Localidad_específica.png" alt="Localidad Específica" style="scale: 0.8;">
 <br>
 <br>
 <br>
@@ -133,7 +133,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **500 Internal Server Error**
 <br>
 
-<img src="public/imgs/Errores.png" alt="Prvincia específica" style="scale: 0.8;">
+<img src="assets/imgs/Errores.png" alt="Prvincia específica" style="scale: 0.8;">
 <br>
 <br>
 <br>
