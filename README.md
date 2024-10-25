@@ -155,7 +155,9 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Muchas Gracias por utilizar la API y mostrar interes en ella!**
 <br>
 <br>
-**Visitá la Web oficial para obtener más información: <a href="https://localidades.vercel.app/">Localidades Argentinas</a>**
+
+**Visitá la Web oficial para obtener más información: <a href="https://localidades.vercel.app/" target="_blank">Localidades Argentinas</a>**
+<br>
 
 **Te agradecería si quieres dar apoyo y marcar con una ⭐ el repositorio. Eres más que bienvenido a realizar cualquier tipo de cambio para que el proyecto crezca y mejore!**
 <br>
