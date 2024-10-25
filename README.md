@@ -23,7 +23,8 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una lista de todas las Provincias.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/provincias`
+**EJEMPLO DE SOLICITUD:** 
+`https://localidades-argentinas-data.vercel.app/api/provincias`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
@@ -46,7 +47,8 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/buenos_aires`
+**EJEMPLO DE SOLICITUD:** 
+`https://localidades-argentinas-data.vercel.app/api/buenos_aires`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
@@ -69,7 +71,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/buenos_aires/departamentos`
+**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data.vercel.app/api/buenos_aires/departamentos`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
@@ -92,7 +94,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/buenos_aires/departamentos/Alberti/localidades`
+**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data.vercel.app/api/buenos_aires/departamentos/Alberti/localidades`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
@@ -115,7 +117,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data/api/buenos_aires/departamentos/Alberti/localidades/Villa_Ortíz`
+**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data.vercel.app/api/buenos_aires/departamentos/Alberti/localidades/Villa_Ortíz`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
@@ -152,6 +154,8 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 ---
 **Muchas Gracias por utilizar la API y mostrar interes en ella!**
 <br>
+<br>
+**Visitá la Web oficial para obtener más información: <a href="https://localidades.vercel.app/">Localidades Argentinas</a>**
 
 **Te agradecería si quieres dar apoyo y marcar con una ⭐ el repositorio. Eres más que bienvenido a realizar cualquier tipo de cambio para que el proyecto crezca y mejore!**
 <br>
