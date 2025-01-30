@@ -834,86 +834,107 @@
             "coordenadas": "32°42′00″S 62°02′00″W",
             "localidades": [
                 {
+                    "localidadId": 155,
                     "localidad": "Alejo_Ledesma",
                     "coordenada": "33°37′00″S 62°37′00″W"
                 },
                 {
+                    "localidadId": 156,
                     "localidad": "Arias",
                     "coordenada": "33°38′00″S 62°25′00″W"
                 },
                 {
+                    "localidadId": 157,
                     "localidad": "Camilo_Aldao",
                     "coordenada": "33°07′47″S 62°06′18″W"
                 },
                 {
+                    "localidadId": 158,
                     "localidad": "Capitán_General_Bernardo_O'Higgins",
                     "coordenada": "33°15′00″S 62°16′00″W"
                 },
                 {
+                    "localidadId": 159,
                     "localidad": "Cavanagh",
                     "coordenada": "33°29′00″S 62°21′00″W"
                 },
                 {
+                    "localidadId": 160,
                     "localidad": "Colonia_Italiana",
                     "coordenada": "33°19′00″S 62°11′00″W"
                 },
                 {
+                    "localidadId": 161,
                     "localidad": "Corral_de_Bustos",
                     "coordenada": "33°17′00″S 62°12′00″W"
                 },
                 {
+                    "localidadId": 162,
                     "localidad": "Cruz_Alta",
                     "coordenada": "33°00′49″S 61°48′03″W"
                 },
                 {
+                    "localidadId": 163,
                     "localidad": "General_Baldissera",
                     "coordenada": "33°07′18″S 62°18′18″W"
                 },
                 {
+                    "localidadId": 164,
                     "localidad": "General_Roca",
                     "coordenada": "32°44′00″S 61°55′00″W"
                 },
                 {
+                    "localidadId": 165,
                     "localidad": "Guatimozín",
                     "coordenada": "33°27′S 62°27′W"
                 },
                 {
+                    "localidadId": 166,
                     "localidad": "Inriville",
                     "coordenada": "32°56′00″S 62°14′00″W"
                 },
                 {
+                    "localidadId": 167,
                     "localidad": "Isla_Verde",
                     "coordenada": "33°14′00″S 62°24′00″W"
                 },
                 {
+                    "localidadId": 168,
                     "localidad": "Leones",
                     "coordenada": "32°39′32″S 62°17′48″W"
                 },
                 {
+                    "localidadId": 169,
                     "localidad": "Los_Surgentes",
                     "coordenada": "32°58′00″S 62°01′00″W"
                 },
                 {
+                    "localidadId": 170,
                     "localidad": "Marcos_Juárez",
                     "coordenada": "32°42′S 62°06′W"
                 },
                 {
+                    "localidadId": 171,
                     "localidad": "Monte_Buey",
                     "coordenada": "32°55′11″S 62°27′22″W"
                 },
                 {
+                    "localidadId": 172,
                     "localidad": "Colonia_Barge",
                     "coordenada": "33°15′22″S 62°36′29″W"
                 },
                 {
+                    "localidadId": 173,
                     "localidad": "Saladillo",
                     "coordenada": "32°56′06″S 62°20′42″W"
                 },
                 {
+                    "localidadId": 174,
                     "localidad": "Villa_Elisa",
                     "coordenada": "32°50′00″S 62°18′00″W"
                 },
                 {
+                    "localidadId": 175,
                     "localidad": "Colonia_Veinticinco",
                     "coordenada": "32°53′06″S 61°59′42″W"
                 }
@@ -925,34 +946,42 @@
             "coordenadas": "31°11′00″S 65°05′00″W",
             "localidades": [
                 {
+                    "localidadId": 176,
                     "localidad": "San_Carlos_Minas",
                     "coordenada": "31°10′39″S 65°06′09″W"
                 },
                 {
+                    "localidadId": 177,
                     "localidad": "Ciénaga_del_Coro",
                     "coordenada": "31°02′28″S 65°16′55″W"
                 },
                 {
+                    "localidadId": 178,
                     "localidad": "El_Chacho",
                     "coordenada": "30°48′00″S 65°39′18″W"
                 },
                 {
+                    "localidadId": 179,
                     "localidad": "Estancia_de_Guadalupe",
                     "coordenada": "31°06′25″S 65°16′12″W"
                 },
                 {
+                    "localidadId": 180,
                     "localidad": "Guasapampa",
                     "coordenada": "31°04′26″S 65°20′53″W"
                 },
                 {
+                    "localidadId": 181,
                     "localidad": "La_Playa",
                     "coordenada": "31°00′32″S 65°21′40″W"
                 },
                 {
+                    "localidadId": 182,
                     "localidad": "Talaini",
                     "coordenada": "31°14′56″S 65°10′12″W"
                 },
                 {
+                    "localidadId": 183,
                     "localidad": "Tosno",
                     "coordenada": "30°57′42″S 65°18′40″W"
                 }
@@ -964,34 +993,42 @@
             "coordenadas": "31°19′00″S 65°04′00″W",
             "localidades": [
                 {
+                    "localidadId": 184,
                     "localidad": "Salsacate",
                     "coordenada": "31°19′00″S 65°04′00″W"
                 },
                 {
+                    "localidadId": 185,
                     "localidad": "Chancaní",
                     "coordenada": "31°25′00″S 65°27′25″W"
                 },
                 {
+                    "localidadId": 186,
                     "localidad": "Las_Palmas",
                     "coordenada": "31°07′28″S 65°17′58″W"
                 },
                 {
+                    "localidadId": 187,
                     "localidad": "Los_Talares",
                     "coordenada": "31°08′00″S 65°28′00″W"
                 },
                 {
+                    "localidadId": 188,
                     "localidad": "San_Gerónimo",
                     "coordenada": "31°20′18″S 64°56′10″W"
                 },
                 {
+                    "localidadId": 189,
                     "localidad": "Tala_Cañada",
                     "coordenada": "31°21′23″S 64°58′02″W"
                 },
                 {
+                    "localidadId": 190,
                     "localidad": "Villa_de_Pocho",
                     "coordenada": "31°29′25″S 65°16′55″W"
                 },
                 {
+                    "localidadId": 191,
                     "localidad": "Taninga",
                     "coordenada": "31°20′46″S 65°04′46″W"
                 }
@@ -1003,42 +1040,52 @@
             "coordenadas": "34°04′00″S 63°23′00″W",
             "localidades": [
                 {
+                    "localidadId": 192,
                     "localidad": "General_Levalle",
                     "coordenada": "34°01′00″S 63°55′00″W"
                 },
                 {
+                    "localidadId": 193,
                     "localidad": "La_Cesira",
                     "coordenada": "33°57′00″S 62°59′00″W"
                 },
                 {
+                    "localidadId": 194,
                     "localidad": "Laboulaye",
                     "coordenada": "34°07′36″S 63°23′28″W"
                 },
                 {
+                    "localidadId": 195,
                     "localidad": "Melo",
                     "coordenada": "34°20′53″S 63°26′49″W"
                 },
                 {
+                    "localidadId": 196,
                     "localidad": "Rosales",
                     "coordenada": "34°10′23″S 63°09′14″W"
                 },
                 {
+                    "localidadId": 197,
                     "localidad": "Serrano",
                     "coordenada": "34°28′11″S 63°32′18″W"
                 },
                 {
+                    "localidadId": 198,
                     "localidad": "Villa_Rossi",
                     "coordenada": "34°19′00″S 63°15′58″W"
                 },
                 {
+                    "localidadId": 199,
                     "localidad": "Leguizamón",
                     "coordenada": "34°12′11″S 62°58′26″W"
                 },
                 {
+                    "localidadId": 200,
                     "localidad": "Riobamba",
                     "coordenada": "34°03′05″S 63°44′02″W"
                 },
                 {
+                    "localidadId": 201,
                     "localidad": "San_Joaquín",
                     "coordenada": "34°30′42″S 63°42′29″W"
                 }
@@ -1050,130 +1097,162 @@
             "coordenadas": "31°15′S 64°27′W",
             "localidades": [
                 {
+                    "localidadId": 202,
                     "localidad": "Bialet_Massé",
                     "coordenada": "31°19′17″S 64°28′10″W"
                 },
                 {
+                    "localidadId": 203,
                     "localidad": "Capilla_del_Monte",
                     "coordenada": "30°51′00″S 64°31′00″W"
                 },
                 {
+                    "localidadId": 204,
                     "localidad": "Cosquín",
                     "coordenada": "31°14′38″S 64°28′00″W"
                 },
                 {
+                    "localidadId": 205,
                     "localidad": "Huerta_Grande",
                     "coordenada": "31°04′31″S 64°29′23″W"
                 },
                 {
+                    "localidadId": 206,
                     "localidad": "La_Cumbre",
                     "coordenada": "30°58′59″S 64°29′39″W"
                 },
                 {
+                    "localidadId": 207,
                     "localidad": "La_Falda",
                     "coordenada": "31°05′00″S 64°30′00″W"
                 },
                 {
+                    "localidadId": 208,
                     "localidad": "Los_Cocos",
                     "coordenada": "30°56′14″S 64°29′36″W"
                 },
                 {
+                    "localidadId": 209,
                     "localidad": "San_Antonio_de_Arredondo",
                     "coordenada": "31°29′02″S 64°32′02″W"
                 },
                 {
+                    "localidadId": 210,
                     "localidad": "San_Esteban",
                     "coordenada": "30°55′26″S 64°32′07″W"
                 },
                 {
+                    "localidadId": 211,
                     "localidad": "Santa_María",
                     "coordenada": "31°15′40″S 64°27′50″W"
                 },
                 {
+                    "localidadId": 212,
                     "localidad": "Tanti",
                     "coordenada": "31°21′17″S 64°35′33″W"
                 },
                 {
+                    "localidadId": 213,
                     "localidad": "Valle_Hermoso",
                     "coordenada": "31°07′01″S 64°28′59″W"
                 },
                 {
+                    "localidadId": 214,
                     "localidad": "Villa_Carlos_Paz",
                     "coordenada": "31°24′00″S 64°31′00″W"
                 },
                 {
+                    "localidadId": 215,
                     "localidad": "Villa_Giardino",
                     "coordenada": "31°03′01″S 64°29′49″W"
                 },
                 {
+                    "localidadId": 216,
                     "localidad": "Villa_Icho_Cruz",
                     "coordenada": "31°28′44″S 64°33′47″W"
                 },
                 {
+                    "localidadId": 217,
                     "localidad": "Villa_Santa_Cruz_del_Lago",
                     "coordenada": "31°22′05″S 64°31′12″W"
                 },
                 {
+                    "localidadId": 218,
                     "localidad": "Cabalango",
                     "coordenada": "31°23′35″S 64°33′32″W"
                 },
                 {
+                    "localidadId": 219,
                     "localidad": "Casa_Grande",
                     "coordenada": "31°09′14″S 64°28′26″W"
                 },
                 {
+                    "localidadId": 220,
                     "localidad": "Charbonier",
                     "coordenada": "30°46′30″S 64°32′35″W"
                 },
                 {
+                    "localidadId": 221,
                     "localidad": "Cuesta_Blanca",
                     "coordenada": "31°28′56″S 64°34′21″W"
                 },
                 {
+                    "localidadId": 222,
                     "localidad": "Estancia_Vieja",
                     "coordenada": "31°23′55″S 64°31′14″W"
                 },
                 {
+                    "localidadId": 223,
                     "localidad": "Mayu_Sumaj",
                     "coordenada": "31°28′13″S 64°32′38″W"
                 },
                 {
+                    "localidadId": 224,
                     "localidad": "San_Roque",
                     "coordenada": "31°20′17″S 64°27′14″W"
                 },
                 {
+                    "localidadId": 225,
                     "localidad": "Tala_Huasi",
                     "coordenada": "31°28′20″S 64°33′50″W"
                 },
                 {
+                    "localidadId": 226,
                     "localidad": "Villa_Parque_Siquiman",
                     "coordenada": "31°20′46″S 64°28′44″W"
                 },
                 {
+                    "localidadId": 227,
                     "localidad": "Barrio_Santa_Isabel",
                     "coordenada": "30°47′28″S 64°32′38″W"
                 },
                 {
+                    "localidadId": 228,
                     "localidad": "Quebrada_de_Luna",
                     "coordenada": "30°46′41″S 64°29′53″W"
                 },
                 {
+                    "localidadId": 229,
                     "localidad": "Las_Jarillas",
                     "coordenada": "31°32′02″S 64°32′53″W"
                 },
                 {
+                    "localidadId": 230,
                     "localidad": "Mallín",
                     "coordenada": "31°17′57″S 64°34′20″W"
                 },
                 {
+                    "localidadId": 231,
                     "localidad": "San_José_de_los_Ríos",
                     "coordenada": "31°16′42″S 64°33′42″W"
                 },
                 {
+                    "localidadId": 232,
                     "localidad": "Villa_Flor_Serrana",
                     "coordenada": "31°23′28″S 64°35′38″W"
                 },
                 {
+                    "localidadId": 233,
                     "localidad": "Villa_Lago_Azul",
                     "coordenada": "31°22′26″S 64°28′52″W"
                 }
@@ -1185,126 +1264,157 @@
             "coordenadas": "33°08′00″S 64°20′00″W",
             "localidades": [
                 {
+                    "localidadId": 234,
                     "localidad": "Achiras",
                     "coordenada": "33°10′00″S 65°00′00″W"
                 },
                 {
+                    "localidadId": 235,
                     "localidad": "Adelia_María",
                     "coordenada": "33°38′09″S 64°00′57″W"
                 },
                 {
+                    "localidadId": 236,
                     "localidad": "Alcira_Gigena",
                     "coordenada": "32°45′32″S 64°20′03″W"
                 },
                 {
+                    "localidadId": 237,
                     "localidad": "Alpa_Corral",
                     "coordenada": "32°41′24″S 64°43′16″W"
                 },
                 {
+                    "localidadId": 238,
                     "localidad": "Berrotarán",
                     "coordenada": "32°27′10″S 64°23′17″W"
                 },
                 {
+                    "localidadId": 239,
                     "localidad": "Bulnes",
                     "coordenada": "33°31′06″S 64°41′00″W"
                 },
                 {
+                    "localidadId": 240,
                     "localidad": "Chaján",
                     "coordenada": "33°33′S 65°00′W"
                 },
                 {
+                    "localidadId": 241,
                     "localidad": "Coronel_Baigorria",
                     "coordenada": "32°50′50″S 64°21′40″W"
                 },
                 {
+                    "localidadId": 242,
                     "localidad": "Coronel_Moldes",
                     "coordenada": "33°37′22″S 64°35′50″W"
                 },
                 {
+                    "localidadId": 243,
                     "localidad": "Elena",
                     "coordenada": "32°33′20″S 64°23′47″W"
                 },
                 {
+                    "localidadId": 244,
                     "localidad": "La_Cautiva",
                     "coordenada": "33°58′44″S 64°05′00″W"
                 },
                 {
+                    "localidadId": 245,
                     "localidad": "Las_Acequias",
                     "coordenada": "33°16′48″S 63°58′30″W"
                 },
                 {
+                    "localidadId": 246,
                     "localidad": "Las_Higueras",
                     "coordenada": "33°05′32″S 64°17′20″W"
                 },
                 {
+                    "localidadId": 247,
                     "localidad": "Las_Vertientes",
                     "coordenada": "33°17′00″S 64°34′40″W"
                 },
                 {
+                    "localidadId": 248,
                     "localidad": "Monte_de_Los_Gauchos",
                     "coordenada": "33°38′21″S 63°53′22″W"
                 },
                 {
+                    "localidadId": 249,
                     "localidad": "Río_Cuarto",
                     "coordenada": "33°07′23″S 64°20′52″W"
                 },
                 {
+                    "localidadId": 250,
                     "localidad": "Sampacho",
                     "coordenada": "33°23′03″S 64°43′22″W"
                 },
                 {
+                    "localidadId": 251,
                     "localidad": "San_Basilio",
                     "coordenada": "33°29′53″S 64°18′50″W"
                 },
                 {
+                    "localidadId": 252,
                     "localidad": "Santa_Catalina",
                     "coordenada": "33°12′21″S 64°26′11″W"
                 },
                 {
+                    "localidadId": 253,
                     "localidad": "Tosquita",
                     "coordenada": "33°49′08″S 64°27′25″W"
                 },
                 {
+                    "localidadId": 254,
                     "localidad": "Vicuña_Mackenna",
                     "coordenada": "33°54′56″S 64°23′23″W"
                 },
                 {
+                    "localidadId": 255,
                     "localidad": "Chucul",
                     "coordenada": "33°00′41″S 64°10′13″W"
                 },
                 {
+                    "localidadId": 256,
                     "localidad": "La_Carolina",
                     "coordenada": "33°11′17″S 64°43′33″W"
                 },
                 {
+                    "localidadId": 257,
                     "localidad": "Las_Albahacas",
                     "coordenada": "32°53′20″S 64°50′35″W"
                 },
                 {
+                    "localidadId": 258,
                     "localidad": "Las_Peñas_Sud",
                     "coordenada": "32°32′06″S 64°06′18″W"
                 },
                 {
+                    "localidadId": 259,
                     "localidad": "Malena",
                     "coordenada": "33°29′20″S 64°25′55″W"
                 },
                 {
+                    "localidadId": 260,
                     "localidad": "Suco",
                     "coordenada": "33°26′20″S 64°50′00″W"
                 },
                 {
+                    "localidadId": 261,
                     "localidad": "Villa_El_Chacay",
                     "coordenada": "32°53′35″S 64°52′01″W"
                 },
                 {
+                    "localidadId": 262,
                     "localidad": "Washington",
                     "coordenada": "33°52′34″S 64°41′20″W"
                 },
                 {
+                    "localidadId": 263,
                     "localidad": "La_Gilda",
                     "coordenada": "33°12′25″S 64°15′29″W"
                 },
                 {
+                    "localidadId": 264,
                     "localidad": "Unión_de_los_Ríos",
                     "coordenada": "32°39′43″S 64°44′28″W"
                 }
@@ -1316,110 +1426,137 @@
             "coordenadas": "31°08′00″S 63°22′00″W",
             "localidades": [
                 {
+                    "localidadId": 265,
                     "localidad": "La_Para",
                     "coordenada": "30°53′35″S 63°00′00″W"
                 },
                 {
+                    "localidadId": 266,
                     "localidad": "La_Puerta",
                     "coordenada": "30°53′24″S 63°15′11″W"
                 },
                 {
+                    "localidadId": 267,
                     "localidad": "Monte_Cristo",
                     "coordenada": "31°20′35″S 63°56′40″W"
                 },
                 {
+                    "localidadId": 268,
                     "localidad": "Obispo_Trejo",
                     "coordenada": "30°46′51″S 63°24′40″W"
                 },
                 {
+                    "localidadId": 269,
                     "localidad": "Piquillín",
                     "coordenada": "31°17′59″S 63°45′31″W"
                 },
                 {
+                    "localidadId": 270,
                     "localidad": "Río_Primero",
                     "coordenada": "31°20′00″S 63°37′00″W"
                 },
                 {
+                    "localidadId": 271,
                     "localidad": "Villa_Santa_Rosa",
                     "coordenada": "31°09′00″S 63°23′00″W"
                 },
                 {
+                    "localidadId": 272,
                     "localidad": "Villa_Fontana",
                     "coordenada": "30°53′38″S 63°07′01″W"
                 },
                 {
+                    "localidadId": 273,
                     "localidad": "Atahona",
                     "coordenada": "30°54′11″S 63°42′22″W"
                 },
                 {
+                    "localidadId": 274,
                     "localidad": "Cañada_de_Machado",
                     "coordenada": "31°25′41″S 63°35′10″W"
                 },
                 {
+                    "localidadId": 275,
                     "localidad": "Capilla_de_los_Remedios",
                     "coordenada": "31°25′48″S 63°49′55″W"
                 },
                 {
+                    "localidadId": 276,
                     "localidad": "Chalacea",
                     "coordenada": "30°45′43″S 63°33′32″W"
                 },
                 {
+                    "localidadId": 277,
                     "localidad": "Colonia_Las_Cuatro_Esquinas",
                     "coordenada": "31°12′27″S 63°13′24″W"
                 },
                 {
+                    "localidadId": 278,
                     "localidad": "Comechingones",
                     "coordenada": "31°10′17″S 63°36′20″W"
                 },
                 {
+                    "localidadId": 279,
                     "localidad": "Diego_de_Rojas",
                     "coordenada": "31°01′44″S 63°20′20″W"
                 },
                 {
+                    "localidadId": 280,
                     "localidad": "El_Crispín",
                     "coordenada": "31°01′05″S 63°36′22″W"
                 },
                 {
+                    "localidadId": 281,
                     "localidad": "Esquina",
                     "coordenada": "31°04′40″S 63°47′37″W"
                 },
                 {
+                    "localidadId": 282,
                     "localidad": "Kilómetro_658",
                     "coordenada": "31°22′12″S 63°31′52″W"
                 },
                 {
+                    "localidadId": 283,
                     "localidad": "La_Posta",
                     "coordenada": "30°33′54″S 63°30′58″W"
                 },
                 {
+                    "localidadId": 284,
                     "localidad": "La_Quinta",
                     "coordenada": "31°03′43″S 63°09′04″W"
                 },
                 {
+                    "localidadId": 285,
                     "localidad": "Las_Gramillas",
                     "coordenada": "31°07′55″S 63°13′41″W"
                 },
                 {
+                    "localidadId": 286,
                     "localidad": "Las_Saladas",
                     "coordenada": "30°45′33″S 63°12′15″W"
                 },
                 {
+                    "localidadId": 287,
                     "localidad": "Maquinista_Gallini",
                     "coordenada": "30°54′25″S 63°31′55″W"
                 },
                 {
+                    "localidadId": 288,
                     "localidad": "Plaza_de_Mercedes",
                     "coordenada": "30°58′41″S 63°15′40″W"
                 },
                 {
+                    "localidadId": 289,
                     "localidad": "Sagrada_Familia",
                     "coordenada": "31°17′20″S 63°26′42″W"
                 },
                 {
+                    "localidadId": 290,
                     "localidad": "El_Alcalde",
                     "coordenada": "31°07′01″S 63°36′07″W"
                 },
                 {
+                    "localidadId": 291,
                     "localidad": "Monte_del_Rosario",
                     "coordenada": "30°58′55″S 63°36′07″W"
                 }
@@ -1431,54 +1568,67 @@
             "coordenadas": "29°53′00″S 63°43′00″W",
             "localidades": [
                 {
+                    "localidadId": 292,
                     "localidad": "Sebastián_Elcano",
                     "coordenada": "30°09′39″S 63°35′32″W"
                 },
                 {
+                    "localidadId": 293,
                     "localidad": "Villa_de_María",
                     "coordenada": "29°54′19″S 63°43′20″W"
                 },
                 {
+                    "localidadId": 294,
                     "localidad": "Cerro_Colorado",
                     "coordenada": "30°05′49″S 63°55′52″W"
                 },
                 {
+                    "localidadId": 295,
                     "localidad": "Chañar_Viejo",
                     "coordenada": "29°59′56″S 63°51′04″W"
                 },
                 {
+                    "localidadId": 296,
                     "localidad": "Eufrasio_Loza",
                     "coordenada": "29°55′34″S 63°35′20″W"
                 },
                 {
+                    "localidadId": 297,
                     "localidad": "Gutemberg",
                     "coordenada": "29°43′19″S 63°30′54″W"
                 },
                 {
+                    "localidadId": 298,
                     "localidad": "La_Rinconada",
                     "coordenada": "30°10′59″S 62°56′46″W"
                 },
                 {
+                    "localidadId": 299,
                     "localidad": "Los_Hoyos",
                     "coordenada": "29°48′09″S 63°37′39″W"
                 },
                 {
+                    "localidadId": 300,
                     "localidad": "Puesto_de_Castro",
                     "coordenada": "30°16′13″S 63°25′23″W"
                 },
                 {
+                    "localidadId": 301,
                     "localidad": "Rayo_Cortado",
                     "coordenada": "30°04′23″S 63°49′23″W"
                 },
                 {
+                    "localidadId": 302,
                     "localidad": "Santa_Elena",
                     "coordenada": "30°06′54″S 63°50′31″W"
                 },
                 {
+                    "localidadId": 303,
                     "localidad": "Villa_Candelaria_Norte",
                     "coordenada": "29°48′43″S 63°21′14″W"
                 },
                 {
+                    "localidadId": 304,
                     "localidad": "San_Pedro_de_Gütemberg",
                     "coordenada": "29°41′49″S 63°33′40″W"
                 }
@@ -1490,86 +1640,107 @@
             "coordenadas": "31°45′24″S 63°36′36″W",
             "localidades": [
                 {
+                    "localidadId": 305,
                     "localidad": "Calchín",
                     "coordenada": "31°40′00″S 63°12′00″W"
                 },
                 {
+                    "localidadId": 306,
                     "localidad": "Calchín_Oeste",
                     "coordenada": "31°51′43″S 63°16′36″W"
                 },
                 {
+                    "localidadId": 307,
                     "localidad": "Capilla_del_Carmen",
                     "coordenada": "31°30′35″S 63°20′30″W"
                 },
                 {
+                    "localidadId": 308,
                     "localidad": "Carrilobo",
                     "coordenada": "31°52′23″S 63°07′02″W"
                 },
                 {
+                    "localidadId": 309,
                     "localidad": "Colazo",
                     "coordenada": "31°57′54″S 63°22′55″W"
                 },
                 {
+                    "localidadId": 310,
                     "localidad": "Costa_Sacate",
                     "coordenada": "31°38′50″S 63°45′36″W"
                 },
                 {
+                    "localidadId": 311,
                     "localidad": "Laguna_Larga",
                     "coordenada": "31°46′35″S 63°48′04″W"
                 },
                 {
+                    "localidadId": 312,
                     "localidad": "Las_Junturas",
                     "coordenada": "31°49′52″S 63°27′04″W"
                 },
                 {
+                    "localidadId": 313,
                     "localidad": "Luque",
                     "coordenada": "31°38′50″S 63°20′45″W"
                 },
                 {
+                    "localidadId": 314,
                     "localidad": "Manfredi",
                     "coordenada": "31°51′S 63°45′W"
                 },
                 {
+                    "localidadId": 315,
                     "localidad": "Matorrales",
                     "coordenada": "31°42′50″S 63°30′40″W"
                 },
                 {
+                    "localidadId": 316,
                     "localidad": "Oncativo",
                     "coordenada": "31°54′48″S 63°40′54″W"
                 },
                 {
+                    "localidadId": 317,
                     "localidad": "Pilar",
                     "coordenada": "31°41′00″S 63°54′00″W"
                 },
                 {
+                    "localidadId": 318,
                     "localidad": "Pozo_del_Molle",
                     "coordenada": "32°02′00″S 62°55′00″W"
                 },
                 {
+                    "localidadId": 319,
                     "localidad": "Río_Segundo",
                     "coordenada": "31°39′01″S 63°54′42″W"
                 },
                 {
+                    "localidadId": 320,
                     "localidad": "Santiago_Temple",
                     "coordenada": "31°23′15″S 63°24′57″W"
                 },
                 {
+                    "localidadId": 321,
                     "localidad": "Villa_del_Rosario",
                     "coordenada": "31°35′00″S 63°32′00″W"
                 },
                 {
+                    "localidadId": 322,
                     "localidad": "Colonia_Videla",
                     "coordenada": "31°55′01″S 63°30′14″W"
                 },
                 {
+                    "localidadId": 323,
                     "localidad": "Impira",
                     "coordenada": "31°47′49″S 63°39′00″W"
                 },
                 {
+                    "localidadId": 324,
                     "localidad": "Los_Chañaritos",
                     "coordenada": "31°24′13″S 63°20′00″W"
                 },
                 {
+                    "localidadId": 325,
                     "localidad": "Rincón",
                     "coordenada": "31°36′00″S 63°37′00″W"
                 }
@@ -1581,86 +1752,107 @@
             "coordenadas": "31°40′00″S 65°01′00″W",
             "localidades": [
                 {
+                    "localidadId": 326,
                     "localidad": "Mina_Clavero",
                     "coordenada": "31°43′26″S 65°00′18″W"
                 },
                 {
+                    "localidadId": 327,
                     "localidad": "Nono",
                     "coordenada": "31°48′S 65°00′W"
                 },
                 {
+                    "localidadId": 328,
                     "localidad": "San_Pedro",
                     "coordenada": "31°56′11″S 65°13′08″W"
                 },
                 {
+                    "localidadId": 329,
                     "localidad": "Villa_Cura_Brochero",
                     "coordenada": "31°43′S 65°01′W"
                 },
                 {
+                    "localidadId": 330,
                     "localidad": "Villa_Sarmiento",
                     "coordenada": "31°56′06″S 65°11′32″W"
                 },
                 {
+                    "localidadId": 331,
                     "localidad": "Ámbul",
                     "coordenada": "31°29′20″S 65°03′18″W"
                 },
                 {
+                    "localidadId": 332,
                     "localidad": "Arroyo_de_Los_Patos",
                     "coordenada": "31°46′08″S 65°00′00″W"
                 },
                 {
+                    "localidadId": 333,
                     "localidad": "Las_Calles",
                     "coordenada": "31°48′48″S 64°57′37″W"
                 },
                 {
+                    "localidadId": 334,
                     "localidad": "Las_Rabonas",
                     "coordenada": "31°51′47″S 64°58′39″W"
                 },
                 {
+                    "localidadId": 335,
                     "localidad": "Panaholma",
                     "coordenada": "31°37′58″S 65°03′18″W"
                 },
                 {
+                    "localidadId": 336,
                     "localidad": "San_Lorenzo",
                     "coordenada": "31°40′12″S 65°01′05″W"
                 },
                 {
+                    "localidadId": 337,
                     "localidad": "San_Vicente",
                     "coordenada": "31°51′02″S 65°25′50″W"
                 },
                 {
+                    "localidadId": 338,
                     "localidad": "Sauce_Arriba",
                     "coordenada": "31°55′40″S 65°09′03″W"
                 },
                 {
+                    "localidadId": 339,
                     "localidad": "El_Huayco",
                     "coordenada": "31°50′46″S 64°57′25″W"
                 },
                 {
+                    "localidadId": 340,
                     "localidad": "La_Cortadera",
                     "coordenada": "31°40′01″S 65°22′37″W"
                 },
                 {
+                    "localidadId": 341,
                     "localidad": "Las_Oscuras",
                     "coordenada": "31°38′31″S 65°19′37″W"
                 },
                 {
+                    "localidadId": 342,
                     "localidad": "Los_Callejones",
                     "coordenada": "31°55′34″S 65°14′17″W"
                 },
                 {
+                    "localidadId": 343,
                     "localidad": "Mussi",
                     "coordenada": "31°26′10″S 65°03′58″W"
                 },
                 {
+                    "localidadId": 344,
                     "localidad": "San_Huberto",
                     "coordenada": "31°50′06″S 64°59′35″W"
                 },
                 {
+                    "localidadId": 345,
                     "localidad": "San_Martín",
                     "coordenada": "31°53′06″S 65°28′41″W"
                 },
                 {
+                    "localidadId": 346,
                     "localidad": "Tasna",
                     "coordenada": "31°37′44″S 65°09′29″W"
                 }
@@ -1672,46 +1864,57 @@
             "coordenadas": "31°56′00″S 65°12′00″W",
             "localidades": [
                 {
+                    "localidadId": 347,
                     "localidad": "La_Paz",
                     "coordenada": "32°13′03″S 65°02′54″W"
                 },
                 {
+                    "localidadId": 348,
                     "localidad": "Las_Tapias",
                     "coordenada": "31°57′36″S 65°05′39″W"
                 },
                 {
+                    "localidadId": 349,
                     "localidad": "Los_Cerrillos",
                     "coordenada": "31°58′21″S 65°26′39″W"
                 },
                 {
+                    "localidadId": 350,
                     "localidad": "San_Javier_y_Yacanto",
                     "coordenada": "32°02′00″S 65°03′00″W"
                 },
                 {
+                    "localidadId": 351,
                     "localidad": "San_José",
                     "coordenada": "31°57′23″S 65°18′50″W"
                 },
                 {
+                    "localidadId": 352,
                     "localidad": "Villa_de_Las_Rosas",
                     "coordenada": "31°57′01″S 65°03′13″W"
                 },
                 {
+                    "localidadId": 353,
                     "localidad": "Villa_Dolores",
                     "coordenada": "31°56′00″S 65°12′00″W"
                 },
                 {
+                    "localidadId": 354,
                     "localidad": "Conlara",
                     "coordenada": "32°04′46″S 65°13′50″W"
                 },
                 {
+                    "localidadId": 355,
                     "localidad": "La_Población",
                     "coordenada": "32°03′45″S 65°01′16″W"
                 },
                 {
+                    "localidadId": 356,
                     "localidad": "Los_Hornillos",
                     "coordenada": "31°54′13″S 64°59′22″W"
                 },
                 {
+                    "localidadId": 357,
                     "localidad": "Luyaba",
                     "coordenada": "32°08′56″S 65°03′25″W"
                 }
@@ -1723,182 +1926,227 @@
             "coordenadas": "31°26′00″S 62°04′00″W",
             "localidades": [
                 {
+                    "localidadId": 358,
                     "localidad": "Alicia",
                     "coordenada": "31°56′18″S 62°27′50″W"
                 },
                 {
+                    "localidadId": 359,
                     "localidad": "Altos_de_Chipión",
                     "coordenada": "30°57′11″S 62°20′23″W"
                 },
                 {
+                    "localidadId": 360,
                     "localidad": "Arroyito",
                     "coordenada": "31°25′00″S 63°03′00″W"
                 },
                 {
+                    "localidadId": 361,
                     "localidad": "Balnearia",
                     "coordenada": "31°00′00″S 62°40′00″W"
                 },
                 {
+                    "localidadId": 362,
                     "localidad": "Brinkmann",
                     "coordenada": "30°52′01″S 62°02′01″W"
                 },
                 {
+                    "localidadId": 363,
                     "localidad": "Colonia_Marina",
                     "coordenada": "31°14′56″S 62°21′44″W"
                 },
                 {
+                    "localidadId": 364,
                     "localidad": "Colonia_Prosperidad",
                     "coordenada": "31°37′50″S 62°22′30″W"
                 },
                 {
+                    "localidadId": 365,
                     "localidad": "Colonia_San_Bartolomé",
                     "coordenada": "31°31′50″S 62°43′20″W"
                 },
                 {
+                    "localidadId": 366,
                     "localidad": "Colonia_Vignaud",
                     "coordenada": "30°49′58″S 61°57′00″W"
                 },
                 {
+                    "localidadId": 367,
                     "localidad": "Devoto",
                     "coordenada": ""
                 },
                 {
+                    "localidadId": 368,
                     "localidad": "El_Arañado",
                     "coordenada": "31°44′28″S 62°53′35″W"
                 },
                 {
+                    "localidadId": 369,
                     "localidad": "El_Fortín",
                     "coordenada": "31°58′S 62°18′W"
                 },
                 {
+                    "localidadId": 370,
                     "localidad": "El_Tío",
                     "coordenada": "31°23′01″S 62°49′46″W"
                 },
                 {
+                    "localidadId": 371,
                     "localidad": "Freyre",
                     "coordenada": "31°09′54″S 62°06′16″W"
                 },
                 {
+                    "localidadId": 372,
                     "localidad": "La_Francia",
                     "coordenada": "31°24′22″S 62°38′02″W"
                 },
                 {
+                    "localidadId": 373,
                     "localidad": "La_Paquita",
                     "coordenada": "30°54′S 62°12′W"
                 },
                 {
+                    "localidadId": 374,
                     "localidad": "La_Tordilla",
                     "coordenada": "31°14′52″S 63°03′44″W"
                 },
                 {
+                    "localidadId": 375,
                     "localidad": "Las_Varas",
                     "coordenada": "31°48′09″S 62°37′00″W"
                 },
                 {
+                    "localidadId": 376,
                     "localidad": "Las_Varillas",
                     "coordenada": "31°52′20″S 62°43′10″W"
                 },
                 {
+                    "localidadId": 377,
                     "localidad": "Marull",
                     "coordenada": "30°59′37″S 62°49′31″W"
                 },
                 {
+                    "localidadId": 378,
                     "localidad": "Miramar",
                     "coordenada": "30°54′53″S 62°40′12″W"
                 },
                 {
+                    "localidadId": 379,
                     "localidad": "Porteña",
                     "coordenada": "31°00′50″S 62°03′59″W"
                 },
                 {
+                    "localidadId": 380,
                     "localidad": "Morteros",
                     "coordenada": "30°42′42″S 61°59′55″W"
                 },
                 {
+                    "localidadId": 381,
                     "localidad": "Quebracho_Herrado",
                     "coordenada": "31°33′00″S 62°13′30″W"
                 },
                 {
+                    "localidadId": 382,
                     "localidad": "Sacanta",
                     "coordenada": "31°40′00″S 63°03′00″W"
                 },
                 {
+                    "localidadId": 383,
                     "localidad": "San_Francisco",
                     "coordenada": "31°26′08″S 62°04′17″W"
                 },
                 {
+                    "localidadId": 384,
                     "localidad": "Saturnino_María_Laspiur",
                     "coordenada": "31°42′09″S 62°29′00″W"
                 },
                 {
+                    "localidadId": 385,
                     "localidad": "Seeber",
                     "coordenada": "30°55′22″S 61°58′32″W"
                 },
                 {
+                    "localidadId": 386,
                     "localidad": "Tránsito",
                     "coordenada": "31°25′27″S 63°11′40″W"
                 },
                 {
+                    "localidadId": 387,
                     "localidad": "Villa_Concepción_del_Tío",
                     "coordenada": "31°19′20″S 62°48′30″W"
                 },
                 {
+                    "localidadId": 388,
                     "localidad": "Colonia_Anita",
                     "coordenada": "31°07′46″S 62°13′53″W"
                 },
                 {
+                    "localidadId": 389,
                     "localidad": "Colonia_Iturraspe",
                     "coordenada": "31°12′29″S 62°06′36″W"
                 },
                 {
+                    "localidadId": 390,
                     "localidad": "Colonia_Las_Pichanas",
                     "coordenada": "31°14′44″S 62°55′31″W"
                 },
                 {
+                    "localidadId": 391,
                     "localidad": "Colonia_San_Pedro",
                     "coordenada": "30°47′00″S 61°55′00″W"
                 },
                 {
+                    "localidadId": 392,
                     "localidad": "Colonia_Valtelina",
                     "coordenada": "31°03′07″S 62°14′06″W"
                 },
                 {
+                    "localidadId": 393,
                     "localidad": "Plaza_Luxardo",
                     "coordenada": "31°18′05″S 62°13′47″W"
                 },
                 {
+                    "localidadId": 394,
                     "localidad": "Toro_Pujio",
                     "coordenada": "31°06′32″S 62°59′10″W"
                 },
                 {
+                    "localidadId": 395,
                     "localidad": "Villa_San_Esteban",
                     "coordenada": "31°38′04″S 62°53′50″W"
                 },
                 {
+                    "localidadId": 396,
                     "localidad": "Colonia_Diez_de_Julio",
                     "coordenada": "30°31′36″S 62°06′48″W"
                 },
                 {
+                    "localidadId": 397,
                     "localidad": "Colonia_Santa_María",
                     "coordenada": "31°36′25″S 62°25′44″W"
                 },
                 {
+                    "localidadId": 398,
                     "localidad": "El_Fuertecito",
                     "coordenada": "31°24′14″S 62°58′19″W"
                 },
                 {
+                    "localidadId": 399,
                     "localidad": "Estación_Luxardo",
                     "coordenada": "31°18′07″S 62°07′55″W"
                 },
                 {
+                    "localidadId": 400,
                     "localidad": "Plaza_San_Francisco",
                     "coordenada": "31°22′12″S 62°05′53″W"
                 },
                 {
+                    "localidadId": 401,
                     "localidad": "Trinchera",
                     "coordenada": "31°56′38″S 62°49′08″W"
                 },
                 {
+                    "localidadId": 402,
                     "localidad": "Villa_del_Tránsito",
                     "coordenada": "31°26′53″S 63°11′38″W"
                 }
@@ -1910,150 +2158,187 @@
             "coordenadas": "31°39′00″S 64°25′00″W",
             "localidades": [
                 {
+                    "localidadId": 403,
                     "localidad": "Alta_Gracia",
                     "coordenada": "31°40′00″S 64°26′00″W"
                 },
                 {
+                    "localidadId": 404,
                     "localidad": "Anisacate",
                     "coordenada": "31°43′05″S 64°24′01″W"
                 },
                 {
+                    "localidadId": 405,
                     "localidad": "Bouwer",
                     "coordenada": "31°33′30″S 64°11′32″W"
                 },
                 {
+                    "localidadId": 406,
                     "localidad": "Despeñaderos",
                     "coordenada": "31°48′59″S 64°17′24″W"
                 },
                 {
+                    "localidadId": 407,
                     "localidad": "Lozada",
                     "coordenada": "31°38′53″S 64°05′17″W"
                 },
                 {
+                    "localidadId": 408,
                     "localidad": "Malagueño",
                     "coordenada": "31°27′50″S 64°21′27″W"
                 },
                 {
+                    "localidadId": 409,
                     "localidad": "Monte_Ralo",
                     "coordenada": "31°55′00″S 64°14′20″W"
                 },
                 {
+                    "localidadId": 410,
                     "localidad": "Toledo",
                     "coordenada": "31°33′21″S 64°00′34″W"
                 },
                 {
+                    "localidadId": 411,
                     "localidad": "Villa_Parque_Santa_Ana",
                     "coordenada": "31°35′13″S 64°21′14″W"
                 },
                 {
+                    "localidadId": 412,
                     "localidad": "Villa_San_Isidro",
                     "coordenada": "31°49′16″S 64°23′24″W"
                 },
                 {
+                    "localidadId": 413,
                     "localidad": "Dique_Chico",
                     "coordenada": "31°44′44″S 64°21′57″W"
                 },
                 {
+                    "localidadId": 414,
                     "localidad": "Falda_del_Carmen",
                     "coordenada": "31°35′10″S 64°27′29″W"
                 },
                 {
+                    "localidadId": 415,
                     "localidad": "La_Paisanita",
                     "coordenada": "31°43′19″S 64°28′52″W"
                 },
                 {
+                    "localidadId": 416,
                     "localidad": "La_Rancherita",
                     "coordenada": "31°45′25″S 64°27′32″W"
                 },
                 {
+                    "localidadId": 417,
                     "localidad": "La_Serranita",
                     "coordenada": "31°44′06″S 64°27′32″W"
                 },
                 {
+                    "localidadId": 418,
                     "localidad": "Los_Cedros",
                     "coordenada": "31°31′34″S 64°16′50″W"
                 },
                 {
+                    "localidadId": 419,
                     "localidad": "Potrero_de_Garay",
                     "coordenada": "31°46′50″S 64°31′51″W"
                 },
                 {
+                    "localidadId": 420,
                     "localidad": "Rafael_García",
                     "coordenada": "31°38′49″S 64°15′36″W"
                 },
                 {
+                    "localidadId": 421,
                     "localidad": "San_Clemente",
                     "coordenada": "31°42′50″S 64°37′30″W"
                 },
                 {
+                    "localidadId": 422,
                     "localidad": "Valle_de_Anisacate",
                     "coordenada": "31°44′01″S 64°25′09″W"
                 },
                 {
+                    "localidadId": 423,
                     "localidad": "Villas_Ciudad_de_América",
                     "coordenada": "31°47′45″S 64°30′47″W"
                 },
                 {
+                    "localidadId": 424,
                     "localidad": "Villa_del_Prado",
                     "coordenada": "31°37′05″S 64°23′15″W"
                 },
                 {
+                    "localidadId": 425,
                     "localidad": "Villa_La_Bolsa",
                     "coordenada": "31°43′30″S 64°25′52″W"
                 },
                 {
+                    "localidadId": 426,
                     "localidad": "Villa_Los_Aromos",
                     "coordenada": "31°44′07″S 64°26′17″W"
                 },
                 {
+                    "localidadId": 427,
                     "localidad": "Costa_Azul",
                     "coordenada": "31°43′34″S 64°23′33″W"
                 },
                 {
+                    "localidadId": 428,
                     "localidad": "Caseros_Centro",
                     "coordenada": "31°30′47″S 64°11′31″W"
                 },
                 {
+                    "localidadId": 429,
                     "localidad": "Falda_del_Cañete",
                     "coordenada": "31°31′41″S 64°26′56″W"
                 },
                 {
+                    "localidadId": 430,
                     "localidad": "Villa_San_Nicolás",
                     "coordenada": "31°26′06″S 64°26′53″W"
                 },
                 {
+                    "localidadId": 431,
                     "localidad": "Yocsina",
                     "coordenada": "31°26′45″S 64°21′53″W"
                 },
                 {
+                    "localidadId": 432,
                     "localidad": "Valle_Alegre",
                     "coordenada": "31°36′47″S 64°26′28″W"
                 },
                 {
+                    "localidadId": 433,
                     "localidad": "Potrerillo_de_Larreta",
                     "coordenada": ""
                 },
                 {
+                    "localidadId": 434,
                     "localidad": "José_de_la_Quintana",
                     "coordenada": "31°48′07″S 64°24′47″W"
                 },
                 {
+                    "localidadId": 435,
                     "localidad": "La_Carbonada",
                     "coordenada": "31°31′58″S 64°04′36″W"
                 },
                 {
+                    "localidadId": 436,
                     "localidad": "Campos_del_Virrey",
                     "coordenada": ""
                 },
                 {
+                    "localidadId": 437,
                     "localidad": "La_Boca_del_Río",
                     "coordenada": "31°50′25″S 64°26′14″W"
                 },
                 {
+                    "localidadId": 438,
                     "localidad": "Socavones",
                     "coordenada": "31°31′44″S 64°08′42″W"
                 },
                 {
+                    "localidadId": 439,
                     "localidad": "Causana",
                     "coordenada": ""
                 }
@@ -2065,18 +2350,22 @@
             "coordenadas": "29°46′00″S 63°55′00″W",
             "localidades": [
                 {
+                    "localidadId": 440,
                     "localidad": "San_Francisco_del_Chañar",
                     "coordenada": "29°47′14″S 63°56′32″W"
                 },
                 {
+                    "localidadId": 441,
                     "localidad": "Caminiaga",
                     "coordenada": "30°04′00″S 64°03′00″W"
                 },
                 {
+                    "localidadId": 442,
                     "localidad": "Chuña_Huasi",
                     "coordenada": "29°56′06″S 64°06′47″W"
                 },
                 {
+                    "localidadId": 443,
                     "localidad": "Pozo_Nuevo",
                     "coordenada": "29°34′45″S 64°06′05″W"
                 }
@@ -2088,70 +2377,87 @@
             "coordenadas": "32°02′00″S 63°34′00″W",
             "localidades": [
                 {
+                    "localidadId": 444,
                     "localidad": "Almafuerte",
                     "coordenada": "32°11′32″S 64°15′16″W"
                 },
                 {
+                    "localidadId": 445,
                     "localidad": "Colonia_Almada",
                     "coordenada": "32°02′04″S 63°51′51″W"
                 },
                 {
+                    "localidadId": 446,
                     "localidad": "Corralito",
                     "coordenada": "32°01′30″S 64°11′31″W"
                 },
                 {
+                    "localidadId": 447,
                     "localidad": "Dalmacio_Vélez",
                     "coordenada": "32°36′36″S 63°34′37″W"
                 },
                 {
+                    "localidadId": 448,
                     "localidad": "Hernando",
                     "coordenada": "32°25′00″S 63°44′00″W"
                 },
                 {
+                    "localidadId": 449,
                     "localidad": "James_Craik",
                     "coordenada": "32°09′38″S 63°27′58″W"
                 },
                 {
+                    "localidadId": 450,
                     "localidad": "Las_Perdices",
                     "coordenada": "32°41′56″S 63°42′16″W"
                 },
                 {
+                    "localidadId": 451,
                     "localidad": "Los_Zorros",
                     "coordenada": "32°02′42″S 63°12′04″W"
                 },
                 {
+                    "localidadId": 452,
                     "localidad": "Oliva",
                     "coordenada": "32°02′30″S 63°34′11″W"
                 },
                 {
+                    "localidadId": 453,
                     "localidad": "Pampayasta_Sud",
                     "coordenada": "32°15′07″S 63°39′20″W"
                 },
                 {
+                    "localidadId": 454,
                     "localidad": "Río_Tercero",
                     "coordenada": "32°10′36″S 64°06′47″W"
                 },
                 {
+                    "localidadId": 455,
                     "localidad": "Tancacha",
                     "coordenada": "32°14′30″S 63°58′30″W"
                 },
                 {
+                    "localidadId": 456,
                     "localidad": "Villa_Ascasubi",
                     "coordenada": "32°10′00″S 63°53′00″W"
                 },
                 {
+                    "localidadId": 457,
                     "localidad": "General_Fotheringham",
                     "coordenada": "32°19′21″S 63°52′06″W"
                 },
                 {
+                    "localidadId": 458,
                     "localidad": "Las_Isletillas",
                     "coordenada": "32°30′36″S 63°55′44″W"
                 },
                 {
+                    "localidadId": 459,
                     "localidad": "Pampayasta_Norte",
                     "coordenada": "32°14′24″S 63°38′35″W"
                 },
                 {
+                    "localidadId": 460,
                     "localidad": "Punta_del_Agua",
                     "coordenada": "32°34′30″S 63°48′36″W"
                 }
@@ -2163,50 +2469,62 @@
             "coordenadas": "30°49′00″S 63°43′00″W",
             "localidades": [
                 {
+                    "localidadId": 461,
                     "localidad": "Cañada_de_Luque",
                     "coordenada": "30°44′16″S 63°43′29″W"
                 },
                 {
+                    "localidadId": 462,
                     "localidad": "Las_Peñas",
                     "coordenada": "30°33′50″S 63°59′53″W"
                 },
                 {
+                    "localidadId": 463,
                     "localidad": "Sarmiento",
                     "coordenada": "30°46′26″S 64°06′29″W"
                 },
                 {
+                    "localidadId": 464,
                     "localidad": "Sinsacate",
                     "coordenada": "30°56′35″S 64°05′38″W"
                 },
                 {
+                    "localidadId": 465,
                     "localidad": "Villa_del_Totoral",
                     "coordenada": "30°42′16″S 64°04′05″W"
                 },
                 {
+                    "localidadId": 466,
                     "localidad": "Candelaria_Sud",
                     "coordenada": "30°50′20″S 63°48′04″W"
                 },
                 {
+                    "localidadId": 467,
                     "localidad": "Capilla_de_Sitón",
                     "coordenada": "30°34′19″S 63°39′07″W"
                 },
                 {
+                    "localidadId": 468,
                     "localidad": "La_Pampa",
                     "coordenada": "30°56′39″S 64°16′37″W"
                 },
                 {
+                    "localidadId": 469,
                     "localidad": "Los_Mistoles",
                     "coordenada": "30°37′30″S 63°53′10″W"
                 },
                 {
+                    "localidadId": 470,
                     "localidad": "Simbolar",
                     "coordenada": "30°28′26″S 63°59′06″W"
                 },
                 {
+                    "localidadId": 471,
                     "localidad": "La_Paz",
                     "coordenada": "30°56′56″S 64°15′50″W"
                 },
                 {
+                    "localidadId": 472,
                     "localidad": "Santa_Catalina",
                     "coordenada": "30°52′14″S 64°14′01″W"
                 }
@@ -2218,42 +2536,52 @@
             "coordenadas": "30°24′00″S 64°07′00″W",
             "localidades": [
                 {
+                    "localidadId": 473,
                     "localidad": "Las_Arrias",
                     "coordenada": "30°22′41″S 63°35′38″W"
                 },
                 {
+                    "localidadId": 474,
                     "localidad": "Lucio_V._Mansilla",
                     "coordenada": "29°48′10″S 64°43′00″W"
                 },
                 {
+                    "localidadId": 475,
                     "localidad": "San_José_de_La_Dormida",
                     "coordenada": "30°21′00″S 63°56′00″W"
                 },
                 {
+                    "localidadId": 476,
                     "localidad": "San_José_de_Las_Salinas",
                     "coordenada": "30°00′29″S 64°37′26″W"
                 },
                 {
+                    "localidadId": 477,
                     "localidad": "San_Pedro_Norte",
                     "coordenada": "30°06′12″S 64°09′00″W"
                 },
                 {
+                    "localidadId": 478,
                     "localidad": "Villa_Tulumba",
                     "coordenada": "30°24′00″S 64°07′00″W"
                 },
                 {
+                    "localidadId": 479,
                     "localidad": "Churqui_Cañada",
                     "coordenada": "30°10′08″S 63°55′34″W"
                 },
                 {
+                    "localidadId": 480,
                     "localidad": "El_Rodeo",
                     "coordenada": "30°10′30″S 63°51′52″W"
                 },
                 {
+                    "localidadId": 481,
                     "localidad": "Rosario_del_Saladillo",
                     "coordenada": "30°25′52″S 63°28′23″W"
                 },
                 {
+                    "localidadId": 482,
                     "localidad": "El_Tuscal",
                     "coordenada": "29°45′50″S 64°31′35″W"
                 }
@@ -2265,110 +2593,137 @@
             "coordenadas": "32°38′00″S 62°46′00″W",
             "localidades": [
                 {
+                    "localidadId": 483,
                     "localidad": "Alto_Alegre",
                     "coordenada": "32°20′46″S 62°53′02″W"
                 },
                 {
+                    "localidadId": 484,
                     "localidad": "Ballesteros",
                     "coordenada": "32°32′38″S 62°58′55″W"
                 },
                 {
+                    "localidadId": 485,
                     "localidad": "Ballesteros_Sud",
                     "coordenada": "32°35′23″S 63°01′47″W"
                 },
                 {
+                    "localidadId": 486,
                     "localidad": "Bell_Ville",
                     "coordenada": "32°38′00″S 62°41′00″W"
                 },
                 {
+                    "localidadId": 487,
                     "localidad": "Benjamín_Gould",
                     "coordenada": "33°35′S 62°43′W"
                 },
                 {
+                    "localidadId": 488,
                     "localidad": "Canals",
                     "coordenada": "33°33′55″S 62°53′21″W"
                 },
                 {
+                    "localidadId": 489,
                     "localidad": "Chilibroste",
                     "coordenada": "32°19′59″S 62°30′47″W"
                 },
                 {
+                    "localidadId": 490,
                     "localidad": "Cintra",
                     "coordenada": "32°18′40″S 62°39′20″W"
                 },
                 {
+                    "localidadId": 491,
                     "localidad": "Colonia_Bismarck",
                     "coordenada": "33°18′03″S 62°42′49″W"
                 },
                 {
+                    "localidadId": 492,
                     "localidad": "Idiazábal",
                     "coordenada": "32°48′51″S 63°01′57″W"
                 },
                 {
+                    "localidadId": 493,
                     "localidad": "Justiniano_Posse",
                     "coordenada": "32°53′00″S 62°40′00″W"
                 },
                 {
+                    "localidadId": 494,
                     "localidad": "Laborde",
                     "coordenada": "33°09′17″S 62°51′26″W"
                 },
                 {
+                    "localidadId": 495,
                     "localidad": "Monte_Leña",
                     "coordenada": "32°36′32″S 62°35′17″W"
                 },
                 {
+                    "localidadId": 496,
                     "localidad": "Monte_Maíz",
                     "coordenada": "33°12′17″S 62°36′02″W"
                 },
                 {
+                    "localidadId": 497,
                     "localidad": "Morrison",
                     "coordenada": "32°35′41″S 62°50′04″W"
                 },
                 {
+                    "localidadId": 498,
                     "localidad": "Noetinger",
                     "coordenada": "32°21′57″S 62°18′41″W"
                 },
                 {
+                    "localidadId": 499,
                     "localidad": "Ordóñez",
                     "coordenada": "32°50′26″S 62°53′00″W"
                 },
                 {
+                    "localidadId": 500,
                     "localidad": "Pascanas",
                     "coordenada": "33°07′28″S 63°02′25″W"
                 },
                 {
+                    "localidadId": 501,
                     "localidad": "Pueblo_Italiano",
                     "coordenada": "33°52′52″S 62°50′31″W"
                 },
                 {
+                    "localidadId": 502,
                     "localidad": "San_Antonio_de_Litín",
                     "coordenada": "32°12′50″S 62°37′50″W"
                 },
                 {
+                    "localidadId": 503,
                     "localidad": "San_Marcos_Sud",
                     "coordenada": "32°37′41″S 62°28′48″W"
                 },
                 {
+                    "localidadId": 504,
                     "localidad": "Viamonte",
                     "coordenada": "33°44′46″S 63°05′24″W"
                 },
                 {
+                    "localidadId": 505,
                     "localidad": "Wenceslao_Escalante",
                     "coordenada": "33°10′16″S 62°46′08″W"
                 },
                 {
+                    "localidadId": 506,
                     "localidad": "Aldea_Santa_María",
                     "coordenada": "33°42′00″S 62°54′50″W"
                 },
                 {
+                    "localidadId": 507,
                     "localidad": "Ana_Zumarán",
                     "coordenada": "32°23′24″S 63°03′22″W"
                 },
                 {
+                    "localidadId": 508,
                     "localidad": "Colonia_Bremen",
                     "coordenada": "33°27′51″S 62°43′52″W"
                 },
                 {
+                    "localidadId": 509,
                     "localidad": "Villa_Los_Patos",
                     "coordenada": "32°46′01″S 62°43′37″W"
                 }
