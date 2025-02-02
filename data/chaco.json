@@ -1,471 +1,576 @@
 {
-    "provincia": "Chaco",
-    "departamentos": [
+  "provinciaId": 4,
+  "provincia": "Chaco",
+  "departamentos": [
+    {
+      "departamentoId": 178,
+      "departamento": "Almirante_Brown",
+      "coordenadas": "26°31′00″S 61°10′00″W",
+      "localidades": [
         {
-            "departamento": "Almirante_Brown",
-            "coordenadas": "26°31′00″S 61°10′00″W",
-            "localidades": [
-                {
-                    "localidad": "Pampa_del_Infierno",
-                    "coordenada": "26°31′00″S 61°10′00″W"
-                },
-                {
-                    "localidad": "Concepción_del_Bermejo",
-                    "coordenada": "26°07′59″S 60°19′01″W"
-                },
-                {
-                    "localidad": "Los_Frentones",
-                    "coordenada": "26°25′00″S 61°25′00″W"
-                },
-                {
-                    "localidad": "Taco_Pozo",
-                    "coordenada": "25°36′54″S 63°15′54″W"
-                },
-                {
-                    "localidad": "Río_Muerto",
-                    "coordenada": "26°18′28″S 61°39′16″W"
-                }
-            ]
+          "localidadId": 1701,
+          "localidad": "Pampa_del_Infierno",
+          "coordenada": "26°31′00″S 61°10′00″W"
         },
         {
-            "departamento": "Bermejo",
-            "coordenadas": "27°03′00″S 58°43′00″W",
-            "localidades": [
-                {
-                    "localidad": "La_Leonesa",
-                    "coordenada": "27°03′00″S 58°43′00″W"
-                },
-                {
-                    "localidad": "Las_Palmas",
-                    "coordenada": "27°04′00″S 58°42′00″W"
-                },
-                {
-                    "localidad": "General_Vedia",
-                    "coordenada": "26°56′00″S 58°40′00″W"
-                },
-                {
-                    "localidad": "Isla_del_Cerrito",
-                    "coordenada": "27°17′43″S 58°37′10″W"
-                },
-                {
-                    "localidad": "Puerto_Bermejo_Nuevo",
-                    "coordenada": "26°56′00″S 58°30′00″W"
-                },
-                {
-                    "localidad": "Puerto_Bermejo_Viejo",
-                    "coordenada": "26°55′43″S 58°30′30″W"
-                },
-                {
-                    "localidad": "Puerto_Eva_Perón",
-                    "coordenada": "26°39′51″S 58°37′57″W"
-                }
-            ]
+          "localidadId": 1702,
+          "localidad": "Concepción_del_Bermejo",
+          "coordenada": "26°07′59″S 60°19′01″W"
         },
         {
-            "departamento": "Chacabuco",
-            "coordenadas": "27°13′00″S 61°12′00″W",
-            "localidades": [
-                {
-                    "localidad": "Charata",
-                    "coordenada": "27°12′52″S 61°11′17″W"
-                }
-            ]
+          "localidadId": 1703,
+          "localidad": "Los_Frentones",
+          "coordenada": "26°25′00″S 61°25′00″W"
         },
         {
-            "departamento": "Comandante_Fernández",
-            "coordenadas": "26°48′S 60°27′W",
-            "localidades": [
-                {
-                    "localidad": "Presidencia_Roque_Sáenz_Peña",
-                    "coordenada": "26°47′00″S 60°27′00″W"
-                }
-            ]
+          "localidadId": 1704,
+          "localidad": "Taco_Pozo",
+          "coordenada": "25°36′54″S 63°15′54″W"
         },
         {
-            "departamento": "Doce_de_Octubre",
-            "coordenadas": "27°19′00″S 61°15′00″W",
-            "localidades": [
-                {
-                    "localidad": "General_Pinedo",
-                    "coordenada": "27°19′00″S 61°17′00″W"
-                },
-                {
-                    "localidad": "Gancedo",
-                    "coordenada": "27°30′S 61°42′W"
-                },
-                {
-                    "localidad": "General_Capdevila",
-                    "coordenada": "27°26′00″S 61°28′00″W"
-                },
-                {
-                    "localidad": "Mesón_de_Fierro",
-                    "coordenada": "27°26′00″S 61°01′00″W"
-                },
-                {
-                    "localidad": "Pampa_Landriel",
-                    "coordenada": "27°23′41″S 61°06′09″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Dos_de_Abril",
-            "coordenadas": "27°37′00″S 61°21′00″W",
-            "localidades": [
-                {
-                    "localidad": "Hermoso_Campo",
-                    "coordenada": "27°37′00″S 61°21′00″W"
-                },
-                {
-                    "localidad": "Itín",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Fray_Justo_Santa_María_de_Oro",
-            "coordenadas": "27°49′00″S 61°09′00″W",
-            "localidades": [
-                {
-                    "localidad": "Santa_Sylvina",
-                    "coordenada": "27°47′00″S 61°09′00″W"
-                },
-                {
-                    "localidad": "Chorotis",
-                    "coordenada": "27°54′53″S 61°24′05″W"
-                },
-                {
-                    "localidad": "Venados_Grandes",
-                    "coordenada": "27°49′00″S 61°23′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "General_Belgrano",
-            "coordenadas": "26°57′00″S 60°58′00″W",
-            "localidades": [
-                {
-                    "localidad": "Corzuela",
-                    "coordenada": "26°56′00″S 60°58′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "General_Donovan",
-            "coordenadas": "27°13′00″S 59°17′00″W",
-            "localidades": [
-                {
-                    "localidad": "Makallé",
-                    "coordenada": "27°12′00″S 59°17′00″W"
-                },
-                {
-                    "localidad": "La_Escondida",
-                    "coordenada": "27°06′14″S 59°26′43″W"
-                },
-                {
-                    "localidad": "La_Verde",
-                    "coordenada": "27°07′34″S 59°22′32″W"
-                },
-                {
-                    "localidad": "Lapachito",
-                    "coordenada": "27°10′00″S 59°24′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "General_Güemes",
-            "coordenadas": "25°56′00″S 60°37′00″W",
-            "localidades": [
-                {
-                    "localidad": "El_Espinillo",
-                    "coordenada": "25°24′29″S 60°26′53″W"
-                },
-                {
-                    "localidad": "El_Sauzalito",
-                    "coordenada": "24°25′42″S 61°40′59″W"
-                },
-                {
-                    "localidad": "Fuerte_Esperanza",
-                    "coordenada": "25°09′36″S 61°50′23″W"
-                },
-                {
-                    "localidad": "Juan_José_Castelli",
-                    "coordenada": "25°57′00″S 60°37′00″W"
-                },
-                {
-                    "localidad": "Miraflores",
-                    "coordenada": "25°38′49″S 60°55′44″W"
-                },
-                {
-                    "localidad": "Misión_Nueva_Pompeya",
-                    "coordenada": "24°55′54″S 61°29′00″W"
-                },
-                {
-                    "localidad": "Villa_Río_Bermejito",
-                    "coordenada": "25°38′14″S 60°15′56″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Independencia",
-            "coordenadas": "26°48′S 60°21′W",
-            "localidades": [
-                {
-                    "localidad": "Avia_Terai",
-                    "coordenada": "26°42′00″S 60°44′00″W"
-                },
-                {
-                    "localidad": "Campo_Largo",
-                    "coordenada": "26°48′03″S 60°50′32″W"
-                },
-                {
-                    "localidad": "Napenay",
-                    "coordenada": "26°44′00″S 60°37′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Libertad",
-            "coordenadas": "27°23′00″S 59°05′00″W",
-            "localidades": [
-                {
-                    "localidad": "Colonia_Popular",
-                    "coordenada": "27°17′00″S 59°09′00″W"
-                },
-                {
-                    "localidad": "Laguna_Blanca",
-                    "coordenada": "27°15′16″S 59°13′52″W"
-                },
-                {
-                    "localidad": "Puerto_Tirol",
-                    "coordenada": "27°21′37″S 59°03′46″W"
-                },
-                {
-                    "localidad": "General_Obligado",
-                    "coordenada": "27°24′39″S 59°25′09″W"
-                },
-                {
-                    "localidad": "Cardoso",
-                    "coordenada": "20°04′55″S 49°54′50″W"
-                },
-                {
-                    "localidad": "Puerto_Bastiani",
-                    "coordenada": "27°18′01″S 59°06′34″W"
-                },
-                {
-                    "localidad": "Villa_Jalón",
-                    "coordenada": "27°20′48″S 59°05′25″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Libertador_General_San_Martín",
-            "coordenadas": "26°32′00″S 59°20′00″W",
-            "localidades": [
-                {
-                    "localidad": "Ciervo_Petiso",
-                    "coordenada": "26°35′00″S 59°38′00″W"
-                },
-                {
-                    "localidad": "General_José_de_San_Martín",
-                    "coordenada": "26°32′15″S 59°20′30″W"
-                },
-                {
-                    "localidad": "La_Eduvigis",
-                    "coordenada": "26°50′00″S 59°05′00″W"
-                },
-                {
-                    "localidad": "Laguna_Limpia",
-                    "coordenada": "26°29′45″S 59°40′51″W"
-                },
-                {
-                    "localidad": "Pampa_Almirón",
-                    "coordenada": "26°42′00″S 59°08′00″W"
-                },
-                {
-                    "localidad": "Pampa_del_Indio",
-                    "coordenada": "26°02′00″S 59°55′00″W"
-                },
-                {
-                    "localidad": "Presidencia_Roca",
-                    "coordenada": "26°08′00″S 59°36′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Maipú",
-            "coordenadas": "26°21′00″S 60°26′00″W",
-            "localidades": [
-                {
-                    "localidad": "Tres_Isletas",
-                    "coordenada": "26°21′00″S 60°25′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Mayor_Luis_Jorge_Fontana",
-            "coordenadas": "27°35′00″S 60°43′00″W",
-            "localidades": [
-                {
-                    "localidad": "Coronel_Du_Graty",
-                    "coordenada": "27°40′00″S 60°56′00″W"
-                },
-                {
-                    "localidad": "Enrique_Urién",
-                    "coordenada": "27°34′00″S 60°32′00″W"
-                },
-                {
-                    "localidad": "Villa_Ángela",
-                    "coordenada": "27°35′00″S 60°43′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Nueve_de_Julio",
-            "coordenadas": "27°05′00″S 61°05′00″W",
-            "localidades": [
-                {
-                    "localidad": "Las_Breñas",
-                    "coordenada": "27°05′23″S 61°04′54″W"
-                }
-            ]
-        },
-        {
-            "departamento": "O'Higgins",
-            "coordenadas": "27°17′00″S 60°42′00″W",
-            "localidades": [
-                {
-                    "localidad": "La_Clotilde",
-                    "coordenada": "27°08′00″S 60°40′00″W"
-                },
-                {
-                    "localidad": "La_Tigra",
-                    "coordenada": "27°06′36″S 60°35′14″W"
-                },
-                {
-                    "localidad": "San_Bernardo",
-                    "coordenada": "27°17′30″S 60°42′30″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Presidencia_d_la_Plaza",
-            "coordenadas": "27°01′00″S 59°51′00″W",
-            "localidades": [
-                {
-                    "localidad": "Presidencia_de_la_Plaza",
-                    "coordenada": "26°59′00″S 59°50′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Primero_de_Mayo",
-            "coordenadas": "27°16′00″S 58°58′00″W",
-            "localidades": [
-                {
-                    "localidad": "Margarita_Belén",
-                    "coordenada": "27°16′00″S 58°58′00″W"
-                },
-                {
-                    "localidad": "Colonia_Benítez",
-                    "coordenada": "27°20′00″S 58°56′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Quitilipi",
-            "coordenadas": "26°52′00″S 60°13′00″W",
-            "localidades": [
-                {
-                    "localidad": "Quitilipi",
-                    "coordenada": "26°52′00″S 60°13′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "San_Fernando",
-            "coordenadas": "27°27′00″S 58°59′00″W",
-            "localidades": [
-                {
-                    "localidad": "Resistencia",
-                    "coordenada": "27°27′05″S 58°59′12″W"
-                },
-                {
-                    "localidad": "Barranqueras",
-                    "coordenada": "27°29′00″S 58°56′00″W"
-                },
-                {
-                    "localidad": "Basail",
-                    "coordenada": "27°52′00″S 59°18′00″W"
-                },
-                {
-                    "localidad": "Fontana",
-                    "coordenada": "27°25′00″S 59°02′00″W"
-                },
-                {
-                    "localidad": "Puerto_Vilelas",
-                    "coordenada": "27°31′00″S 58°56′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "San_Lorenzo",
-            "coordenadas": "27°17′00″S 60°25′00″W",
-            "localidades": [
-                {
-                    "localidad": "Villa_Berthet",
-                    "coordenada": "27°16′00″S 60°25′00″W"
-                },
-                {
-                    "localidad": "Samuhú",
-                    "coordenada": "27°31′00″S 60°24′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Sargento_Cabral",
-            "coordenadas": "26°56′00″S 59°32′00″W",
-            "localidades": [
-                {
-                    "localidad": "Capitán_Solari",
-                    "coordenada": "26°48′00″S 59°34′00″W"
-                },
-                {
-                    "localidad": "Colonia_Elisa",
-                    "coordenada": "26°55′00″S 59°31′00″W"
-                },
-                {
-                    "localidad": "Colonias_Unidas",
-                    "coordenada": "26°42′00″S 59°38′00″W"
-                },
-                {
-                    "localidad": "Las_Garcitas",
-                    "coordenada": "26°37′05″S 59°47′57″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Tapenagá",
-            "coordenadas": "27°38′00″S 59°54′00″W",
-            "localidades": [
-                {
-                    "localidad": "Charadai",
-                    "coordenada": "27°39′16″S 59°51′46″W"
-                },
-                {
-                    "localidad": "Cote_Lai",
-                    "coordenada": "27°31′37″S 59°34′22″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Veinticinco_de_Mayo",
-            "coordenadas": "26°55′00″S 60°03′00″W",
-            "localidades": [
-                {
-                    "localidad": "Machagai",
-                    "coordenada": "26°55′00″S 60°02′00″W"
-                }
-            ]
+          "localidadId": 1705,
+          "localidad": "Río_Muerto",
+          "coordenada": "26°18′28″S 61°39′16″W"
         }
-    ]
+      ]
+    },
+    {
+      "departamentoId": 179,
+      "departamento": "Bermejo",
+      "coordenadas": "27°03′00″S 58°43′00″W",
+      "localidades": [
+        {
+          "localidadId": 1706,
+          "localidad": "La_Leonesa",
+          "coordenada": "27°03′00″S 58°43′00″W"
+        },
+        {
+          "localidadId": 1707,
+          "localidad": "Las_Palmas",
+          "coordenada": "27°04′00″S 58°42′00″W"
+        },
+        {
+          "localidadId": 1708,
+          "localidad": "General_Vedia",
+          "coordenada": "26°56′00″S 58°40′00″W"
+        },
+        {
+          "localidadId": 1709,
+          "localidad": "Isla_del_Cerrito",
+          "coordenada": "27°17′43″S 58°37′10″W"
+        },
+        {
+          "localidadId": 1710,
+          "localidad": "Puerto_Bermejo_Nuevo",
+          "coordenada": "26°56′00″S 58°30′00″W"
+        },
+        {
+          "localidadId": 1711,
+          "localidad": "Puerto_Bermejo_Viejo",
+          "coordenada": "26°55′43″S 58°30′30″W"
+        },
+        {
+          "localidadId": 1712,
+          "localidad": "Puerto_Eva_Perón",
+          "coordenada": "26°39′51″S 58°37′57″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 180,
+      "departamento": "Chacabuco",
+      "coordenadas": "27°13′00″S 61°12′00″W",
+      "localidades": [
+        {
+          "localidadId": 1713,
+          "localidad": "Charata",
+          "coordenada": "27°12′52″S 61°11′17″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 181,
+      "departamento": "Comandante_Fernández",
+      "coordenadas": "26°48′S 60°27′W",
+      "localidades": [
+        {
+          "localidadId": 1714,
+          "localidad": "Presidencia_Roque_Sáenz_Peña",
+          "coordenada": "26°47′00″S 60°27′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 182,
+      "departamento": "Doce_de_Octubre",
+      "coordenadas": "27°19′00″S 61°15′00″W",
+      "localidades": [
+        {
+          "localidadId": 1715,
+          "localidad": "General_Pinedo",
+          "coordenada": "27°19′00″S 61°17′00″W"
+        },
+        {
+          "localidadId": 1716,
+          "localidad": "Gancedo",
+          "coordenada": "27°30′S 61°42′W"
+        },
+        {
+          "localidadId": 1717,
+          "localidad": "General_Capdevila",
+          "coordenada": "27°26′00″S 61°28′00″W"
+        },
+        {
+          "localidadId": 1718,
+          "localidad": "Mesón_de_Fierro",
+          "coordenada": "27°26′00″S 61°01′00″W"
+        },
+        {
+          "localidadId": 1719,
+          "localidad": "Pampa_Landriel",
+          "coordenada": "27°23′41″S 61°06′09″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 183,
+      "departamento": "Dos_de_Abril",
+      "coordenadas": "27°37′00″S 61°21′00″W",
+      "localidades": [
+        {
+          "localidadId": 1720,
+          "localidad": "Hermoso_Campo",
+          "coordenada": "27°37′00″S 61°21′00″W"
+        },
+        {
+          "localidadId": 1721,
+          "localidad": "Itín",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 184,
+      "departamento": "Fray_Justo_Santa_María_de_Oro",
+      "coordenadas": "27°49′00″S 61°09′00″W",
+      "localidades": [
+        {
+          "localidadId": 1722,
+          "localidad": "Santa_Sylvina",
+          "coordenada": "27°47′00″S 61°09′00″W"
+        },
+        {
+          "localidadId": 1723,
+          "localidad": "Chorotis",
+          "coordenada": "27°54′53″S 61°24′05″W"
+        },
+        {
+          "localidadId": 1724,
+          "localidad": "Venados_Grandes",
+          "coordenada": "27°49′00″S 61°23′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 185,
+      "departamento": "General_Belgrano",
+      "coordenadas": "26°57′00″S 60°58′00″W",
+      "localidades": [
+        {
+          "localidadId": 1725,
+          "localidad": "Corzuela",
+          "coordenada": "26°56′00″S 60°58′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 186,
+      "departamento": "General_Donovan",
+      "coordenadas": "27°13′00″S 59°17′00″W",
+      "localidades": [
+        {
+          "localidadId": 1726,
+          "localidad": "Makallé",
+          "coordenada": "27°12′00″S 59°17′00″W"
+        },
+        {
+          "localidadId": 1727,
+          "localidad": "La_Escondida",
+          "coordenada": "27°06′14″S 59°26′43″W"
+        },
+        {
+          "localidadId": 1728,
+          "localidad": "La_Verde",
+          "coordenada": "27°07′34″S 59°22′32″W"
+        },
+        {
+          "localidadId": 1729,
+          "localidad": "Lapachito",
+          "coordenada": "27°10′00″S 59°24′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 187,
+      "departamento": "General_Güemes",
+      "coordenadas": "25°56′00″S 60°37′00″W",
+      "localidades": [
+        {
+          "localidadId": 1730,
+          "localidad": "El_Espinillo",
+          "coordenada": "25°24′29″S 60°26′53″W"
+        },
+        {
+          "localidadId": 1731,
+          "localidad": "El_Sauzalito",
+          "coordenada": "24°25′42″S 61°40′59″W"
+        },
+        {
+          "localidadId": 1732,
+          "localidad": "Fuerte_Esperanza",
+          "coordenada": "25°09′36″S 61°50′23″W"
+        },
+        {
+          "localidadId": 1733,
+          "localidad": "Juan_José_Castelli",
+          "coordenada": "25°57′00″S 60°37′00″W"
+        },
+        {
+          "localidadId": 1734,
+          "localidad": "Miraflores",
+          "coordenada": "25°38′49″S 60°55′44″W"
+        },
+        {
+          "localidadId": 1735,
+          "localidad": "Misión_Nueva_Pompeya",
+          "coordenada": "24°55′54″S 61°29′00″W"
+        },
+        {
+          "localidadId": 1736,
+          "localidad": "Villa_Río_Bermejito",
+          "coordenada": "25°38′14″S 60°15′56″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 188,
+      "departamento": "Independencia",
+      "coordenadas": "26°48′S 60°21′W",
+      "localidades": [
+        {
+          "localidadId": 1737,
+          "localidad": "Avia_Terai",
+          "coordenada": "26°42′00″S 60°44′00″W"
+        },
+        {
+          "localidadId": 1738,
+          "localidad": "Campo_Largo",
+          "coordenada": "26°48′03″S 60°50′32″W"
+        },
+        {
+          "localidadId": 1739,
+          "localidad": "Napenay",
+          "coordenada": "26°44′00″S 60°37′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 189,
+      "departamento": "Libertad",
+      "coordenadas": "27°23′00″S 59°05′00″W",
+      "localidades": [
+        {
+          "localidadId": 1740,
+          "localidad": "Colonia_Popular",
+          "coordenada": "27°17′00″S 59°09′00″W"
+        },
+        {
+          "localidadId": 1741,
+          "localidad": "Laguna_Blanca",
+          "coordenada": "27°15′16″S 59°13′52″W"
+        },
+        {
+          "localidadId": 1742,
+          "localidad": "Puerto_Tirol",
+          "coordenada": "27°21′37″S 59°03′46″W"
+        },
+        {
+          "localidadId": 1743,
+          "localidad": "General_Obligado",
+          "coordenada": "27°24′39″S 59°25′09″W"
+        },
+        {
+          "localidadId": 1744,
+          "localidad": "Cardoso",
+          "coordenada": "20°04′55″S 49°54′50″W"
+        },
+        {
+          "localidadId": 1745,
+          "localidad": "Puerto_Bastiani",
+          "coordenada": "27°18′01″S 59°06′34″W"
+        },
+        {
+          "localidadId": 1746,
+          "localidad": "Villa_Jalón",
+          "coordenada": "27°20′48″S 59°05′25″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 190,
+      "departamento": "Libertador_General_San_Martín",
+      "coordenadas": "26°32′00″S 59°20′00″W",
+      "localidades": [
+        {
+          "localidadId": 1747,
+          "localidad": "Ciervo_Petiso",
+          "coordenada": "26°35′00″S 59°38′00″W"
+        },
+        {
+          "localidadId": 1748,
+          "localidad": "General_José_de_San_Martín",
+          "coordenada": "26°32′15″S 59°20′30″W"
+        },
+        {
+          "localidadId": 1749,
+          "localidad": "La_Eduvigis",
+          "coordenada": "26°50′00″S 59°05′00″W"
+        },
+        {
+          "localidadId": 1750,
+          "localidad": "Laguna_Limpia",
+          "coordenada": "26°29′45″S 59°40′51″W"
+        },
+        {
+          "localidadId": 1751,
+          "localidad": "Pampa_Almirón",
+          "coordenada": "26°42′00″S 59°08′00″W"
+        },
+        {
+          "localidadId": 1752,
+          "localidad": "Pampa_del_Indio",
+          "coordenada": "26°02′00″S 59°55′00″W"
+        },
+        {
+          "localidadId": 1753,
+          "localidad": "Presidencia_Roca",
+          "coordenada": "26°08′00″S 59°36′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 191,
+      "departamento": "Maipú",
+      "coordenadas": "26°21′00″S 60°26′00″W",
+      "localidades": [
+        {
+          "localidadId": 1754,
+          "localidad": "Tres_Isletas",
+          "coordenada": "26°21′00″S 60°25′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 192,
+      "departamento": "Mayor_Luis_Jorge_Fontana",
+      "coordenadas": "27°35′00″S 60°43′00″W",
+      "localidades": [
+        {
+          "localidadId": 1755,
+          "localidad": "Coronel_Du_Graty",
+          "coordenada": "27°40′00″S 60°56′00″W"
+        },
+        {
+          "localidadId": 1756,
+          "localidad": "Enrique_Urién",
+          "coordenada": "27°34′00″S 60°32′00″W"
+        },
+        {
+          "localidadId": 1757,
+          "localidad": "Villa_Ángela",
+          "coordenada": "27°35′00″S 60°43′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 193,
+      "departamento": "Nueve_de_Julio",
+      "coordenadas": "27°05′00″S 61°05′00″W",
+      "localidades": [
+        {
+          "localidadId": 1758,
+          "localidad": "Las_Breñas",
+          "coordenada": "27°05′23″S 61°04′54″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 194,
+      "departamento": "O'Higgins",
+      "coordenadas": "27°17′00″S 60°42′00″W",
+      "localidades": [
+        {
+          "localidadId": 1759,
+          "localidad": "La_Clotilde",
+          "coordenada": "27°08′00″S 60°40′00″W"
+        },
+        {
+          "localidadId": 1760,
+          "localidad": "La_Tigra",
+          "coordenada": "27°06′36″S 60°35′14″W"
+        },
+        {
+          "localidadId": 1761,
+          "localidad": "San_Bernardo",
+          "coordenada": "27°17′30″S 60°42′30″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 195,
+      "departamento": "Presidencia_d_la_Plaza",
+      "coordenadas": "27°01′00″S 59°51′00″W",
+      "localidades": [
+        {
+          "localidadId": 1762,
+          "localidad": "Presidencia_de_la_Plaza",
+          "coordenada": "26°59′00″S 59°50′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 196,
+      "departamento": "Primero_de_Mayo",
+      "coordenadas": "27°16′00″S 58°58′00″W",
+      "localidades": [
+        {
+          "localidadId": 1763,
+          "localidad": "Margarita_Belén",
+          "coordenada": "27°16′00″S 58°58′00″W"
+        },
+        {
+          "localidadId": 1764,
+          "localidad": "Colonia_Benítez",
+          "coordenada": "27°20′00″S 58°56′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 197,
+      "departamento": "Quitilipi",
+      "coordenadas": "26°52′00″S 60°13′00″W",
+      "localidades": [
+        {
+          "localidadId": 1765,
+          "localidad": "Quitilipi",
+          "coordenada": "26°52′00″S 60°13′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 198,
+      "departamento": "San_Fernando",
+      "coordenadas": "27°27′00″S 58°59′00″W",
+      "localidades": [
+        {
+          "localidadId": 1766,
+          "localidad": "Resistencia",
+          "coordenada": "27°27′05″S 58°59′12″W"
+        },
+        {
+          "localidadId": 1767,
+          "localidad": "Barranqueras",
+          "coordenada": "27°29′00″S 58°56′00″W"
+        },
+        {
+          "localidadId": 1768,
+          "localidad": "Basail",
+          "coordenada": "27°52′00″S 59°18′00″W"
+        },
+        {
+          "localidadId": 1769,
+          "localidad": "Fontana",
+          "coordenada": "27°25′00″S 59°02′00″W"
+        },
+        {
+          "localidadId": 1770,
+          "localidad": "Puerto_Vilelas",
+          "coordenada": "27°31′00″S 58°56′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 199,
+      "departamento": "San_Lorenzo",
+      "coordenadas": "27°17′00″S 60°25′00″W",
+      "localidades": [
+        {
+          "localidadId": 1771,
+          "localidad": "Villa_Berthet",
+          "coordenada": "27°16′00″S 60°25′00″W"
+        },
+        {
+          "localidadId": 1772,
+          "localidad": "Samuhú",
+          "coordenada": "27°31′00″S 60°24′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 200,
+      "departamento": "Sargento_Cabral",
+      "coordenadas": "26°56′00″S 59°32′00″W",
+      "localidades": [
+        {
+          "localidadId": 1773,
+          "localidad": "Capitán_Solari",
+          "coordenada": "26°48′00″S 59°34′00″W"
+        },
+        {
+          "localidadId": 1774,
+          "localidad": "Colonia_Elisa",
+          "coordenada": "26°55′00″S 59°31′00″W"
+        },
+        {
+          "localidadId": 1775,
+          "localidad": "Colonias_Unidas",
+          "coordenada": "26°42′00″S 59°38′00″W"
+        },
+        {
+          "localidadId": 1776,
+          "localidad": "Las_Garcitas",
+          "coordenada": "26°37′05″S 59°47′57″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 201,
+      "departamento": "Tapenagá",
+      "coordenadas": "27°38′00″S 59°54′00″W",
+      "localidades": [
+        {
+          "localidadId": 1777,
+          "localidad": "Charadai",
+          "coordenada": "27°39′16″S 59°51′46″W"
+        },
+        {
+          "localidadId": 1778,
+          "localidad": "Cote_Lai",
+          "coordenada": "27°31′37″S 59°34′22″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 202,
+      "departamento": "Veinticinco_de_Mayo",
+      "coordenadas": "26°55′00″S 60°03′00″W",
+      "localidades": [
+        {
+          "localidadId": 1779,
+          "localidad": "Machagai",
+          "coordenada": "26°55′00″S 60°02′00″W"
+        }
+      ]
+    }
+  ]
 }
