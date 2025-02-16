@@ -1,307 +1,379 @@
 {
-    "provincia": "Formosa",
-    "departamentos": [
+  "provinciaId": 8,
+  "provincia": "Formosa",
+  "departamentos": [
+    {
+      "departamentoId": 261,
+      "departamento": "Bermejo",
+      "coordenadas": "24°15′S 61°15′W",
+      "localidades": [
         {
-            "departamento": "Bermejo",
-            "coordenadas": "24°15′S 61°15′W",
-            "localidades": [
-                {
-                    "localidad": "Laguna_Yema",
-                    "coordenada": "24°15′S 61°15′W"
-                },
-                {
-                    "localidad": "Fortín_Soledad",
-                    "coordenada": "24°08′56″S 60°41′01″W"
-                },
-                {
-                    "localidad": "Guadalcázar",
-                    "coordenada": "23°40′24″S 61°09′53″W"
-                },
-                {
-                    "localidad": "Lamadrid",
-                    "coordenada": "23°53′50″S 60°45′19″W"
-                },
-                {
-                    "localidad": "La_Rinconada",
-                    "coordenada": "23°29′40″S 61°34′37″W"
-                },
-                {
-                    "localidad": "Los_Chiriguanos",
-                    "coordenada": "24°05′55″S 61°27′58″W"
-                },
-                {
-                    "localidad": "Pozo_de_Maza",
-                    "coordenada": "23°34′21″S 61°42′21″W"
-                },
-                {
-                    "localidad": "Pozo_del_Mortero",
-                    "coordenada": "24°24′23″S 61°01′50″W"
-                },
-                {
-                    "localidad": "Vaca_Perdida",
-                    "coordenada": "23°29′56″S 61°38′56″W"
-                }
-            ]
+          "localidadId": 2228,
+          "localidad": "Laguna_Yema",
+          "coordenada": "24°15′S 61°15′W"
         },
         {
-            "departamento": "Formosa",
-            "coordenadas": "26°11′00″S 58°10′30″W",
-            "localidades": [
-                {
-                    "localidad": "Formosa",
-                    "coordenada": "26°11′05″S 58°10′33″W"
-                },
-                {
-                    "localidad": "Villa_del_Carmen",
-                    "coordenada": "26°15′04″S 58°15′22″W"
-                },
-                {
-                    "localidad": "Colonia_Pastoril",
-                    "coordenada": "25°40′16″S 58°15′44″W"
-                },
-                {
-                    "localidad": "Gran_Guardia",
-                    "coordenada": "25°51′49″S 58°53′09″W"
-                },
-                {
-                    "localidad": "Mariano_Boedo",
-                    "coordenada": "26°06′42″S 58°29′17″W"
-                },
-                {
-                    "localidad": "Mojón_de_Fierro",
-                    "coordenada": "26°01′55″S 58°02′53″W"
-                },
-                {
-                    "localidad": "San_Hilario",
-                    "coordenada": "26°01′37″S 58°39′08″W"
-                }
-            ]
+          "localidadId": 2229,
+          "localidad": "Fortín_Soledad",
+          "coordenada": "24°08′56″S 60°41′01″W"
         },
         {
-            "departamento": "Laishí",
-            "coordenadas": "26°14′43″S 58°37′45″W",
-            "localidades": [
-                {
-                    "localidad": "San_Francisco_de_Laishí",
-                    "coordenada": "26°14′30″S 58°37′56″W"
-                },
-                {
-                    "localidad": "General_Lucio_V._Mansilla",
-                    "coordenada": "26°39′18″S 58°37′51″W"
-                },
-                {
-                    "localidad": "Herradura",
-                    "coordenada": "26°29′00″S 58°18′00″W"
-                },
-                {
-                    "localidad": "Banco_Payaguá",
-                    "coordenada": "26°42′25″S 58°20′11″W"
-                },
-                {
-                    "localidad": "Tatané",
-                    "coordenada": "26°24′02″S 58°21′12″W"
-                },
-                {
-                    "localidad": "Villa_Escolar",
-                    "coordenada": "26°37′19″S 58°40′11″W"
-                }
-            ]
+          "localidadId": 2230,
+          "localidad": "Guadalcázar",
+          "coordenada": "23°40′24″S 61°09′53″W"
         },
         {
-            "departamento": "Matacos",
-            "coordenadas": "23°53′56″S 61°51′20″W",
-            "localidades": [
-                {
-                    "localidad": "Ingeniero_Juárez",
-                    "coordenada": "23°54′S 61°51′W"
-                }
-            ]
+          "localidadId": 2231,
+          "localidad": "Lamadrid",
+          "coordenada": "23°53′50″S 60°45′19″W"
         },
         {
-            "departamento": "Patiño",
-            "coordenadas": "25°20′00″S 59°41′00″W",
-            "localidades": [
-                {
-                    "localidad": "Comandante_Fontana",
-                    "coordenada": "25°20′00″S 59°41′00″W"
-                },
-                {
-                    "localidad": "Estanislao_del_Campo",
-                    "coordenada": "25°03′S 60°06′W"
-                },
-                {
-                    "localidad": "Ibarreta",
-                    "coordenada": "25°12′37″S 59°51′36″W"
-                },
-                {
-                    "localidad": "Las_Lomitas",
-                    "coordenada": "24°42′26″S 60°35′40″W"
-                },
-                {
-                    "localidad": "Pozo_del_Tigre",
-                    "coordenada": "24°54′00″S 60°19′00″W"
-                },
-                {
-                    "localidad": "San_Martín_2",
-                    "coordenada": "24°26′04″S 59°39′16″W"
-                },
-                {
-                    "localidad": "Villa_General_Güemes",
-                    "coordenada": "24°45′19″S 59°29′22″W"
-                },
-                {
-                    "localidad": "Villa_General_Manuel_Belgrano",
-                    "coordenada": "24°56′25″S 59°01′39″W"
-                },
-                {
-                    "localidad": "Bartolomé_de_las_Casas",
-                    "coordenada": "25°24′32″S 59°34′18″W"
-                },
-                {
-                    "localidad": "Colonia_Sarmiento",
-                    "coordenada": "24°38′38″S 59°25′58″W"
-                },
-                {
-                    "localidad": "El_Recreo",
-                    "coordenada": "25°02′21″S 59°17′06″W"
-                },
-                {
-                    "localidad": "Fortín_Leyes",
-                    "coordenada": "24°33′17″S 59°23′09″W"
-                },
-                {
-                    "localidad": "Fortín_Lugones",
-                    "coordenada": "24°17′12″S 59°49′41″W"
-                },
-                {
-                    "localidad": "Juan_G._Bazán",
-                    "coordenada": "24°32′37″S 60°49′59″W"
-                },
-                {
-                    "localidad": "Posta_Cambio_Zalazar",
-                    "coordenada": "24°12′43″S 60°11′47″W"
-                },
-                {
-                    "localidad": "San_Martín_1",
-                    "coordenada": "24°31′57″S 59°54′06″W"
-                },
-                {
-                    "localidad": "Subteniente_Perín",
-                    "coordenada": "25°32′07″S 60°01′05″W"
-                }
-            ]
+          "localidadId": 2232,
+          "localidad": "La_Rinconada",
+          "coordenada": "23°29′40″S 61°34′37″W"
         },
         {
-            "departamento": "Pilagás",
-            "coordenadas": "24°58′53″S 58°33′10″W",
-            "localidades": [
-                {
-                    "localidad": "El_Espinillo",
-                    "coordenada": "24°58′00″S 58°34′00″W"
-                },
-                {
-                    "localidad": "Misión_Tacaaglé",
-                    "coordenada": "24°58′41″S 58°49′20″W"
-                },
-                {
-                    "localidad": "Buena_Vista",
-                    "coordenada": "25°04′15″S 58°23′07″W"
-                },
-                {
-                    "localidad": "Laguna_Gallo",
-                    "coordenada": "25°16′06″S 58°44′32″W"
-                },
-                {
-                    "localidad": "Portón_Negro",
-                    "coordenada": "24°58′00″S 58°44′35″W"
-                },
-                {
-                    "localidad": "Tres_Lagunas",
-                    "coordenada": "25°12′57″S 58°30′40″W"
-                }
-            ]
+          "localidadId": 2233,
+          "localidad": "Los_Chiriguanos",
+          "coordenada": "24°05′55″S 61°27′58″W"
         },
         {
-            "departamento": "Pilcomayo",
-            "coordenadas": "25°17′10″S 57°43′21″W",
-            "localidades": [
-                {
-                    "localidad": "Clorinda",
-                    "coordenada": "25°17′29″S 57°43′06″W"
-                },
-                {
-                    "localidad": "Laguna_Blanca",
-                    "coordenada": "25°07′52″S 58°14′42″W"
-                },
-                {
-                    "localidad": "Laguna_Naick_Neck",
-                    "coordenada": "25°14′52″S 58°05′38″W"
-                },
-                {
-                    "localidad": "Riacho_He_Hé",
-                    "coordenada": "25°21′44″S 58°16′39″W"
-                },
-                {
-                    "localidad": "Palma_Sola",
-                    "coordenada": "25°14′51″S 57°58′40″W"
-                },
-                {
-                    "localidad": "Puerto_Pilcomayo",
-                    "coordenada": "25°22′23″S 57°39′03″W"
-                },
-                {
-                    "localidad": "Riacho_Negro",
-                    "coordenada": "25°25′24″S 57°47′28″W"
-                },
-                {
-                    "localidad": "Siete_Palmas",
-                    "coordenada": "25°12′10″S 58°19′55″W"
-                }
-            ]
+          "localidadId": 2234,
+          "localidad": "Pozo_de_Maza",
+          "coordenada": "23°34′21″S 61°42′21″W"
         },
         {
-            "departamento": "Pirané",
-            "coordenadas": "25°43′58″S 59°06′36″W",
-            "localidades": [
-                {
-                    "localidad": "Pirané",
-                    "coordenada": "25°43′00″S 59°06′00″W"
-                },
-                {
-                    "localidad": "El_Colorado",
-                    "coordenada": "26°18′32″S 59°22′20″W"
-                },
-                {
-                    "localidad": "Mayor_Vicente_Villafañe",
-                    "coordenada": "26°12′16″S 59°04′49″W"
-                },
-                {
-                    "localidad": "Palo_Santo",
-                    "coordenada": "25°34′00″S 59°20′28″W"
-                },
-                {
-                    "localidad": "Villa_Dos_Trece",
-                    "coordenada": "26°10′00″S 59°21′00″W"
-                }
-            ]
+          "localidadId": 2235,
+          "localidad": "Pozo_del_Mortero",
+          "coordenada": "24°24′23″S 61°01′50″W"
         },
         {
-            "departamento": "Ramón_Lista",
-            "coordenadas": "23°11′24″S 62°02′37″W",
-            "localidades": [
-                {
-                    "localidad": "El_Chorro",
-                    "coordenada": "23°13′00″S 62°18′00″W"
-                },
-                {
-                    "localidad": "El_Potrillo",
-                    "coordenada": "23°11′24″S 62°02′37″W"
-                },
-                {
-                    "localidad": "El_Quebracho",
-                    "coordenada": "23°20′33″S 61°52′17″W"
-                }
-            ]
+          "localidadId": 2236,
+          "localidad": "Vaca_Perdida",
+          "coordenada": "23°29′56″S 61°38′56″W"
         }
-    ]
+      ]
+    },
+    {
+      "departamentoId": 262,
+      "departamento": "Formosa",
+      "coordenadas": "26°11′00″S 58°10′30″W",
+      "localidades": [
+        {
+          "localidadId": 2237,
+          "localidad": "Formosa",
+          "coordenada": "26°11′05″S 58°10′33″W"
+        },
+        {
+          "localidadId": 2238,
+          "localidad": "Villa_del_Carmen",
+          "coordenada": "26°15′04″S 58°15′22″W"
+        },
+        {
+          "localidadId": 2239,
+          "localidad": "Colonia_Pastoril",
+          "coordenada": "25°40′16″S 58°15′44″W"
+        },
+        {
+          "localidadId": 2240,
+          "localidad": "Gran_Guardia",
+          "coordenada": "25°51′49″S 58°53′09″W"
+        },
+        {
+          "localidadId": 2241,
+          "localidad": "Mariano_Boedo",
+          "coordenada": "26°06′42″S 58°29′17″W"
+        },
+        {
+          "localidadId": 2242,
+          "localidad": "Mojón_de_Fierro",
+          "coordenada": "26°01′55″S 58°02′53″W"
+        },
+        {
+          "localidadId": 2243,
+          "localidad": "San_Hilario",
+          "coordenada": "26°01′37″S 58°39′08″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 263,
+      "departamento": "Laishí",
+      "coordenadas": "26°14′43″S 58°37′45″W",
+      "localidades": [
+        {
+          "localidadId": 2244,
+          "localidad": "San_Francisco_de_Laishí",
+          "coordenada": "26°14′30″S 58°37′56″W"
+        },
+        {
+          "localidadId": 2245,
+          "localidad": "General_Lucio_V._Mansilla",
+          "coordenada": "26°39′18″S 58°37′51″W"
+        },
+        {
+          "localidadId": 2246,
+          "localidad": "Herradura",
+          "coordenada": "26°29′00″S 58°18′00″W"
+        },
+        {
+          "localidadId": 2247,
+          "localidad": "Banco_Payaguá",
+          "coordenada": "26°42′25″S 58°20′11″W"
+        },
+        {
+          "localidadId": 2248,
+          "localidad": "Tatané",
+          "coordenada": "26°24′02″S 58°21′12″W"
+        },
+        {
+          "localidadId": 2249,
+          "localidad": "Villa_Escolar",
+          "coordenada": "26°37′19″S 58°40′11″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 264,
+      "departamento": "Matacos",
+      "coordenadas": "23°53′56″S 61°51′20″W",
+      "localidades": [
+        {
+          "localidadId": 2250,
+          "localidad": "Ingeniero_Juárez",
+          "coordenada": "23°54′S 61°51′W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 265,
+      "departamento": "Patiño",
+      "coordenadas": "25°20′00″S 59°41′00″W",
+      "localidades": [
+        {
+          "localidadId": 2251,
+          "localidad": "Comandante_Fontana",
+          "coordenada": "25°20′00″S 59°41′00″W"
+        },
+        {
+          "localidadId": 2252,
+          "localidad": "Estanislao_del_Campo",
+          "coordenada": "25°03′S 60°06′W"
+        },
+        {
+          "localidadId": 2253,
+          "localidad": "Ibarreta",
+          "coordenada": "25°12′37″S 59°51′36″W"
+        },
+        {
+          "localidadId": 2254,
+          "localidad": "Las_Lomitas",
+          "coordenada": "24°42′26″S 60°35′40″W"
+        },
+        {
+          "localidadId": 2255,
+          "localidad": "Pozo_del_Tigre",
+          "coordenada": "24°54′00″S 60°19′00″W"
+        },
+        {
+          "localidadId": 2256,
+          "localidad": "San_Martín_2",
+          "coordenada": "24°26′04″S 59°39′16″W"
+        },
+        {
+          "localidadId": 2257,
+          "localidad": "Villa_General_Güemes",
+          "coordenada": "24°45′19″S 59°29′22″W"
+        },
+        {
+          "localidadId": 2258,
+          "localidad": "Villa_General_Manuel_Belgrano",
+          "coordenada": "24°56′25″S 59°01′39″W"
+        },
+        {
+          "localidadId": 2259,
+          "localidad": "Bartolomé_de_las_Casas",
+          "coordenada": "25°24′32″S 59°34′18″W"
+        },
+        {
+          "localidadId": 2260,
+          "localidad": "Colonia_Sarmiento",
+          "coordenada": "24°38′38″S 59°25′58″W"
+        },
+        {
+          "localidadId": 2261,
+          "localidad": "El_Recreo",
+          "coordenada": "25°02′21″S 59°17′06″W"
+        },
+        {
+          "localidadId": 2262,
+          "localidad": "Fortín_Leyes",
+          "coordenada": "24°33′17″S 59°23′09″W"
+        },
+        {
+          "localidadId": 2263,
+          "localidad": "Fortín_Lugones",
+          "coordenada": "24°17′12″S 59°49′41″W"
+        },
+        {
+          "localidadId": 2264,
+          "localidad": "Juan_G._Bazán",
+          "coordenada": "24°32′37″S 60°49′59″W"
+        },
+        {
+          "localidadId": 2265,
+          "localidad": "Posta_Cambio_Zalazar",
+          "coordenada": "24°12′43″S 60°11′47″W"
+        },
+        {
+          "localidadId": 2266,
+          "localidad": "San_Martín_1",
+          "coordenada": "24°31′57″S 59°54′06″W"
+        },
+        {
+          "localidadId": 2267,
+          "localidad": "Subteniente_Perín",
+          "coordenada": "25°32′07″S 60°01′05″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 266,
+      "departamento": "Pilagás",
+      "coordenadas": "24°58′53″S 58°33′10″W",
+      "localidades": [
+        {
+          "localidadId": 2268,
+          "localidad": "El_Espinillo",
+          "coordenada": "24°58′00″S 58°34′00″W"
+        },
+        {
+          "localidadId": 2269,
+          "localidad": "Misión_Tacaaglé",
+          "coordenada": "24°58′41″S 58°49′20″W"
+        },
+        {
+          "localidadId": 2270,
+          "localidad": "Buena_Vista",
+          "coordenada": "25°04′15″S 58°23′07″W"
+        },
+        {
+          "localidadId": 2271,
+          "localidad": "Laguna_Gallo",
+          "coordenada": "25°16′06″S 58°44′32″W"
+        },
+        {
+          "localidadId": 2272,
+          "localidad": "Portón_Negro",
+          "coordenada": "24°58′00″S 58°44′35″W"
+        },
+        {
+          "localidadId": 2273,
+          "localidad": "Tres_Lagunas",
+          "coordenada": "25°12′57″S 58°30′40″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 267,
+      "departamento": "Pilcomayo",
+      "coordenadas": "25°17′10″S 57°43′21″W",
+      "localidades": [
+        {
+          "localidadId": 2274,
+          "localidad": "Clorinda",
+          "coordenada": "25°17′29″S 57°43′06″W"
+        },
+        {
+          "localidadId": 2275,
+          "localidad": "Laguna_Blanca",
+          "coordenada": "25°07′52″S 58°14′42″W"
+        },
+        {
+          "localidadId": 2276,
+          "localidad": "Laguna_Naick_Neck",
+          "coordenada": "25°14′52″S 58°05′38″W"
+        },
+        {
+          "localidadId": 2277,
+          "localidad": "Riacho_He_Hé",
+          "coordenada": "25°21′44″S 58°16′39″W"
+        },
+        {
+          "localidadId": 2278,
+          "localidad": "Palma_Sola",
+          "coordenada": "25°14′51″S 57°58′40″W"
+        },
+        {
+          "localidadId": 2279,
+          "localidad": "Puerto_Pilcomayo",
+          "coordenada": "25°22′23″S 57°39′03″W"
+        },
+        {
+          "localidadId": 2280,
+          "localidad": "Riacho_Negro",
+          "coordenada": "25°25′24″S 57°47′28″W"
+        },
+        {
+          "localidadId": 2281,
+          "localidad": "Siete_Palmas",
+          "coordenada": "25°12′10″S 58°19′55″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 268,
+      "departamento": "Pirané",
+      "coordenadas": "25°43′58″S 59°06′36″W",
+      "localidades": [
+        {
+          "localidadId": 2282,
+          "localidad": "Pirané",
+          "coordenada": "25°43′00″S 59°06′00″W"
+        },
+        {
+          "localidadId": 2283,
+          "localidad": "El_Colorado",
+          "coordenada": "26°18′32″S 59°22′20″W"
+        },
+        {
+          "localidadId": 2284,
+          "localidad": "Mayor_Vicente_Villafañe",
+          "coordenada": "26°12′16″S 59°04′49″W"
+        },
+        {
+          "localidadId": 2285,
+          "localidad": "Palo_Santo",
+          "coordenada": "25°34′00″S 59°20′28″W"
+        },
+        {
+          "localidadId": 2286,
+          "localidad": "Villa_Dos_Trece",
+          "coordenada": "26°10′00″S 59°21′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 269,
+      "departamento": "Ramón_Lista",
+      "coordenadas": "23°11′24″S 62°02′37″W",
+      "localidades": [
+        {
+          "localidadId": 2287,
+          "localidad": "El_Chorro",
+          "coordenada": "23°13′00″S 62°18′00″W"
+        },
+        {
+          "localidadId": 2288,
+          "localidad": "El_Potrillo",
+          "coordenada": "23°11′24″S 62°02′37″W"
+        },
+        {
+          "localidadId": 2289,
+          "localidad": "El_Quebracho",
+          "coordenada": "23°20′33″S 61°52′17″W"
+        }
+      ]
+    }
+  ]
 }

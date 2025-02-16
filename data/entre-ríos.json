@@ -1,1187 +1,1475 @@
 {
-    "provincia": "Entre_Ríos",
-    "departamentos": [
+  "provinciaId": 7,
+  "provincia": "Entre_Ríos",
+  "departamentos": [
+    {
+      "departamentoId": 244,
+      "departamento": "Colón",
+      "coordenadas": "32°13′27″S 58°08′40″W",
+      "localidades": [
         {
-            "departamento": "Colón",
-            "coordenadas": "32°13′27″S 58°08′40″W",
-            "localidades": [
-                {
-                    "localidad": "Colón",
-                    "coordenada": "32°13′27″S 58°08′31″W"
-                },
-                {
-                    "localidad": "San_José",
-                    "coordenada": "32°12′00″S 58°13′00″W"
-                },
-                {
-                    "localidad": "Villa_Elisa",
-                    "coordenada": "32°10′00″S 58°24′00″W"
-                },
-                {
-                    "localidad": "Ubajay",
-                    "coordenada": "31°47′00″S 58°18′00″W"
-                },
-                {
-                    "localidad": "Pueblo_Liebig",
-                    "coordenada": "32°09′12″S 58°11′28″W"
-                },
-                {
-                    "localidad": "Arroyo_Barú",
-                    "coordenada": "31°51′58″S 58°26′47″W"
-                },
-                {
-                    "localidad": "La_Clarita",
-                    "coordenada": "31°58′00″S 58°24′00″W"
-                },
-                {
-                    "localidad": "Pueblo_Cazes",
-                    "coordenada": "32°00′11″S 58°30′00″W"
-                },
-                {
-                    "localidad": "San_Miguel",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Hocker",
-                    "coordenada": "32°05′00″S 58°20′00″W"
-                },
-                {
-                    "localidad": "Colonia_San_Anselmo_y_Aledañas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Hambis",
-                    "coordenada": "31°57′47″S 58°30′25″W"
-                }
-            ]
+          "localidadId": 1958,
+          "localidad": "Colón",
+          "coordenada": "32°13′27″S 58°08′31″W"
         },
         {
-            "departamento": "Concordia",
-            "coordenadas": "31°23′30″S 58°01′04″W",
-            "localidades": [
-                {
-                    "localidad": "Concordia",
-                    "coordenada": "31°23′32″S 58°01′01″W"
-                },
-                {
-                    "localidad": "Colonia_Ayuí",
-                    "coordenada": "31°12′20″S 58°02′01″W"
-                },
-                {
-                    "localidad": "Estancia_Grande",
-                    "coordenada": "31°10′00″S 58°11′00″W"
-                },
-                {
-                    "localidad": "La_Criolla",
-                    "coordenada": "31°16′09″S 58°06′32″W"
-                },
-                {
-                    "localidad": "Los_Charrúas",
-                    "coordenada": "31°10′00″S 58°11′00″W"
-                },
-                {
-                    "localidad": "Puerto_Yeruá",
-                    "coordenada": "31°31′53″S 58°00′55″W"
-                },
-                {
-                    "localidad": "Colonia_General_Roca",
-                    "coordenada": "31°19′59″S 58°06′25″W"
-                },
-                {
-                    "localidad": "Nueva_Escocia",
-                    "coordenada": "31°38′56″S 58°00′54″W"
-                },
-                {
-                    "localidad": "Pedernal",
-                    "coordenada": "31°40′12″S 58°13′41″W"
-                },
-                {
-                    "localidad": "Clodomiro_Ledesma",
-                    "coordenada": "31°34′00″S 58°10′00″W"
-                },
-                {
-                    "localidad": "El_Redomón",
-                    "coordenada": "31°05′45″S 58°16′16″W"
-                },
-                {
-                    "localidad": "Colonia_San_Justo",
-                    "coordenada": "31°08′00″S 58°07′00″W"
-                }
-            ]
+          "localidadId": 1959,
+          "localidad": "San_José",
+          "coordenada": "32°12′00″S 58°13′00″W"
         },
         {
-            "departamento": "Diamante",
-            "coordenadas": "32°03′52″S 60°38′33″W",
-            "localidades": [
-                {
-                    "localidad": "General_Ramírez",
-                    "coordenada": "32°11′00″S 60°12′00″W"
-                },
-                {
-                    "localidad": "Diamante",
-                    "coordenada": "32°04′00″S 60°39′00″W"
-                },
-                {
-                    "localidad": "Aldea_Valle_María",
-                    "coordenada": "31°59′25″S 60°35′25″W"
-                },
-                {
-                    "localidad": "Libertador_San_Martín",
-                    "coordenada": "32°04′00″S 60°28′00″W"
-                },
-                {
-                    "localidad": "Aldea_Brasilera",
-                    "coordenada": "31°53′S 60°35′W"
-                },
-                {
-                    "localidad": "Aldea_Protestante",
-                    "coordenada": "32°02′00″S 60°34′00″W"
-                },
-                {
-                    "localidad": "Aldea_Spatzenkutter",
-                    "coordenada": "31°56′47″S 60°34′52″W"
-                },
-                {
-                    "localidad": "Colonia_Ensayo",
-                    "coordenada": "31°51′50″S 60°34′26″W"
-                },
-                {
-                    "localidad": "Estación_Racedo",
-                    "coordenada": "31°58′45″S 60°24′20″W"
-                },
-                {
-                    "localidad": "Las_Cuevas",
-                    "coordenada": "32°21′00″S 60°29′00″W"
-                },
-                {
-                    "localidad": "Costa_Grande",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "General_Alvear",
-                    "coordenada": "31°57′01″S 60°41′12″W"
-                },
-                {
-                    "localidad": "Isletas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Aldea_Salto",
-                    "coordenada": "31°57′S 60°33′W"
-                },
-                {
-                    "localidad": "Estación_Camps",
-                    "coordenada": "32°06′43″S 60°13′47″W"
-                },
-                {
-                    "localidad": "Aldea_Grapschental",
-                    "coordenada": ""
-                }
-            ]
+          "localidadId": 1960,
+          "localidad": "Villa_Elisa",
+          "coordenada": "32°10′00″S 58°24′00″W"
         },
         {
-            "departamento": "Federación",
-            "coordenadas": "30°45′25″S 57°59′06″W",
-            "localidades": [
-                {
-                    "localidad": "Chajarí",
-                    "coordenada": "30°46′00″S 57°59′00″W"
-                },
-                {
-                    "localidad": "Federación",
-                    "coordenada": "30°59′00″S 57°55′00″W"
-                },
-                {
-                    "localidad": "Los_Conquistadores",
-                    "coordenada": "30°35′29″S 58°27′59″W"
-                },
-                {
-                    "localidad": "San_Jaime_de_la_Frontera",
-                    "coordenada": "30°20′00″S 58°19′00″W"
-                },
-                {
-                    "localidad": "Santa_Ana",
-                    "coordenada": "30°54′00″S 57°56′00″W"
-                },
-                {
-                    "localidad": "Villa_del_Rosario",
-                    "coordenada": "30°47′00″S 57°55′00″W"
-                },
-                {
-                    "localidad": "Colonia_La_Argentina",
-                    "coordenada": "31°04′26″S 58°01′33″W"
-                },
-                {
-                    "localidad": "San_Pedro",
-                    "coordenada": "30°45′26″S 58°04′55″W"
-                },
-                {
-                    "localidad": "San_Ramón",
-                    "coordenada": "30°47′56″S 58°10′52″W"
-                },
-                {
-                    "localidad": "Colonia_Alemana",
-                    "coordenada": "30°54′14″S 58°00′00″W"
-                },
-                {
-                    "localidad": "Colonias_Santa_María_y_las_Margaritas",
-                    "coordenada": "30°35′13″S 58°11′13″W"
-                },
-                {
-                    "localidad": "La_Florida",
-                    "coordenada": "30°50′30″S 58°00′30″W"
-                },
-                {
-                    "localidad": "La_Fraternidad_y_Santa_Juana",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Paraje_Guayaquil",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Tunas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Gualeguaycito",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Roque",
-                    "coordenada": ""
-                }
-            ]
+          "localidadId": 1961,
+          "localidad": "Ubajay",
+          "coordenada": "31°47′00″S 58°18′00″W"
         },
         {
-            "departamento": "Federal",
-            "coordenadas": "30°57′22″S 58°46′47″W",
-            "localidades": [
-                {
-                    "localidad": "Federal",
-                    "coordenada": "30°57′S 58°48′W"
-                },
-                {
-                    "localidad": "Conscripto_Bernardi",
-                    "coordenada": "31°02′45″S 59°05′13″W"
-                },
-                {
-                    "localidad": "Sauce_de_Luna",
-                    "coordenada": "31°14′00″S 59°13′00″W"
-                },
-                {
-                    "localidad": "El_Cimarrón",
-                    "coordenada": "30°59′14″S 58°58′38″W"
-                },
-                {
-                    "localidad": "Nueva_Vizcaya",
-                    "coordenada": "30°58′01″S 58°36′43″W"
-                },
-                {
-                    "localidad": "Paso_Duarte",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Banderas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Santa_Lucía",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Arroyo_del_Medio",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Arroyo_Las_Tunas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Distrito_Diego_López",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "El_Gato_Loma_Limpia",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "El_Gramiyal",
-                    "coordenada": ""
-                }
-            ]
+          "localidadId": 1962,
+          "localidad": "Pueblo_Liebig",
+          "coordenada": "32°09′12″S 58°11′28″W"
         },
         {
-            "departamento": "Feliciano",
-            "coordenadas": "30°23′06″S 58°45′07″W",
-            "localidades": [
-                {
-                    "localidad": "San_José_de_Feliciano",
-                    "coordenada": "30°23′00″S 58°45′00″W"
-                },
-                {
-                    "localidad": "San_Víctor",
-                    "coordenada": "30°29′16″S 59°01′38″W"
-                },
-                {
-                    "localidad": "Distrito_Chañar",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Verbena",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Laguna_Benítez",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Esmeralda",
-                    "coordenada": "30°18′11″S 58°39′05″W"
-                },
-                {
-                    "localidad": "Las_Mulitas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Hierra",
-                    "coordenada": "30°27′23″S 58°24′20″W"
-                },
-                {
-                    "localidad": "Mulas_Grandes",
-                    "coordenada": ""
-                }
-            ]
+          "localidadId": 1963,
+          "localidad": "Arroyo_Barú",
+          "coordenada": "31°51′58″S 58°26′47″W"
         },
         {
-            "departamento": "Gualeguay",
-            "coordenadas": "33°08′00″S 59°19′00″W",
-            "localidades": [
-                {
-                    "localidad": "Gualeguay",
-                    "coordenada": "33°09′00″S 59°19′00″W"
-                },
-                {
-                    "localidad": "General_Galarza",
-                    "coordenada": "32°43′00″S 59°24′00″W"
-                },
-                {
-                    "localidad": "Aldea_Asunción",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Distrito_Sexto_Costa_de_Nogoyá",
-                    "coordenada": "32°49′00″S 59°45′00″W"
-                },
-                {
-                    "localidad": "Quinto_Distrito",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Estación_Lazo",
-                    "coordenada": "32°52′39″S 59°24′51″W"
-                },
-                {
-                    "localidad": "Islas_Las_Lechiguanas",
-                    "coordenada": "33°26′00″S 59°42′00″W"
-                },
-                {
-                    "localidad": "Primer_Distrito_Cuchillas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Distrito_Cuarto",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "González_Calderón",
-                    "coordenada": "32°58′45″S 59°24′49″W"
-                },
-                {
-                    "localidad": "Monte_Redondo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Punta_del_Monte",
-                    "coordenada": ""
-                }
-            ]
+          "localidadId": 1964,
+          "localidad": "La_Clarita",
+          "coordenada": "31°58′00″S 58°24′00″W"
         },
         {
-            "departamento": "Gualeguaychú",
-            "coordenadas": "33°01′00″S 58°31′00″W",
-            "localidades": [
-                {
-                    "localidad": "Gualeguaychú",
-                    "coordenada": "33°00′28″S 58°30′40″W"
-                },
-                {
-                    "localidad": "Urdinarrain",
-                    "coordenada": "32°41′08″S 58°53′12″W"
-                },
-                {
-                    "localidad": "Larroque",
-                    "coordenada": "33°02′00″S 59°01′00″W"
-                },
-                {
-                    "localidad": "Aldea_San_Antonio",
-                    "coordenada": "32°37′00″S 58°42′00″W"
-                },
-                {
-                    "localidad": "Gilbert",
-                    "coordenada": "32°32′00″S 58°56′00″W"
-                },
-                {
-                    "localidad": "Pueblo_General_Belgrano",
-                    "coordenada": "33°00′37″S 58°30′51″W"
-                },
-                {
-                    "localidad": "Enrique_Carbó",
-                    "coordenada": "33°08′00″S 59°14′00″W"
-                },
-                {
-                    "localidad": "Aldea_San_Juan",
-                    "coordenada": "32°42′00″S 58°46′00″W"
-                },
-                {
-                    "localidad": "Irazusta",
-                    "coordenada": "32°56′00″S 58°57′00″W"
-                },
-                {
-                    "localidad": "Costa_Uruguay_Norte",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Faustino_M._Parera",
-                    "coordenada": "32°48′00″S 58°53′00″W"
-                },
-                {
-                    "localidad": "General_Almada",
-                    "coordenada": "32°50′00″S 58°48′00″W"
-                },
-                {
-                    "localidad": "Las_Mercedes",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Costa_San_Antonio",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Costa_Uruguay_Sur",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Cuchilla_Redonda",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Distrito_Talitas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Estación_Escriña",
-                    "coordenada": "32°35′00″S 58°54′00″W"
-                },
-                {
-                    "localidad": "Pastor_Britos",
-                    "coordenada": "32°46′00″S 58°53′00″W"
-                },
-                {
-                    "localidad": "Perdices",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Rincón_del_Cinto",
-                    "coordenada": "32°37′55″S 58°34′44″W"
-                },
-                {
-                    "localidad": "Rincón_del_Gato",
-                    "coordenada": "32°37′55″S 58°34′44″W"
-                }
-            ]
+          "localidadId": 1965,
+          "localidad": "Pueblo_Cazes",
+          "coordenada": "32°00′11″S 58°30′00″W"
         },
         {
-            "departamento": "Islas_del_Ibicuy",
-            "coordenadas": "33°42′49″S 58°39′53″W",
-            "localidades": [
-                {
-                    "localidad": "Ceibas",
-                    "coordenada": "33°29′57″S 58°47′52″W"
-                },
-                {
-                    "localidad": "Ibicuy",
-                    "coordenada": "33°44′00″S 59°11′00″W"
-                },
-                {
-                    "localidad": "Villa_Paranacito",
-                    "coordenada": "33°42′00″S 58°41′00″W"
-                },
-                {
-                    "localidad": "Médanos",
-                    "coordenada": "33°26′08″S 59°04′07″W"
-                },
-                {
-                    "localidad": "Ñancay",
-                    "coordenada": "33°27′25″S 58°40′41″W"
-                }
-            ]
+          "localidadId": 1966,
+          "localidad": "San_Miguel",
+          "coordenada": ""
         },
         {
-            "departamento": "La_Paz",
-            "coordenadas": "30°45′S 59°39′W",
-            "localidades": [
-                {
-                    "localidad": "Bovril",
-                    "coordenada": "31°21′00″S 59°26′00″W"
-                },
-                {
-                    "localidad": "La_Paz",
-                    "coordenada": "30°44′26″S 59°38′40″W"
-                },
-                {
-                    "localidad": "Santa_Elena",
-                    "coordenada": "30°57′S 59°48′W"
-                },
-                {
-                    "localidad": "Villa_Alcaraz",
-                    "coordenada": "31°27′27″S 59°35′54″W"
-                },
-                {
-                    "localidad": "Piedras_Blancas",
-                    "coordenada": "31°11′06″S 59°57′00″W"
-                },
-                {
-                    "localidad": "San_Gustavo",
-                    "coordenada": "30°41′25″S 59°23′43″W"
-                },
-                {
-                    "localidad": "Colonia_Avigdor",
-                    "coordenada": "31°11′00″S 59°25′00″W"
-                },
-                {
-                    "localidad": "El_Solar",
-                    "coordenada": "31°10′34″S 59°43′59″W"
-                },
-                {
-                    "localidad": "Ombú",
-                    "coordenada": "30°28′01″S 59°14′34″W"
-                },
-                {
-                    "localidad": "Alcaraz_Norte",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Alcaraz_Sur",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Yeso_Oeste",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Carrasco",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Oficial_N.º_3_y_14",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "El_Quebracho",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Providencia",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Puerto_Algarrobo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Ramírez",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Saucesito",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Sir_Leonard",
-                    "coordenada": "31°23′20″S 59°30′04″W"
-                },
-                {
-                    "localidad": "Tacuaras_Yacaré",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Oficial_N.º_13",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Viraró",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Estaquitas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Las_Toscas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Picada_Berón",
-                    "coordenada": ""
-                }
-            ]
+          "localidadId": 1967,
+          "localidad": "Colonia_Hocker",
+          "coordenada": "32°05′00″S 58°20′00″W"
         },
         {
-            "departamento": "Nogoyá",
-            "coordenadas": "32°23′44″S 59°47′17″W",
-            "localidades": [
-                {
-                    "localidad": "Lucas_González",
-                    "coordenada": "32°24′S 59°33′W"
-                },
-                {
-                    "localidad": "Nogoyá",
-                    "coordenada": "32°24′S 59°48′W"
-                },
-                {
-                    "localidad": "Aranguren",
-                    "coordenada": "32°15′00″S 60°10′00″W"
-                },
-                {
-                    "localidad": "Hernández",
-                    "coordenada": "32°20′11″S 60°01′20″W"
-                },
-                {
-                    "localidad": "Don_Cristóbal_Segundo",
-                    "coordenada": "32°04′16.06″S 59°59′41.32″W"
-                },
-                {
-                    "localidad": "Febre",
-                    "coordenada": "32°28′34″S 59°54′58″W"
-                },
-                {
-                    "localidad": "XX_de_Septiembre",
-                    "coordenada": "32°23′06″S 59°39′53″W"
-                },
-                {
-                    "localidad": "Crucesitas_Octava",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Distrito_Sauce",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Don_Cristóbal_Primero",
-                    "coordenada": "32°09′52″S 59°48′44″W"
-                },
-                {
-                    "localidad": "Justo_José_de_Urquiza",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Aldea_San_Miguel",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Crucesitas_Séptima",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Crucesitas_Tercera",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Betbeder",
-                    "coordenada": "32°23′00″S 59°55′00″W"
-                },
-                {
-                    "localidad": "Distrito_Chiqueros",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Laurencena",
-                    "coordenada": ""
-                }
-            ]
+          "localidadId": 1968,
+          "localidad": "Colonia_San_Anselmo_y_Aledañas",
+          "coordenada": ""
         },
         {
-            "departamento": "Paraná",
-            "coordenadas": "31°43′59″S 60°31′48″W",
-            "localidades": [
-                {
-                    "localidad": "Crespo",
-                    "coordenada": "32°02′00″S 60°19′00″W"
-                },
-                {
-                    "localidad": "María_Grande",
-                    "coordenada": "31°39′S 59°54′W"
-                },
-                {
-                    "localidad": "Paraná",
-                    "coordenada": "31°43′59″S 60°31′47″W"
-                },
-                {
-                    "localidad": "San_Benito",
-                    "coordenada": "31°47′00″S 60°26′00″W"
-                },
-                {
-                    "localidad": "Viale",
-                    "coordenada": "31°52′00″S 60°01′00″W"
-                },
-                {
-                    "localidad": "Villa_Hernandarias",
-                    "coordenada": "31°13′00″S 59°59′00″W"
-                },
-                {
-                    "localidad": "Cerrito",
-                    "coordenada": "31°35′00″S 60°04′00″W"
-                },
-                {
-                    "localidad": "Colonia_Avellaneda",
-                    "coordenada": "31°46′01″S 60°24′14″W"
-                },
-                {
-                    "localidad": "Hasenkamp",
-                    "coordenada": "31°31′00″S 59°51′00″W"
-                },
-                {
-                    "localidad": "Oro_Verde",
-                    "coordenada": "31°49′00″S 60°31′00″W"
-                },
-                {
-                    "localidad": "Seguí",
-                    "coordenada": "31°57′00″S 60°08′00″W"
-                },
-                {
-                    "localidad": "Tabossi",
-                    "coordenada": "31°48′06″S 59°56′10″W"
-                },
-                {
-                    "localidad": "Villa_Urquiza",
-                    "coordenada": "31°39′00″S 60°22′00″W"
-                },
-                {
-                    "localidad": "Aldea_María_Luisa",
-                    "coordenada": "31°53′06″S 60°24′36″W"
-                },
-                {
-                    "localidad": "El_Pingo",
-                    "coordenada": "31°35′00″S 59°53′00″W"
-                },
-                {
-                    "localidad": "Pueblo_Brugo",
-                    "coordenada": "31°23′00″S 60°06′00″W"
-                },
-                {
-                    "localidad": "Aldea_Santa_María",
-                    "coordenada": "31°36′40″S 60°00′22″W"
-                },
-                {
-                    "localidad": "Puerto_Curtiembre",
-                    "coordenada": "31°27′40″S 60°09′58″W"
-                },
-                {
-                    "localidad": "El_Palenque",
-                    "coordenada": "31°39′11″S 60°10′01″W"
-                },
-                {
-                    "localidad": "La_Picada",
-                    "coordenada": "31°43′30″S 60°17′38″W"
-                },
-                {
-                    "localidad": "Las_Tunas",
-                    "coordenada": "31°52′12″S 59°43′52″W"
-                },
-                {
-                    "localidad": "Sauce_Montrull",
-                    "coordenada": "31°44′42″S 60°21′14″W"
-                },
-                {
-                    "localidad": "Sosa",
-                    "coordenada": "31°44′09″S 59°54′43″W"
-                },
-                {
-                    "localidad": "Colonia_Crespo",
-                    "coordenada": "31°40′57.08″S 60°13′52.94″W"
-                },
-                {
-                    "localidad": "Pueblo_Bellocq",
-                    "coordenada": "31°25′39″S 59°44′40″W"
-                },
-                {
-                    "localidad": "Sauce_Pinto",
-                    "coordenada": "31°50′31″S 60°22′23″W"
-                },
-                {
-                    "localidad": "Tezanos_Pinto",
-                    "coordenada": "31°52′00″S 60°29′00″W"
-                },
-                {
-                    "localidad": "Villa_Fontana",
-                    "coordenada": "31°54′00″S 60°28′00″W"
-                },
-                {
-                    "localidad": "Villa_Gobernador_Etchevehere",
-                    "coordenada": "31°56′02″S 60°25′30″W"
-                },
-                {
-                    "localidad": "Aldea_Santa_Rosa",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Arroyo_Burgos",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Arroyo_Corralito",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Aldea_Eigenfeld",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Aldea_San_Antonio",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Aldea_San_Rafael",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Antonio_Tomás",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Celina",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Espinillo_Norte",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "María_Grande_Segunda",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Paso_de_la_Arena",
-                    "coordenada": "31°45′00″S 60°10′00″W"
-                },
-                {
-                    "localidad": "Paso_de_Las_Piedras",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Santa_Luisa",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Arroyo_Maturrango",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Arroyo_Palo_Seco",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Cerrito",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Merou",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Reffino",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Distrito_Tala",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Quebracho",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "San_Salvador",
-            "coordenadas": "31°37′00″S 58°30′00″W",
-            "localidades": [
-                {
-                    "localidad": "San_Salvador",
-                    "coordenada": "31°37′00″S 58°30′00″W"
-                },
-                {
-                    "localidad": "General_Campos",
-                    "coordenada": "31°32′00″S 58°24′00″W"
-                },
-                {
-                    "localidad": "Colonia_Baylina",
-                    "coordenada": "31°47′57″S 58°33′07″W"
-                },
-                {
-                    "localidad": "San_Ernesto",
-                    "coordenada": "31°50′47″S 58°38′53″W"
-                },
-                {
-                    "localidad": "Colonia_Oficial_N.º_5",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Walter_Moss",
-                    "coordenada": "31°29′00″S 58°24′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Tala",
-            "coordenadas": "32°18′12″S 59°08′29″W",
-            "localidades": [
-                {
-                    "localidad": "Maciá",
-                    "coordenada": "32°10′00″S 59°23′00″W"
-                },
-                {
-                    "localidad": "Rosario_del_Tala",
-                    "coordenada": "32°18′03″S 59°08′20″W"
-                },
-                {
-                    "localidad": "Gobernador_Mansilla",
-                    "coordenada": "32°33′00″S 59°22′00″W"
-                },
-                {
-                    "localidad": "Gobernador_Sola",
-                    "coordenada": "32°20′22″S 59°22′19″W"
-                },
-                {
-                    "localidad": "Durazno",
-                    "coordenada": "31°59′09″S 59°16′46″W"
-                },
-                {
-                    "localidad": "Gobernador_Echagüe",
-                    "coordenada": "32°23′46″S 59°16′37″W"
-                },
-                {
-                    "localidad": "Guardamonte",
-                    "coordenada": "32°04′53″S 59°18′14″W"
-                },
-                {
-                    "localidad": "Altamirano_Sur",
-                    "coordenada": "32°05′28″S 59°10′26″W"
-                },
-                {
-                    "localidad": "Arroyo_Clé",
-                    "coordenada": "32°38′17″S 59°23′53″W"
-                },
-                {
-                    "localidad": "Las_Guachas",
-                    "coordenada": "32°28′01″S 59°10′23″W"
-                },
-                {
-                    "localidad": "Sauce_Sur",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Ollita",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Uruguay",
-            "coordenadas": "32°28′53″S 58°13′57″W",
-            "localidades": [
-                {
-                    "localidad": "Concepción_del_Uruguay",
-                    "coordenada": "32°29′00″S 58°14′00″W"
-                },
-                {
-                    "localidad": "Basavilbaso",
-                    "coordenada": "32°22′00″S 58°53′00″W"
-                },
-                {
-                    "localidad": "Caseros",
-                    "coordenada": "32°28′00″S 58°29′00″W"
-                },
-                {
-                    "localidad": "Colonia_Elía",
-                    "coordenada": "32°40′17″S 58°19′31″W"
-                },
-                {
-                    "localidad": "Herrera",
-                    "coordenada": "32°26′00″S 58°38′00″W"
-                },
-                {
-                    "localidad": "Primero_de_Mayo",
-                    "coordenada": "32°15′19″S 58°25′22″W"
-                },
-                {
-                    "localidad": "Pronunciamiento",
-                    "coordenada": "32°21′00″S 58°26′00″W"
-                },
-                {
-                    "localidad": "San_Justo",
-                    "coordenada": "32°27′00″S 58°26′00″W"
-                },
-                {
-                    "localidad": "Santa_Anita",
-                    "coordenada": "32°10′35″S 58°47′07″W"
-                },
-                {
-                    "localidad": "Villa_Mantero",
-                    "coordenada": "32°24′S 58°45′W"
-                },
-                {
-                    "localidad": "Las_Moscas",
-                    "coordenada": "32°05′00″S 58°57′00″W"
-                },
-                {
-                    "localidad": "San_Cipriano",
-                    "coordenada": "34°36′53″S 58°25′30″W"
-                },
-                {
-                    "localidad": "Villa_San_Marcial",
-                    "coordenada": "32°10′00″S 58°56′00″W"
-                },
-                {
-                    "localidad": "Tala",
-                    "coordenada": "32°36′14.06″S 58°27′5.12″W"
-                },
-                {
-                    "localidad": "Estación_Líbaros",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Rocamora",
-                    "coordenada": "32°20′46″S 58°58′11″W"
-                },
-                {
-                    "localidad": "Arroyo_Gená",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Victoria",
-            "coordenadas": "32°37′18″S 60°09′28″W",
-            "localidades": [
-                {
-                    "localidad": "Victoria",
-                    "coordenada": "32°37′00″S 60°10′00″W"
-                },
-                {
-                    "localidad": "Rincón_de_Nogoyá",
-                    "coordenada": "32°46′41″S 59°54′40″W"
-                },
-                {
-                    "localidad": "Rincón_del_Doll",
-                    "coordenada": "32°26′33.49″S 60°23′44.54″W"
-                },
-                {
-                    "localidad": "Antelo",
-                    "coordenada": "32°32′00″S 60°03′00″W"
-                },
-                {
-                    "localidad": "Molino_Doll",
-                    "coordenada": "32°18′22″S 60°25′26″W"
-                },
-                {
-                    "localidad": "Chilcas",
-                    "coordenada": "32°36′33″S 60°10′08″W"
-                },
-                {
-                    "localidad": "Distrito_Pajonal",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Hinojal",
-                    "coordenada": "32°24′00″S 60°07′00″W"
-                },
-                {
-                    "localidad": "Laguna_del_Pescado",
-                    "coordenada": "32°41′13″S 60°00′43″W"
-                },
-                {
-                    "localidad": "Montoya",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Villaguay",
-            "coordenadas": "31°51′51″S 59°01′37″W",
-            "localidades": [
-                {
-                    "localidad": "Villaguay",
-                    "coordenada": "31°51′00″S 59°01′00″W"
-                },
-                {
-                    "localidad": "Villa_Clara",
-                    "coordenada": "31°50′00″S 58°49′00″W"
-                },
-                {
-                    "localidad": "Villa_Domínguez",
-                    "coordenada": "31°58′59″S 58°58′01″W"
-                },
-                {
-                    "localidad": "Jubileo",
-                    "coordenada": "31°44′00″S 58°37′00″W"
-                },
-                {
-                    "localidad": "Paso_de_la_Laguna",
-                    "coordenada": "31°48′07″S 59°09′36″W"
-                },
-                {
-                    "localidad": "Ingeniero_Sajaroff",
-                    "coordenada": "31°57′22″S 58°50′53″W"
-                },
-                {
-                    "localidad": "Lucas_Norte",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Lucas_Sur_Segundo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Raíces_Oeste",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Estación_Raíces",
-                    "coordenada": "31°54′22″S 59°15′43″W"
-                },
-                {
-                    "localidad": "Lucas_Sur_Primera",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Mojones_Norte",
-                    "coordenada": "31°30′07″S 59°12′43″W"
-                },
-                {
-                    "localidad": "Paraje_Los_Algarrobos",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Adivino",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Mojones_Sur",
-                    "coordenada": ""
-                }
-            ]
+          "localidadId": 1969,
+          "localidad": "Hambis",
+          "coordenada": "31°57′47″S 58°30′25″W"
         }
-    ]
+      ]
+    },
+    {
+      "departamentoId": 245,
+      "departamento": "Concordia",
+      "coordenadas": "31°23′30″S 58°01′04″W",
+      "localidades": [
+        {
+          "localidadId": 1970,
+          "localidad": "Concordia",
+          "coordenada": "31°23′32″S 58°01′01″W"
+        },
+        {
+          "localidadId": 1971,
+          "localidad": "Colonia_Ayuí",
+          "coordenada": "31°12′20″S 58°02′01″W"
+        },
+        {
+          "localidadId": 1972,
+          "localidad": "Estancia_Grande",
+          "coordenada": "31°10′00″S 58°11′00″W"
+        },
+        {
+          "localidadId": 1973,
+          "localidad": "La_Criolla",
+          "coordenada": "31°16′09″S 58°06′32″W"
+        },
+        {
+          "localidadId": 1974,
+          "localidad": "Los_Charrúas",
+          "coordenada": "31°10′00″S 58°11′00″W"
+        },
+        {
+          "localidadId": 1975,
+          "localidad": "Puerto_Yeruá",
+          "coordenada": "31°31′53″S 58°00′55″W"
+        },
+        {
+          "localidadId": 1976,
+          "localidad": "Colonia_General_Roca",
+          "coordenada": "31°19′59″S 58°06′25″W"
+        },
+        {
+          "localidadId": 1977,
+          "localidad": "Nueva_Escocia",
+          "coordenada": "31°38′56″S 58°00′54″W"
+        },
+        {
+          "localidadId": 1978,
+          "localidad": "Pedernal",
+          "coordenada": "31°40′12″S 58°13′41″W"
+        },
+        {
+          "localidadId": 1979,
+          "localidad": "Clodomiro_Ledesma",
+          "coordenada": "31°34′00″S 58°10′00″W"
+        },
+        {
+          "localidadId": 1980,
+          "localidad": "El_Redomón",
+          "coordenada": "31°05′45″S 58°16′16″W"
+        },
+        {
+          "localidadId": 1981,
+          "localidad": "Colonia_San_Justo",
+          "coordenada": "31°08′00″S 58°07′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 246,
+      "departamento": "Diamante",
+      "coordenadas": "32°03′52″S 60°38′33″W",
+      "localidades": [
+        {
+          "localidadId": 1982,
+          "localidad": "General_Ramírez",
+          "coordenada": "32°11′00″S 60°12′00″W"
+        },
+        {
+          "localidadId": 1983,
+          "localidad": "Diamante",
+          "coordenada": "32°04′00″S 60°39′00″W"
+        },
+        {
+          "localidadId": 1984,
+          "localidad": "Aldea_Valle_María",
+          "coordenada": "31°59′25″S 60°35′25″W"
+        },
+        {
+          "localidadId": 1985,
+          "localidad": "Libertador_San_Martín",
+          "coordenada": "32°04′00″S 60°28′00″W"
+        },
+        {
+          "localidadId": 1986,
+          "localidad": "Aldea_Brasilera",
+          "coordenada": "31°53′S 60°35′W"
+        },
+        {
+          "localidadId": 1987,
+          "localidad": "Aldea_Protestante",
+          "coordenada": "32°02′00″S 60°34′00″W"
+        },
+        {
+          "localidadId": 1988,
+          "localidad": "Aldea_Spatzenkutter",
+          "coordenada": "31°56′47″S 60°34′52″W"
+        },
+        {
+          "localidadId": 1989,
+          "localidad": "Colonia_Ensayo",
+          "coordenada": "31°51′50″S 60°34′26″W"
+        },
+        {
+          "localidadId": 1990,
+          "localidad": "Estación_Racedo",
+          "coordenada": "31°58′45″S 60°24′20″W"
+        },
+        {
+          "localidadId": 1991,
+          "localidad": "Las_Cuevas",
+          "coordenada": "32°21′00″S 60°29′00″W"
+        },
+        {
+          "localidadId": 1992,
+          "localidad": "Costa_Grande",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 1993,
+          "localidad": "General_Alvear",
+          "coordenada": "31°57′01″S 60°41′12″W"
+        },
+        {
+          "localidadId": 1994,
+          "localidad": "Isletas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 1995,
+          "localidad": "Aldea_Salto",
+          "coordenada": "31°57′S 60°33′W"
+        },
+        {
+          "localidadId": 1996,
+          "localidad": "Estación_Camps",
+          "coordenada": "32°06′43″S 60°13′47″W"
+        },
+        {
+          "localidadId": 1997,
+          "localidad": "Aldea_Grapschental",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 247,
+      "departamento": "Federación",
+      "coordenadas": "30°45′25″S 57°59′06″W",
+      "localidades": [
+        {
+          "localidadId": 1998,
+          "localidad": "Chajarí",
+          "coordenada": "30°46′00″S 57°59′00″W"
+        },
+        {
+          "localidadId": 1999,
+          "localidad": "Federación",
+          "coordenada": "30°59′00″S 57°55′00″W"
+        },
+        {
+          "localidadId": 2000,
+          "localidad": "Los_Conquistadores",
+          "coordenada": "30°35′29″S 58°27′59″W"
+        },
+        {
+          "localidadId": 2001,
+          "localidad": "San_Jaime_de_la_Frontera",
+          "coordenada": "30°20′00″S 58°19′00″W"
+        },
+        {
+          "localidadId": 2002,
+          "localidad": "Santa_Ana",
+          "coordenada": "30°54′00″S 57°56′00″W"
+        },
+        {
+          "localidadId": 2003,
+          "localidad": "Villa_del_Rosario",
+          "coordenada": "30°47′00″S 57°55′00″W"
+        },
+        {
+          "localidadId": 2004,
+          "localidad": "Colonia_La_Argentina",
+          "coordenada": "31°04′26″S 58°01′33″W"
+        },
+        {
+          "localidadId": 2005,
+          "localidad": "San_Pedro",
+          "coordenada": "30°45′26″S 58°04′55″W"
+        },
+        {
+          "localidadId": 2006,
+          "localidad": "San_Ramón",
+          "coordenada": "30°47′56″S 58°10′52″W"
+        },
+        {
+          "localidadId": 2007,
+          "localidad": "Colonia_Alemana",
+          "coordenada": "30°54′14″S 58°00′00″W"
+        },
+        {
+          "localidadId": 2008,
+          "localidad": "Colonias_Santa_María_y_las_Margaritas",
+          "coordenada": "30°35′13″S 58°11′13″W"
+        },
+        {
+          "localidadId": 2009,
+          "localidad": "La_Florida",
+          "coordenada": "30°50′30″S 58°00′30″W"
+        },
+        {
+          "localidadId": 2010,
+          "localidad": "La_Fraternidad_y_Santa_Juana",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2011,
+          "localidad": "Paraje_Guayaquil",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2012,
+          "localidad": "Colonia_Tunas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2013,
+          "localidad": "Gualeguaycito",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2014,
+          "localidad": "San_Roque",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 248,
+      "departamento": "Federal",
+      "coordenadas": "30°57′22″S 58°46′47″W",
+      "localidades": [
+        {
+          "localidadId": 2015,
+          "localidad": "Federal",
+          "coordenada": "30°57′S 58°48′W"
+        },
+        {
+          "localidadId": 2016,
+          "localidad": "Conscripto_Bernardi",
+          "coordenada": "31°02′45″S 59°05′13″W"
+        },
+        {
+          "localidadId": 2017,
+          "localidad": "Sauce_de_Luna",
+          "coordenada": "31°14′00″S 59°13′00″W"
+        },
+        {
+          "localidadId": 2018,
+          "localidad": "El_Cimarrón",
+          "coordenada": "30°59′14″S 58°58′38″W"
+        },
+        {
+          "localidadId": 2019,
+          "localidad": "Nueva_Vizcaya",
+          "coordenada": "30°58′01″S 58°36′43″W"
+        },
+        {
+          "localidadId": 2020,
+          "localidad": "Paso_Duarte",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2021,
+          "localidad": "Banderas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2022,
+          "localidad": "Santa_Lucía",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2023,
+          "localidad": "Arroyo_del_Medio",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2024,
+          "localidad": "Arroyo_Las_Tunas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2025,
+          "localidad": "Distrito_Diego_López",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2026,
+          "localidad": "El_Gato_Loma_Limpia",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2027,
+          "localidad": "El_Gramiyal",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 249,
+      "departamento": "Feliciano",
+      "coordenadas": "30°23′06″S 58°45′07″W",
+      "localidades": [
+        {
+          "localidadId": 2028,
+          "localidad": "San_José_de_Feliciano",
+          "coordenada": "30°23′00″S 58°45′00″W"
+        },
+        {
+          "localidadId": 2029,
+          "localidad": "San_Víctor",
+          "coordenada": "30°29′16″S 59°01′38″W"
+        },
+        {
+          "localidadId": 2030,
+          "localidad": "Distrito_Chañar",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2031,
+          "localidad": "La_Verbena",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2032,
+          "localidad": "Laguna_Benítez",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2033,
+          "localidad": "La_Esmeralda",
+          "coordenada": "30°18′11″S 58°39′05″W"
+        },
+        {
+          "localidadId": 2034,
+          "localidad": "Las_Mulitas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2035,
+          "localidad": "La_Hierra",
+          "coordenada": "30°27′23″S 58°24′20″W"
+        },
+        {
+          "localidadId": 2036,
+          "localidad": "Mulas_Grandes",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 250,
+      "departamento": "Gualeguay",
+      "coordenadas": "33°08′00″S 59°19′00″W",
+      "localidades": [
+        {
+          "localidadId": 2037,
+          "localidad": "Gualeguay",
+          "coordenada": "33°09′00″S 59°19′00″W"
+        },
+        {
+          "localidadId": 2038,
+          "localidad": "General_Galarza",
+          "coordenada": "32°43′00″S 59°24′00″W"
+        },
+        {
+          "localidadId": 2039,
+          "localidad": "Aldea_Asunción",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2040,
+          "localidad": "Distrito_Sexto_Costa_de_Nogoyá",
+          "coordenada": "32°49′00″S 59°45′00″W"
+        },
+        {
+          "localidadId": 2041,
+          "localidad": "Quinto_Distrito",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2042,
+          "localidad": "Estación_Lazo",
+          "coordenada": "32°52′39″S 59°24′51″W"
+        },
+        {
+          "localidadId": 2043,
+          "localidad": "Islas_Las_Lechiguanas",
+          "coordenada": "33°26′00″S 59°42′00″W"
+        },
+        {
+          "localidadId": 2044,
+          "localidad": "Primer_Distrito_Cuchillas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2045,
+          "localidad": "Distrito_Cuarto",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2046,
+          "localidad": "González_Calderón",
+          "coordenada": "32°58′45″S 59°24′49″W"
+        },
+        {
+          "localidadId": 2047,
+          "localidad": "Monte_Redondo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2048,
+          "localidad": "Punta_del_Monte",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 251,
+      "departamento": "Gualeguaychú",
+      "coordenadas": "33°01′00″S 58°31′00″W",
+      "localidades": [
+        {
+          "localidadId": 2049,
+          "localidad": "Gualeguaychú",
+          "coordenada": "33°00′28″S 58°30′40″W"
+        },
+        {
+          "localidadId": 2050,
+          "localidad": "Urdinarrain",
+          "coordenada": "32°41′08″S 58°53′12″W"
+        },
+        {
+          "localidadId": 2051,
+          "localidad": "Larroque",
+          "coordenada": "33°02′00″S 59°01′00″W"
+        },
+        {
+          "localidadId": 2052,
+          "localidad": "Aldea_San_Antonio",
+          "coordenada": "32°37′00″S 58°42′00″W"
+        },
+        {
+          "localidadId": 2053,
+          "localidad": "Gilbert",
+          "coordenada": "32°32′00″S 58°56′00″W"
+        },
+        {
+          "localidadId": 2054,
+          "localidad": "Pueblo_General_Belgrano",
+          "coordenada": "33°00′37″S 58°30′51″W"
+        },
+        {
+          "localidadId": 2055,
+          "localidad": "Enrique_Carbó",
+          "coordenada": "33°08′00″S 59°14′00″W"
+        },
+        {
+          "localidadId": 2056,
+          "localidad": "Aldea_San_Juan",
+          "coordenada": "32°42′00″S 58°46′00″W"
+        },
+        {
+          "localidadId": 2057,
+          "localidad": "Irazusta",
+          "coordenada": "32°56′00″S 58°57′00″W"
+        },
+        {
+          "localidadId": 2058,
+          "localidad": "Costa_Uruguay_Norte",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2059,
+          "localidad": "Faustino_M._Parera",
+          "coordenada": "32°48′00″S 58°53′00″W"
+        },
+        {
+          "localidadId": 2060,
+          "localidad": "General_Almada",
+          "coordenada": "32°50′00″S 58°48′00″W"
+        },
+        {
+          "localidadId": 2061,
+          "localidad": "Las_Mercedes",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2062,
+          "localidad": "Costa_San_Antonio",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2063,
+          "localidad": "Costa_Uruguay_Sur",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2064,
+          "localidad": "Cuchilla_Redonda",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2065,
+          "localidad": "Distrito_Talitas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2066,
+          "localidad": "Estación_Escriña",
+          "coordenada": "32°35′00″S 58°54′00″W"
+        },
+        {
+          "localidadId": 2067,
+          "localidad": "Pastor_Britos",
+          "coordenada": "32°46′00″S 58°53′00″W"
+        },
+        {
+          "localidadId": 2068,
+          "localidad": "Perdices",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2069,
+          "localidad": "Rincón_del_Cinto",
+          "coordenada": "32°37′55″S 58°34′44″W"
+        },
+        {
+          "localidadId": 2070,
+          "localidad": "Rincón_del_Gato",
+          "coordenada": "32°37′55″S 58°34′44″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 252,
+      "departamento": "Islas_del_Ibicuy",
+      "coordenadas": "33°42′49″S 58°39′53″W",
+      "localidades": [
+        {
+          "localidadId": 2071,
+          "localidad": "Ceibas",
+          "coordenada": "33°29′57″S 58°47′52″W"
+        },
+        {
+          "localidadId": 2072,
+          "localidad": "Ibicuy",
+          "coordenada": "33°44′00″S 59°11′00″W"
+        },
+        {
+          "localidadId": 2073,
+          "localidad": "Villa_Paranacito",
+          "coordenada": "33°42′00″S 58°41′00″W"
+        },
+        {
+          "localidadId": 2074,
+          "localidad": "Médanos",
+          "coordenada": "33°26′08″S 59°04′07″W"
+        },
+        {
+          "localidadId": 2075,
+          "localidad": "Ñancay",
+          "coordenada": "33°27′25″S 58°40′41″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 253,
+      "departamento": "La_Paz",
+      "coordenadas": "30°45′S 59°39′W",
+      "localidades": [
+        {
+          "localidadId": 2076,
+          "localidad": "Bovril",
+          "coordenada": "31°21′00″S 59°26′00″W"
+        },
+        {
+          "localidadId": 2077,
+          "localidad": "La_Paz",
+          "coordenada": "30°44′26″S 59°38′40″W"
+        },
+        {
+          "localidadId": 2078,
+          "localidad": "Santa_Elena",
+          "coordenada": "30°57′S 59°48′W"
+        },
+        {
+          "localidadId": 2079,
+          "localidad": "Villa_Alcaraz",
+          "coordenada": "31°27′27″S 59°35′54″W"
+        },
+        {
+          "localidadId": 2080,
+          "localidad": "Piedras_Blancas",
+          "coordenada": "31°11′06″S 59°57′00″W"
+        },
+        {
+          "localidadId": 2081,
+          "localidad": "San_Gustavo",
+          "coordenada": "30°41′25″S 59°23′43″W"
+        },
+        {
+          "localidadId": 2082,
+          "localidad": "Colonia_Avigdor",
+          "coordenada": "31°11′00″S 59°25′00″W"
+        },
+        {
+          "localidadId": 2083,
+          "localidad": "El_Solar",
+          "coordenada": "31°10′34″S 59°43′59″W"
+        },
+        {
+          "localidadId": 2084,
+          "localidad": "Ombú",
+          "coordenada": "30°28′01″S 59°14′34″W"
+        },
+        {
+          "localidadId": 2085,
+          "localidad": "Alcaraz_Norte",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2086,
+          "localidad": "Alcaraz_Sur",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2087,
+          "localidad": "Yeso_Oeste",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2088,
+          "localidad": "Colonia_Carrasco",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2089,
+          "localidad": "Colonia_Oficial_N.º_3_y_14",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2090,
+          "localidad": "El_Quebracho",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2091,
+          "localidad": "La_Providencia",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2092,
+          "localidad": "Puerto_Algarrobo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2093,
+          "localidad": "San_Ramírez",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2094,
+          "localidad": "Saucesito",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2095,
+          "localidad": "Sir_Leonard",
+          "coordenada": "31°23′20″S 59°30′04″W"
+        },
+        {
+          "localidadId": 2096,
+          "localidad": "Tacuaras_Yacaré",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2097,
+          "localidad": "Colonia_Oficial_N.º_13",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2098,
+          "localidad": "Colonia_Viraró",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2099,
+          "localidad": "Estaquitas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2100,
+          "localidad": "Las_Toscas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2101,
+          "localidad": "Picada_Berón",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 254,
+      "departamento": "Nogoyá",
+      "coordenadas": "32°23′44″S 59°47′17″W",
+      "localidades": [
+        {
+          "localidadId": 2102,
+          "localidad": "Lucas_González",
+          "coordenada": "32°24′S 59°33′W"
+        },
+        {
+          "localidadId": 2103,
+          "localidad": "Nogoyá",
+          "coordenada": "32°24′S 59°48′W"
+        },
+        {
+          "localidadId": 2104,
+          "localidad": "Aranguren",
+          "coordenada": "32°15′00″S 60°10′00″W"
+        },
+        {
+          "localidadId": 2105,
+          "localidad": "Hernández",
+          "coordenada": "32°20′11″S 60°01′20″W"
+        },
+        {
+          "localidadId": 2106,
+          "localidad": "Don_Cristóbal_Segundo",
+          "coordenada": "32°04′16.06″S 59°59′41.32″W"
+        },
+        {
+          "localidadId": 2107,
+          "localidad": "Febre",
+          "coordenada": "32°28′34″S 59°54′58″W"
+        },
+        {
+          "localidadId": 2108,
+          "localidad": "XX_de_Septiembre",
+          "coordenada": "32°23′06″S 59°39′53″W"
+        },
+        {
+          "localidadId": 2109,
+          "localidad": "Crucesitas_Octava",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2110,
+          "localidad": "Distrito_Sauce",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2111,
+          "localidad": "Don_Cristóbal_Primero",
+          "coordenada": "32°09′52″S 59°48′44″W"
+        },
+        {
+          "localidadId": 2113,
+          "localidad": "Justo_José_de_Urquiza",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2114,
+          "localidad": "Aldea_San_Miguel",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2115,
+          "localidad": "Crucesitas_Séptima",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2116,
+          "localidad": "Crucesitas_Tercera",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2117,
+          "localidad": "Betbeder",
+          "coordenada": "32°23′00″S 59°55′00″W"
+        },
+        {
+          "localidadId": 2118,
+          "localidad": "Distrito_Chiqueros",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2119,
+          "localidad": "Laurencena",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 255,
+      "departamento": "Paraná",
+      "coordenadas": "31°43′59″S 60°31′48″W",
+      "localidades": [
+        {
+          "localidadId": 2120,
+          "localidad": "Crespo",
+          "coordenada": "32°02′00″S 60°19′00″W"
+        },
+        {
+          "localidadId": 2121,
+          "localidad": "María_Grande",
+          "coordenada": "31°39′S 59°54′W"
+        },
+        {
+          "localidadId": 2122,
+          "localidad": "Paraná",
+          "coordenada": "31°43′59″S 60°31′47″W"
+        },
+        {
+          "localidadId": 2123,
+          "localidad": "San_Benito",
+          "coordenada": "31°47′00″S 60°26′00″W"
+        },
+        {
+          "localidadId": 2124,
+          "localidad": "Viale",
+          "coordenada": "31°52′00″S 60°01′00″W"
+        },
+        {
+          "localidadId": 2125,
+          "localidad": "Villa_Hernandarias",
+          "coordenada": "31°13′00″S 59°59′00″W"
+        },
+        {
+          "localidadId": 2126,
+          "localidad": "Cerrito",
+          "coordenada": "31°35′00″S 60°04′00″W"
+        },
+        {
+          "localidadId": 2127,
+          "localidad": "Colonia_Avellaneda",
+          "coordenada": "31°46′01″S 60°24′14″W"
+        },
+        {
+          "localidadId": 2128,
+          "localidad": "Hasenkamp",
+          "coordenada": "31°31′00″S 59°51′00″W"
+        },
+        {
+          "localidadId": 2129,
+          "localidad": "Oro_Verde",
+          "coordenada": "31°49′00″S 60°31′00″W"
+        },
+        {
+          "localidadId": 2130,
+          "localidad": "Seguí",
+          "coordenada": "31°57′00″S 60°08′00″W"
+        },
+        {
+          "localidadId": 2131,
+          "localidad": "Tabossi",
+          "coordenada": "31°48′06″S 59°56′10″W"
+        },
+        {
+          "localidadId": 2132,
+          "localidad": "Villa_Urquiza",
+          "coordenada": "31°39′00″S 60°22′00″W"
+        },
+        {
+          "localidadId": 2133,
+          "localidad": "Aldea_María_Luisa",
+          "coordenada": "31°53′06″S 60°24′36″W"
+        },
+        {
+          "localidadId": 2134,
+          "localidad": "El_Pingo",
+          "coordenada": "31°35′00″S 59°53′00″W"
+        },
+        {
+          "localidadId": 2135,
+          "localidad": "Pueblo_Brugo",
+          "coordenada": "31°23′00″S 60°06′00″W"
+        },
+        {
+          "localidadId": 2136,
+          "localidad": "Aldea_Santa_María",
+          "coordenada": "31°36′40″S 60°00′22″W"
+        },
+        {
+          "localidadId": 2137,
+          "localidad": "Puerto_Curtiembre",
+          "coordenada": "31°27′40″S 60°09′58″W"
+        },
+        {
+          "localidadId": 2138,
+          "localidad": "El_Palenque",
+          "coordenada": "31°39′11″S 60°10′01″W"
+        },
+        {
+          "localidadId": 2139,
+          "localidad": "La_Picada",
+          "coordenada": "31°43′30″S 60°17′38″W"
+        },
+        {
+          "localidadId": 2140,
+          "localidad": "Las_Tunas",
+          "coordenada": "31°52′12″S 59°43′52″W"
+        },
+        {
+          "localidadId": 2141,
+          "localidad": "Sauce_Montrull",
+          "coordenada": "31°44′42″S 60°21′14″W"
+        },
+        {
+          "localidadId": 2142,
+          "localidad": "Sosa",
+          "coordenada": "31°44′09″S 59°54′43″W"
+        },
+        {
+          "localidadId": 2143,
+          "localidad": "Colonia_Crespo",
+          "coordenada": "31°40′57.08″S 60°13′52.94″W"
+        },
+        {
+          "localidadId": 2144,
+          "localidad": "Pueblo_Bellocq",
+          "coordenada": "31°25′39″S 59°44′40″W"
+        },
+        {
+          "localidadId": 2145,
+          "localidad": "Sauce_Pinto",
+          "coordenada": "31°50′31″S 60°22′23″W"
+        },
+        {
+          "localidadId": 2146,
+          "localidad": "Tezanos_Pinto",
+          "coordenada": "31°52′00″S 60°29′00″W"
+        },
+        {
+          "localidadId": 2147,
+          "localidad": "Villa_Fontana",
+          "coordenada": "31°54′00″S 60°28′00″W"
+        },
+        {
+          "localidadId": 2148,
+          "localidad": "Villa_Gobernador_Etchevehere",
+          "coordenada": "31°56′02″S 60°25′30″W"
+        },
+        {
+          "localidadId": 2149,
+          "localidad": "Aldea_Santa_Rosa",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2150,
+          "localidad": "Arroyo_Burgos",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2151,
+          "localidad": "Arroyo_Corralito",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2152,
+          "localidad": "Aldea_Eigenfeld",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2153,
+          "localidad": "Aldea_San_Antonio",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2154,
+          "localidad": "Aldea_San_Rafael",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2155,
+          "localidad": "Antonio_Tomás",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2156,
+          "localidad": "Colonia_Celina",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2157,
+          "localidad": "Espinillo_Norte",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2158,
+          "localidad": "María_Grande_Segunda",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2159,
+          "localidad": "Paso_de_la_Arena",
+          "coordenada": "31°45′00″S 60°10′00″W"
+        },
+        {
+          "localidadId": 2160,
+          "localidad": "Paso_de_Las_Piedras",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2161,
+          "localidad": "Santa_Luisa",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2162,
+          "localidad": "Arroyo_Maturrango",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2163,
+          "localidad": "Arroyo_Palo_Seco",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2164,
+          "localidad": "Colonia_Cerrito",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2165,
+          "localidad": "Colonia_Merou",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2166,
+          "localidad": "Colonia_Reffino",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2167,
+          "localidad": "Distrito_Tala",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2168,
+          "localidad": "Quebracho",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 256,
+      "departamento": "San_Salvador",
+      "coordenadas": "31°37′00″S 58°30′00″W",
+      "localidades": [
+        {
+          "localidadId": 2169,
+          "localidad": "San_Salvador",
+          "coordenada": "31°37′00″S 58°30′00″W"
+        },
+        {
+          "localidadId": 2170,
+          "localidad": "General_Campos",
+          "coordenada": "31°32′00″S 58°24′00″W"
+        },
+        {
+          "localidadId": 2171,
+          "localidad": "Colonia_Baylina",
+          "coordenada": "31°47′57″S 58°33′07″W"
+        },
+        {
+          "localidadId": 2172,
+          "localidad": "San_Ernesto",
+          "coordenada": "31°50′47″S 58°38′53″W"
+        },
+        {
+          "localidadId": 2173,
+          "localidad": "Colonia_Oficial_N.º_5",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2174,
+          "localidad": "Walter_Moss",
+          "coordenada": "31°29′00″S 58°24′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 257,
+      "departamento": "Tala",
+      "coordenadas": "32°18′12″S 59°08′29″W",
+      "localidades": [
+        {
+          "localidadId": 2175,
+          "localidad": "Maciá",
+          "coordenada": "32°10′00″S 59°23′00″W"
+        },
+        {
+          "localidadId": 2176,
+          "localidad": "Rosario_del_Tala",
+          "coordenada": "32°18′03″S 59°08′20″W"
+        },
+        {
+          "localidadId": 2177,
+          "localidad": "Gobernador_Mansilla",
+          "coordenada": "32°33′00″S 59°22′00″W"
+        },
+        {
+          "localidadId": 2178,
+          "localidad": "Gobernador_Sola",
+          "coordenada": "32°20′22″S 59°22′19″W"
+        },
+        {
+          "localidadId": 2179,
+          "localidad": "Durazno",
+          "coordenada": "31°59′09″S 59°16′46″W"
+        },
+        {
+          "localidadId": 2180,
+          "localidad": "Gobernador_Echagüe",
+          "coordenada": "32°23′46″S 59°16′37″W"
+        },
+        {
+          "localidadId": 2181,
+          "localidad": "Guardamonte",
+          "coordenada": "32°04′53″S 59°18′14″W"
+        },
+        {
+          "localidadId": 2182,
+          "localidad": "Altamirano_Sur",
+          "coordenada": "32°05′28″S 59°10′26″W"
+        },
+        {
+          "localidadId": 2183,
+          "localidad": "Arroyo_Clé",
+          "coordenada": "32°38′17″S 59°23′53″W"
+        },
+        {
+          "localidadId": 2184,
+          "localidad": "Las_Guachas",
+          "coordenada": "32°28′01″S 59°10′23″W"
+        },
+        {
+          "localidadId": 2185,
+          "localidad": "Sauce_Sur",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2186,
+          "localidad": "La_Ollita",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 258,
+      "departamento": "Uruguay",
+      "coordenadas": "32°28′53″S 58°13′57″W",
+      "localidades": [
+        {
+          "localidadId": 2187,
+          "localidad": "Concepción_del_Uruguay",
+          "coordenada": "32°29′00″S 58°14′00″W"
+        },
+        {
+          "localidadId": 2188,
+          "localidad": "Basavilbaso",
+          "coordenada": "32°22′00″S 58°53′00″W"
+        },
+        {
+          "localidadId": 2189,
+          "localidad": "Caseros",
+          "coordenada": "32°28′00″S 58°29′00″W"
+        },
+        {
+          "localidadId": 2190,
+          "localidad": "Colonia_Elía",
+          "coordenada": "32°40′17″S 58°19′31″W"
+        },
+        {
+          "localidadId": 2191,
+          "localidad": "Herrera",
+          "coordenada": "32°26′00″S 58°38′00″W"
+        },
+        {
+          "localidadId": 2192,
+          "localidad": "Primero_de_Mayo",
+          "coordenada": "32°15′19″S 58°25′22″W"
+        },
+        {
+          "localidadId": 2193,
+          "localidad": "Pronunciamiento",
+          "coordenada": "32°21′00″S 58°26′00″W"
+        },
+        {
+          "localidadId": 2194,
+          "localidad": "San_Justo",
+          "coordenada": "32°27′00″S 58°26′00″W"
+        },
+        {
+          "localidadId": 2195,
+          "localidad": "Santa_Anita",
+          "coordenada": "32°10′35″S 58°47′07″W"
+        },
+        {
+          "localidadId": 2196,
+          "localidad": "Villa_Mantero",
+          "coordenada": "32°24′S 58°45′W"
+        },
+        {
+          "localidadId": 2197,
+          "localidad": "Las_Moscas",
+          "coordenada": "32°05′00″S 58°57′00″W"
+        },
+        {
+          "localidadId": 2198,
+          "localidad": "San_Cipriano",
+          "coordenada": "34°36′53″S 58°25′30″W"
+        },
+        {
+          "localidadId": 2199,
+          "localidad": "Villa_San_Marcial",
+          "coordenada": "32°10′00″S 58°56′00″W"
+        },
+        {
+          "localidadId": 2200,
+          "localidad": "Tala",
+          "coordenada": "32°36′14.06″S 58°27′5.12″W"
+        },
+        {
+          "localidadId": 2201,
+          "localidad": "Estación_Líbaros",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2202,
+          "localidad": "Rocamora",
+          "coordenada": "32°20′46″S 58°58′11″W"
+        },
+        {
+          "localidadId": 2203,
+          "localidad": "Arroyo_Gená",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 259,
+      "departamento": "Victoria",
+      "coordenadas": "32°37′18″S 60°09′28″W",
+      "localidades": [
+        {
+          "localidadId": 2204,
+          "localidad": "Victoria",
+          "coordenada": "32°37′00″S 60°10′00″W"
+        },
+        {
+          "localidadId": 2205,
+          "localidad": "Rincón_de_Nogoyá",
+          "coordenada": "32°46′41″S 59°54′40″W"
+        },
+        {
+          "localidadId": 2206,
+          "localidad": "Rincón_del_Doll",
+          "coordenada": "32°26′33.49″S 60°23′44.54″W"
+        },
+        {
+          "localidadId": 2207,
+          "localidad": "Antelo",
+          "coordenada": "32°32′00″S 60°03′00″W"
+        },
+        {
+          "localidadId": 2208,
+          "localidad": "Molino_Doll",
+          "coordenada": "32°18′22″S 60°25′26″W"
+        },
+        {
+          "localidadId": 2209,
+          "localidad": "Chilcas",
+          "coordenada": "32°36′33″S 60°10′08″W"
+        },
+        {
+          "localidadId": 2210,
+          "localidad": "Distrito_Pajonal",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2211,
+          "localidad": "Hinojal",
+          "coordenada": "32°24′00″S 60°07′00″W"
+        },
+        {
+          "localidadId": 2211,
+          "localidad": "Laguna_del_Pescado",
+          "coordenada": "32°41′13″S 60°00′43″W"
+        },
+        {
+          "localidadId": 2212,
+          "localidad": "Montoya",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 260,
+      "departamento": "Villaguay",
+      "coordenadas": "31°51′51″S 59°01′37″W",
+      "localidades": [
+        {
+          "localidadId": 2213,
+          "localidad": "Villaguay",
+          "coordenada": "31°51′00″S 59°01′00″W"
+        },
+        {
+          "localidadId": 2214,
+          "localidad": "Villa_Clara",
+          "coordenada": "31°50′00″S 58°49′00″W"
+        },
+        {
+          "localidadId": 2215,
+          "localidad": "Villa_Domínguez",
+          "coordenada": "31°58′59″S 58°58′01″W"
+        },
+        {
+          "localidadId": 2216,
+          "localidad": "Jubileo",
+          "coordenada": "31°44′00″S 58°37′00″W"
+        },
+        {
+          "localidadId": 2217,
+          "localidad": "Paso_de_la_Laguna",
+          "coordenada": "31°48′07″S 59°09′36″W"
+        },
+        {
+          "localidadId": 2218,
+          "localidad": "Ingeniero_Sajaroff",
+          "coordenada": "31°57′22″S 58°50′53″W"
+        },
+        {
+          "localidadId": 2219,
+          "localidad": "Lucas_Norte",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2220,
+          "localidad": "Lucas_Sur_Segundo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2221,
+          "localidad": "Raíces_Oeste",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2222,
+          "localidad": "Estación_Raíces",
+          "coordenada": "31°54′22″S 59°15′43″W"
+        },
+        {
+          "localidadId": 2223,
+          "localidad": "Lucas_Sur_Primera",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2224,
+          "localidad": "Mojones_Norte",
+          "coordenada": "31°30′07″S 59°12′43″W"
+        },
+        {
+          "localidadId": 2225,
+          "localidad": "Paraje_Los_Algarrobos",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2226,
+          "localidad": "Colonia_Adivino",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 2227,
+          "localidad": "Mojones_Sur",
+          "coordenada": ""
+        }
+      ]
+    }
+  ]
 }

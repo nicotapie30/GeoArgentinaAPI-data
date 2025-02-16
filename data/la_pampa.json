@@ -1,461 +1,565 @@
 {
-    "provincia": "La_Pampa",
-    "departamentos": [
+  "provinciaId": 10,
+  "provincia": "La_Pampa",
+  "departamentos": [
+    {
+      "departamentoId": 286,
+      "departamento": "Atreucó",
+      "coordenadas": "37°07′28″S 63°40′01″W",
+      "localidades": [
         {
-            "departamento": "Atreucó",
-            "coordenadas": "37°07′28″S 63°40′01″W",
-            "localidades": [
-                {
-                    "localidad": "Macachín",
-                    "coordenada": "37°08′16″S 63°39′43″W"
-                },
-                {
-                    "localidad": "Rolón",
-                    "coordenada": "37°11′00″S 63°24′00″W"
-                },
-                {
-                    "localidad": "Doblas",
-                    "coordenada": "37°08′59″S 64°00′43″W"
-                },
-                {
-                    "localidad": "Miguel_Riglos",
-                    "coordenada": "36°51′S 63°42′W"
-                },
-                {
-                    "localidad": "Tomás_Manuel_de_Anchorena",
-                    "coordenada": "36°51′00″S 63°31′00″W"
-                }
-            ]
+          "localidadId": 2523,
+          "localidad": "Macachín",
+          "coordenada": "37°08′16″S 63°39′43″W"
         },
         {
-            "departamento": "Caleu_Caleu",
-            "coordenadas": "38°58′56″S 64°05′26″W",
-            "localidades": [
-                {
-                    "localidad": "La_Adela",
-                    "coordenada": "38°59′00″S 64°05′00″W"
-                }
-            ]
+          "localidadId": 2524,
+          "localidad": "Rolón",
+          "coordenada": "37°11′00″S 63°24′00″W"
         },
         {
-            "departamento": "Capital ",
-            "coordenadas": "36°37′13″S 64°17′26″W",
-            "localidades": [
-                {
-                    "localidad": "Anguil",
-                    "coordenada": "36°31′00″S 64°01′00″W"
-                },
-                {
-                    "localidad": "Santa_Rosa",
-                    "coordenada": "36°37′13″S 64°17′26″W"
-                }
-            ]
+          "localidadId": 2525,
+          "localidad": "Doblas",
+          "coordenada": "37°08′59″S 64°00′43″W"
         },
         {
-            "departamento": "Catriló",
-            "coordenadas": "36°24′23″S 63°25′25″W",
-            "localidades": [
-                {
-                    "localidad": "Catriló ",
-                    "coordenada": "36°24′30″S 63°24′58″W"
-                },
-                {
-                    "localidad": "Lonquimay",
-                    "coordenada": "36°28′00″S 63°37′00″W"
-                },
-                {
-                    "localidad": "Uriburu",
-                    "coordenada": "36°30′23″S 63°51′41″W"
-                }
-            ]
+          "localidadId": 2526,
+          "localidad": "Miguel_Riglos",
+          "coordenada": "36°51′S 63°42′W"
         },
         {
-            "departamento": "Chalileo",
-            "coordenadas": "36°13′32″S 66°56′25″W",
-            "localidades": [
-                {
-                    "localidad": "Santa_Isabel",
-                    "coordenada": "36°15′00″S 66°56′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Chapaleufú",
-            "coordenadas": "35°14′05″S 63°35′31″W",
-            "localidades": [
-                {
-                    "localidad": "Coronel_Hilario_Lagos",
-                    "coordenada": "35°01′00″S 63°56′00″W"
-                },
-                {
-                    "localidad": "Bernardo_Larroudé",
-                    "coordenada": "35°02′00″S 63°34′00″W"
-                },
-                {
-                    "localidad": "Intendente_Alvear",
-                    "coordenada": "35°14′00″S 63°35′00″W"
-                },
-                {
-                    "localidad": "Ceballos",
-                    "coordenada": "35°18′00″S 63°46′00″W"
-                },
-                {
-                    "localidad": "Vértiz",
-                    "coordenada": "35°26′00″S 63°54′00″W"
-                },
-                {
-                    "localidad": "Sarah",
-                    "coordenada": "35°01′41″S 63°41′09″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Chical_Co",
-            "coordenadas": "36°23′54″S 67°08′39″W",
-            "localidades": [
-                {
-                    "localidad": "La_Humada",
-                    "coordenada": "36°21′S 68°00′W"
-                },
-                {
-                    "localidad": "Algarrobo_del_Águila",
-                    "coordenada": "36°24′04″S 67°08′43″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Conhelo",
-            "coordenadas": "35°54′57″S 64°17′45″W",
-            "localidades": [
-                {
-                    "localidad": "Conhelo",
-                    "coordenada": "36°01′00″S 64°36′00″W"
-                },
-                {
-                    "localidad": "Eduardo_Castex",
-                    "coordenada": "35°54′S 64°18′W"
-                },
-                {
-                    "localidad": "Monte_Nievas",
-                    "coordenada": "35°52′00″S 64°09′00″W"
-                },
-                {
-                    "localidad": "Mauricio_Mayer",
-                    "coordenada": "36°12′37″S 64°01′57″W"
-                },
-                {
-                    "localidad": "Winifreda",
-                    "coordenada": "36°13′39″S 64°14′01″W"
-                },
-                {
-                    "localidad": "Rucanelo",
-                    "coordenada": "36°03′00″S 64°49′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Curacó",
-            "coordenadas": "38°08′23″S 65°54′57″W",
-            "localidades": [
-                {
-                    "localidad": "Puelches",
-                    "coordenada": "38°09′00″S 65°55′00″W"
-                },
-                {
-                    "localidad": "Gobernador_Duval",
-                    "coordenada": "38°43′00″S 66°24′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Guatraché",
-            "coordenadas": "37°39′51″S 63°32′16″W",
-            "localidades": [
-                {
-                    "localidad": "Santa_Teresa",
-                    "coordenada": "37°34′00″S 63°25′00″W"
-                },
-                {
-                    "localidad": "Alpachiri",
-                    "coordenada": "37°22′00″S 63°46′00″W"
-                },
-                {
-                    "localidad": "General_Manuel_Campos",
-                    "coordenada": "37°28′00″S 63°36′00″W"
-                },
-                {
-                    "localidad": "Guatraché",
-                    "coordenada": "37°40′01″S 63°32′16″W"
-                },
-                {
-                    "localidad": "Perú",
-                    "coordenada": "37°39′41″S 64°08′16″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Hucal",
-            "coordenadas": "37°54′07″S 63°44′36″W",
-            "localidades": [
-                {
-                    "localidad": "Abramo",
-                    "coordenada": "37°53′00″S 63°51′00″W"
-                },
-                {
-                    "localidad": "Bernasconi",
-                    "coordenada": "37°54′00″S 63°43′00″W"
-                },
-                {
-                    "localidad": "General_San_Martín",
-                    "coordenada": "37°59′00″S 63°34′00″W"
-                },
-                {
-                    "localidad": "Jacinto_Aráuz",
-                    "coordenada": "38°04′00″S 63°26′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Lihuel_Calel",
-            "coordenadas": "38°19′38″S 64°38′33″W",
-            "localidades": [
-                {
-                    "localidad": "Cuchillo_Có",
-                    "coordenada": "38°19′38″S 64°38′33″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Limay_Mahuida",
-            "coordenadas": "37°09′22″S 66°40′33″W",
-            "localidades": [
-                {
-                    "localidad": "La_Reforma",
-                    "coordenada": "37°33′00″S 66°13′37″W"
-                },
-                {
-                    "localidad": "Limay_Mahuida",
-                    "coordenada": "37°09′33″S 66°40′31″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Loventué",
-            "coordenadas": "36°12′59″S 65°26′14″W",
-            "localidades": [
-                {
-                    "localidad": "Victorica",
-                    "coordenada": "36°13′00″S 65°26′02″W"
-                },
-                {
-                    "localidad": "Telén",
-                    "coordenada": "36°16′00″S 65°30′00″W"
-                },
-                {
-                    "localidad": "Carro_Quemado",
-                    "coordenada": "36°28′00″S 65°20′00″W"
-                },
-                {
-                    "localidad": "Luan_Toro",
-                    "coordenada": "36°12′S 65°06′W"
-                },
-                {
-                    "localidad": "Loventué",
-                    "coordenada": "36°11′00″S 65°18′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Maracó",
-            "coordenadas": "35°39′09″S 63°45′29″W",
-            "localidades": [
-                {
-                    "localidad": "General_Pico",
-                    "coordenada": "35°39′31″S 63°45′28″W"
-                },
-                {
-                    "localidad": "Dorila",
-                    "coordenada": "35°47′00″S 63°42′00″W"
-                },
-                {
-                    "localidad": "Speluzzi",
-                    "coordenada": "35°32′00″S 63°48′00″W"
-                },
-                {
-                    "localidad": "Agustoni",
-                    "coordenada": "35°47′00″S 63°24′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Puelén",
-            "coordenadas": "37°46′07″S 67°42′50″W",
-            "localidades": [
-                {
-                    "localidad": "Puelén",
-                    "coordenada": "37°20′30″S 67°37′00″W"
-                },
-                {
-                    "localidad": "25_de_Mayo",
-                    "coordenada": "37°46′16″S 67°43′02″W"
-                },
-                {
-                    "localidad": "Casa_de_Piedra",
-                    "coordenada": "38°09′10″S 67°09′20″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Quemú_Quemú",
-            "coordenadas": "36°03′16″S 63°33′58″W",
-            "localidades": [
-                {
-                    "localidad": "Miguel_Cané",
-                    "coordenada": "36°10′00″S 63°30′00″W"
-                },
-                {
-                    "localidad": "Quemú_Quemú",
-                    "coordenada": "36°03′S 63°33′W"
-                },
-                {
-                    "localidad": "Villa_Mirasol",
-                    "coordenada": "36°05′00″S 63°53′00″W"
-                },
-                {
-                    "localidad": "Colonia_Barón",
-                    "coordenada": "36°09′00″S 63°50′00″W"
-                },
-                {
-                    "localidad": "Relmo",
-                    "coordenada": "36°15′S 63°27′W"
-                }
-            ]
-        },
-        {
-            "departamento": "Rancul",
-            "coordenadas": "35°04′05″S 64°41′02″W",
-            "localidades": [
-                {
-                    "localidad": "Rancul",
-                    "coordenada": "35°04′13″S 64°41′13″W"
-                },
-                {
-                    "localidad": "Parera",
-                    "coordenada": "35°08′48″S 64°30′07″W"
-                },
-                {
-                    "localidad": "Caleufú",
-                    "coordenada": "35°35′40″S 64°33′31″W"
-                },
-                {
-                    "localidad": "La_Maruja",
-                    "coordenada": "35°38′57″S 64°46′09″W"
-                },
-                {
-                    "localidad": "Quetrequén",
-                    "coordenada": "35°03′00″S 64°32′00″W"
-                },
-                {
-                    "localidad": "Pichi_Huinca",
-                    "coordenada": "35°38′00″S 64°46′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Realicó",
-            "coordenadas": "35°04′04″S 64°41′02″W",
-            "localidades": [
-                {
-                    "localidad": "Realicó",
-                    "coordenada": "35°02′00″S 64°15′00″W"
-                },
-                {
-                    "localidad": "Alta_Italia",
-                    "coordenada": "35°20′00″S 64°07′06″W"
-                },
-                {
-                    "localidad": "Embajador_Martini",
-                    "coordenada": "35°23′14″S 64°16′58″W"
-                },
-                {
-                    "localidad": "Ingeniero_Luiggi",
-                    "coordenada": "35°25′00″S 64°29′00″W"
-                },
-                {
-                    "localidad": "Adolfo_Van_Praet",
-                    "coordenada": "35°01′00″S 64°03′00″W"
-                },
-                {
-                    "localidad": "Falucho",
-                    "coordenada": "35°11′00″S 64°06′00″W"
-                },
-                {
-                    "localidad": "Maisonnave",
-                    "coordenada": "35°02′00″S 64°23′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Toay",
-            "coordenadas": "36°40′25″S 64°22′47″W",
-            "localidades": [
-                {
-                    "localidad": "Toay",
-                    "coordenada": "36°40′30″S 64°22′43″W"
-                },
-                {
-                    "localidad": "Naicó",
-                    "coordenada": "36°56′00″S 64°24′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Trenel",
-            "coordenadas": "35°41′53″S 64°08′00″W",
-            "localidades": [
-                {
-                    "localidad": "Arata",
-                    "coordenada": "35°38′20″S 64°21′22″W"
-                },
-                {
-                    "localidad": "Trenel",
-                    "coordenada": "35°42′00″S 64°08′00″W"
-                },
-                {
-                    "localidad": "Metileo",
-                    "coordenada": "35°46′27″S 63°56′27″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Utracán",
-            "coordenadas": "37°22′41″S 64°36′17″W",
-            "localidades": [
-                {
-                    "localidad": "General_Acha",
-                    "coordenada": "37°23′00″S 64°36′00″W"
-                },
-                {
-                    "localidad": "Ataliva_Roca",
-                    "coordenada": "37°01′00″S 64°17′00″W"
-                },
-                {
-                    "localidad": "Quehué",
-                    "coordenada": "37°08′00″S 64°31′00″W"
-                },
-                {
-                    "localidad": "Chacharramendi",
-                    "coordenada": "37°19′00″S 65°39′00″W"
-                },
-                {
-                    "localidad": "Colonia_Santa_María",
-                    "coordenada": "37°29′41″S 64°13′27″W"
-                },
-                {
-                    "localidad": "Unanue",
-                    "coordenada": "37°32′00″S 64°21′00″W"
-                }
-            ]
+          "localidadId": 2527,
+          "localidad": "Tomás_Manuel_de_Anchorena",
+          "coordenada": "36°51′00″S 63°31′00″W"
         }
-    ]
+      ]
+    },
+    {
+      "departamentoId": 287,
+      "departamento": "Caleu_Caleu",
+      "coordenadas": "38°58′56″S 64°05′26″W",
+      "localidades": [
+        {
+          "localidadId": 2528,
+          "localidad": "La_Adela",
+          "coordenada": "38°59′00″S 64°05′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 288,
+      "departamento": "Capital ",
+      "coordenadas": "36°37′13″S 64°17′26″W",
+      "localidades": [
+        {
+          "localidadId": 2529,
+          "localidad": "Anguil",
+          "coordenada": "36°31′00″S 64°01′00″W"
+        },
+        {
+          "localidadId": 2530,
+          "localidad": "Santa_Rosa",
+          "coordenada": "36°37′13″S 64°17′26″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 289,
+      "departamento": "Catriló",
+      "coordenadas": "36°24′23″S 63°25′25″W",
+      "localidades": [
+        {
+          "localidadId": 2531,
+          "localidad": "Catriló ",
+          "coordenada": "36°24′30″S 63°24′58″W"
+        },
+        {
+          "localidadId": 2532,
+          "localidad": "Lonquimay",
+          "coordenada": "36°28′00″S 63°37′00″W"
+        },
+        {
+          "localidadId": 2533,
+          "localidad": "Uriburu",
+          "coordenada": "36°30′23″S 63°51′41″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 290,
+      "departamento": "Chalileo",
+      "coordenadas": "36°13′32″S 66°56′25″W",
+      "localidades": [
+        {
+          "localidadId": 2534,
+          "localidad": "Santa_Isabel",
+          "coordenada": "36°15′00″S 66°56′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 291,
+      "departamento": "Chapaleufú",
+      "coordenadas": "35°14′05″S 63°35′31″W",
+      "localidades": [
+        {
+          "localidadId": 2535,
+          "localidad": "Coronel_Hilario_Lagos",
+          "coordenada": "35°01′00″S 63°56′00″W"
+        },
+        {
+          "localidadId": 2536,
+          "localidad": "Bernardo_Larroudé",
+          "coordenada": "35°02′00″S 63°34′00″W"
+        },
+        {
+          "localidadId": 2537,
+          "localidad": "Intendente_Alvear",
+          "coordenada": "35°14′00″S 63°35′00″W"
+        },
+        {
+          "localidadId": 2538,
+          "localidad": "Ceballos",
+          "coordenada": "35°18′00″S 63°46′00″W"
+        },
+        {
+          "localidadId": 2539,
+          "localidad": "Vértiz",
+          "coordenada": "35°26′00″S 63°54′00″W"
+        },
+        {
+          "localidadId": 2540,
+          "localidad": "Sarah",
+          "coordenada": "35°01′41″S 63°41′09″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 292,
+      "departamento": "Chical_Co",
+      "coordenadas": "36°23′54″S 67°08′39″W",
+      "localidades": [
+        {
+          "localidadId": 2541,
+          "localidad": "La_Humada",
+          "coordenada": "36°21′S 68°00′W"
+        },
+        {
+          "localidadId": 2542,
+          "localidad": "Algarrobo_del_Águila",
+          "coordenada": "36°24′04″S 67°08′43″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 293,
+      "departamento": "Conhelo",
+      "coordenadas": "35°54′57″S 64°17′45″W",
+      "localidades": [
+        {
+          "localidadId": 2543,
+          "localidad": "Conhelo",
+          "coordenada": "36°01′00″S 64°36′00″W"
+        },
+        {
+          "localidadId": 2544,
+          "localidad": "Eduardo_Castex",
+          "coordenada": "35°54′S 64°18′W"
+        },
+        {
+          "localidadId": 2545,
+          "localidad": "Monte_Nievas",
+          "coordenada": "35°52′00″S 64°09′00″W"
+        },
+        {
+          "localidadId": 2546,
+          "localidad": "Mauricio_Mayer",
+          "coordenada": "36°12′37″S 64°01′57″W"
+        },
+        {
+          "localidadId": 2547,
+          "localidad": "Winifreda",
+          "coordenada": "36°13′39″S 64°14′01″W"
+        },
+        {
+          "localidadId": 2548,
+          "localidad": "Rucanelo",
+          "coordenada": "36°03′00″S 64°49′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 294,
+      "departamento": "Curacó",
+      "coordenadas": "38°08′23″S 65°54′57″W",
+      "localidades": [
+        {
+          "localidadId": 2549,
+          "localidad": "Puelches",
+          "coordenada": "38°09′00″S 65°55′00″W"
+        },
+        {
+          "localidadId": 2550,
+          "localidad": "Gobernador_Duval",
+          "coordenada": "38°43′00″S 66°24′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 295,
+      "departamento": "Guatraché",
+      "coordenadas": "37°39′51″S 63°32′16″W",
+      "localidades": [
+        {
+          "localidadId": 2551,
+          "localidad": "Santa_Teresa",
+          "coordenada": "37°34′00″S 63°25′00″W"
+        },
+        {
+          "localidadId": 2552,
+          "localidad": "Alpachiri",
+          "coordenada": "37°22′00″S 63°46′00″W"
+        },
+        {
+          "localidadId": 2553,
+          "localidad": "General_Manuel_Campos",
+          "coordenada": "37°28′00″S 63°36′00″W"
+        },
+        {
+          "localidadId": 2554,
+          "localidad": "Guatraché",
+          "coordenada": "37°40′01″S 63°32′16″W"
+        },
+        {
+          "localidadId": 2555,
+          "localidad": "Perú",
+          "coordenada": "37°39′41″S 64°08′16″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 296,
+      "departamento": "Hucal",
+      "coordenadas": "37°54′07″S 63°44′36″W",
+      "localidades": [
+        {
+          "localidadId": 2556,
+          "localidad": "Abramo",
+          "coordenada": "37°53′00″S 63°51′00″W"
+        },
+        {
+          "localidadId": 2557,
+          "localidad": "Bernasconi",
+          "coordenada": "37°54′00″S 63°43′00″W"
+        },
+        {
+          "localidadId": 2558,
+          "localidad": "General_San_Martín",
+          "coordenada": "37°59′00″S 63°34′00″W"
+        },
+        {
+          "localidadId": 2559,
+          "localidad": "Jacinto_Aráuz",
+          "coordenada": "38°04′00″S 63°26′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 297,
+      "departamento": "Lihuel_Calel",
+      "coordenadas": "38°19′38″S 64°38′33″W",
+      "localidades": [
+        {
+          "localidadId": 2560,
+          "localidad": "Cuchillo_Có",
+          "coordenada": "38°19′38″S 64°38′33″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 298,
+      "departamento": "Limay_Mahuida",
+      "coordenadas": "37°09′22″S 66°40′33″W",
+      "localidades": [
+        {
+          "localidadId": 2561,
+          "localidad": "La_Reforma",
+          "coordenada": "37°33′00″S 66°13′37″W"
+        },
+        {
+          "localidadId": 2562,
+          "localidad": "Limay_Mahuida",
+          "coordenada": "37°09′33″S 66°40′31″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 299,
+      "departamento": "Loventué",
+      "coordenadas": "36°12′59″S 65°26′14″W",
+      "localidades": [
+        {
+          "localidadId": 2563,
+          "localidad": "Victorica",
+          "coordenada": "36°13′00″S 65°26′02″W"
+        },
+        {
+          "localidadId": 2564,
+          "localidad": "Telén",
+          "coordenada": "36°16′00″S 65°30′00″W"
+        },
+        {
+          "localidadId": 2565,
+          "localidad": "Carro_Quemado",
+          "coordenada": "36°28′00″S 65°20′00″W"
+        },
+        {
+          "localidadId": 2566,
+          "localidad": "Luan_Toro",
+          "coordenada": "36°12′S 65°06′W"
+        },
+        {
+          "localidadId": 2567,
+          "localidad": "Loventué",
+          "coordenada": "36°11′00″S 65°18′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 300,
+      "departamento": "Maracó",
+      "coordenadas": "35°39′09″S 63°45′29″W",
+      "localidades": [
+        {
+          "localidadId": 2568,
+          "localidad": "General_Pico",
+          "coordenada": "35°39′31″S 63°45′28″W"
+        },
+        {
+          "localidadId": 2569,
+          "localidad": "Dorila",
+          "coordenada": "35°47′00″S 63°42′00″W"
+        },
+        {
+          "localidadId": 2570,
+          "localidad": "Speluzzi",
+          "coordenada": "35°32′00″S 63°48′00″W"
+        },
+        {
+          "localidadId": 2571,
+          "localidad": "Agustoni",
+          "coordenada": "35°47′00″S 63°24′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 301,
+      "departamento": "Puelén",
+      "coordenadas": "37°46′07″S 67°42′50″W",
+      "localidades": [
+        {
+          "localidadId": 2572,
+          "localidad": "Puelén",
+          "coordenada": "37°20′30″S 67°37′00″W"
+        },
+        {
+          "localidadId": 2573,
+          "localidad": "25_de_Mayo",
+          "coordenada": "37°46′16″S 67°43′02″W"
+        },
+        {
+          "localidadId": 2574,
+          "localidad": "Casa_de_Piedra",
+          "coordenada": "38°09′10″S 67°09′20″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 302,
+      "departamento": "Quemú_Quemú",
+      "coordenadas": "36°03′16″S 63°33′58″W",
+      "localidades": [
+        {
+          "localidadId": 2575,
+          "localidad": "Miguel_Cané",
+          "coordenada": "36°10′00″S 63°30′00″W"
+        },
+        {
+          "localidadId": 2576,
+          "localidad": "Quemú_Quemú",
+          "coordenada": "36°03′S 63°33′W"
+        },
+        {
+          "localidadId": 2577,
+          "localidad": "Villa_Mirasol",
+          "coordenada": "36°05′00″S 63°53′00″W"
+        },
+        {
+          "localidadId": 2578,
+          "localidad": "Colonia_Barón",
+          "coordenada": "36°09′00″S 63°50′00″W"
+        },
+        {
+          "localidadId": 2579,
+          "localidad": "Relmo",
+          "coordenada": "36°15′S 63°27′W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 303,
+      "departamento": "Rancul",
+      "coordenadas": "35°04′05″S 64°41′02″W",
+      "localidades": [
+        {
+          "localidadId": 2580,
+          "localidad": "Rancul",
+          "coordenada": "35°04′13″S 64°41′13″W"
+        },
+        {
+          "localidadId": 2581,
+          "localidad": "Parera",
+          "coordenada": "35°08′48″S 64°30′07″W"
+        },
+        {
+          "localidadId": 2582,
+          "localidad": "Caleufú",
+          "coordenada": "35°35′40″S 64°33′31″W"
+        },
+        {
+          "localidadId": 2583,
+          "localidad": "La_Maruja",
+          "coordenada": "35°38′57″S 64°46′09″W"
+        },
+        {
+          "localidadId": 2584,
+          "localidad": "Quetrequén",
+          "coordenada": "35°03′00″S 64°32′00″W"
+        },
+        {
+          "localidadId": 2585,
+          "localidad": "Pichi_Huinca",
+          "coordenada": "35°38′00″S 64°46′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 304,
+      "departamento": "Realicó",
+      "coordenadas": "35°04′04″S 64°41′02″W",
+      "localidades": [
+        {
+          "localidadId": 2586,
+          "localidad": "Realicó",
+          "coordenada": "35°02′00″S 64°15′00″W"
+        },
+        {
+          "localidadId": 2587,
+          "localidad": "Alta_Italia",
+          "coordenada": "35°20′00″S 64°07′06″W"
+        },
+        {
+          "localidadId": 2588,
+          "localidad": "Embajador_Martini",
+          "coordenada": "35°23′14″S 64°16′58″W"
+        },
+        {
+          "localidadId": 2589,
+          "localidad": "Ingeniero_Luiggi",
+          "coordenada": "35°25′00″S 64°29′00″W"
+        },
+        {
+          "localidadId": 2590,
+          "localidad": "Adolfo_Van_Praet",
+          "coordenada": "35°01′00″S 64°03′00″W"
+        },
+        {
+          "localidadId": 2591,
+          "localidad": "Falucho",
+          "coordenada": "35°11′00″S 64°06′00″W"
+        },
+        {
+          "localidadId": 2592,
+          "localidad": "Maisonnave",
+          "coordenada": "35°02′00″S 64°23′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 305,
+      "departamento": "Toay",
+      "coordenadas": "36°40′25″S 64°22′47″W",
+      "localidades": [
+        {
+          "localidadId": 2593,
+          "localidad": "Toay",
+          "coordenada": "36°40′30″S 64°22′43″W"
+        },
+        {
+          "localidadId": 2594,
+          "localidad": "Naicó",
+          "coordenada": "36°56′00″S 64°24′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 306,
+      "departamento": "Trenel",
+      "coordenadas": "35°41′53″S 64°08′00″W",
+      "localidades": [
+        {
+          "localidadId": 2595,
+          "localidad": "Arata",
+          "coordenada": "35°38′20″S 64°21′22″W"
+        },
+        {
+          "localidadId": 2596,
+          "localidad": "Trenel",
+          "coordenada": "35°42′00″S 64°08′00″W"
+        },
+        {
+          "localidadId": 2597,
+          "localidad": "Metileo",
+          "coordenada": "35°46′27″S 63°56′27″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 307,
+      "departamento": "Utracán",
+      "coordenadas": "37°22′41″S 64°36′17″W",
+      "localidades": [
+        {
+          "localidadId": 2598,
+          "localidad": "General_Acha",
+          "coordenada": "37°23′00″S 64°36′00″W"
+        },
+        {
+          "localidadId": 2599,
+          "localidad": "Ataliva_Roca",
+          "coordenada": "37°01′00″S 64°17′00″W"
+        },
+        {
+          "localidadId": 2600,
+          "localidad": "Quehué",
+          "coordenada": "37°08′00″S 64°31′00″W"
+        },
+        {
+          "localidadId": 2601,
+          "localidad": "Chacharramendi",
+          "coordenada": "37°19′00″S 65°39′00″W"
+        },
+        {
+          "localidadId": 2602,
+          "localidad": "Colonia_Santa_María",
+          "coordenada": "37°29′41″S 64°13′27″W"
+        },
+        {
+          "localidadId": 2603,
+          "localidad": "Unanue",
+          "coordenada": "37°32′00″S 64°21′00″W"
+        }
+      ]
+    }
+  ]
 }

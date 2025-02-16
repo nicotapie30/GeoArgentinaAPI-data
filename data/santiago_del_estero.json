@@ -1,1199 +1,1485 @@
 {
-    "provincia": "Santiago_del_Estero",
-    "departamentos": [
+  "provinciaId": 21,
+  "provincia": "Santiago_del_Estero",
+  "departamentos": [
+    {
+      "departamentoId": 466,
+      "departamento": "Aguirre",
+      "coordenadas": "29°08′00″S 62°39′00″W",
+      "localidades": [
         {
-            "departamento": "Aguirre",
-            "coordenadas": "29°08′00″S 62°39′00″W",
-            "localidades": [
-                {
-                    "localidad": "Pinto",
-                    "coordenada": "29°09′S 62°39′W"
-                },
-                {
-                    "localidad": "Argentina",
-                    "coordenada": "29°33′00″S 62°17′00″W"
-                },
-                {
-                    "localidad": "Casares",
-                    "coordenada": "28°56′49″S 62°48′00″W"
-                },
-                {
-                    "localidad": "Malbrán",
-                    "coordenada": "29°20′48″S 62°25′57″W"
-                }
-            ]
+          "localidadId": 4082,
+          "localidad": "Pinto",
+          "coordenada": "29°09′S 62°39′W"
         },
         {
-            "departamento": "Alberdi",
-            "coordenadas": "26°35′02″S 62°50′50″W",
-            "localidades": [
-                {
-                    "localidad": "Campo_Gallo",
-                    "coordenada": "26°35′00″S 62°51′00″W"
-                },
-                {
-                    "localidad": "Sacháyoj",
-                    "coordenada": "26°41′00″S 61°50′00″W"
-                },
-                {
-                    "localidad": "Coronel_Manuel_Leoncio_Rico",
-                    "coordenada": "26°22′52″S 61°48′36″W"
-                },
-                {
-                    "localidad": "Donadeu",
-                    "coordenada": "26°43′26″S 62°43′23″W"
-                },
-                {
-                    "localidad": "Santos_Lugares",
-                    "coordenada": "26°41′20″S 63°33′29″W"
-                }
-            ]
+          "localidadId": 4083,
+          "localidad": "Argentina",
+          "coordenada": "29°33′00″S 62°17′00″W"
         },
         {
-            "departamento": "Atamisqui",
-            "coordenadas": "28°29′36″S 63°49′03″W",
-            "localidades": [
-                {
-                    "localidad": "Villa_Atamisqui",
-                    "coordenada": "28°29′47″S 63°49′04″W"
-                },
-                {
-                    "localidad": "Estación_Atamisqui",
-                    "coordenada": "28°29′34″S 63°56′09″W"
-                },
-                {
-                    "localidad": "Hoyón",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Juanillo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Medellín",
-                    "coordenada": "28°39′04″S 63°47′06″W"
-                }
-            ]
+          "localidadId": 4084,
+          "localidad": "Casares",
+          "coordenada": "28°56′49″S 62°48′00″W"
         },
         {
-            "departamento": "Avellaneda",
-            "coordenadas": "28°28′53″S 63°04′09″W",
-            "localidades": [
-                {
-                    "localidad": "Colonia_Dora",
-                    "coordenada": "28°36′S 62°57′W"
-                },
-                {
-                    "localidad": "Herrera",
-                    "coordenada": "28°29′02″S 63°04′10″W"
-                },
-                {
-                    "localidad": "Icaño",
-                    "coordenada": "28°41′00″S 62°54′00″W"
-                },
-                {
-                    "localidad": "Lugones",
-                    "coordenada": "28°20′00″S 63°21′00″W"
-                },
-                {
-                    "localidad": "Punta_Pozo",
-                    "coordenada": "28°29′59″S 63°37′11″W"
-                },
-                {
-                    "localidad": "Rea_Sayana",
-                    "coordenada": "28°48′50″S 62°50′35″W"
-                },
-                {
-                    "localidad": "Villa_Mailín",
-                    "coordenada": "28°28′59″S 63°16′37″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Banda",
-            "coordenadas": "27°44′07″S 64°14′36″W",
-            "localidades": [
-                {
-                    "localidad": "La_Banda",
-                    "coordenada": "27°44′00″S 64°15′00″W"
-                },
-                {
-                    "localidad": "Clodomira",
-                    "coordenada": "27°35′00″S 64°08′00″W"
-                },
-                {
-                    "localidad": "Abra_Grande",
-                    "coordenada": "27°17′28″S 64°22′44″W"
-                },
-                {
-                    "localidad": "Antajé",
-                    "coordenada": "27°37′30″S 64°15′07″W"
-                },
-                {
-                    "localidad": "Ardiles",
-                    "coordenada": "27°24′43″S 64°30′00″W"
-                },
-                {
-                    "localidad": "Cañada_Escobar",
-                    "coordenada": "27°42′29″S 64°01′22″W"
-                },
-                {
-                    "localidad": "Chaupi_Pozo",
-                    "coordenada": "27°30′25″S 64°25′12″W"
-                },
-                {
-                    "localidad": "El_Aibe",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Estación_Simbolar",
-                    "coordenada": "27°39′04″S 64°11′19″W"
-                },
-                {
-                    "localidad": "Los_Quiroga",
-                    "coordenada": "27°39′09″S 64°21′18″W"
-                },
-                {
-                    "localidad": "La_Aurora",
-                    "coordenada": "27°29′42″S 64°13′52″W"
-                },
-                {
-                    "localidad": "La_Dársena",
-                    "coordenada": "27°42′S 64°18′W"
-                },
-                {
-                    "localidad": "Negra_Muerta",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Tramo_16",
-                    "coordenada": "27°41′43″S 64°10′03″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Belgrano",
-            "coordenadas": "28°54′00″S 62°16′00″W",
-            "localidades": [
-                {
-                    "localidad": "Bandera",
-                    "coordenada": "28°54′10″S 62°16′00″W"
-                },
-                {
-                    "localidad": "Cuatro_Bocas",
-                    "coordenada": "28°51′50″S 61°51′29″W"
-                },
-                {
-                    "localidad": "Fortín_Inca",
-                    "coordenada": "29°07′34″S 61°56′06″W"
-                },
-                {
-                    "localidad": "Guardia_Escolta",
-                    "coordenada": "28°59′20″S 62°07′44″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Juan_Francisco_Borges",
-            "coordenadas": "27°48′00″S 64°16′00″W",
-            "localidades": [
-                {
-                    "localidad": "Santiago_del_Estero",
-                    "coordenada": "27°47′04″S 64°16′01″W"
-                },
-                {
-                    "localidad": "El_Deán",
-                    "coordenada": "27°42′54″S 64°19′48″W"
-                },
-                {
-                    "localidad": "Remes",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Benito",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Pedro",
-                    "coordenada": "27°56′42″S 64°09′50″W"
-                },
-                {
-                    "localidad": "Santa_María",
-                    "coordenada": "27°56′59″S 64°12′36″W"
-                },
-                {
-                    "localidad": "Sol_de_Mayo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "El_Zanjón",
-                    "coordenada": "27°51′59″S 64°14′49″W"
-                },
-                {
-                    "localidad": "Vuelta_de_la_Barranca",
-                    "coordenada": "27°53′35″S 64°11′53″W"
-                },
-                {
-                    "localidad": "El_Mojón",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Choya",
-            "coordenadas": "28°38′10″S 65°07′01″W",
-            "localidades": [
-                {
-                    "localidad": "Choya",
-                    "coordenada": "28°29′42″S 64°51′25″W"
-                },
-                {
-                    "localidad": "Frías",
-                    "coordenada": "28°38′00″S 65°08′00″W"
-                },
-                {
-                    "localidad": "Laprida",
-                    "coordenada": "28°22′34″S 64°31′52″W"
-                },
-                {
-                    "localidad": "Tapso",
-                    "coordenada": "28°24′00″S 65°07′00″W"
-                },
-                {
-                    "localidad": "Villa_La_Punta",
-                    "coordenada": "28°22′08″S 64°47′31″W"
-                },
-                {
-                    "localidad": "Ancaján",
-                    "coordenada": "28°26′38″S 64°55′41″W"
-                },
-                {
-                    "localidad": "Estación_La_Punta",
-                    "coordenada": "28°24′29″S 64°45′25″W"
-                },
-                {
-                    "localidad": "San_Pedro_de_Choya",
-                    "coordenada": "28°28′03″S 64°51′59″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Copo",
-            "coordenadas": "25°48′22″S 62°49′53″W",
-            "localidades": [
-                {
-                    "localidad": "Monte_Quemado",
-                    "coordenada": "25°48′26″S 62°49′40″W"
-                },
-                {
-                    "localidad": "Pampa_de_los_Guanacos",
-                    "coordenada": "26°14′00″S 61°51′00″W"
-                },
-                {
-                    "localidad": "Ahí_Veremos",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "El_Caburé",
-                    "coordenada": "26°00′54″S 62°20′02″W"
-                },
-                {
-                    "localidad": "Los_Pirpintos",
-                    "coordenada": "26°08′00″S 62°05′00″W"
-                },
-                {
-                    "localidad": "San_José_del_Boquerón",
-                    "coordenada": "26°06′47″S 63°42′14″W"
-                },
-                {
-                    "localidad": "Villa_Matoque",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Figueroa",
-            "coordenadas": "27°42′32″S 63°46′27″W",
-            "localidades": [
-                {
-                    "localidad": "Bandera_Bajada",
-                    "coordenada": "27°16′23″S 63°30′47″W"
-                },
-                {
-                    "localidad": "Caspi_Corral_San_Antonio",
-                    "coordenada": "27°23′17″S 63°32′53″W"
-                },
-                {
-                    "localidad": "Colonia_San_Juan",
-                    "coordenada": "27°37′01″S 63°18′04″W"
-                },
-                {
-                    "localidad": "La_Cañada",
-                    "coordenada": "27°42′32″S 63°46′25″W"
-                },
-                {
-                    "localidad": "La_Invernada",
-                    "coordenada": "27°22′55″S 63°29′17″W"
-                },
-                {
-                    "localidad": "Vaca_Huañuna",
-                    "coordenada": "27°26′59″S 63°28′29″W"
-                },
-                {
-                    "localidad": "Villa_Figueroa",
-                    "coordenada": "27°43′08″S 63°30′22″W"
-                }
-            ]
-        },
-        {
-            "departamento": "General_Taboada",
-            "coordenadas": "28°27′36″S 62°50′02″W",
-            "localidades": [
-                {
-                    "localidad": "Añatuya",
-                    "coordenada": "28°28′00″S 62°50′00″W"
-                },
-                {
-                    "localidad": "Los_Juríes",
-                    "coordenada": "28°28′00″S 62°06′00″W"
-                },
-                {
-                    "localidad": "Averías",
-                    "coordenada": "28°45′S 62°27′W"
-                },
-                {
-                    "localidad": "Estación_Tacañitas",
-                    "coordenada": "28°37′00″S 62°36′00″W"
-                },
-                {
-                    "localidad": "La_Simona",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Nena",
-                    "coordenada": "28°27′07″S 61°50′13″W"
-                },
-                {
-                    "localidad": "Tomás_Young",
-                    "coordenada": "28°35′59″S 62°10′59″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Guasayán",
-            "coordenadas": "27°57′00″S 65°10′00″W",
-            "localidades": [
-                {
-                    "localidad": "San_Pedro_de_Guasayán",
-                    "coordenada": "27°57′14″S 65°09′59″W"
-                },
-                {
-                    "localidad": "Doña_Luisa",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Guampacha",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Lavalle",
-                    "coordenada": "28°12′S 65°06′W"
-                },
-                {
-                    "localidad": "Santa_Catalina",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Villa_Guasayán",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Jiménez",
-            "coordenadas": "27°09′48″S 64°29′27″W",
-            "localidades": [
-                {
-                    "localidad": "Pozo_Hondo",
-                    "coordenada": "27°10′00″S 64°29′00″W"
-                },
-                {
-                    "localidad": "El_Arenal",
-                    "coordenada": "26°46′11″S 64°35′59″W"
-                },
-                {
-                    "localidad": "El_Bobadal",
-                    "coordenada": "26°43′00″S 64°24′00″W"
-                },
-                {
-                    "localidad": "El_Charco",
-                    "coordenada": "27°14′00″S 64°42′00″W"
-                },
-                {
-                    "localidad": "Gramilla",
-                    "coordenada": "27°18′00″S 64°37′00″W"
-                },
-                {
-                    "localidad": "Tres_Cruces",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Juan_Felipe_Ibarra",
-            "coordenadas": "27°56′08″S 63°25′45″W",
-            "localidades": [
-                {
-                    "localidad": "Suncho_Corral",
-                    "coordenada": "27°56′14″S 63°25′49″W"
-                },
-                {
-                    "localidad": "El_Colorado",
-                    "coordenada": "27°56′00″S 62°10′00″W"
-                },
-                {
-                    "localidad": "El_Cuadrado",
-                    "coordenada": "28°13′37″S 61°48′04″W"
-                },
-                {
-                    "localidad": "Matará",
-                    "coordenada": "28°06′25″S 63°11′38″W"
-                },
-                {
-                    "localidad": "Melero",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Pozo_del_Toba",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Antonio_Roldán",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Vilelas",
-                    "coordenada": "27°57′00″S 62°38′00″W"
-                },
-                {
-                    "localidad": "Yuchán",
-                    "coordenada": "27°46′48″S 62°58′30″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Loreto",
-            "coordenadas": "28°18′08″S 64°10′44″W",
-            "localidades": [
-                {
-                    "localidad": "Loreto",
-                    "coordenada": "28°18′S 64°12′W"
-                },
-                {
-                    "localidad": "La_Noria",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Vicente",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Sauce_Solo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Tío_Pozo",
-                    "coordenada": "28°24′00″S 63°59′00″W"
-                },
-                {
-                    "localidad": "Ayuncha",
-                    "coordenada": "28°27′00″S 64°05′00″W"
-                },
-                {
-                    "localidad": "Taquetúyoj",
-                    "coordenada": "28°35′46″S 64°06′24″W"
-                },
-                {
-                    "localidad": "Villa_Vieja",
-                    "coordenada": "28°19′15″S 64°08′27″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Mitre",
-            "coordenadas": "29°24′50″S 62°47′23″W",
-            "localidades": [
-                {
-                    "localidad": "Villa_Unión",
-                    "coordenada": "29°24′46″S 62°47′14″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Moreno",
-            "coordenadas": "27°38′00″S 62°25′00″W",
-            "localidades": [
-                {
-                    "localidad": "Quimilí",
-                    "coordenada": "27°38′00″S 62°25′00″W"
-                },
-                {
-                    "localidad": "Tintina",
-                    "coordenada": "27°02′00″S 62°43′00″W"
-                },
-                {
-                    "localidad": "Amamá",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Pampa_Pozo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Santo_Domingo",
-                    "coordenada": "26°12′54″S 63°46′37″W"
-                },
-                {
-                    "localidad": "Granadero_Gatica",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Las_Tinajas",
-                    "coordenada": "27°28′15″S 62°55′06″W"
-                },
-                {
-                    "localidad": "Libertad",
-                    "coordenada": "27°05′09″S 63°04′14″W"
-                },
-                {
-                    "localidad": "Lilo_Viejo_Patay",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Otumpa",
-                    "coordenada": "27°19′42″S 62°13′30″W"
-                },
-                {
-                    "localidad": "Villa_Brana",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Weisburd",
-                    "coordenada": "27°18′S 62°36′W"
-                },
-                {
-                    "localidad": "Alhuampa",
-                    "coordenada": "27°07′44″S 62°32′53″W"
-                },
-                {
-                    "localidad": "Aerolito",
-                    "coordenada": "27°13′55″S 62°22′41″W"
-                },
-                {
-                    "localidad": "Cejolao",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Puna",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Cristóbal",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Fortuna",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Simbolar",
-                    "coordenada": "27°43′39″S 63°51′27″W"
-                },
-                {
-                    "localidad": "El_Pértigo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Mistol_Pampa",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Antonio",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Milagros",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Amamá",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Lilo_Viejo",
-                    "coordenada": "26°56′13″S 62°57′10″W"
-                },
-                {
-                    "localidad": "Hasse",
-                    "coordenada": "27°04′13″S 62°38′29″W"
-                },
-                {
-                    "localidad": "Patay",
-                    "coordenada": "26°50′24″S 62°55′51″W"
-                },
-                {
-                    "localidad": "Roversi",
-                    "coordenada": "27°35′31″S 61°56′38″W"
-                },
-                {
-                    "localidad": "Hernán_Mejía_Miraval",
-                    "coordenada": "27°10′37″S 62°28′09″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Ojo_de_Agua",
-            "coordenadas": "29°29′57″S 63°41′42″W",
-            "localidades": [
-                {
-                    "localidad": "Villa_Ojo_de_Agua",
-                    "coordenada": "29°30′07″S 63°41′33″W"
-                },
-                {
-                    "localidad": "Sol_de_Julio",
-                    "coordenada": "29°33′S 63°27′W"
-                },
-                {
-                    "localidad": "El_49",
-                    "coordenada": "29°03′00″S 63°57′25″W"
-                },
-                {
-                    "localidad": "Ambargasta",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Pellegrini",
-            "coordenadas": "26°12′00″S 64°14′28″W",
-            "localidades": [
-                {
-                    "localidad": "Nueva_Esperanza",
-                    "coordenada": "26°12′00″S 64°14′00″W"
-                },
-                {
-                    "localidad": "Ahí_Veremos",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Campo_Grande",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "El_Mojón",
-                    "coordenada": "26°05′00″S 64°18′00″W"
-                },
-                {
-                    "localidad": "Las_Delicias",
-                    "coordenada": "26°40′41″S 64°00′22″W"
-                },
-                {
-                    "localidad": "Pozo_Betbeder",
-                    "coordenada": "26°24′32″S 64°20′13″W"
-                },
-                {
-                    "localidad": "Quebracho_Coto",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Rapelli",
-                    "coordenada": "26°23′31″S 64°30′14″W"
-                },
-                {
-                    "localidad": "Santo_Domingo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Villa_Mercedes",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Villa_Nueva",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "El_Saladillo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "El_Remate",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Fragua",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Ramón",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Santo_Domingo",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Quebrachos",
-            "coordenadas": "29°22′58″S 63°28′20″W",
-            "localidades": [
-                {
-                    "localidad": "Sumampa",
-                    "coordenada": "29°22′58″S 63°28′11″W"
-                },
-                {
-                    "localidad": "Ramírez_de_Velazco",
-                    "coordenada": "29°13′52″S 63°28′23″W"
-                },
-                {
-                    "localidad": "Belgrano",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Sumampa_Viejo",
-                    "coordenada": "29°23′06″S 63°25′55″W"
-                },
-                {
-                    "localidad": "Villa_Quebrachos",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Francisco",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Taco_Pozo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Campo_del_Cisne",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Horco_Tucucuna",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Río_Hondo",
-            "coordenadas": "27°29′51″S 64°51′47″W",
-            "localidades": [
-                {
-                    "localidad": "Termas_de_Río_Hondo",
-                    "coordenada": "27°29′00″S 64°52′00″W"
-                },
-                {
-                    "localidad": "Acos_Pozo_del_Arbolito",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Amicha",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Tinco",
-                    "coordenada": "27°24′54″S 64°56′28″W"
-                },
-                {
-                    "localidad": "El_Sauzal",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Lescano",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Los_Núñez",
-                    "coordenada": "27°32′00″S 64°32′00″W"
-                },
-                {
-                    "localidad": "Los_Ovejero",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Pozuelos",
-                    "coordenada": "27°18′36″S 64°45′22″W"
-                },
-                {
-                    "localidad": "Sotelo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Villa_Río_Hondo",
-                    "coordenada": "27°35′34″S 64°54′53″W"
-                },
-                {
-                    "localidad": "Vinará",
-                    "coordenada": "27°23′37″S 64°51′00″W"
-                },
-                {
-                    "localidad": "Chauchillas",
-                    "coordenada": "27°31′08″S 64°33′30″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Rivadavia",
-            "coordenadas": "29°46′00″S 62°02′00″W",
-            "localidades": [
-                {
-                    "localidad": "Selva",
-                    "coordenada": "29°46′00″S 62°02′00″W"
-                },
-                {
-                    "localidad": "Colonia_Alpina",
-                    "coordenada": "30°03′36″S 62°06′14″W"
-                },
-                {
-                    "localidad": "Palo_Negro",
-                    "coordenada": "29°41′00″S 62°08′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Robles",
-            "coordenadas": "27°55′04″S 63°53′43″W",
-            "localidades": [
-                {
-                    "localidad": "Fernández",
-                    "coordenada": "27°55′00″S 63°53′00″W"
-                },
-                {
-                    "localidad": "Beltrán",
-                    "coordenada": "27°50′00″S 64°04′00″W"
-                },
-                {
-                    "localidad": "Ingeniero_Forres",
-                    "coordenada": "27°53′00″S 63°58′00″W"
-                },
-                {
-                    "localidad": "Colonia_El_Simbolar",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Los_Romanos_Santo_Domingo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Vilmer",
-                    "coordenada": "27°47′06″S 64°09′07″W"
-                },
-                {
-                    "localidad": "Villa_Hipólita",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Villa_Robles",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Los_Banegas",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Salavina",
-            "coordenadas": "28°59′06″S 63°27′02″W",
-            "localidades": [
-                {
-                    "localidad": "Los_Telares",
-                    "coordenada": "28°59′06″S 63°26′54″W"
-                },
-                {
-                    "localidad": "Chilca_Juliana",
-                    "coordenada": "28°47′46″S 63°34′30″W"
-                },
-                {
-                    "localidad": "La_Paliza",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Sabagasta",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Vaca_Human",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Villa_Salavina",
-                    "coordenada": "28°48′00″S 63°25′00″W"
-                },
-                {
-                    "localidad": "Anga",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Barrancas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Los_Cerrillos",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Malota",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Mistol_Pozo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Paso_de_Oscares",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Puente_del_Saladillo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Rubia_Paso",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Santa_Lucía",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Verón",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Yacu_Hurmana",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "San_Martín",
-            "coordenadas": "28°15′S 63°57′W",
-            "localidades": [
-                {
-                    "localidad": "Átoj_Pozo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Brea_Pozo",
-                    "coordenada": "28°15′S 63°57′W"
-                },
-                {
-                    "localidad": "Estación_Robles",
-                    "coordenada": "28°02′49″S 63°59′31″W"
-                },
-                {
-                    "localidad": "Estación_Taboada",
-                    "coordenada": "28°01′00″S 63°45′00″W"
-                },
-                {
-                    "localidad": "Villa_Nueva",
-                    "coordenada": "28°18′07″S 64°01′43″W"
-                },
-                {
-                    "localidad": "Átoj_Pozo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Ashpa_Sinchi",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Barrancas_Coloradas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Brea_Pozo_Viejo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Chéej",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Colonia_Pinto",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Diaspa",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Kilómetro_25",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Blanca",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Higuera",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Verde",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Laguna_Blanca",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Linton",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Los_Gallegos",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Majadas_Sud",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Pampa_Atun",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Percas",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Perchil_Bajo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Pozo_Mósoj",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Puestito",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Quimilíoj",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_José_de_Flores",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Pascual",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Suncho_Pozo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Tío_Pozo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Tres_Jazmines",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Tuamilla",
-                    "coordenada": ""
-                }
-            ]
-        },
-        {
-            "departamento": "Sarmiento",
-            "coordenadas": "28°09′00″S 63°32′00″W",
-            "localidades": [
-                {
-                    "localidad": "Garza",
-                    "coordenada": "28°09′00″S 63°31′00″W"
-                }
-            ]
-        },
-        {
-            "departamento": "Silípica",
-            "coordenadas": "28°02′42″S 64°13′26″W",
-            "localidades": [
-                {
-                    "localidad": "Árraga",
-                    "coordenada": "28°03′06″S 64°13′26″W"
-                },
-                {
-                    "localidad": "Nueva_Francia",
-                    "coordenada": "28°11′00″S 64°12′00″W"
-                },
-                {
-                    "localidad": "Manogasta",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Villa_Silípica",
-                    "coordenada": "28°06′29″S 64°08′49″W"
-                },
-                {
-                    "localidad": "Buey_Rodeo",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Campo_Alegre",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Chañar_Pujio",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Coro_Pampa",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Huachana",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Abrita",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Higuera",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "La_Ramadita",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Puesto_del_Medio",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Andrés",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "San_Vicente",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Simbol",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Sumamao",
-                    "coordenada": "28°10′08″S 64°05′56″W"
-                }
-            ]
+          "localidadId": 4085,
+          "localidad": "Malbrán",
+          "coordenada": "29°20′48″S 62°25′57″W"
         }
-    ]
+      ]
+    },
+    {
+      "departamentoId": 467,
+      "departamento": "Alberdi",
+      "coordenadas": "26°35′02″S 62°50′50″W",
+      "localidades": [
+        {
+          "localidadId": 4086,
+          "localidad": "Campo_Gallo",
+          "coordenada": "26°35′00″S 62°51′00″W"
+        },
+        {
+          "localidadId": 4087,
+          "localidad": "Sacháyoj",
+          "coordenada": "26°41′00″S 61°50′00″W"
+        },
+        {
+          "localidadId": 4088,
+          "localidad": "Coronel_Manuel_Leoncio_Rico",
+          "coordenada": "26°22′52″S 61°48′36″W"
+        },
+        {
+          "localidadId": 4089,
+          "localidad": "Donadeu",
+          "coordenada": "26°43′26″S 62°43′23″W"
+        },
+        {
+          "localidadId": 4090,
+          "localidad": "Santos_Lugares",
+          "coordenada": "26°41′20″S 63°33′29″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 468,
+      "departamento": "Atamisqui",
+      "coordenadas": "28°29′36″S 63°49′03″W",
+      "localidades": [
+        {
+          "localidadId": 4091,
+          "localidad": "Villa_Atamisqui",
+          "coordenada": "28°29′47″S 63°49′04″W"
+        },
+        {
+          "localidadId": 4092,
+          "localidad": "Estación_Atamisqui",
+          "coordenada": "28°29′34″S 63°56′09″W"
+        },
+        {
+          "localidadId": 4093,
+          "localidad": "Hoyón",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4094,
+          "localidad": "Juanillo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4095,
+          "localidad": "Medellín",
+          "coordenada": "28°39′04″S 63°47′06″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 469,
+      "departamento": "Avellaneda",
+      "coordenadas": "28°28′53″S 63°04′09″W",
+      "localidades": [
+        {
+          "localidadId": 4096,
+          "localidad": "Colonia_Dora",
+          "coordenada": "28°36′S 62°57′W"
+        },
+        {
+          "localidadId": 4097,
+          "localidad": "Herrera",
+          "coordenada": "28°29′02″S 63°04′10″W"
+        },
+        {
+          "localidadId": 4098,
+          "localidad": "Icaño",
+          "coordenada": "28°41′00″S 62°54′00″W"
+        },
+        {
+          "localidadId": 4099,
+          "localidad": "Lugones",
+          "coordenada": "28°20′00″S 63°21′00″W"
+        },
+        {
+          "localidadId": 4100,
+          "localidad": "Punta_Pozo",
+          "coordenada": "28°29′59″S 63°37′11″W"
+        },
+        {
+          "localidadId": 4101,
+          "localidad": "Rea_Sayana",
+          "coordenada": "28°48′50″S 62°50′35″W"
+        },
+        {
+          "localidadId": 4102,
+          "localidad": "Villa_Mailín",
+          "coordenada": "28°28′59″S 63°16′37″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 470,
+      "departamento": "Banda",
+      "coordenadas": "27°44′07″S 64°14′36″W",
+      "localidades": [
+        {
+          "localidadId": 4103,
+          "localidad": "La_Banda",
+          "coordenada": "27°44′00″S 64°15′00″W"
+        },
+        {
+          "localidadId": 4104,
+          "localidad": "Clodomira",
+          "coordenada": "27°35′00″S 64°08′00″W"
+        },
+        {
+          "localidadId": 4105,
+          "localidad": "Abra_Grande",
+          "coordenada": "27°17′28″S 64°22′44″W"
+        },
+        {
+          "localidadId": 4106,
+          "localidad": "Antajé",
+          "coordenada": "27°37′30″S 64°15′07″W"
+        },
+        {
+          "localidadId": 4107,
+          "localidad": "Ardiles",
+          "coordenada": "27°24′43″S 64°30′00″W"
+        },
+        {
+          "localidadId": 4108,
+          "localidad": "Cañada_Escobar",
+          "coordenada": "27°42′29″S 64°01′22″W"
+        },
+        {
+          "localidadId": 4109,
+          "localidad": "Chaupi_Pozo",
+          "coordenada": "27°30′25″S 64°25′12″W"
+        },
+        {
+          "localidadId": 4110,
+          "localidad": "El_Aibe",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4111,
+          "localidad": "Estación_Simbolar",
+          "coordenada": "27°39′04″S 64°11′19″W"
+        },
+        {
+          "localidadId": 4112,
+          "localidad": "Los_Quiroga",
+          "coordenada": "27°39′09″S 64°21′18″W"
+        },
+        {
+          "localidadId": 4113,
+          "localidad": "La_Aurora",
+          "coordenada": "27°29′42″S 64°13′52″W"
+        },
+        {
+          "localidadId": 4114,
+          "localidad": "La_Dársena",
+          "coordenada": "27°42′S 64°18′W"
+        },
+        {
+          "localidadId": 4115,
+          "localidad": "Negra_Muerta",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4116,
+          "localidad": "Tramo_16",
+          "coordenada": "27°41′43″S 64°10′03″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 471,
+      "departamento": "Belgrano",
+      "coordenadas": "28°54′00″S 62°16′00″W",
+      "localidades": [
+        {
+          "localidadId": 4117,
+          "localidad": "Bandera",
+          "coordenada": "28°54′10″S 62°16′00″W"
+        },
+        {
+          "localidadId": 4118,
+          "localidad": "Cuatro_Bocas",
+          "coordenada": "28°51′50″S 61°51′29″W"
+        },
+        {
+          "localidadId": 4119,
+          "localidad": "Fortín_Inca",
+          "coordenada": "29°07′34″S 61°56′06″W"
+        },
+        {
+          "localidadId": 4120,
+          "localidad": "Guardia_Escolta",
+          "coordenada": "28°59′20″S 62°07′44″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 472,
+      "departamento": "Juan_Francisco_Borges",
+      "coordenadas": "27°48′00″S 64°16′00″W",
+      "localidades": [
+        {
+          "localidadId": 4121,
+          "localidad": "Santiago_del_Estero",
+          "coordenada": "27°47′04″S 64°16′01″W"
+        },
+        {
+          "localidadId": 4122,
+          "localidad": "El_Deán",
+          "coordenada": "27°42′54″S 64°19′48″W"
+        },
+        {
+          "localidadId": 4123,
+          "localidad": "Remes",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4124,
+          "localidad": "San_Benito",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4125,
+          "localidad": "San_Pedro",
+          "coordenada": "27°56′42″S 64°09′50″W"
+        },
+        {
+          "localidadId": 4126,
+          "localidad": "Santa_María",
+          "coordenada": "27°56′59″S 64°12′36″W"
+        },
+        {
+          "localidadId": 4127,
+          "localidad": "Sol_de_Mayo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4128,
+          "localidad": "El_Zanjón",
+          "coordenada": "27°51′59″S 64°14′49″W"
+        },
+        {
+          "localidadId": 4129,
+          "localidad": "Vuelta_de_la_Barranca",
+          "coordenada": "27°53′35″S 64°11′53″W"
+        },
+        {
+          "localidadId": 4130,
+          "localidad": "El_Mojón",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 473,
+      "departamento": "Choya",
+      "coordenadas": "28°38′10″S 65°07′01″W",
+      "localidades": [
+        {
+          "localidadId": 4131,
+          "localidad": "Choya",
+          "coordenada": "28°29′42″S 64°51′25″W"
+        },
+        {
+          "localidadId": 4132,
+          "localidad": "Frías",
+          "coordenada": "28°38′00″S 65°08′00″W"
+        },
+        {
+          "localidadId": 4133,
+          "localidad": "Laprida",
+          "coordenada": "28°22′34″S 64°31′52″W"
+        },
+        {
+          "localidadId": 4134,
+          "localidad": "Tapso",
+          "coordenada": "28°24′00″S 65°07′00″W"
+        },
+        {
+          "localidadId": 4135,
+          "localidad": "Villa_La_Punta",
+          "coordenada": "28°22′08″S 64°47′31″W"
+        },
+        {
+          "localidadId": 4136,
+          "localidad": "Ancaján",
+          "coordenada": "28°26′38″S 64°55′41″W"
+        },
+        {
+          "localidadId": 4137,
+          "localidad": "Estación_La_Punta",
+          "coordenada": "28°24′29″S 64°45′25″W"
+        },
+        {
+          "localidadId": 4138,
+          "localidad": "San_Pedro_de_Choya",
+          "coordenada": "28°28′03″S 64°51′59″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 474,
+      "departamento": "Copo",
+      "coordenadas": "25°48′22″S 62°49′53″W",
+      "localidades": [
+        {
+          "localidadId": 4139,
+          "localidad": "Monte_Quemado",
+          "coordenada": "25°48′26″S 62°49′40″W"
+        },
+        {
+          "localidadId": 4140,
+          "localidad": "Pampa_de_los_Guanacos",
+          "coordenada": "26°14′00″S 61°51′00″W"
+        },
+        {
+          "localidadId": 4141,
+          "localidad": "Ahí_Veremos",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4142,
+          "localidad": "El_Caburé",
+          "coordenada": "26°00′54″S 62°20′02″W"
+        },
+        {
+          "localidadId": 4143,
+          "localidad": "Los_Pirpintos",
+          "coordenada": "26°08′00″S 62°05′00″W"
+        },
+        {
+          "localidadId": 4144,
+          "localidad": "San_José_del_Boquerón",
+          "coordenada": "26°06′47″S 63°42′14″W"
+        },
+        {
+          "localidadId": 4145,
+          "localidad": "Villa_Matoque",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 475,
+      "departamento": "Figueroa",
+      "coordenadas": "27°42′32″S 63°46′27″W",
+      "localidades": [
+        {
+          "localidadId": 4146,
+          "localidad": "Bandera_Bajada",
+          "coordenada": "27°16′23″S 63°30′47″W"
+        },
+        {
+          "localidadId": 4147,
+          "localidad": "Caspi_Corral_San_Antonio",
+          "coordenada": "27°23′17″S 63°32′53″W"
+        },
+        {
+          "localidadId": 4148,
+          "localidad": "Colonia_San_Juan",
+          "coordenada": "27°37′01″S 63°18′04″W"
+        },
+        {
+          "localidadId": 4149,
+          "localidad": "La_Cañada",
+          "coordenada": "27°42′32″S 63°46′25″W"
+        },
+        {
+          "localidadId": 4150,
+          "localidad": "La_Invernada",
+          "coordenada": "27°22′55″S 63°29′17″W"
+        },
+        {
+          "localidadId": 4151,
+          "localidad": "Vaca_Huañuna",
+          "coordenada": "27°26′59″S 63°28′29″W"
+        },
+        {
+          "localidadId": 4152,
+          "localidad": "Villa_Figueroa",
+          "coordenada": "27°43′08″S 63°30′22″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 476,
+      "departamento": "General_Taboada",
+      "coordenadas": "28°27′36″S 62°50′02″W",
+      "localidades": [
+        {
+          "localidadId": 4153,
+          "localidad": "Añatuya",
+          "coordenada": "28°28′00″S 62°50′00″W"
+        },
+        {
+          "localidadId": 4154,
+          "localidad": "Los_Juríes",
+          "coordenada": "28°28′00″S 62°06′00″W"
+        },
+        {
+          "localidadId": 4155,
+          "localidad": "Averías",
+          "coordenada": "28°45′S 62°27′W"
+        },
+        {
+          "localidadId": 4156,
+          "localidad": "Estación_Tacañitas",
+          "coordenada": "28°37′00″S 62°36′00″W"
+        },
+        {
+          "localidadId": 4157,
+          "localidad": "La_Simona",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4158,
+          "localidad": "La_Nena",
+          "coordenada": "28°27′07″S 61°50′13″W"
+        },
+        {
+          "localidadId": 4159,
+          "localidad": "Tomás_Young",
+          "coordenada": "28°35′59″S 62°10′59″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 477,
+      "departamento": "Guasayán",
+      "coordenadas": "27°57′00″S 65°10′00″W",
+      "localidades": [
+        {
+          "localidadId": 5160,
+          "localidad": "San_Pedro_de_Guasayán",
+          "coordenada": "27°57′14″S 65°09′59″W"
+        },
+        {
+          "localidadId": 4161,
+          "localidad": "Doña_Luisa",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4162,
+          "localidad": "Guampacha",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4163,
+          "localidad": "Lavalle",
+          "coordenada": "28°12′S 65°06′W"
+        },
+        {
+          "localidadId": 4164,
+          "localidad": "Santa_Catalina",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4165,
+          "localidad": "Villa_Guasayán",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 478,
+      "departamento": "Jiménez",
+      "coordenadas": "27°09′48″S 64°29′27″W",
+      "localidades": [
+        {
+          "localidadId": 4166,
+          "localidad": "Pozo_Hondo",
+          "coordenada": "27°10′00″S 64°29′00″W"
+        },
+        {
+          "localidadId": 4167,
+          "localidad": "El_Arenal",
+          "coordenada": "26°46′11″S 64°35′59″W"
+        },
+        {
+          "localidadId": 4168,
+          "localidad": "El_Bobadal",
+          "coordenada": "26°43′00″S 64°24′00″W"
+        },
+        {
+          "localidadId": 4169,
+          "localidad": "El_Charco",
+          "coordenada": "27°14′00″S 64°42′00″W"
+        },
+        {
+          "localidadId": 4170,
+          "localidad": "Gramilla",
+          "coordenada": "27°18′00″S 64°37′00″W"
+        },
+        {
+          "localidadId": 4171,
+          "localidad": "Tres_Cruces",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 479,
+      "departamento": "Juan_Felipe_Ibarra",
+      "coordenadas": "27°56′08″S 63°25′45″W",
+      "localidades": [
+        {
+          "localidadId": 4172,
+          "localidad": "Suncho_Corral",
+          "coordenada": "27°56′14″S 63°25′49″W"
+        },
+        {
+          "localidadId": 4173,
+          "localidad": "El_Colorado",
+          "coordenada": "27°56′00″S 62°10′00″W"
+        },
+        {
+          "localidadId": 4174,
+          "localidad": "El_Cuadrado",
+          "coordenada": "28°13′37″S 61°48′04″W"
+        },
+        {
+          "localidadId": 4175,
+          "localidad": "Matará",
+          "coordenada": "28°06′25″S 63°11′38″W"
+        },
+        {
+          "localidadId": 4176,
+          "localidad": "Melero",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4177,
+          "localidad": "Pozo_del_Toba",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4178,
+          "localidad": "San_Antonio_Roldán",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4179,
+          "localidad": "Vilelas",
+          "coordenada": "27°57′00″S 62°38′00″W"
+        },
+        {
+          "localidadId": 4180,
+          "localidad": "Yuchán",
+          "coordenada": "27°46′48″S 62°58′30″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 480,
+      "departamento": "Loreto",
+      "coordenadas": "28°18′08″S 64°10′44″W",
+      "localidades": [
+        {
+          "localidadId": 4181,
+          "localidad": "Loreto",
+          "coordenada": "28°18′S 64°12′W"
+        },
+        {
+          "localidadId": 4182,
+          "localidad": "La_Noria",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4183,
+          "localidad": "San_Vicente",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4184,
+          "localidad": "Sauce_Solo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4185,
+          "localidad": "Tío_Pozo",
+          "coordenada": "28°24′00″S 63°59′00″W"
+        },
+        {
+          "localidadId": 4186,
+          "localidad": "Ayuncha",
+          "coordenada": "28°27′00″S 64°05′00″W"
+        },
+        {
+          "localidadId": 4187,
+          "localidad": "Taquetúyoj",
+          "coordenada": "28°35′46″S 64°06′24″W"
+        },
+        {
+          "localidadId": 4188,
+          "localidad": "Villa_Vieja",
+          "coordenada": "28°19′15″S 64°08′27″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 481,
+      "departamento": "Mitre",
+      "coordenadas": "29°24′50″S 62°47′23″W",
+      "localidades": [
+        {
+          "localidadId": 4189,
+          "localidad": "Villa_Unión",
+          "coordenada": "29°24′46″S 62°47′14″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 482,
+      "departamento": "Moreno",
+      "coordenadas": "27°38′00″S 62°25′00″W",
+      "localidades": [
+        {
+          "localidadId": 4190,
+          "localidad": "Quimilí",
+          "coordenada": "27°38′00″S 62°25′00″W"
+        },
+        {
+          "localidadId": 4191,
+          "localidad": "Tintina",
+          "coordenada": "27°02′00″S 62°43′00″W"
+        },
+        {
+          "localidadId": 4192,
+          "localidad": "Amamá",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4193,
+          "localidad": "Pampa_Pozo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4194,
+          "localidad": "Santo_Domingo",
+          "coordenada": "26°12′54″S 63°46′37″W"
+        },
+        {
+          "localidadId": 4195,
+          "localidad": "Granadero_Gatica",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4196,
+          "localidad": "Las_Tinajas",
+          "coordenada": "27°28′15″S 62°55′06″W"
+        },
+        {
+          "localidadId": 4197,
+          "localidad": "Libertad",
+          "coordenada": "27°05′09″S 63°04′14″W"
+        },
+        {
+          "localidadId": 4198,
+          "localidad": "Lilo_Viejo_Patay",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4199,
+          "localidad": "Otumpa",
+          "coordenada": "27°19′42″S 62°13′30″W"
+        },
+        {
+          "localidadId": 4200,
+          "localidad": "Villa_Brana",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4201,
+          "localidad": "Weisburd",
+          "coordenada": "27°18′S 62°36′W"
+        },
+        {
+          "localidadId": 4202,
+          "localidad": "Alhuampa",
+          "coordenada": "27°07′44″S 62°32′53″W"
+        },
+        {
+          "localidadId": 4203,
+          "localidad": "Aerolito",
+          "coordenada": "27°13′55″S 62°22′41″W"
+        },
+        {
+          "localidadId": 4204,
+          "localidad": "Cejolao",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4205,
+          "localidad": "Puna",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4206,
+          "localidad": "San_Cristóbal",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4207,
+          "localidad": "La_Fortuna",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4208,
+          "localidad": "Simbolar",
+          "coordenada": "27°43′39″S 63°51′27″W"
+        },
+        {
+          "localidadId": 4209,
+          "localidad": "El_Pértigo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4210,
+          "localidad": "Mistol_Pampa",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4211,
+          "localidad": "San_Antonio",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4212,
+          "localidad": "Milagros",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4213,
+          "localidad": "Amamá",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4214,
+          "localidad": "Lilo_Viejo",
+          "coordenada": "26°56′13″S 62°57′10″W"
+        },
+        {
+          "localidadId": 4215,
+          "localidad": "Hasse",
+          "coordenada": "27°04′13″S 62°38′29″W"
+        },
+        {
+          "localidadId": 4216,
+          "localidad": "Patay",
+          "coordenada": "26°50′24″S 62°55′51″W"
+        },
+        {
+          "localidadId": 4217,
+          "localidad": "Roversi",
+          "coordenada": "27°35′31″S 61°56′38″W"
+        },
+        {
+          "localidadId": 4218,
+          "localidad": "Hernán_Mejía_Miraval",
+          "coordenada": "27°10′37″S 62°28′09″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 483,
+      "departamento": "Ojo_de_Agua",
+      "coordenadas": "29°29′57″S 63°41′42″W",
+      "localidades": [
+        {
+          "localidadId": 4219,
+          "localidad": "Villa_Ojo_de_Agua",
+          "coordenada": "29°30′07″S 63°41′33″W"
+        },
+        {
+          "localidadId": 4220,
+          "localidad": "Sol_de_Julio",
+          "coordenada": "29°33′S 63°27′W"
+        },
+        {
+          "localidadId": 4221,
+          "localidad": "El_49",
+          "coordenada": "29°03′00″S 63°57′25″W"
+        },
+        {
+          "localidadId": 4222,
+          "localidad": "Ambargasta",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 484,
+      "departamento": "Pellegrini",
+      "coordenadas": "26°12′00″S 64°14′28″W",
+      "localidades": [
+        {
+          "localidadId": 4223,
+          "localidad": "Nueva_Esperanza",
+          "coordenada": "26°12′00″S 64°14′00″W"
+        },
+        {
+          "localidadId": 4224,
+          "localidad": "Ahí_Veremos",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4225,
+          "localidad": "Campo_Grande",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4226,
+          "localidad": "El_Mojón",
+          "coordenada": "26°05′00″S 64°18′00″W"
+        },
+        {
+          "localidadId": 4227,
+          "localidad": "Las_Delicias",
+          "coordenada": "26°40′41″S 64°00′22″W"
+        },
+        {
+          "localidadId": 4228,
+          "localidad": "Pozo_Betbeder",
+          "coordenada": "26°24′32″S 64°20′13″W"
+        },
+        {
+          "localidadId": 4229,
+          "localidad": "Quebracho_Coto",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4230,
+          "localidad": "Rapelli",
+          "coordenada": "26°23′31″S 64°30′14″W"
+        },
+        {
+          "localidadId": 4231,
+          "localidad": "Santo_Domingo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4232,
+          "localidad": "Villa_Mercedes",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4233,
+          "localidad": "Villa_Nueva",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4234,
+          "localidad": "El_Saladillo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4235,
+          "localidad": "El_Remate",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4236,
+          "localidad": "La_Fragua",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4237,
+          "localidad": "San_Ramón",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4238,
+          "localidad": "Santo_Domingo",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 485,
+      "departamento": "Quebrachos",
+      "coordenadas": "29°22′58″S 63°28′20″W",
+      "localidades": [
+        {
+          "localidadId": 4239,
+          "localidad": "Sumampa",
+          "coordenada": "29°22′58″S 63°28′11″W"
+        },
+        {
+          "localidadId": 4240,
+          "localidad": "Ramírez_de_Velazco",
+          "coordenada": "29°13′52″S 63°28′23″W"
+        },
+        {
+          "localidadId": 4241,
+          "localidad": "Belgrano",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4242,
+          "localidad": "Sumampa_Viejo",
+          "coordenada": "29°23′06″S 63°25′55″W"
+        },
+        {
+          "localidadId": 4243,
+          "localidad": "Villa_Quebrachos",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4244,
+          "localidad": "San_Francisco",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4245,
+          "localidad": "Taco_Pozo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4246,
+          "localidad": "Campo_del_Cisne",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4247,
+          "localidad": "Horco_Tucucuna",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 486,
+      "departamento": "Río_Hondo",
+      "coordenadas": "27°29′51″S 64°51′47″W",
+      "localidades": [
+        {
+          "localidadId": 4248,
+          "localidad": "Termas_de_Río_Hondo",
+          "coordenada": "27°29′00″S 64°52′00″W"
+        },
+        {
+          "localidadId": 4249,
+          "localidad": "Acos_Pozo_del_Arbolito",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4250,
+          "localidad": "Amicha",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4251,
+          "localidad": "Colonia_Tinco",
+          "coordenada": "27°24′54″S 64°56′28″W"
+        },
+        {
+          "localidadId": 4252,
+          "localidad": "El_Sauzal",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4253,
+          "localidad": "Lescano",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4254,
+          "localidad": "Los_Núñez",
+          "coordenada": "27°32′00″S 64°32′00″W"
+        },
+        {
+          "localidadId": 4255,
+          "localidad": "Los_Ovejero",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4256,
+          "localidad": "Pozuelos",
+          "coordenada": "27°18′36″S 64°45′22″W"
+        },
+        {
+          "localidadId": 4257,
+          "localidad": "Sotelo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4258,
+          "localidad": "Villa_Río_Hondo",
+          "coordenada": "27°35′34″S 64°54′53″W"
+        },
+        {
+          "localidadId": 4259,
+          "localidad": "Vinará",
+          "coordenada": "27°23′37″S 64°51′00″W"
+        },
+        {
+          "localidadId": 4260,
+          "localidad": "Chauchillas",
+          "coordenada": "27°31′08″S 64°33′30″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 487,
+      "departamento": "Rivadavia",
+      "coordenadas": "29°46′00″S 62°02′00″W",
+      "localidades": [
+        {
+          "localidadId": 4261,
+          "localidad": "Selva",
+          "coordenada": "29°46′00″S 62°02′00″W"
+        },
+        {
+          "localidadId": 4262,
+          "localidad": "Colonia_Alpina",
+          "coordenada": "30°03′36″S 62°06′14″W"
+        },
+        {
+          "localidadId": 4263,
+          "localidad": "Palo_Negro",
+          "coordenada": "29°41′00″S 62°08′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 488,
+      "departamento": "Robles",
+      "coordenadas": "27°55′04″S 63°53′43″W",
+      "localidades": [
+        {
+          "localidadId": 4264,
+          "localidad": "Fernández",
+          "coordenada": "27°55′00″S 63°53′00″W"
+        },
+        {
+          "localidadId": 4265,
+          "localidad": "Beltrán",
+          "coordenada": "27°50′00″S 64°04′00″W"
+        },
+        {
+          "localidadId": 4266,
+          "localidad": "Ingeniero_Forres",
+          "coordenada": "27°53′00″S 63°58′00″W"
+        },
+        {
+          "localidadId": 4267,
+          "localidad": "Colonia_El_Simbolar",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4268,
+          "localidad": "Los_Romanos_Santo_Domingo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4269,
+          "localidad": "Vilmer",
+          "coordenada": "27°47′06″S 64°09′07″W"
+        },
+        {
+          "localidadId": 4270,
+          "localidad": "Villa_Hipólita",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4271,
+          "localidad": "Villa_Robles",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4272,
+          "localidad": "Los_Banegas",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 489,
+      "departamento": "Salavina",
+      "coordenadas": "28°59′06″S 63°27′02″W",
+      "localidades": [
+        {
+          "localidadId": 4273,
+          "localidad": "Los_Telares",
+          "coordenada": "28°59′06″S 63°26′54″W"
+        },
+        {
+          "localidadId": 4274,
+          "localidad": "Chilca_Juliana",
+          "coordenada": "28°47′46″S 63°34′30″W"
+        },
+        {
+          "localidadId": 4275,
+          "localidad": "La_Paliza",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4276,
+          "localidad": "Sabagasta",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4277,
+          "localidad": "Vaca_Human",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4278,
+          "localidad": "Villa_Salavina",
+          "coordenada": "28°48′00″S 63°25′00″W"
+        },
+        {
+          "localidadId": 4279,
+          "localidad": "Anga",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4280,
+          "localidad": "Barrancas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4281,
+          "localidad": "Los_Cerrillos",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4282,
+          "localidad": "Malota",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4283,
+          "localidad": "Mistol_Pozo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4284,
+          "localidad": "Paso_de_Oscares",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4285,
+          "localidad": "Puente_del_Saladillo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4286,
+          "localidad": "Rubia_Paso",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4287,
+          "localidad": "Santa_Lucía",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4288,
+          "localidad": "Verón",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4289,
+          "localidad": "Yacu_Hurmana",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 491,
+      "departamento": "San_Martín",
+      "coordenadas": "28°15′S 63°57′W",
+      "localidades": [
+        {
+          "localidadId": 4290,
+          "localidad": "Átoj_Pozo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4291,
+          "localidad": "Brea_Pozo",
+          "coordenada": "28°15′S 63°57′W"
+        },
+        {
+          "localidadId": 4292,
+          "localidad": "Estación_Robles",
+          "coordenada": "28°02′49″S 63°59′31″W"
+        },
+        {
+          "localidadId": 4293,
+          "localidad": "Estación_Taboada",
+          "coordenada": "28°01′00″S 63°45′00″W"
+        },
+        {
+          "localidadId": 4294,
+          "localidad": "Villa_Nueva",
+          "coordenada": "28°18′07″S 64°01′43″W"
+        },
+        {
+          "localidadId": 4295,
+          "localidad": "Átoj_Pozo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4296,
+          "localidad": "Ashpa_Sinchi",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4297,
+          "localidad": "Barrancas_Coloradas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4298,
+          "localidad": "Brea_Pozo_Viejo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4299,
+          "localidad": "Chéej",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4300,
+          "localidad": "Colonia_Pinto",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4301,
+          "localidad": "Diaspa",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4302,
+          "localidad": "Kilómetro_25",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4303,
+          "localidad": "La_Blanca",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4304,
+          "localidad": "La_Higuera",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4305,
+          "localidad": "La_Verde",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4306,
+          "localidad": "Laguna_Blanca",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4307,
+          "localidad": "Linton",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4308,
+          "localidad": "Los_Gallegos",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4309,
+          "localidad": "Majadas_Sud",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4310,
+          "localidad": "Pampa_Atun",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4311,
+          "localidad": "Percas",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4312,
+          "localidad": "Perchil_Bajo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4313,
+          "localidad": "Pozo_Mósoj",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4314,
+          "localidad": "Puestito",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4315,
+          "localidad": "Quimilíoj",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4316,
+          "localidad": "San_José_de_Flores",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4317,
+          "localidad": "San_Pascual",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4318,
+          "localidad": "Suncho_Pozo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4319,
+          "localidad": "Tío_Pozo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4320,
+          "localidad": "Tres_Jazmines",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4321,
+          "localidad": "Tuamilla",
+          "coordenada": ""
+        }
+      ]
+    },
+    {
+      "departamentoId": 492,
+      "departamento": "Sarmiento",
+      "coordenadas": "28°09′00″S 63°32′00″W",
+      "localidades": [
+        {
+          "localidadId": 4322,
+          "localidad": "Garza",
+          "coordenada": "28°09′00″S 63°31′00″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 493,
+      "departamento": "Silípica",
+      "coordenadas": "28°02′42″S 64°13′26″W",
+      "localidades": [
+        {
+          "localidadId": 4323,
+          "localidad": "Árraga",
+          "coordenada": "28°03′06″S 64°13′26″W"
+        },
+        {
+          "localidadId": 4324,
+          "localidad": "Nueva_Francia",
+          "coordenada": "28°11′00″S 64°12′00″W"
+        },
+        {
+          "localidadId": 4325,
+          "localidad": "Manogasta",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4326,
+          "localidad": "Villa_Silípica",
+          "coordenada": "28°06′29″S 64°08′49″W"
+        },
+        {
+          "localidadId": 4327,
+          "localidad": "Buey_Rodeo",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4328,
+          "localidad": "Campo_Alegre",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4329,
+          "localidad": "Chañar_Pujio",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4330,
+          "localidad": "Coro_Pampa",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4331,
+          "localidad": "Huachana",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4332,
+          "localidad": "La_Abrita",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4333,
+          "localidad": "La_Higuera",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4334,
+          "localidad": "La_Ramadita",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4335,
+          "localidad": "Puesto_del_Medio",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4335,
+          "localidad": "San_Andrés",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4336,
+          "localidad": "San_Vicente",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4337,
+          "localidad": "Simbol",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4338,
+          "localidad": "Sumamao",
+          "coordenada": "28°10′08″S 64°05′56″W"
+        }
+      ]
+    }
+  ]
 }

@@ -1,126 +1,155 @@
 {
-    "provincia": "Tierra_del_Fuego",
-    "departamentos": [
+  "provinciaId": 22,
+  "provincia": "Tierra_del_Fuego",
+  "departamentos": [
+    {
+      "departamentoId": 494,
+      "departamento": "Antártida_Argentina",
+      "coordenadas": "75°00′S 49°30′W",
+      "localidades": [
         {
-            "departamento": "Antártida_Argentina",
-            "coordenadas": "75°00′S 49°30′W",
-            "localidades": [
-                {
-                    "localidad": "Orcadas",
-                    "coordenada": "60°44′20″S 44°44′17″W​"
-                },
-                {
-                    "localidad": "Marambio",
-                    "coordenada": "64°14′S 56°38′W"
-                },
-                {
-                    "localidad": "Esperanza",
-                    "coordenada": "63°23′54″S 56°59′46″W"
-                },
-                {
-                    "localidad": "Carlini",
-                    "coordenada": "62°14′18″S 58°40′00″W"
-                },
-                {
-                    "localidad": "San_Martín",
-                    "coordenada": "68°07′48″S 67°06′08″W"
-                },
-                {
-                    "localidad": "Belgrano_II",
-                    "coordenada": "77°52′28″S 34°37′37″W"
-                },
-                {
-                    "localidad": "Brown",
-                    "coordenada": "64°53′43″S 62°52′15″W"
-                },
-                {
-                    "localidad": "Decepción",
-                    "coordenada": "62°58′33.42″S 60°41′55.05″W"
-                },
-                {
-                    "localidad": "Matienzo",
-                    "coordenada": "64°58′S 60°08′W"
-                },
-                {
-                    "localidad": "Primavera",
-                    "coordenada": "64°09′00″S 60°57′50″W"
-                },
-                {
-                    "localidad": "Cámara",
-                    "coordenada": "62°36′S 59°54′W"
-                },
-                {
-                    "localidad": "Melchior",
-                    "coordenada": "64°19′S 62°58′W"
-                },
-                {
-                    "localidad": "Petrel",
-                    "coordenada": "63°28′S 56°17′O "
-                }
-            ]
+          "localidadId": 4339,
+          "localidad": "Orcadas",
+          "coordenada": "60°44′20″S 44°44′17″W​"
         },
         {
-            "departamento": "Islas_del_Atlántico_Sur",
-            "coordenadas": "54°29′50″S 36°34′59″W",
-            "localidades": []
+          "localidadId": 4340,
+          "localidad": "Marambio",
+          "coordenada": "64°14′S 56°38′W"
         },
         {
-            "departamento": "Río_Grande",
-            "coordenadas": "53°47′11″S 67°41′48″W",
-            "localidades": [
-                {
-                    "localidad": "Río_Grande",
-                    "coordenada": "53°47′00″S 67°42′00″W"
-                },
-                {
-                    "localidad": "San_Sebastián",
-                    "coordenada": "53°17′59″S 68°27′27″W"
-                }
-            ]
+          "localidadId": 4341,
+          "localidad": "Esperanza",
+          "coordenada": "63°23′54″S 56°59′46″W"
         },
         {
-            "departamento": "Tolhuin",
-            "coordenadas": "54°24′40″S 67°29′55″W",
-            "localidades": [
-                {
-                    "localidad": "Tolhuin",
-                    "coordenada": "54°32′00″S 67°12′00″W"
-                },
-                {
-                    "localidad": "Sarmiento",
-                    "coordenada": "54°21′00″S 68°11′00″W"
-                },
-                {
-                    "localidad": "Lago_Escondido",
-                    "coordenada": "54°38′16″S 67°46′01″W"
-                }
-            ]
+          "localidadId": 4342,
+          "localidad": "Carlini",
+          "coordenada": "62°14′18″S 58°40′00″W"
         },
         {
-            "departamento": "Ushuaia",
-            "coordenadas": "54°48′58″S 68°19′25″W",
-            "localidades": [
-                {
-                    "localidad": "Ushuaia",
-                    "coordenada": "54°48′26″S 68°18′16″W"
-                },
-                {
-                    "localidad": "Puerto_Almanza",
-                    "coordenada": "54°52′12″S 67°33′50″W"
-                },
-                {
-                    "localidad": "Punta_Parana",
-                    "coordenada": ""
-                },
-                {
-                    "localidad": "Puerto_Parry",
-                    "coordenada": "54°48′42″S 64°22′18″W"
-                },
-                {
-                    "localidad": "Puerto_Cook",
-                    "coordenada": "54°46′01″S 64°03′00″W"
-                }
-            ]
+          "localidadId": 4343,
+          "localidad": "San_Martín",
+          "coordenada": "68°07′48″S 67°06′08″W"
+        },
+        {
+          "localidadId": 4344,
+          "localidad": "Belgrano_II",
+          "coordenada": "77°52′28″S 34°37′37″W"
+        },
+        {
+          "localidadId": 4345,
+          "localidad": "Brown",
+          "coordenada": "64°53′43″S 62°52′15″W"
+        },
+        {
+          "localidadId": 4346,
+          "localidad": "Decepción",
+          "coordenada": "62°58′33.42″S 60°41′55.05″W"
+        },
+        {
+          "localidadId": 4347,
+          "localidad": "Matienzo",
+          "coordenada": "64°58′S 60°08′W"
+        },
+        {
+          "localidadId": 4348,
+          "localidad": "Primavera",
+          "coordenada": "64°09′00″S 60°57′50″W"
+        },
+        {
+          "localidadId": 4349,
+          "localidad": "Cámara",
+          "coordenada": "62°36′S 59°54′W"
+        },
+        {
+          "localidadId": 4350,
+          "localidad": "Melchior",
+          "coordenada": "64°19′S 62°58′W"
+        },
+        {
+          "localidadId": 4351,
+          "localidad": "Petrel",
+          "coordenada": "63°28′S 56°17′O "
         }
-    ]
+      ]
+    },
+    {
+      "departamentoId": 495,
+      "departamento": "Islas_del_Atlántico_Sur",
+      "coordenadas": "54°29′50″S 36°34′59″W",
+      "localidades": []
+    },
+    {
+      "departamentoId": 496,
+      "departamento": "Río_Grande",
+      "coordenadas": "53°47′11″S 67°41′48″W",
+      "localidades": [
+        {
+          "localidadId": 4352,
+          "localidad": "Río_Grande",
+          "coordenada": "53°47′00″S 67°42′00″W"
+        },
+        {
+          "localidadId": 4353,
+          "localidad": "San_Sebastián",
+          "coordenada": "53°17′59″S 68°27′27″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 497,
+      "departamento": "Tolhuin",
+      "coordenadas": "54°24′40″S 67°29′55″W",
+      "localidades": [
+        {
+          "localidadId": 4354,
+          "localidad": "Tolhuin",
+          "coordenada": "54°32′00″S 67°12′00″W"
+        },
+        {
+          "localidadId": 4355,
+          "localidad": "Sarmiento",
+          "coordenada": "54°21′00″S 68°11′00″W"
+        },
+        {
+          "localidadId": 4356,
+          "localidad": "Lago_Escondido",
+          "coordenada": "54°38′16″S 67°46′01″W"
+        }
+      ]
+    },
+    {
+      "departamentoId": 498,
+      "departamento": "Ushuaia",
+      "coordenadas": "54°48′58″S 68°19′25″W",
+      "localidades": [
+        {
+          "localidadId": 4357,
+          "localidad": "Ushuaia",
+          "coordenada": "54°48′26″S 68°18′16″W"
+        },
+        {
+          "localidadId": 4358,
+          "localidad": "Puerto_Almanza",
+          "coordenada": "54°52′12″S 67°33′50″W"
+        },
+        {
+          "localidadId": 4359,
+          "localidad": "Punta_Parana",
+          "coordenada": ""
+        },
+        {
+          "localidadId": 4360,
+          "localidad": "Puerto_Parry",
+          "coordenada": "54°48′42″S 64°22′18″W"
+        },
+        {
+          "localidadId": 4361,
+          "localidad": "Puerto_Cook",
+          "coordenada": "54°46′01″S 64°03′00″W"
+        }
+      ]
+    }
+  ]
 }

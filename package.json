@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "dev": "index.js --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
