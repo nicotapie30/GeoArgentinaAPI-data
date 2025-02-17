@@ -13,7 +13,13 @@ const dbs = loadAllDbs();
 const PORT = 3000;
 const HOST = "localhost";
 
-const normalize = (str) => str.toLowerCase().replace(/ /g, "_");
+const normalize = (str) => {
+  return str
+    .toLowerCase()
+    .replace(/ /g, "_")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, ""); // Eliminar acentos y tildes
+};
 
 const getData = async (dbName) => {
   const db = dbs[dbName];
