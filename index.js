@@ -75,6 +75,7 @@ app.get(
 app.get(
   "/api/:dbName/departamentos/:departamento/localidades/:localidad",
   async (req, res) => {
+    console.log("Parámetros recibidos:", req.params);
     const data = await getData(req.params.dbName);
     if (data) {
       const departamento = data.departamentos.find(
