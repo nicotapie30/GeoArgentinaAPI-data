@@ -55,7 +55,9 @@ app.get("/api/:dbName/departamentos/:departamento", async (req, res) => {
   const departamento = normalize(decodeURIComponent(req.params.departamento));
   const data = await getData(dbName);
   if (data) {
-    const dep = data.departamentos.find((d) => d.departamento === departamento);
+    const dep = data.departamentos.find(
+      (d) => normalize(d.departamento) === departamento
+    );
     if (dep) {
       res.json(replaceUnderscores(dep));
     } else {
@@ -74,7 +76,7 @@ app.get(
     const data = await getData(dbName);
     if (data) {
       const dep = data.departamentos.find(
-        (d) => d.departamento === departamento
+        (d) => normalize(d.departamento) === departamento
       );
       if (dep) {
         res.json(replaceUnderscores(dep.localidades));
@@ -96,10 +98,12 @@ app.get(
     const data = await getData(dbName);
     if (data) {
       const dep = data.departamentos.find(
-        (d) => d.departamento === departamento
+        (d) => normalize(d.departamento) === departamento
       );
       if (dep) {
-        const loc = dep.localidades.find((l) => l.localidad === localidad);
+        const loc = dep.localidades.find(
+          (l) => normalize(l.localidad) === localidad
+        );
         if (loc) {
           res.json(replaceUnderscores(loc));
         } else {
