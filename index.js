@@ -1,5 +1,6 @@
 import express from "express";
 import loadAllDbs from "./db_conection/db.js";
+import { replaceUnderscores } from "./utils/replaceUnderscores.js";
 
 const app = express();
 app.use(express.json());
@@ -21,7 +22,7 @@ const getData = async (dbName) => {
 app.get("/api/:dbName", async (req, res) => {
   const data = await getData(req.params.dbName);
   if (data) {
-    res.json(data);
+    res.json(replaceUnderscores(data));
   } else {
     res.status(404).send("Database not found");
   }
@@ -30,7 +31,7 @@ app.get("/api/:dbName", async (req, res) => {
 app.get("/api/:dbName/departamentos", async (req, res) => {
   const data = await getData(req.params.dbName);
   if (data) {
-    res.json(data.departamentos);
+    res.json(replaceUnderscores(data.departamentos));
   } else {
     res.status(404).send("Database not found");
   }
@@ -43,7 +44,7 @@ app.get("/api/:dbName/departamentos/:departamento", async (req, res) => {
       (d) => d.departamento === req.params.departamento
     );
     if (departamento) {
-      res.json(departamento);
+      res.json(replaceUnderscores(departamento));
     } else {
       res.status(404).send("Departamento not found");
     }
@@ -61,7 +62,7 @@ app.get(
         (d) => d.departamento === req.params.departamento
       );
       if (departamento) {
-        res.json(departamento.localidades);
+        res.json(replaceUnderscores(departamento.localidades));
       } else {
         res.status(404).send("Departamento not found");
       }
@@ -84,7 +85,7 @@ app.get(
           (l) => l.localidad === req.params.localidad
         );
         if (localidad) {
-          res.json(localidad);
+          res.json(replaceUnderscores(localidad));
         } else {
           res.status(404).send("Localidad not found");
         }
