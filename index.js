@@ -1,9 +1,11 @@
 import express from "express";
 import loadAllDbs from "./db_conection/db.js";
+import cors from "cors";
 import { replaceUnderscores } from "./utils/replaceUnderscores.js";
 
 const app = express();
 app.use(express.json());
+app.use(cors());
 
 const dbs = loadAllDbs();
 
