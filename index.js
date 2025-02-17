@@ -13,6 +13,7 @@ const dbs = loadAllDbs();
 const PORT = 3000;
 const HOST = "localhost";
 
+// Función para normalizar cadenas de texto
 const normalize = (str) => {
   return str
     .toLowerCase()
