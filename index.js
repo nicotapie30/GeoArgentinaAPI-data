@@ -20,7 +20,8 @@ const getData = async (dbName) => {
 };
 
 app.get("/api/:dbName", async (req, res) => {
-  const data = await getData(decodeURIComponent(req.params.dbName));
+  const dbName = decodeURIComponent(req.params.dbName);
+  const data = await getData(dbName);
   if (data) {
     res.json(replaceUnderscores(data));
   } else {
@@ -29,7 +30,8 @@ app.get("/api/:dbName", async (req, res) => {
 });
 
 app.get("/api/:dbName/departamentos", async (req, res) => {
-  const data = await getData(decodeURIComponent(req.params.dbName));
+  const dbName = decodeURIComponent(req.params.dbName);
+  const data = await getData(dbName);
   if (data) {
     res.json(replaceUnderscores(data.departamentos));
   } else {
@@ -38,13 +40,13 @@ app.get("/api/:dbName/departamentos", async (req, res) => {
 });
 
 app.get("/api/:dbName/departamentos/:departamento", async (req, res) => {
-  const data = await getData(decodeURIComponent(req.params.dbName));
+  const dbName = decodeURIComponent(req.params.dbName);
+  const departamento = decodeURIComponent(req.params.departamento);
+  const data = await getData(dbName);
   if (data) {
-    const departamento = data.departamentos.find(
-      (d) => d.departamento === decodeURIComponent(req.params.departamento)
-    );
-    if (departamento) {
-      res.json(replaceUnderscores(departamento));
+    const dep = data.departamentos.find((d) => d.departamento === departamento);
+    if (dep) {
+      res.json(replaceUnderscores(dep));
     } else {
       res.status(404).send("Departamento not found");
     }
@@ -56,13 +58,15 @@ app.get("/api/:dbName/departamentos/:departamento", async (req, res) => {
 app.get(
   "/api/:dbName/departamentos/:departamento/localidades",
   async (req, res) => {
-    const data = await getData(decodeURIComponent(req.params.dbName));
+    const dbName = decodeURIComponent(req.params.dbName);
+    const departamento = decodeURIComponent(req.params.departamento);
+    const data = await getData(dbName);
     if (data) {
-      const departamento = data.departamentos.find(
-        (d) => d.departamento === decodeURIComponent(req.params.departamento)
+      const dep = data.departamentos.find(
+        (d) => d.departamento === departamento
       );
-      if (departamento) {
-        res.json(replaceUnderscores(departamento.localidades));
+      if (dep) {
+        res.json(replaceUnderscores(dep.localidades));
       } else {
         res.status(404).send("Departamento not found");
       }
@@ -75,17 +79,18 @@ app.get(
 app.get(
   "/api/:dbName/departamentos/:departamento/localidades/:localidad",
   async (req, res) => {
-    const data = await getData(decodeURIComponent(req.params.dbName));
+    const dbName = decodeURIComponent(req.params.dbName);
+    const departamento = decodeURIComponent(req.params.departamento);
+    const localidad = decodeURIComponent(req.params.localidad);
+    const data = await getData(dbName);
     if (data) {
-      const departamento = data.departamentos.find(
-        (d) => d.departamento === decodeURIComponent(req.params.departamento)
+      const dep = data.departamentos.find(
+        (d) => d.departamento === departamento
       );
-      if (departamento) {
-        const localidad = departamento.localidades.find(
-          (l) => l.localidad === decodeURIComponent(req.params.localidad)
-        );
-        if (localidad) {
-          res.json(replaceUnderscores(localidad));
+      if (dep) {
+        const loc = dep.localidades.find((l) => l.localidad === localidad);
+        if (loc) {
+          res.json(replaceUnderscores(loc));
         } else {
           res.status(404).send("Localidad not found");
         }
