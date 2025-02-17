@@ -1,21 +1,19 @@
 import express from "express";
 import cors from "cors";
-import dotenv from "dotenv";
 import loadAllDbs from "./db_conection/db.js";
 import { replaceUnderscores } from "./utils/replaceUnderscores.js";
-
-dotenv.config();
 
 const app = express();
 app.use(cors());
 app.use(express.json());
+app.disable("x-powered-by");
 
 const dbs = loadAllDbs();
 
-const normalize = (str) => str.toLowerCase().replace(/ /g, "_");
-
 const PORT = 3000;
 const HOST = "localhost";
+
+const normalize = (str) => str.toLowerCase().replace(/ /g, "_");
 
 const getData = async (dbName) => {
   const db = dbs[dbName];
@@ -42,7 +40,7 @@ app.get("/api/:dbName/departamentos", async (req, res) => {
   if (data) {
     res.json(replaceUnderscores(data.departamentos));
   } else {
-    res.status(404).send("Departamentos not found");
+    res.status(404).send("Database not found");
   }
 });
 
@@ -110,7 +108,6 @@ app.get(
   }
 );
 
-// Iniciar el servidor usando process.env.PORT o el puerto por defecto 3000
 app.listen(PORT, () => {
   console.log(`Server is running on ${HOST}:${PORT}`);
 });
