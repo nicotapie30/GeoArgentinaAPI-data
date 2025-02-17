@@ -20,7 +20,7 @@ const getData = async (dbName) => {
 };
 
 app.get("/api/:dbName", async (req, res) => {
-  const data = await getData(req.params.dbName);
+  const data = await getData(decodeURIComponent(req.params.dbName));
   if (data) {
     res.json(replaceUnderscores(data));
   } else {
@@ -29,7 +29,7 @@ app.get("/api/:dbName", async (req, res) => {
 });
 
 app.get("/api/:dbName/departamentos", async (req, res) => {
-  const data = await getData(req.params.dbName);
+  const data = await getData(decodeURIComponent(req.params.dbName));
   if (data) {
     res.json(replaceUnderscores(data.departamentos));
   } else {
@@ -38,10 +38,10 @@ app.get("/api/:dbName/departamentos", async (req, res) => {
 });
 
 app.get("/api/:dbName/departamentos/:departamento", async (req, res) => {
-  const data = await getData(req.params.dbName);
+  const data = await getData(decodeURIComponent(req.params.dbName));
   if (data) {
     const departamento = data.departamentos.find(
-      (d) => d.departamento === req.params.departamento
+      (d) => d.departamento === decodeURIComponent(req.params.departamento)
     );
     if (departamento) {
       res.json(replaceUnderscores(departamento));
@@ -56,10 +56,10 @@ app.get("/api/:dbName/departamentos/:departamento", async (req, res) => {
 app.get(
   "/api/:dbName/departamentos/:departamento/localidades",
   async (req, res) => {
-    const data = await getData(req.params.dbName);
+    const data = await getData(decodeURIComponent(req.params.dbName));
     if (data) {
       const departamento = data.departamentos.find(
-        (d) => d.departamento === req.params.departamento
+        (d) => d.departamento === decodeURIComponent(req.params.departamento)
       );
       if (departamento) {
         res.json(replaceUnderscores(departamento.localidades));
@@ -75,15 +75,14 @@ app.get(
 app.get(
   "/api/:dbName/departamentos/:departamento/localidades/:localidad",
   async (req, res) => {
-    console.log("Parámetros recibidos:", req.params);
-    const data = await getData(req.params.dbName);
+    const data = await getData(decodeURIComponent(req.params.dbName));
     if (data) {
       const departamento = data.departamentos.find(
-        (d) => d.departamento === req.params.departamento
+        (d) => d.departamento === decodeURIComponent(req.params.departamento)
       );
       if (departamento) {
         const localidad = departamento.localidades.find(
-          (l) => l.localidad === req.params.localidad
+          (l) => l.localidad === decodeURIComponent(req.params.localidad)
         );
         if (localidad) {
           res.json(replaceUnderscores(localidad));
