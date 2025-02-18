@@ -26,7 +26,7 @@ const getData = async (dbName) => {
 };
 
 app.get("/api/:dbName", async (req, res) => {
-  const dbName = normalize(encodeURIComponent(req.params.dbName));
+  const dbName = normalize(decodeURIComponent(req.params.dbName));
   const data = await getData(dbName);
   if (data) {
     res.json(replaceUnderscores(data));
@@ -36,7 +36,7 @@ app.get("/api/:dbName", async (req, res) => {
 });
 
 app.get("/api/:dbName/departamentos", async (req, res) => {
-  const dbName = normalize(encodeURIComponent(req.params.dbName));
+  const dbName = normalize(decodeURIComponent(req.params.dbName));
   const data = await getData(dbName);
   if (data) {
     res.json(replaceUnderscores(data.departamentos));
@@ -46,8 +46,8 @@ app.get("/api/:dbName/departamentos", async (req, res) => {
 });
 
 app.get("/api/:dbName/departamentos/:departamento", async (req, res) => {
-  const dbName = normalize(encodeURIComponent(req.params.dbName));
-  const departamento = normalize(encodeURIComponent(req.params.departamento));
+  const dbName = normalize(decodeURIComponent(req.params.dbName));
+  const departamento = normalize(decodeURIComponent(req.params.departamento));
   const data = await getData(dbName);
   if (data) {
     const dep = data.departamentos.find(
@@ -66,8 +66,8 @@ app.get("/api/:dbName/departamentos/:departamento", async (req, res) => {
 app.get(
   "/api/:dbName/departamentos/:departamento/localidades",
   async (req, res) => {
-    const dbName = normalize(encodeURIComponent(req.params.dbName));
-    const departamento = normalize(encodeURIComponent(req.params.departamento));
+    const dbName = normalize(decodeURIComponent(req.params.dbName));
+    const departamento = normalize(decodeURIComponent(req.params.departamento));
     const data = await getData(dbName);
     if (data) {
       const dep = data.departamentos.find(
@@ -87,9 +87,9 @@ app.get(
 app.get(
   "/api/:dbName/departamentos/:departamento/localidades/:localidad",
   async (req, res) => {
-    const dbName = normalize(encodeURIComponent(req.params.dbName));
-    const departamento = normalize(encodeURIComponent(req.params.departamento));
-    const localidad = normalize(encodeURIComponent(req.params.localidad));
+    const dbName = normalize(decodeURIComponent(req.params.dbName));
+    const departamento = normalize(decodeURIComponent(req.params.departamento));
+    const localidad = normalize(decodeURIComponent(req.params.localidad));
     const data = await getData(dbName);
     if (data) {
       const dep = data.departamentos.find(
