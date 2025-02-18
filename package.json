@@ -9,19 +9,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nicolás Alejandro Tapié",
   "license": "ISC",
   "dependencies": {
     "cors": "2.8.5",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.1",
-    "lowdb": "^7.0.1",
-    "nodemon": "^3.1.7",
-    "pnpm": "^9.10.0",
-    "steno": "^4.0.2"
+    "dotenv": "16.4.7",
+    "express": "4.21.1",
+    "lowdb": "7.0.1",
+    "nodemon": "3.1.7",
+    "pnpm": "9.10.0",
+    "steno": "4.0.2"
   },
   "devDependencies": {
-    "@eslint/js": "^9.12.0",
+    "@eslint/js": "9.12.0",
     "eslint": "9.12.0",
     "globals": "15.11.0"
   }

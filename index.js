@@ -3,6 +3,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import loadAllDbs from "./db_conection/db.js";
 import { replaceUnderscores } from "./utils/replaceUnderscores.js";
+import { normalize } from "./utils/normalize.js";
 
 dotenv.config();
 
@@ -14,15 +15,6 @@ app.disable("x-powered-by");
 const dbs = loadAllDbs();
 
 const PORT = process.env.PORT ?? 3000;
-
-// Función para normalizar cadenas de texto
-const normalize = (str) => {
-  return str
-    .toLowerCase()
-    .replace(/ /g, "_")
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, ""); // Eliminar acentos y tildes
-};
 
 const getData = async (dbName) => {
   const db = dbs[dbName];
