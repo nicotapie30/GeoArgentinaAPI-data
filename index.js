@@ -108,7 +108,7 @@ app.get(
         );
 
         if (loc) {
-          res.json(loc); // Devolver los datos originales con acentos, espacios y mayúsculas
+          res.json(replaceUnderscores(loc));
         } else {
           res.status(404).send("Localidad not found");
         }
