@@ -17,7 +17,7 @@ const dbs = loadAllDbs();
 const PORT = process.env.PORT ?? 3000;
 
 const getData = async (dbName) => {
-  const db = dbs[dbName];
+  const db = dbs[normalize(dbName)];
   if (db) {
     await db.read();
     return db.data;
@@ -91,28 +91,24 @@ app.get(
     const departamento = decodeURIComponent(req.params.departamento);
     const localidad = decodeURIComponent(req.params.localidad);
 
-    console.log(`dbName: ${dbName}`);
-    console.log(`departamento: ${departamento}`);
-    console.log(`localidad: ${localidad}`);
+    const normalizedDbName = normalize(dbName);
+    const normalizedDepartamento = normalize(departamento);
+    const normalizedLocalidad = normalize(localidad);
 
-    const data = await getData(dbName);
+    const data = await getData(normalizedDbName);
 
     if (data) {
       const dep = data.departamentos.find(
-        (d) => d.departamento === departamento
-      );
-      console.log(
-        `Departamento encontrado: ${dep ? dep.departamento : "No encontrado"}`
+        (d) => normalize(d.departamento) === normalizedDepartamento
       );
 
       if (dep) {
-        const loc = dep.localidades.find((l) => l.localidad === localidad);
-        console.log(
-          `Localidad encontrada: ${loc ? loc.localidad : "No encontrado"}`
+        const loc = dep.localidades.find(
+          (l) => normalize(l.localidad) === normalizedLocalidad
         );
 
         if (loc) {
-          res.json(replaceUnderscores(loc));
+          res.json(loc); // Devolver los datos originales con acentos, espacios y mayúsculas
         } else {
           res.status(404).send("Localidad not found");
         }
