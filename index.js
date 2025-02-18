@@ -85,19 +85,25 @@ app.get(
 );
 
 app.get(
-  "/api/:dbName/departamentos/:departamento/localidades/:localidad",
+  `/api/:dbName/departamentos/:departamento/localidades/:localidad`,
   async (req, res) => {
-    const dbName = normalize(decodeURIComponent(req.params.dbName));
-    const departamento = normalize(decodeURIComponent(req.params.departamento));
-    const localidad = normalize(decodeURIComponent(req.params.localidad));
-    const data = await getData(dbName);
+    const dbName = decodeURIComponent(req.params.dbName); // No normalizar aún
+    const departamento = decodeURIComponent(req.params.departamento); // No normalizar aún
+    const localidad = decodeURIComponent(req.params.localidad); // No normalizar aún
+
+    const normalizedDbName = normalize(dbName);
+    const normalizedDepartamento = normalize(departamento);
+    const normalizedLocalidad = normalize(localidad);
+
+    const data = await getData(normalizedDbName);
+
     if (data) {
       const dep = data.departamentos.find(
-        (d) => normalize(d.departamento) === departamento
+        (d) => normalize(d.departamento) === normalizedDepartamento
       );
       if (dep) {
         const loc = dep.localidades.find(
-          (l) => normalize(l.localidad) === localidad
+          (l) => normalize(l.localidad) === normalizedLocalidad
         );
         if (loc) {
           res.json(replaceUnderscores(loc));
