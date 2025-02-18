@@ -1,7 +1,10 @@
 import express from "express";
 import cors from "cors";
+import dotenv from "dotenv";
 import loadAllDbs from "./db_conection/db.js";
 import { replaceUnderscores } from "./utils/replaceUnderscores.js";
+
+dotenv.config();
 
 const app = express();
 app.use(cors());
@@ -10,8 +13,7 @@ app.disable("x-powered-by");
 
 const dbs = loadAllDbs();
 
-const PORT = 3000;
-const HOST = "localhost";
+const PORT = process.env.PORT ?? 3000;
 
 // Función para normalizar cadenas de texto
 const normalize = (str) => {
@@ -120,5 +122,5 @@ app.get(
 );
 
 app.listen(PORT, () => {
-  console.log(`Server is running on ${HOST}:${PORT}`);
+  console.log(`Server is running on http://localhost:${PORT}`);
 });
