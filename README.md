@@ -123,15 +123,12 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 
 ## Manejo de Errores 📌
 
-**404 Not Found**
-**500 Internal Server Error**
+**404 Not Found**<br>
+**500 Internal Server Error**<br>
 **400 Bad Request**
 <br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
 
 ## Tecnologías 📌
 
