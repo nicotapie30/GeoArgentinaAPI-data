@@ -125,9 +125,9 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 
 **404 Not Found**
 **500 Internal Server Error**
+**400 Bad Request**
 <br>
 
-<img src="assets/imgs/Errores.png" alt="Prvincia específica" style="scale: 0.8;">
 <br>
 <br>
 <br>
