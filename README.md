@@ -1,6 +1,6 @@
 # Localidades Argentinas
 
-Bienvenido a la API de **Localidades de Argentina**. Esta te permite acceder a información sobre *provincias*, *departamentos* y *localidades* del país. 
+Bienvenido a la API de **Localidades de Argentina**. Esta te permite acceder a información sobre _provincias_, _departamentos_ y _localidades_ del país.
 Fué creada debido a la falta de información completa, no óptima y difícil implementación en proyectos que necesiten delimitar un terriorio específico.
 
 Cuenta con un total de **24 archivos .json**, los cuales se dividen en **1** archivo con **todas las Provincias** y **23** archivos divididos por **cada Provincia**.
@@ -8,6 +8,7 @@ Cuenta con un total de **24 archivos .json**, los cuales se dividen en **1** arc
 <br>
 
 ## Endpoints 📌
+
 Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener diferente información dependiendo de lo que se requiera.
 <br>
 <br>
@@ -23,20 +24,18 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una lista de todas las Provincias.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** 
+**EJEMPLO DE SOLICITUD:**
 `https://localidades-argentinas-data.vercel.app/api/provincias`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
 <br>
 
-
-<img src="assets/imgs/Todas_las_Provincias.png" alt="Todas las Provincias" style="scale: 0.8;">
+<img src="assets/imgs/todas-las-provincias.png" alt="Todas las Provincias" style="scale: 0.8;">
 <br>
 <br>
 
 - ### Obtener una Provincia específica
-
 
 **URL:** `/api/{provincia}`
 <br>
@@ -47,20 +46,18 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** 
+**EJEMPLO DE SOLICITUD:**
 `https://localidades-argentinas-data.vercel.app/api/buenos_aires`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
 <br>
 
-
-<img src="assets/imgs/Provincia_específica.png" alt="Provincia Específica" style="scale: 0.8;">
+<img src="assets/imgs/provincia-especifica.png" alt="Provincia Específica" style="scale: 0.8;">
 <br>
 <br>
 
 - ### Obtener Departamentos de una Provincia
-
 
 **URL:** `/api/{provincia}/departamentos`
 <br>
@@ -77,13 +74,11 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **EJEMPLO DE RESPUESTA:**
 <br>
 
-
-<img src="assets/imgs/Departamentos_de_una_Provincia.png" alt="Departamentos de una Provincia" style="scale: 0.8;">
+<img src="assets/imgs/departamentos-de-una-provincia.png" alt="Departamentos de una Provincia" style="scale: 0.8;">
 <br>
 <br>
 
 - ### Obtener Localidades de un Departamento
-
 
 **URL:** `/api/{provincia}/departamentos/{departamento}/localidades`
 <br>
@@ -100,13 +95,11 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **EJEMPLO DE RESPUESTA:**
 <br>
 
-
-<img src="assets/imgs/Localidades_de_un_departamento.png" alt="Localidades de un Departamento" style="scale: 0.8;">
+<img src="assets/imgs/localidades-de-un-departamento.png" alt="Localidades de un Departamento" style="scale: 0.8;">
 <br>
 <br>
 
 - ### Obtener Información de una Localidad Específica
-
 
 **URL:** `/api/{provincia}/departamentos/{departamento}/localidades/{localidad}`
 <br>
@@ -123,8 +116,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **EJEMPLO DE RESPUESTA:**
 <br>
 
-
-<img src="assets/imgs/Localidad_específica.png" alt="Localidad Específica" style="scale: 0.8;">
+<img src="assets/imgs/localidad-específica.png" alt="Localidad Específica" style="scale: 0.8;">
 <br>
 <br>
 <br>
@@ -142,6 +134,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 <br>
 
 ## Tecnologías 📌
+
 <div display="inline">
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -152,6 +145,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 </div>
 
 ---
+
 **Muchas Gracias por utilizar la API y mostrar interes en ella!**
 <br>
 <br>
@@ -163,10 +157,10 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Te agradecería si quieres dar apoyo y marcar con una ⭐ el repositorio. Eres más que bienvenido a realizar cualquier tipo de cambio para que el proyecto crezca y mejore!**
 <br>
 
-
 ### No dudes en contactarme
+
 - **LinkedIn:** 👉​<a href="https://www.linkedin.com/in/nicolasatapiedev30" target="_blank">LinkedIn</a>
 - **Instagram:** 👉​<a href="https://www.instagram.com/nicotapie1/" target="_blank">Instagram</a>
-<br>
+  <br>
 
 <p align="center" style="font-size: 1.5em; font-weight: bold;"><b>Un fuerte abrazo ❤️</b></p>
