@@ -121,7 +121,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 <br>
 <br>
 
-## Manejo de Errores 📌
+## Errores 📌
 
 **404 Not Found**<br>
 **500 Internal Server Error**<br>
