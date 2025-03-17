@@ -1,6 +1,6 @@
 # Localidades Argentinas
 
-Bienvenido a la API de **Localidades de Argentina**. Esta te permite acceder a información sobre _provincias_, _departamentos_ y _localidades_ del país.
+Bienvenido a la API de **GeoArgentina API**. Esta te permite acceder a información sobre _provincias_, _departamentos_ y _localidades_ del país.
 Fué creada debido a la falta de información completa, no óptima y difícil implementación en proyectos que necesiten delimitar un terriorio específico.
 
 Cuenta con un total de **24 archivos .json**, los cuales se dividen en **1** archivo con **todas las Provincias** y **23** archivos divididos por **cada Provincia**.
@@ -147,7 +147,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 <br>
 <br>
 
-**Visitá la Web oficial para obtener más información: <a href="https://localidades.vercel.app/" target="_blank">Localidades Argentinas</a>**
+**Visitá la Web oficial para obtener más información: <a href="https://https://geoargentina-api.vercel.app/" target="_blank">GeoArgentina API</a>**
 <br>
 <br>
 
