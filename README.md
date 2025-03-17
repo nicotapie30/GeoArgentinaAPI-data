@@ -1,4 +1,4 @@
-# Localidades Argentinas
+# GeoArgentina API
 
 Bienvenido a la API de **GeoArgentina API**. Esta te permite acceder a información sobre _provincias_, _departamentos_ y _localidades_ del país.
 Fué creada debido a la falta de información completa, no óptima y difícil implementación en proyectos que necesiten delimitar un terriorio específico.
