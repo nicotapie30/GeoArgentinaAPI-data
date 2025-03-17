@@ -25,7 +25,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 <br>
 <br>
 **EJEMPLO DE SOLICITUD:**
-`https://localidades-argentinas-data.vercel.app/api/provincias`
+`https://geoargentina-api-data.vercel.app/api/provincias`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
@@ -47,7 +47,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 <br>
 <br>
 **EJEMPLO DE SOLICITUD:**
-`https://localidades-argentinas-data.vercel.app/api/buenos_aires`
+`https://geoargentina-api-data.vercel.app/api/buenos_aires`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
@@ -68,7 +68,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data.vercel.app/api/buenos_aires/departamentos`
+**EJEMPLO DE SOLICITUD:** `https://geoargentina-api-data.vercel.app/api/buenos_aires/departamentos`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
@@ -89,7 +89,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data.vercel.app/api/buenos_aires/departamentos/Alberti/localidades`
+**EJEMPLO DE SOLICITUD:** `https://geoargentina-api-data.vercel.app/api/buenos_aires/departamentos/Alberti/localidades`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
@@ -110,7 +110,7 @@ Es posible acceder a **5 endpoints** diferentes, los cuales te permiten obtener 
 **Descripción:** Devuelve una Provincia específica.
 <br>
 <br>
-**EJEMPLO DE SOLICITUD:** `https://localidades-argentinas-data.vercel.app/api/buenos_aires/departamentos/Alberti/localidades/Villa_Ortíz`
+**EJEMPLO DE SOLICITUD:** `https://geoargentina-api-argentinas-data.vercel.app/api/buenos_aires/departamentos/Alberti/localidades/Villa_Ortíz`
 <br>
 <br>
 **EJEMPLO DE RESPUESTA:**
